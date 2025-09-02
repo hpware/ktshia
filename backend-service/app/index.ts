@@ -1,5 +1,6 @@
 import { getCachedData, saveCacheData } from "./ram_caching_layer";
 import * as tdx from "./tdx";
+import citiesData from "../data/cities";
 
 // load envs
 const authkey = process.env.AUTH_KEY;
@@ -59,8 +60,11 @@ Bun.serve({
         return new Response(`Bus stops ${url.pathname}`);
       }
       if (url.pathname.startsWith("/api/bus/routes/")) {
-        const routeId = url.pathname.split("/").pop();
-        return new Response(`Bus route ${routeId}`);
+        const route = url.pathname.split("/")[Symbol.iterator]();
+
+        return new Response(
+          `Bus route ${route.map((item) => item).join(", ")}`,
+        );
       }
       if (url.pathname === "/api/bus/alerts") {
         const alerts = await tdx.getAlerts();
