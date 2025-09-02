@@ -1,5 +1,5 @@
 import { getCachedData, saveCacheData } from "./ram_caching_layer";
-import { getToken } from "./tdx";
+import * as tdx from "./tdx";
 
 // load envs
 const authkey = process.env.AUTH_KEY;
@@ -25,7 +25,7 @@ console.log(`Service started at port :${process.env.SERVICE_PORT || 4402} \n`);
 const enableLogTraffic = process.env.LOG_TRAFFIC || true;
 Bun.serve({
   port: process.env.SERVICE_PORT || 4402,
-  fetch(req, server) {
+  async fetch(req, server) {
     const url = new URL(req.url);
     if (enableLogTraffic) {
       console.log(
@@ -37,9 +37,26 @@ Bun.serve({
       return new Response("This ktshia backend service works :)");
     }
 
+    if (req.headers.get("Authorization") !== `Bearer ${authkey}`) {
+      return new Response(JSON.stringify({
+        error: `The endpoint you are trying to access ${url.pathname} requires a bearer token.`,
+        status: 401,
+      }), { status: 401, headers: { "Content-Type": "application/json" } });
+    }
+
     if (url.pathname.startsWith("/api/bus/")) {
-        if (url.pathname.startsWith("/api/bus/stops/")) {
-            return new Response(`Bus stops ${url.pathname}` );
+        if (url.pathname === "/api/bus/stops") {
+          return new Response(`Bus stops ${url.pathname}` );
+        }
+        if (url.pathname.startsWith("/api/bus/routes/")) {
+          const routeId = url.pathname.split("/").pop();
+          return new Response(`Bus route ${routeId}`);
+        }
+        if (url.pathname === "/api/bus/alerts") {
+          const alerts = await tdx.getAlerts();
+          return new Response(JSON.stringify(alerts), {
+            headers: { "Content-Type": "application/json" },
+          });
         }
     }
     return new Response(
@@ -51,3 +68,4 @@ Bun.serve({
     );
   },
 });
+
