@@ -16,7 +16,7 @@ Bun.serve({
     const url = new URL(req.url);
     if (enableLogTraffic) {
       console.log(
-        `[${new Date().toISOString()}] IP: ${server.requestIP(req).address} ${req.method} ${url.pathname}`,
+        `[${new Date().toISOString()}] IP: ${server.requestIP(req)?.address || "IP_NOT_FOUND"} ${req.method} ${url.pathname}`,
       );
     }
 
