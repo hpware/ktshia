@@ -37,3 +37,9 @@ Bun.serve({
     );
   },
 });
+
+function checkApiBus(route: string, path: string) {
+	if (path === "/api/bus/" + route)  {
+
+	}
+}
