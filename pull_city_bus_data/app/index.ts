@@ -52,26 +52,6 @@ interface VersionResponse {
   UpdateCheckTime: string;
 }
 
-interface BusRoute {
-  RouteUID: string;
-  RouteID: string;
-  RouteName: {
-    Zh_tw: string;
-    En: string;
-  };
-  DepartureStopNameZh: string;
-  DestinationStopNameZh: string;
-  RouteMapImageUrl: string;
-  City: string;
-  CityCode: string;
-  UpdateTime: string;
-  VersionID: number;
-}
-
-interface BusRoutesResponse {
-  Routes: BusRoute[];
-}
-
 interface VersionData {
   version: Array<{
     city: string;
@@ -131,10 +111,7 @@ async function pullVersion(
     const res = (await req.json()) as VersionResponse;
 
     // Load existing version file
-    const versionFilePath = path.join(
-      __dirname,
-      "../../city_bus_data/version.json",
-    );
+    const versionFilePath = path.join(__dirname, "../../data/version.json");
     let versionData = { version: [] };
 
     try {
@@ -218,7 +195,7 @@ async function pullCityBusData(city: string, token: string): Promise<boolean> {
     const res = (await req.json()) as BusResponse;
 
     // Create city_bus_data directory if it doesn't exist
-    const cityBusDataDir = path.join(__dirname, "../../city_bus_data");
+    const cityBusDataDir = path.join(__dirname, "../../data/city_bus_data");
     ensureDirectoryExists(cityBusDataDir);
 
     // Save city bus data with proper case in filename
@@ -243,10 +220,7 @@ for (const city of cities) {
     console.log(`Processing ${city}...`);
 
     // Load existing version file to check current version
-    const versionFilePath = path.join(
-      __dirname,
-      "../../city_bus_data/version.json",
-    );
+    const versionFilePath = path.join(__dirname, "../../data/version.json");
     let currentVersion = null;
 
     if (fs.existsSync(versionFilePath)) {
@@ -291,21 +265,22 @@ for (const city of cities) {
       console.error(`Failed to update data for ${city}`);
     }
 
+    const busStopsSuccess = await pullBusStops(city, token);
+    if (!busStopsSuccess) {
+      console.error(`Failed to update bus stops for ${city}`);
+    }
+
     await sleep(1000); // 1 second delay before next city
   } catch (error) {
     console.error(`Error processing ${city}:`, error);
   }
 }
 
-async function getBusRoutes(
-  city: string,
-  bus: string,
-  token: string,
-): Promise<BusRoute[] | null> {
+async function pullBusStops(city: string, token: string): Promise<any | null> {
   try {
-    console.log(`Fetching routes for ${bus} in ${city}...`);
+    console.log(`Fetching routes in ${city}...`);
     const req = await fetch(
-      `https://tdx.transportdata.tw/api/basic/v2/Bus/Route/City/${city}/${bus}?%24format=JSON`,
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${city}?%24top=30&%24format=JSON`,
       {
         headers: {
           Authorization: `Bearer ${token}`,
@@ -314,14 +289,10 @@ async function getBusRoutes(
     );
 
     if (!req.ok) {
-      const errorMsg = `Error fetching routes for ${bus} in ${city}: ${req.status} ${req.statusText}`;
+      const errorMsg = `Error fetching bus stops for ${city}: ${req.status} ${req.statusText}`;
       console.error(errorMsg);
 
-      if (req.status === 404) {
-        console.log(`No routes found for ${bus} in ${city}`);
-        return null;
-      }
-
+      // Log response details for debugging
       const responseText = await req.text();
       console.error(`Response body: ${responseText}`);
 
@@ -330,22 +301,35 @@ async function getBusRoutes(
           "Token might be invalid or expired. Getting new token...",
         );
         const newToken = await getNewToken(tdxClientId, tdxClientSecret);
-        return getBusRoutes(city, bus, newToken);
+        return pullBusStops(city, newToken);
       }
 
       if (req.status === 429) {
         console.log("Rate limit hit. Waiting 1 minute before retrying...");
-        await sleep(60 * 1000);
-        return getBusRoutes(city, bus, token);
+        await sleep(60 * 1000); // Wait 1 minute
+        return pullBusStops(city, token); // Retry the request
       }
 
-      return null;
+      return false;
     }
 
-    const res = (await req.json()) as BusRoutesResponse;
-    return res.Routes;
+    const res = (await req.json()) as BusResponse;
+
+    const cityStopDataDir = path.join(__dirname, "../../data/bus_stop");
+    ensureDirectoryExists(cityStopDataDir);
+
+    // Save city bus data with proper case in filename
+    const dataFilePath = path.join(cityStopDataDir, `${city}.json`);
+    try {
+      fs.writeFileSync(dataFilePath, JSON.stringify(res, null, 4), "utf8");
+      console.log(`Successfully updated ${city}.json`);
+      return true;
+    } catch (error) {
+      console.error(`Error writing city bus data for ${city}:`, error);
+      return false;
+    }
   } catch (error) {
-    console.error(`Error in getBusRoutes for ${bus} in ${city}:`, error);
-    return null;
+    console.error(`Error in pullCityBusData for ${city}:`, error);
+    return false;
   }
 }

@@ -60,7 +60,37 @@ Bun.serve({
         return new Response(`Bus stops ${url.pathname}`);
       }
       if (url.pathname.startsWith("/api/bus/routes/")) {
+        const parts = url.pathname.split("/");
+        if (parts.length !== 6) {
+          return new Response(
+            JSON.stringify({
+              error: "Invalid route format. Use /api/bus/routes/{city}/{bus}",
+              status: 400,
+            }),
+            { status: 400, headers: { "Content-Type": "application/json" } },
+          );
+        }
+
+        const [, , , , city, bus] = parts;
+        if (!(city && bus)) {
+          return new Response(
+            JSON.stringify({
+              error: "Invalid route format. Use /api/bus/routes/{city}/{bus}",
+              status: 400,
+            }),
+            { status: 400, headers: { "Content-Type": "application/json" } },
+          );
+        }
+        const routes = await tdx.getBusRouteData(city, bus);
+
+        return new Response(
+          `city: ${city}, bus: ${bus}, route: ${JSON.stringify(routes)}`,
+          {
+            headers: { "Content-Type": "application/json" },
+          },
+        );
       }
+
       if (url.pathname === "/api/bus/alerts") {
         const alerts = await tdx.getAlerts();
         return new Response(JSON.stringify(alerts), {

@@ -36,7 +36,7 @@ export async function getToken(
   return newToken;
 }
 
-export async function getBusRouteData() {
+export async function getBusRouteData(city: string, bus: string) {
   const token = await getToken(tdxClientId, tdxClientSecret);
   const response = await fetch(
     "https://tdx.transportdata.tw/api/basic/v2/Bus/Route",
