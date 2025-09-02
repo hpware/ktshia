@@ -162,7 +162,7 @@ async function pullVersion(
 async function pullCityBusData(city: string, token: string): Promise<boolean> {
   try {
     const req = await fetch(
-      `https://tdx.transportdata.tw/api/basic/v2/Bus/RealTimeByFrequency/City/${city}?%24format=JSON`,
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/Route/City/${city}?%24format=JSON`,
       {
         headers: {
           Authorization: `Bearer ${token}`,
