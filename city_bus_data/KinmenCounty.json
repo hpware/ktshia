@@ -25,8 +25,8 @@
         "Azimuth": 346,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T08:47:42+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "328-XH",
@@ -54,8 +54,8 @@
         "Azimuth": 343,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T14:02:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "331-XH",
@@ -83,8 +83,8 @@
         "Azimuth": 330,
         "DutyStatus": 1,
         "GPSTime": "2025-08-30T21:42:18+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "350-XH",
@@ -113,8 +113,8 @@
         "DutyStatus": 0,
         "BusStatus": 0,
         "GPSTime": "2025-09-02T08:41:48+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "351-XH",
@@ -142,8 +142,8 @@
         "Azimuth": 348,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T17:00:38+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "352-XH",
@@ -171,8 +171,8 @@
         "Azimuth": 329,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T18:25:31+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "356-XH",
@@ -200,8 +200,8 @@
         "Azimuth": 20,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T08:40:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "357-XH",
@@ -229,8 +229,8 @@
         "Azimuth": 298,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T18:01:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "358-XH",
@@ -258,8 +258,8 @@
         "Azimuth": 295,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T19:28:25+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "359-XH",
@@ -287,8 +287,8 @@
         "Azimuth": 1,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T18:21:22+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "361-XH",
@@ -316,8 +316,8 @@
         "Azimuth": 30,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T21:01:48+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "362-XH",
@@ -345,8 +345,8 @@
         "Azimuth": 0,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T15:21:31+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "377-XH",
@@ -374,8 +374,8 @@
         "Azimuth": 297,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T20:35:32+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "378-XH",
@@ -403,8 +403,8 @@
         "Azimuth": 302,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T21:42:08+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "379-XH",
@@ -432,8 +432,8 @@
         "Azimuth": 27,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T11:59:33+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "380-XH",
@@ -461,8 +461,8 @@
         "Azimuth": 13,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T15:46:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "381-XH",
@@ -490,8 +490,8 @@
         "Azimuth": 17,
         "DutyStatus": 1,
         "GPSTime": "2025-08-30T19:58:30+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "382-XH",
@@ -519,8 +519,8 @@
         "Azimuth": 303,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T18:51:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "383-XH",
@@ -548,8 +548,8 @@
         "Azimuth": 317,
         "DutyStatus": 1,
         "GPSTime": "2025-09-01T18:32:08+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "385-XH",
@@ -577,8 +577,8 @@
         "Azimuth": 259,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T09:41:03+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "387-XH",
@@ -606,8 +606,8 @@
         "Azimuth": 337,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T17:12:38+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "388-XH",
@@ -635,8 +635,8 @@
         "Azimuth": 17,
         "DutyStatus": 1,
         "GPSTime": "2025-08-31T13:13:33+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "389-XH",
@@ -664,8 +664,8 @@
         "Azimuth": 323,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T17:10:01+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "392-XH",
@@ -693,8 +693,8 @@
         "Azimuth": 15,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T14:30:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "393-XH",
@@ -722,8 +722,8 @@
         "Azimuth": 340,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T19:41:34+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "397-XH",
@@ -751,8 +751,8 @@
         "Azimuth": 199,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T20:33:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "398-XH",
@@ -780,8 +780,8 @@
         "Azimuth": 88,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T18:18:21+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "500-XH",
@@ -809,8 +809,8 @@
         "Azimuth": 170,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T19:40:20+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAA-015",
@@ -838,8 +838,8 @@
         "Azimuth": 191,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T19:41:53+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAA-016",
@@ -867,8 +867,8 @@
         "Azimuth": 15,
         "DutyStatus": 1,
         "GPSTime": "2025-09-01T19:49:15+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAA-017",
@@ -896,8 +896,8 @@
         "Azimuth": 203,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T21:05:03+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAA-018",
@@ -925,8 +925,8 @@
         "Azimuth": 5,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T19:52:05+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAA-019",
@@ -954,8 +954,8 @@
         "Azimuth": 179,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T19:29:26+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAA-020",
@@ -984,8 +984,8 @@
         "DutyStatus": 0,
         "BusStatus": 0,
         "GPSTime": "2025-09-02T14:40:25+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAA-022",
@@ -1013,8 +1013,8 @@
         "Azimuth": 103,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T17:31:43+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAL-1820",
@@ -1042,8 +1042,8 @@
         "Azimuth": 169,
         "DutyStatus": 1,
         "GPSTime": "2025-08-31T21:46:25+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAL-1821",
@@ -1071,8 +1071,8 @@
         "Azimuth": 174,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T21:07:05+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAL-1822",
@@ -1100,8 +1100,8 @@
         "Azimuth": 193,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T19:32:26+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAL-1823",
@@ -1129,8 +1129,8 @@
         "Azimuth": 25,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T21:54:57+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAL-1825",
@@ -1158,8 +1158,8 @@
         "Azimuth": 186,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T16:59:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAL-1826",
@@ -1187,8 +1187,8 @@
         "Azimuth": 0,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T21:52:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAL-1828",
@@ -1216,8 +1216,8 @@
         "Azimuth": 318,
         "DutyStatus": 1,
         "GPSTime": "2025-09-01T11:56:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAL-1829",
@@ -1245,8 +1245,8 @@
         "Azimuth": 85,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T18:33:04+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAL-1830",
@@ -1274,8 +1274,8 @@
         "Azimuth": 230,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T19:18:48+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAL-1831",
@@ -1303,8 +1303,8 @@
         "Azimuth": 118,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T19:09:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "EAL-1832",
@@ -1332,8 +1332,8 @@
         "Azimuth": 269,
         "DutyStatus": 1,
         "GPSTime": "2025-09-01T19:27:28+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "KKB-0601",
@@ -1361,8 +1361,8 @@
         "Azimuth": 171,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T17:09:30+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "KKB-0602",
@@ -1390,8 +1390,8 @@
         "Azimuth": 14,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T21:19:24+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "KKB-0603",
@@ -1419,8 +1419,8 @@
         "Azimuth": 300,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T21:12:02+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "KKB-0606",
@@ -1448,8 +1448,8 @@
         "Azimuth": 299,
         "DutyStatus": 1,
         "GPSTime": "2025-08-31T12:36:35+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "KKB-0607",
@@ -1477,8 +1477,8 @@
         "Azimuth": 194,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T14:34:23+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "KKB-0609",
@@ -1506,8 +1506,8 @@
         "Azimuth": 120,
         "DutyStatus": 1,
         "GPSTime": "2025-08-29T06:54:51+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "KKZ-8291",
@@ -1535,8 +1535,8 @@
         "Azimuth": 0,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T14:55:27+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "KKZ-8292",
@@ -1564,8 +1564,8 @@
         "Azimuth": 0,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T16:23:06+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "KKZ-8293",
@@ -1593,8 +1593,8 @@
         "Azimuth": 0,
         "DutyStatus": 1,
         "GPSTime": "2025-09-01T16:25:50+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "KKZ-8295",
@@ -1622,8 +1622,8 @@
         "Azimuth": 0,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T19:31:40+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "KKZ-8296",
@@ -1651,8 +1651,8 @@
         "Azimuth": 0,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T16:26:28+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "TDA-0136",
@@ -1680,8 +1680,8 @@
         "Azimuth": 87,
         "DutyStatus": 1,
         "GPSTime": "2025-08-31T16:23:34+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "TDG-8137",
@@ -1709,8 +1709,8 @@
         "Azimuth": 0,
         "DutyStatus": 1,
         "GPSTime": "2025-09-01T16:31:36+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "TDG-8150",
@@ -1738,8 +1738,8 @@
         "Azimuth": 0,
         "DutyStatus": 1,
         "GPSTime": "2025-09-02T16:49:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     },
     {
         "PlateNumb": "VU-118",
@@ -1767,7 +1767,7 @@
         "Azimuth": 191,
         "DutyStatus": 1,
         "GPSTime": "2025-09-01T08:57:22+08:00",
-        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
-        "UpdateTime": "2025-09-02T22:17:32+08:00"
+        "SrcUpdateTime": "2025-09-02T23:07:42+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
     }
 ]

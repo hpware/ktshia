@@ -1,35 +1,35 @@
 [
     {
-        "PlateNumb": "EAL-0756",
+        "PlateNumb": "EAL-0760",
         "OperatorID": "45",
         "OperatorNo": "1101",
-        "RouteUID": "CYI0716",
-        "RouteID": "0716",
+        "RouteUID": "CYI0714",
+        "RouteID": "0714",
         "RouteName": {
-            "Zh_tw": "忠孝新民幹線(紅線)",
-            "En": "忠孝新民幹線(紅線)"
+            "Zh_tw": "中山幹線(綠線)",
+            "En": "中山幹線(綠線)"
         },
-        "SubRouteUID": "CYI071602",
-        "SubRouteID": "071602",
+        "SubRouteUID": "CYI0714A2",
+        "SubRouteID": "0714A2",
         "SubRouteName": {
-            "Zh_tw": "忠孝新民幹線(紅線)",
-            "En": "忠孝新民幹線(紅線)"
+            "Zh_tw": "中山幹線(綠A線)A",
+            "En": "中山幹線(綠A線)A"
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.441971666667,
-            "PositionLat": 23.4682266666667,
-            "GeoHash": "wsjts8r0m"
+            "PositionLon": 120.416613333333,
+            "PositionLat": 23.464985,
+            "GeoHash": "wsjtkpstq"
         },
-        "Speed": 41,
-        "Azimuth": 83,
-        "DutyStatus": 1,
+        "Speed": 1,
+        "Azimuth": 93,
+        "DutyStatus": 2,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:15:28+08:00",
-        "SrcRecTime": "2025-09-02T22:15:28+08:00",
-        "SrcTransTime": "2025-09-02T22:15:28+08:00",
-        "UpdateTime": "2025-09-02T22:15:32+08:00"
+        "GPSTime": "2025-09-02T22:58:22+08:00",
+        "SrcRecTime": "2025-09-02T22:58:22+08:00",
+        "SrcTransTime": "2025-09-02T22:58:22+08:00",
+        "UpdateTime": "2025-09-02T22:58:27+08:00"
     },
     {
         "PlateNumb": "EAL-0770",
@@ -49,19 +49,19 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.453791666667,
-            "PositionLat": 23.4746483333333,
-            "GeoHash": "wsjtscrv8"
+            "PositionLon": 120.420795,
+            "PositionLat": 23.4749833333333,
+            "GeoHash": "wsjts1rxx"
         },
-        "Speed": 0,
-        "Azimuth": 172,
-        "DutyStatus": 1,
+        "Speed": 40,
+        "Azimuth": 168,
+        "DutyStatus": 2,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:15:26+08:00",
-        "SrcRecTime": "2025-09-02T22:15:26+08:00",
-        "SrcTransTime": "2025-09-02T22:15:26+08:00",
-        "UpdateTime": "2025-09-02T22:15:27+08:00"
+        "GPSTime": "2025-09-02T22:43:26+08:00",
+        "SrcRecTime": "2025-09-02T22:43:26+08:00",
+        "SrcTransTime": "2025-09-02T22:43:26+08:00",
+        "UpdateTime": "2025-09-02T22:43:27+08:00"
     },
     {
         "PlateNumb": "EAL-0766",
@@ -81,19 +81,51 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.436063333333,
-            "PositionLat": 23.4773366666667,
-            "GeoHash": "wsjts9fv7"
+            "PositionLon": 120.41646,
+            "PositionLat": 23.4649433333333,
+            "GeoHash": "wsjtkpst4"
         },
-        "Speed": 45,
-        "Azimuth": 35,
-        "DutyStatus": 1,
+        "Speed": 0,
+        "Azimuth": 244,
+        "DutyStatus": 2,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:15:18+08:00",
-        "SrcRecTime": "2025-09-02T22:15:17+08:00",
-        "SrcTransTime": "2025-09-02T22:15:17+08:00",
-        "UpdateTime": "2025-09-02T22:15:22+08:00"
+        "GPSTime": "2025-09-02T22:39:38+08:00",
+        "SrcRecTime": "2025-09-02T22:39:37+08:00",
+        "SrcTransTime": "2025-09-02T22:39:37+08:00",
+        "UpdateTime": "2025-09-02T22:39:42+08:00"
+    },
+    {
+        "PlateNumb": "EAL-0756",
+        "OperatorID": "45",
+        "OperatorNo": "1101",
+        "RouteUID": "CYI0716",
+        "RouteID": "0716",
+        "RouteName": {
+            "Zh_tw": "忠孝新民幹線(紅線)",
+            "En": "忠孝新民幹線(紅線)"
+        },
+        "SubRouteUID": "CYI071602",
+        "SubRouteID": "071602",
+        "SubRouteName": {
+            "Zh_tw": "忠孝新民幹線(紅線)",
+            "En": "忠孝新民幹線(紅線)"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.46712,
+            "PositionLat": 23.4658916666667,
+            "GeoHash": "wsjtmrc6x"
+        },
+        "Speed": 0,
+        "Azimuth": 244,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:29:48+08:00",
+        "SrcRecTime": "2025-09-02T22:29:48+08:00",
+        "SrcTransTime": "2025-09-02T22:29:48+08:00",
+        "UpdateTime": "2025-09-02T22:29:52+08:00"
     },
     {
         "PlateNumb": "EAL-0758",
@@ -126,38 +158,6 @@
         "SrcRecTime": "2025-09-02T22:12:33+08:00",
         "SrcTransTime": "2025-09-02T22:12:33+08:00",
         "UpdateTime": "2025-09-02T22:12:37+08:00"
-    },
-    {
-        "PlateNumb": "EAL-0760",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "CYI0714",
-        "RouteID": "0714",
-        "RouteName": {
-            "Zh_tw": "中山幹線(綠線)",
-            "En": "中山幹線(綠線)"
-        },
-        "SubRouteUID": "CYI0714A1",
-        "SubRouteID": "0714A1",
-        "SubRouteName": {
-            "Zh_tw": "中山幹線(綠A線)A",
-            "En": "中山幹線(綠A線)A"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.483686666667,
-            "PositionLat": 23.4636666666667,
-            "GeoHash": "wsjtmxmtc"
-        },
-        "Speed": 0,
-        "Azimuth": 350,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:09:42+08:00",
-        "SrcRecTime": "2025-09-02T22:09:42+08:00",
-        "SrcTransTime": "2025-09-02T22:09:42+08:00",
-        "UpdateTime": "2025-09-02T22:09:47+08:00"
     },
     {
         "PlateNumb": "EAA-130",
@@ -382,133 +382,5 @@
         "SrcRecTime": "2025-09-02T20:59:55+08:00",
         "SrcTransTime": "2025-09-02T20:59:55+08:00",
         "UpdateTime": "2025-09-02T20:59:57+08:00"
-    },
-    {
-        "PlateNumb": "EAL-0762",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "CYI0715",
-        "RouteID": "0715",
-        "RouteName": {
-            "Zh_tw": "台灣好行光林我嘉線(黃線)",
-            "En": "台灣好行光林我嘉線(黃線)"
-        },
-        "SubRouteUID": "CYI071502",
-        "SubRouteID": "071502",
-        "SubRouteName": {
-            "Zh_tw": "台灣好行光林我嘉線(黃線)",
-            "En": "台灣好行光林我嘉線(黃線)"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.420776666667,
-            "PositionLat": 23.4756433333333,
-            "GeoHash": "wsjts1xex"
-        },
-        "Speed": 22,
-        "Azimuth": 212,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:43:31+08:00",
-        "SrcRecTime": "2025-09-02T20:43:31+08:00",
-        "SrcTransTime": "2025-09-02T20:43:32+08:00",
-        "UpdateTime": "2025-09-02T20:43:37+08:00"
-    },
-    {
-        "PlateNumb": "EAA-127",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "CYI0714",
-        "RouteID": "0714",
-        "RouteName": {
-            "Zh_tw": "中山幹線(綠線)",
-            "En": "中山幹線(綠線)"
-        },
-        "SubRouteUID": "CYI071402",
-        "SubRouteID": "071402",
-        "SubRouteName": {
-            "Zh_tw": "中山幹線(綠線)",
-            "En": "中山幹線(綠線)"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.41624,
-            "PositionLat": 23.4648683333333,
-            "GeoHash": "wsjtkpskv"
-        },
-        "Speed": 0,
-        "Azimuth": 88,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:32:53+08:00",
-        "SrcRecTime": "2025-09-02T20:32:53+08:00",
-        "SrcTransTime": "2025-09-02T20:32:53+08:00",
-        "UpdateTime": "2025-09-02T20:32:57+08:00"
-    },
-    {
-        "PlateNumb": "EAL-0757",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "CYI0716",
-        "RouteID": "0716",
-        "RouteName": {
-            "Zh_tw": "忠孝新民幹線(紅線)",
-            "En": "忠孝新民幹線(紅線)"
-        },
-        "SubRouteUID": "CYI071602",
-        "SubRouteID": "071602",
-        "SubRouteName": {
-            "Zh_tw": "忠孝新民幹線(紅線)",
-            "En": "忠孝新民幹線(紅線)"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.467615,
-            "PositionLat": 23.4661183333333,
-            "GeoHash": "wsjtmrcu4"
-        },
-        "Speed": 0,
-        "Azimuth": 329,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:30:36+08:00",
-        "SrcRecTime": "2025-09-02T20:30:36+08:00",
-        "SrcTransTime": "2025-09-02T20:30:36+08:00",
-        "UpdateTime": "2025-09-02T20:30:37+08:00"
-    },
-    {
-        "PlateNumb": "EAA-131",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "CYI0714",
-        "RouteID": "0714",
-        "RouteName": {
-            "Zh_tw": "中山幹線(綠線)",
-            "En": "中山幹線(綠線)"
-        },
-        "SubRouteUID": "CYI071402",
-        "SubRouteID": "071402",
-        "SubRouteName": {
-            "Zh_tw": "中山幹線(綠線)",
-            "En": "中山幹線(綠線)"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.415441666667,
-            "PositionLat": 23.4649016666667,
-            "GeoHash": "wsjtkpeug"
-        },
-        "Speed": 21,
-        "Azimuth": 89,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:23:08+08:00",
-        "SrcRecTime": "2025-09-02T20:23:08+08:00",
-        "SrcTransTime": "2025-09-02T20:23:08+08:00",
-        "UpdateTime": "2025-09-02T20:23:12+08:00"
     }
 ]

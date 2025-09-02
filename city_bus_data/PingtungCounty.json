@@ -17,19 +17,19 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.519086666667,
-            "PositionLat": 22.65563,
-            "GeoHash": "wsj8ykr6d"
+            "PositionLon": 120.484598333333,
+            "PositionLat": 22.6699716666667,
+            "GeoHash": "wsj8vwynn"
         },
-        "Speed": 64,
-        "Azimuth": 301,
-        "DutyStatus": 1,
+        "Speed": 0,
+        "Azimuth": 194,
+        "DutyStatus": 2,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:15:19+08:00",
-        "SrcRecTime": "2025-09-02T22:15:19+08:00",
-        "SrcTransTime": "2025-09-02T22:15:19+08:00",
-        "UpdateTime": "2025-09-02T22:15:22+08:00"
+        "GPSTime": "2025-09-02T22:33:19+08:00",
+        "SrcRecTime": "2025-09-02T22:33:19+08:00",
+        "SrcTransTime": "2025-09-02T22:33:19+08:00",
+        "UpdateTime": "2025-09-02T22:33:22+08:00"
     },
     {
         "PlateNumb": "EAA-856",

@@ -1,6 +1,6 @@
 [
     {
-        "PlateNumb": "EAL-2758",
+        "PlateNumb": "EAL-2760",
         "OperatorID": "60",
         "OperatorNo": "1403",
         "RouteUID": "CHA0717",
@@ -17,22 +17,22 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.575263333333,
-            "PositionLat": 23.8751916666667,
-            "GeoHash": "wsjxzf25p"
+            "PositionLon": 120.537826666667,
+            "PositionLat": 23.90285,
+            "GeoHash": "wsjxyzkun"
         },
-        "Speed": 28,
-        "Azimuth": 147,
+        "Speed": 49,
+        "Azimuth": 206,
         "DutyStatus": 1,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:13:18+08:00",
-        "SrcRecTime": "2025-09-02T22:13:18+08:00",
-        "SrcTransTime": "2025-09-02T22:13:18+08:00",
-        "UpdateTime": "2025-09-02T22:13:22+08:00"
+        "GPSTime": "2025-09-02T23:04:26+08:00",
+        "SrcRecTime": "2025-09-02T23:04:25+08:00",
+        "SrcTransTime": "2025-09-02T23:04:25+08:00",
+        "UpdateTime": "2025-09-02T23:04:27+08:00"
     },
     {
-        "PlateNumb": "EAL-2760",
+        "PlateNumb": "EAL-2758",
         "OperatorID": "60",
         "OperatorNo": "1403",
         "RouteUID": "CHA0717",
@@ -49,19 +49,19 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.56895,
-            "PositionLat": 23.9628316666667,
-            "GeoHash": "wsm8rd79s"
+            "PositionLon": 120.566838333333,
+            "PositionLat": 23.9563033333333,
+            "GeoHash": "wsm8r945d"
         },
-        "Speed": 0,
-        "Azimuth": 64,
-        "DutyStatus": 2,
+        "Speed": 44,
+        "Azimuth": 2,
+        "DutyStatus": 1,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:11:46+08:00",
-        "SrcRecTime": "2025-09-02T22:11:45+08:00",
-        "SrcTransTime": "2025-09-02T22:11:46+08:00",
-        "UpdateTime": "2025-09-02T22:11:47+08:00"
+        "GPSTime": "2025-09-02T23:04:18+08:00",
+        "SrcRecTime": "2025-09-02T23:04:18+08:00",
+        "SrcTransTime": "2025-09-02T23:04:18+08:00",
+        "UpdateTime": "2025-09-02T23:04:22+08:00"
     },
     {
         "PlateNumb": "EAL-2205",
@@ -126,37 +126,5 @@
         "SrcRecTime": "2025-09-02T21:31:52+08:00",
         "SrcTransTime": "2025-09-02T21:31:52+08:00",
         "UpdateTime": "2025-09-02T21:31:57+08:00"
-    },
-    {
-        "PlateNumb": "FAE-660",
-        "OperatorID": "61",
-        "OperatorNo": "1001",
-        "RouteUID": "CHA0502",
-        "RouteID": "0502",
-        "RouteName": {
-            "Zh_tw": "20路",
-            "En": "20路"
-        },
-        "SubRouteUID": "CHA050202",
-        "SubRouteID": "050202",
-        "SubRouteName": {
-            "Zh_tw": "20路",
-            "En": "20路"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.571096666667,
-            "PositionLat": 23.9614833333333,
-            "GeoHash": "wsm8rdj1y"
-        },
-        "Speed": 0,
-        "Azimuth": 78,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:44:59+08:00",
-        "SrcRecTime": "2025-09-02T20:44:59+08:00",
-        "SrcTransTime": "2025-09-02T20:44:59+08:00",
-        "UpdateTime": "2025-09-02T20:45:02+08:00"
     }
 ]

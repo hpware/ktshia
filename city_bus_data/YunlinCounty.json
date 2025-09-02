@@ -1,5 +1,101 @@
 [
     {
+        "PlateNumb": "FAB-662",
+        "OperatorID": "34",
+        "OperatorNo": "1201",
+        "RouteUID": "YUN0201",
+        "RouteID": "0201",
+        "RouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "SubRouteUID": "YUN020101",
+        "SubRouteID": "020101",
+        "SubRouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.437241666667,
+            "PositionLat": 23.735555,
+            "GeoHash": "wsjxh8gtx"
+        },
+        "Speed": 44,
+        "Azimuth": 89,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:05:27+08:00",
+        "SrcRecTime": "2025-09-02T23:05:28+08:00",
+        "SrcTransTime": "2025-09-02T23:05:28+08:00",
+        "UpdateTime": "2025-09-02T23:05:32+08:00"
+    },
+    {
+        "PlateNumb": "FAB-665",
+        "OperatorID": "34",
+        "OperatorNo": "1201",
+        "RouteUID": "YUN0201",
+        "RouteID": "0201",
+        "RouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "SubRouteUID": "YUN020101",
+        "SubRouteID": "020101",
+        "SubRouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.529886666667,
+            "PositionLat": 23.70212,
+            "GeoHash": "wsjwydz4v"
+        },
+        "Speed": 51,
+        "Azimuth": 233,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:05:17+08:00",
+        "SrcRecTime": "2025-09-02T23:05:18+08:00",
+        "SrcTransTime": "2025-09-02T23:05:18+08:00",
+        "UpdateTime": "2025-09-02T23:05:22+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2533",
+        "OperatorID": "34",
+        "OperatorNo": "1201",
+        "RouteUID": "YUN0201",
+        "RouteID": "0201",
+        "RouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "SubRouteUID": "YUN020102",
+        "SubRouteID": "020102",
+        "SubRouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.438026666667,
+            "PositionLat": 23.7356516666667,
+            "GeoHash": "wsjxh8uq1"
+        },
+        "Speed": 55,
+        "Azimuth": 269,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:05:21+08:00",
+        "SrcRecTime": "2025-09-02T23:05:21+08:00",
+        "SrcTransTime": "2025-09-02T23:05:21+08:00",
+        "UpdateTime": "2025-09-02T23:05:22+08:00"
+    },
+    {
         "PlateNumb": "KKA-3188",
         "OperatorID": "34",
         "OperatorNo": "1201",
@@ -17,114 +113,18 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.50049,
-            "PositionLat": 23.7319716666667,
-            "GeoHash": "wsjxn03bb"
+            "PositionLon": 120.533715,
+            "PositionLat": 23.69605,
+            "GeoHash": "wsjwyc9zr"
         },
-        "Speed": 44,
-        "Azimuth": 67,
+        "Speed": 0,
+        "Azimuth": 81,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:14:24+08:00",
-        "SrcRecTime": "2025-09-02T22:14:25+08:00",
-        "SrcTransTime": "2025-09-02T22:14:25+08:00",
-        "UpdateTime": "2025-09-02T22:14:27+08:00"
-    },
-    {
-        "PlateNumb": "FAB-665",
-        "OperatorID": "34",
-        "OperatorNo": "1201",
-        "RouteUID": "YUN0201",
-        "RouteID": "0201",
-        "RouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "SubRouteUID": "YUN020102",
-        "SubRouteID": "020102",
-        "SubRouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.41964,
-            "PositionLat": 23.7378216666667,
-            "GeoHash": "wsjxh1qfu"
-        },
-        "Speed": 18,
-        "Azimuth": 304,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:14:16+08:00",
-        "SrcRecTime": "2025-09-02T22:14:17+08:00",
-        "SrcTransTime": "2025-09-02T22:14:17+08:00",
-        "UpdateTime": "2025-09-02T22:14:22+08:00"
-    },
-    {
-        "PlateNumb": "FAB-662",
-        "OperatorID": "34",
-        "OperatorNo": "1201",
-        "RouteUID": "YUN0201",
-        "RouteID": "0201",
-        "RouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "SubRouteUID": "YUN020102",
-        "SubRouteID": "020102",
-        "SubRouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.539195,
-            "PositionLat": 23.7128666666667,
-            "GeoHash": "wsjwyuvcq"
-        },
-        "Speed": 27,
-        "Azimuth": 234,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:14:13+08:00",
-        "SrcRecTime": "2025-09-02T22:14:13+08:00",
-        "SrcTransTime": "2025-09-02T22:14:13+08:00",
-        "UpdateTime": "2025-09-02T22:14:17+08:00"
-    },
-    {
-        "PlateNumb": "KKB-2533",
-        "OperatorID": "34",
-        "OperatorNo": "1201",
-        "RouteUID": "YUN0201",
-        "RouteID": "0201",
-        "RouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "SubRouteUID": "YUN020101",
-        "SubRouteID": "020101",
-        "SubRouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.53259,
-            "PositionLat": 23.6959,
-            "GeoHash": "wsjwyc9ns"
-        },
-        "Speed": 37,
-        "Azimuth": 77,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:09:07+08:00",
-        "SrcRecTime": "2025-09-02T22:09:07+08:00",
-        "SrcTransTime": "2025-09-02T22:09:07+08:00",
-        "UpdateTime": "2025-09-02T22:09:12+08:00"
+        "GPSTime": "2025-09-02T22:44:24+08:00",
+        "SrcRecTime": "2025-09-02T22:44:25+08:00",
+        "SrcTransTime": "2025-09-02T22:44:25+08:00",
+        "UpdateTime": "2025-09-02T22:44:27+08:00"
     }
 ]
