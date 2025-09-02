@@ -1,0 +1,4020 @@
+[
+    {
+        "RouteUID": "HSQ0006",
+        "RouteID": "0006",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "18",
+                "OperatorName": {
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
+                },
+                "OperatorCode": "KJ-StarBus",
+                "OperatorNo": "0909"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ000601",
+                "SubRouteID": "000601",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷7號",
+                    "En": "快捷7號"
+                },
+                "Headsign": "竹北市公所→高鐵新竹站",
+                "HeadsignEn": "Hsinchu County Zhubei City Office─THSR Hsinchu Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "竹北市公所站",
+                "DepartureStopNameEn": "Hsinchu County Zhubei City Office",
+                "DestinationStopNameZh": "新竹高鐵站",
+                "DestinationStopNameEn": "THSR Hsinchu Station"
+            },
+            {
+                "SubRouteUID": "HSQ000602",
+                "SubRouteID": "000602",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷7號",
+                    "En": "快捷7號"
+                },
+                "Headsign": "高鐵新竹站→竹北市公所",
+                "HeadsignEn": "THSR Hsinchu Station─Hsinchu County Zhubei City Office",
+                "Direction": 1,
+                "DepartureStopNameZh": "新竹高鐵站",
+                "DepartureStopNameEn": "THSR Hsinchu Station",
+                "DestinationStopNameZh": "竹北市公所站",
+                "DestinationStopNameEn": "Hsinchu County Zhubei City Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "快捷7號",
+            "En": "快捷7號"
+        },
+        "DepartureStopNameZh": "竹北市公所站",
+        "DepartureStopNameEn": "Hsinchu County Zhubei City Office",
+        "DestinationStopNameZh": "新竹高鐵站",
+        "DestinationStopNameEn": "THSR Hsinchu Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0006.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0022",
+        "RouteID": "0022",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "73",
+                "OperatorName": {
+                    "Zh_tw": "尖石鄉公所",
+                    "En": "Jianshih Township Office"
+                },
+                "OperatorCode": "JianshihTownshipOffice",
+                "OperatorNo": "0603"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ002201",
+                "SubRouteID": "002201",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "106",
+                    "En": "106"
+                },
+                "Headsign": "小金剛商店站→內灣大橋",
+                "HeadsignEn": "Little King Kong Shop→Neiwan Bridge",
+                "Direction": 0,
+                "DepartureStopNameZh": "小金剛商店站",
+                "DepartureStopNameEn": "Little King Kong Shop",
+                "DestinationStopNameZh": "內灣大橋",
+                "DestinationStopNameEn": "Neiwan Bridge"
+            },
+            {
+                "SubRouteUID": "HSQ002202",
+                "SubRouteID": "002202",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "106",
+                    "En": "106"
+                },
+                "Headsign": "內灣大橋→小金剛商店站",
+                "HeadsignEn": "Neiwan Bridge→Little King Kong Shop",
+                "Direction": 1,
+                "DepartureStopNameZh": "內灣大橋",
+                "DepartureStopNameEn": "Neiwan Bridge",
+                "DestinationStopNameZh": "小金剛商店站",
+                "DestinationStopNameEn": "Little King Kong Shop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "106",
+            "En": "106"
+        },
+        "DepartureStopNameZh": "小金剛商店站",
+        "DepartureStopNameEn": "Little King Kong Shop",
+        "DestinationStopNameZh": "內灣大橋",
+        "DestinationStopNameEn": "Neiwan Bridge",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0022.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0023",
+        "RouteID": "0023",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "73",
+                "OperatorName": {
+                    "Zh_tw": "尖石鄉公所",
+                    "En": "Jianshih Township Office"
+                },
+                "OperatorCode": "JianshihTownshipOffice",
+                "OperatorNo": "0603"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ002301",
+                "SubRouteID": "002301",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "107",
+                    "En": "107"
+                },
+                "Headsign": "下鎮西堡部落站→內灣大橋",
+                "HeadsignEn": "Below Cinsbu Tribe－Nei Wan Bridge",
+                "Direction": 0,
+                "DepartureStopNameZh": "下鎮西堡部落站",
+                "DepartureStopNameEn": "Below Cinsbu Tribe",
+                "DestinationStopNameZh": "內灣大橋",
+                "DestinationStopNameEn": "Neiwan Bridge"
+            },
+            {
+                "SubRouteUID": "HSQ002302",
+                "SubRouteID": "002302",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "107",
+                    "En": "107"
+                },
+                "Headsign": "內灣大橋→下鎮西堡部落站",
+                "HeadsignEn": "Neiwan Bridge→Below Cinsbu Tribe",
+                "Direction": 1,
+                "DepartureStopNameZh": "內灣大橋",
+                "DepartureStopNameEn": "Neiwan Bridge",
+                "DestinationStopNameZh": "下鎮西堡部落站",
+                "DestinationStopNameEn": "Below Cinsbu Tribe"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "107",
+            "En": "107"
+        },
+        "DepartureStopNameZh": "下鎮西堡部落站",
+        "DepartureStopNameEn": "Below Cinsbu Tribe",
+        "DestinationStopNameZh": "內灣大橋",
+        "DestinationStopNameEn": "Neiwan Bridge",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0023.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0024",
+        "RouteID": "0024",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "73",
+                "OperatorName": {
+                    "Zh_tw": "尖石鄉公所",
+                    "En": "Jianshih Township Office"
+                },
+                "OperatorCode": "JianshihTownshipOffice",
+                "OperatorNo": "0603"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ002401",
+                "SubRouteID": "002401",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "108",
+                    "En": "108"
+                },
+                "Headsign": "上養老部落→內灣大橋",
+                "HeadsignEn": "Above Yuluw→Nei Wan Bridge",
+                "Direction": 0,
+                "DepartureStopNameZh": "上養老部落",
+                "DepartureStopNameEn": "Above Yuluw",
+                "DestinationStopNameZh": "內灣大橋",
+                "DestinationStopNameEn": "Neiwan Bridge"
+            },
+            {
+                "SubRouteUID": "HSQ002402",
+                "SubRouteID": "002402",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "108",
+                    "En": "108"
+                },
+                "Headsign": "內灣大橋→上養老部落",
+                "HeadsignEn": "Nei Wan Bridge→Above Yuluw",
+                "Direction": 1,
+                "DepartureStopNameZh": "內灣大橋",
+                "DepartureStopNameEn": "Neiwan Bridge",
+                "DestinationStopNameZh": "上養老部落",
+                "DestinationStopNameEn": "Above Yuluw"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "108",
+            "En": "108"
+        },
+        "DepartureStopNameZh": "上養老部落",
+        "DepartureStopNameEn": "Above Yuluw",
+        "DestinationStopNameZh": "內灣大橋",
+        "DestinationStopNameEn": "Neiwan Bridge",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0024.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0061",
+        "RouteID": "0061",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "67",
+                "OperatorName": {
+                    "Zh_tw": "金牌客運",
+                    "En": "Champion Bus Co., Ltd."
+                },
+                "OperatorCode": "ChampionBus",
+                "OperatorNo": "0808"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ006101",
+                "SubRouteID": "006101",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷1號",
+                    "En": "快捷1號"
+                },
+                "Headsign": "新竹縣政府→科學園區",
+                "HeadsignEn": "Hsinchu County Govemment→ Hsinchu Science Park",
+                "Direction": 0,
+                "DepartureStopNameZh": "縣政府",
+                "DepartureStopNameEn": "HsinChu County Government",
+                "DestinationStopNameZh": "金山街",
+                "DestinationStopNameEn": "Jinshan Street"
+            },
+            {
+                "SubRouteUID": "HSQ006102",
+                "SubRouteID": "006102",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷1號",
+                    "En": "快捷1號"
+                },
+                "Headsign": "科學園區→新竹縣政府",
+                "HeadsignEn": "Hsinchu Science Park→Hsinchu County Govemment",
+                "Direction": 1,
+                "DepartureStopNameZh": "金山街",
+                "DepartureStopNameEn": "Jinshan Street",
+                "DestinationStopNameZh": "縣政府",
+                "DestinationStopNameEn": "HsinChu County Government"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "快捷1號",
+            "En": "快捷1號"
+        },
+        "DepartureStopNameZh": "縣政府",
+        "DepartureStopNameEn": "HsinChu County Government",
+        "DestinationStopNameZh": "金山街",
+        "DestinationStopNameEn": "Jinshan Street",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0061.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0065",
+        "RouteID": "0065",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "18",
+                "OperatorName": {
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
+                },
+                "OperatorCode": "KJ-StarBus",
+                "OperatorNo": "0909"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ006501",
+                "SubRouteID": "006501",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷5號",
+                    "En": "快捷5號"
+                },
+                "Headsign": "湖口工業區—高鐵新竹站",
+                "HeadsignEn": "Hsinchu Industrial Park→THSR",
+                "Direction": 0,
+                "DepartureStopNameZh": "榮民講習所",
+                "DepartureStopNameEn": "Veterans Training Institute",
+                "DestinationStopNameZh": "高鐵新竹站",
+                "DestinationStopNameEn": "HSR Hsinchu Station"
+            },
+            {
+                "SubRouteUID": "HSQ006502",
+                "SubRouteID": "006502",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷5號",
+                    "En": "快捷5號"
+                },
+                "Headsign": "高鐵新竹站—湖口工業區",
+                "HeadsignEn": "THSR→Hsinchu Industrial Park",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵新竹站",
+                "DepartureStopNameEn": "HSR Hsinchu Station",
+                "DestinationStopNameZh": "榮民講習所",
+                "DestinationStopNameEn": "Veterans Training Institute"
+            },
+            {
+                "SubRouteUID": "HSQ0065A1",
+                "SubRouteID": "0065A1",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷5號A",
+                    "En": "快捷5號A"
+                },
+                "Headsign": "湖口工業區—高鐵新竹站(經明新科大)",
+                "HeadsignEn": "Hsinchu Industrial Park→THSR(via Minghsin University of Science Technology)",
+                "Direction": 0,
+                "DepartureStopNameZh": "榮民講習所",
+                "DepartureStopNameEn": "Veterans Training Institute",
+                "DestinationStopNameZh": "高鐵新竹站",
+                "DestinationStopNameEn": "HSR Hsinchu Station"
+            },
+            {
+                "SubRouteUID": "HSQ0065A2",
+                "SubRouteID": "0065A2",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷5號A",
+                    "En": "快捷5號A"
+                },
+                "Headsign": "高鐵新竹站—湖口工業區(經明新科大)",
+                "HeadsignEn": "THSR→Hsinchu Industrial Park(via Minghsin University of Science Technology)",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵新竹站",
+                "DepartureStopNameEn": "HSR Hsinchu Station",
+                "DestinationStopNameZh": "榮民講習所",
+                "DestinationStopNameEn": "Veterans Training Institute"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "快捷5號",
+            "En": "快捷5號"
+        },
+        "DepartureStopNameZh": "榮民講習所",
+        "DepartureStopNameEn": "Veterans Training Institute",
+        "DestinationStopNameZh": "高鐵新竹站",
+        "DestinationStopNameEn": "HSR Hsinchu Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0065.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0066",
+        "RouteID": "0066",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "18",
+                "OperatorName": {
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
+                },
+                "OperatorCode": "KJ-StarBus",
+                "OperatorNo": "0909"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ006601",
+                "SubRouteID": "006601",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷6號",
+                    "En": "快捷6號"
+                },
+                "Headsign": "竹東火車站—內灣大橋",
+                "HeadsignEn": "Zhudong Train Station─Neiwan bridge",
+                "Direction": 0,
+                "DepartureStopNameZh": "竹東火車站",
+                "DepartureStopNameEn": "TRA Zhudong Station",
+                "DestinationStopNameZh": "內灣大橋",
+                "DestinationStopNameEn": "Neiwan Bridge"
+            },
+            {
+                "SubRouteUID": "HSQ006602",
+                "SubRouteID": "006602",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷6號",
+                    "En": "快捷6號"
+                },
+                "Headsign": "內灣大橋—竹東火車站",
+                "HeadsignEn": "Neiwan bridge →Zhudong Train Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "內灣大橋",
+                "DepartureStopNameEn": "Neiwan Bridge",
+                "DestinationStopNameZh": "竹東火車站",
+                "DestinationStopNameEn": "TRA Zhudong Station"
+            },
+            {
+                "SubRouteUID": "HSQ0066A1",
+                "SubRouteID": "0066A1",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷6支A",
+                    "En": "快捷6支A"
+                },
+                "Headsign": "竹東火車站—尖石鄉公所",
+                "HeadsignEn": "Zhudong Train Station→Hsinchu County Jianshih Township Office",
+                "Direction": 0,
+                "DepartureStopNameZh": "竹東火車站",
+                "DepartureStopNameEn": "TRA Zhudong Station",
+                "DestinationStopNameZh": "尖石鄉公所站",
+                "DestinationStopNameEn": "Hsinchu County Jianshih Township Office Station"
+            },
+            {
+                "SubRouteUID": "HSQ0066A2",
+                "SubRouteID": "0066A2",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷6支A",
+                    "En": "快捷6支A"
+                },
+                "Headsign": "尖石鄉公所—竹東火車站",
+                "HeadsignEn": "Hsinchu County Jianshih Township Office→Zhudong Train Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "尖石鄉公所站",
+                "DepartureStopNameEn": "Hsinchu County Jianshih Township Office Station",
+                "DestinationStopNameZh": "竹東火車站",
+                "DestinationStopNameEn": "TRA Zhudong Station"
+            },
+            {
+                "SubRouteUID": "HSQ0066B1",
+                "SubRouteID": "0066B1",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷6號B",
+                    "En": "快捷6號B"
+                },
+                "Headsign": "竹東火車站—內灣大橋(繞華龍村)",
+                "HeadsignEn": "Zhudong Train Station→Neiwan bridge(Via Hualong Village)",
+                "Direction": 0,
+                "DepartureStopNameZh": "竹東火車站",
+                "DepartureStopNameEn": "TRA Zhudong Station",
+                "DestinationStopNameZh": "內灣大橋",
+                "DestinationStopNameEn": "Neiwan Bridge"
+            },
+            {
+                "SubRouteUID": "HSQ0066B2",
+                "SubRouteID": "0066B2",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷6號B",
+                    "En": "快捷6號B"
+                },
+                "Headsign": "內灣大橋—竹東火車站(繞華龍村)",
+                "HeadsignEn": "Neiwan bridge →Zhudong Train Station(Via Hualong Village)",
+                "Direction": 1,
+                "DepartureStopNameZh": "內灣大橋",
+                "DepartureStopNameEn": "Neiwan Bridge",
+                "DestinationStopNameZh": "竹東火車站",
+                "DestinationStopNameEn": "TRA Zhudong Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "快捷6號",
+            "En": "快捷6號"
+        },
+        "DepartureStopNameZh": "竹東火車站",
+        "DepartureStopNameEn": "TRA Zhudong Station",
+        "DestinationStopNameZh": "內灣大橋",
+        "DestinationStopNameEn": "Neiwan Bridge",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0066.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0067",
+        "RouteID": "0067",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "73",
+                "OperatorName": {
+                    "Zh_tw": "尖石鄉公所",
+                    "En": "Jianshih Township Office"
+                },
+                "OperatorCode": "JianshihTownshipOffice",
+                "OperatorNo": "0603"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ006701",
+                "SubRouteID": "006701",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0067",
+                    "En": "0067"
+                },
+                "Headsign": "婉琳的店—原石商店",
+                "HeadsignEn": "Wanlin&amp;amp;#39;s Shop—Yuanshi Shop",
+                "Direction": 0,
+                "DepartureStopNameZh": "婉琳的店",
+                "DestinationStopNameZh": "原石商店"
+            },
+            {
+                "SubRouteUID": "HSQ006702",
+                "SubRouteID": "006702",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0067",
+                    "En": "0067"
+                },
+                "Headsign": "原石商店—婉琳的店",
+                "HeadsignEn": "Yuanshi Shop—Wanlin&amp;amp;#39;s Shop",
+                "Direction": 1,
+                "DepartureStopNameZh": "原石商店",
+                "DestinationStopNameZh": "婉琳的店"
+            },
+            {
+                "SubRouteUID": "HSQ0067A1",
+                "SubRouteID": "0067A1",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0067A",
+                    "En": "0067A"
+                },
+                "Headsign": "婉琳的店—新竹客運比麟招呼站",
+                "Direction": 0,
+                "DepartureStopNameZh": "婉琳的店",
+                "DestinationStopNameZh": "新竹客運比麟招呼站"
+            },
+            {
+                "SubRouteUID": "HSQ0067A2",
+                "SubRouteID": "0067A2",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0067A",
+                    "En": "0067A"
+                },
+                "Headsign": "新竹客運比麟招呼站—婉琳的店",
+                "Direction": 1,
+                "DepartureStopNameZh": "新竹客運比麟招呼站",
+                "DestinationStopNameZh": "婉琳的店"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0067",
+            "En": "0067"
+        },
+        "DepartureStopNameZh": "婉琳的店",
+        "DestinationStopNameZh": "原石商店",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0067.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0068",
+        "RouteID": "0068",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "73",
+                "OperatorName": {
+                    "Zh_tw": "尖石鄉公所",
+                    "En": "Jianshih Township Office"
+                },
+                "OperatorCode": "JianshihTownshipOffice",
+                "OperatorNo": "0603"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ006801",
+                "SubRouteID": "006801",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0068",
+                    "En": "0068"
+                },
+                "Headsign": "北得拉曼營地—田中招呼站",
+                "HeadsignEn": "Beidelaman Campground—Tianzhong Bus Stop",
+                "Direction": 0,
+                "DepartureStopNameZh": "北得拉曼營地",
+                "DestinationStopNameZh": "尖石鄉公所站",
+                "DestinationStopNameEn": "Hsinchu County Jianshih Township Office Station"
+            },
+            {
+                "SubRouteUID": "HSQ006802",
+                "SubRouteID": "006802",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0068",
+                    "En": "0068"
+                },
+                "Headsign": "田中招呼站—北得拉曼營地",
+                "HeadsignEn": "Tianzhong Bus Stop—Beidelaman Campground",
+                "Direction": 1,
+                "DepartureStopNameZh": "尖石鄉公所站",
+                "DepartureStopNameEn": "Hsinchu County Jianshih Township Office Station",
+                "DestinationStopNameZh": "北得拉曼營地"
+            },
+            {
+                "SubRouteUID": "HSQ0068A1",
+                "SubRouteID": "0068A1",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0068A",
+                    "En": "0068A"
+                },
+                "Headsign": "鴛鴦谷養殖場—田中招呼站",
+                "Direction": 0,
+                "DepartureStopNameZh": "鴛鴦谷養殖場",
+                "DestinationStopNameZh": "新竹客運田中招呼站",
+                "DestinationStopNameEn": "Tianzhong Bus Stop"
+            },
+            {
+                "SubRouteUID": "HSQ0068A2",
+                "SubRouteID": "0068A2",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0068A",
+                    "En": "0068A"
+                },
+                "Headsign": "田中招呼站—鴛鴦谷養殖場",
+                "Direction": 1,
+                "DepartureStopNameZh": "新竹客運田中招呼站",
+                "DepartureStopNameEn": "Tianzhong Bus Stop",
+                "DestinationStopNameZh": "鴛鴦谷養殖場"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0068",
+            "En": "0068"
+        },
+        "DepartureStopNameZh": "北得拉曼營地",
+        "DestinationStopNameZh": "尖石鄉公所站",
+        "DestinationStopNameEn": "Hsinchu County Jianshih Township Office Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0068.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0069",
+        "RouteID": "0069",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "73",
+                "OperatorName": {
+                    "Zh_tw": "尖石鄉公所",
+                    "En": "Jianshih Township Office"
+                },
+                "OperatorCode": "JianshihTownshipOffice",
+                "OperatorNo": "0603"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ006901",
+                "SubRouteID": "006901",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0069",
+                    "En": "0069"
+                },
+                "Headsign": "義興八、九鄰部落—檢查站招呼站",
+                "HeadsignEn": "Yixing  8 9 Neighborhood Tribe—Security Checkpoint Bus Stop",
+                "Direction": 0,
+                "DepartureStopNameZh": "義興八、九鄰部落",
+                "DestinationStopNameZh": "尖石鄉公所站",
+                "DestinationStopNameEn": "Hsinchu County Jianshih Township Office Station"
+            },
+            {
+                "SubRouteUID": "HSQ006902",
+                "SubRouteID": "006902",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0069",
+                    "En": "0069"
+                },
+                "Headsign": "檢查站招呼站—義興八、九鄰部落",
+                "HeadsignEn": "Security Checkpoint Bus Stop—Yixing  8 9 Neighborhood Tribe",
+                "Direction": 1,
+                "DepartureStopNameZh": "尖石鄉公所站",
+                "DepartureStopNameEn": "Hsinchu County Jianshih Township Office Station",
+                "DestinationStopNameZh": "義興八、九鄰部落"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0069",
+            "En": "0069"
+        },
+        "DepartureStopNameZh": "義興八、九鄰部落",
+        "DestinationStopNameZh": "尖石鄉公所站",
+        "DestinationStopNameEn": "Hsinchu County Jianshih Township Office Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0069.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0075",
+        "RouteID": "0075",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "13",
+                "OperatorName": {
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
+                },
+                "OperatorCode": "HsinchuBus",
+                "OperatorNo": "1303"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ007501",
+                "SubRouteID": "007501",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "醫專1號",
+                    "En": "醫專1號"
+                },
+                "Headsign": "醫療專車珊珠湖→竹東",
+                "HeadsignEn": "Shanzhu lake→Zhudong",
+                "Direction": 0,
+                "DepartureStopNameZh": "珊珠湖",
+                "DepartureStopNameEn": "Shanzhuhu",
+                "DestinationStopNameZh": "竹東",
+                "DestinationStopNameEn": "Zhudong"
+            },
+            {
+                "SubRouteUID": "HSQ007502",
+                "SubRouteID": "007502",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "醫專1號",
+                    "En": "醫專1號"
+                },
+                "Headsign": "醫療專車竹東→珊珠湖",
+                "HeadsignEn": "Zhudong→Shanzhu lake",
+                "Direction": 1,
+                "DepartureStopNameZh": "竹東",
+                "DepartureStopNameEn": "Zhudong",
+                "DestinationStopNameZh": "珊珠湖",
+                "DestinationStopNameEn": "Shanzhuhu"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "醫專1號",
+            "En": "醫專1號"
+        },
+        "DepartureStopNameZh": "珊珠湖",
+        "DepartureStopNameEn": "Shanzhuhu",
+        "DestinationStopNameZh": "竹東",
+        "DestinationStopNameEn": "Zhudong",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0075.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0076",
+        "RouteID": "0076",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "13",
+                "OperatorName": {
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
+                },
+                "OperatorCode": "HsinchuBus",
+                "OperatorNo": "1303"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ007601",
+                "SubRouteID": "007601",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "醫專2號",
+                    "En": "醫專2號"
+                },
+                "Headsign": "醫療專車獅山→竹東",
+                "HeadsignEn": "Shishan→Zhudong",
+                "Direction": 0,
+                "DepartureStopNameZh": "獅山",
+                "DepartureStopNameEn": "Shishan",
+                "DestinationStopNameZh": "竹東",
+                "DestinationStopNameEn": "Zhudong"
+            },
+            {
+                "SubRouteUID": "HSQ007602",
+                "SubRouteID": "007602",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "醫專2號",
+                    "En": "醫專2號"
+                },
+                "Headsign": "醫療專車竹東→獅山",
+                "HeadsignEn": "Zhudong→Shishan",
+                "Direction": 1,
+                "DepartureStopNameZh": "竹東",
+                "DepartureStopNameEn": "Zhudong",
+                "DestinationStopNameZh": "獅山",
+                "DestinationStopNameEn": "Shishan"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "醫專2號",
+            "En": "醫專2號"
+        },
+        "DepartureStopNameZh": "獅山",
+        "DepartureStopNameEn": "Shishan",
+        "DestinationStopNameZh": "竹東",
+        "DestinationStopNameEn": "Zhudong",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0076.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0079",
+        "RouteID": "0079",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "13",
+                "OperatorName": {
+                    "Zh_tw": "新竹客運",
+                    "En": "Hsinchu Bus Co., Ltd."
+                },
+                "OperatorCode": "HsinchuBus",
+                "OperatorNo": "1303"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ007901",
+                "SubRouteID": "007901",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "醫專6號",
+                    "En": "醫專6號"
+                },
+                "Headsign": "醫療專車清泉、五峰至竹東",
+                "HeadsignEn": "Qingquan、Wufeng→Zhudong",
+                "Direction": 0,
+                "DepartureStopNameZh": "清泉口",
+                "DepartureStopNameEn": "Qingquankou",
+                "DestinationStopNameZh": "臺大醫院竹東分院",
+                "DestinationStopNameEn": "National Taiwan University Hospital East Branch of"
+            },
+            {
+                "SubRouteUID": "HSQ007902",
+                "SubRouteID": "007902",
+                "OperatorIDs": [
+                    "13"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "醫專6號",
+                    "En": "醫專6號"
+                },
+                "Headsign": "醫療專車竹東至五峰、清泉",
+                "HeadsignEn": "Zhudong→Wufeng、Qingquan",
+                "Direction": 1,
+                "DepartureStopNameZh": "竹東",
+                "DepartureStopNameEn": "Zhudong",
+                "DestinationStopNameZh": "清泉口",
+                "DestinationStopNameEn": "Qingquankou"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "醫專6號",
+            "En": "醫專6號"
+        },
+        "DepartureStopNameZh": "清泉口",
+        "DepartureStopNameEn": "Qingquankou",
+        "DestinationStopNameZh": "臺大醫院竹東分院",
+        "DestinationStopNameEn": "National Taiwan University Hospital East Branch of",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0079.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0080",
+        "RouteID": "0080",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "18",
+                "OperatorName": {
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
+                },
+                "OperatorCode": "KJ-StarBus",
+                "OperatorNo": "0909"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ008001",
+                "SubRouteID": "008001",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "60",
+                    "En": "60"
+                },
+                "Headsign": "六家線60路家樂福→六家高鐵",
+                "HeadsignEn": "60Rd. Liujia line  Carrefour→Liujia THSR",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            },
+            {
+                "SubRouteUID": "HSQ0080A1",
+                "SubRouteID": "0080A1",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "60A",
+                    "En": "60A"
+                },
+                "Headsign": "六家線60路家樂福→六家高鐵(繞東方荷蘭)",
+                "HeadsignEn": "60Rd. Liujia line Carrefour→Liujia THSR",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "60",
+            "En": "60"
+        },
+        "DepartureStopNameZh": "家樂福",
+        "DepartureStopNameEn": "Carrefour",
+        "DestinationStopNameZh": "家樂福",
+        "DestinationStopNameEn": "Carrefour",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0080.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0081",
+        "RouteID": "0081",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "18",
+                "OperatorName": {
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
+                },
+                "OperatorCode": "KJ-StarBus",
+                "OperatorNo": "0909"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ008101",
+                "SubRouteID": "008101",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "61",
+                    "En": "61"
+                },
+                "Headsign": "六家線61路家樂福→六家高鐵",
+                "HeadsignEn": "61Rd. Liujia line  Carrefour→Liujia THSR",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            },
+            {
+                "SubRouteUID": "HSQ0081A1",
+                "SubRouteID": "0081A1",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "61支線A",
+                    "En": "61支線A"
+                },
+                "Headsign": "六家線61A家樂福→六家高鐵站[經成瀧]",
+                "HeadsignEn": "61ARd. Liujia line  Carrefour→Liujia THSR[Via cheng long]",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            },
+            {
+                "SubRouteUID": "HSQ0081B1",
+                "SubRouteID": "0081B1",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "61B",
+                    "En": "61B"
+                },
+                "Headsign": "六家線61路家樂福→六家高鐵(繞東方荷蘭)",
+                "HeadsignEn": "61Rd. Liujia line Carrefour→Liujia THSR",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "61",
+            "En": "61"
+        },
+        "DepartureStopNameZh": "家樂福",
+        "DepartureStopNameEn": "Carrefour",
+        "DestinationStopNameZh": "家樂福",
+        "DestinationStopNameEn": "Carrefour",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0081.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0082",
+        "RouteID": "0082",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "18",
+                "OperatorName": {
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
+                },
+                "OperatorCode": "KJ-StarBus",
+                "OperatorNo": "0909"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ008201",
+                "SubRouteID": "008201",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "62",
+                    "En": "62"
+                },
+                "Headsign": "鳳岡線62路家樂福→蓮花寺",
+                "HeadsignEn": "62Rd. Fenggang line  Carrefour→ Lianhua Temple",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "62",
+            "En": "62"
+        },
+        "DepartureStopNameZh": "家樂福",
+        "DepartureStopNameEn": "Carrefour",
+        "DestinationStopNameZh": "家樂福",
+        "DestinationStopNameEn": "Carrefour",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0082.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0083",
+        "RouteID": "0083",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "18",
+                "OperatorName": {
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
+                },
+                "OperatorCode": "KJ-StarBus",
+                "OperatorNo": "0909"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ008301",
+                "SubRouteID": "008301",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "63",
+                    "En": "63"
+                },
+                "Headsign": "新港線63路家樂福→新港",
+                "HeadsignEn": "63Rd. Xingang line  Carrefour→ Xingang",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "63",
+            "En": "63"
+        },
+        "DepartureStopNameZh": "家樂福",
+        "DepartureStopNameEn": "Carrefour",
+        "DestinationStopNameZh": "家樂福",
+        "DestinationStopNameEn": "Carrefour",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0083.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0085",
+        "RouteID": "0085",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "18",
+                "OperatorName": {
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
+                },
+                "OperatorCode": "KJ-StarBus",
+                "OperatorNo": "0909"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ008501",
+                "SubRouteID": "008501",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "65",
+                    "En": "65"
+                },
+                "Headsign": "溪州線65路家樂福→溪洲",
+                "HeadsignEn": "65Rd. Xizhou line  Carrefour→ Xizhou",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            },
+            {
+                "SubRouteUID": "HSQ0085A1",
+                "SubRouteID": "0085A1",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "65A",
+                    "En": "65A"
+                },
+                "Headsign": "溪州線65路家樂福→溪洲(繞新庄里)",
+                "HeadsignEn": "65Rd. Xizhou line  Carrefour→ Xizhou",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "65",
+            "En": "65"
+        },
+        "DepartureStopNameZh": "家樂福",
+        "DepartureStopNameEn": "Carrefour",
+        "DestinationStopNameZh": "家樂福",
+        "DestinationStopNameEn": "Carrefour",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0085.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0086",
+        "RouteID": "0086",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "18",
+                "OperatorName": {
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
+                },
+                "OperatorCode": "KJ-StarBus",
+                "OperatorNo": "0909"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ008601",
+                "SubRouteID": "008601",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "66",
+                    "En": "66"
+                },
+                "Headsign": "溪洲線66路家樂福→溪洲",
+                "HeadsignEn": "66Rd. Xizhou line  Carrefour→ Xizhou",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            },
+            {
+                "SubRouteUID": "HSQ0086A1",
+                "SubRouteID": "0086A1",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "66A",
+                    "En": "66A"
+                },
+                "Headsign": "溪洲線66路家樂福→溪洲(繞新庄里)",
+                "HeadsignEn": "66Rd. Xizhou line  Carrefour→ Xizhou",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "66",
+            "En": "66"
+        },
+        "DepartureStopNameZh": "家樂福",
+        "DepartureStopNameEn": "Carrefour",
+        "DestinationStopNameZh": "家樂福",
+        "DestinationStopNameEn": "Carrefour",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0086.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0106",
+        "RouteID": "0106",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "18",
+                "OperatorName": {
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
+                },
+                "OperatorCode": "KJ-StarBus",
+                "OperatorNo": "0909"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ010601",
+                "SubRouteID": "010601",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "觀光6號",
+                    "En": "觀光6號"
+                },
+                "Headsign": "竹東火車站—內灣大橋(經大山背)",
+                "HeadsignEn": "Zhudong Train Station→Neiwan Station(Via Da shan be)",
+                "Direction": 0,
+                "DepartureStopNameZh": "竹東火車站",
+                "DepartureStopNameEn": "Zhu Dong train station",
+                "DestinationStopNameZh": "內灣大橋",
+                "DestinationStopNameEn": "Neiwan Bridge"
+            },
+            {
+                "SubRouteUID": "HSQ010602",
+                "SubRouteID": "010602",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "觀光6號",
+                    "En": "觀光6號"
+                },
+                "Headsign": "內灣大橋—竹東火車站(經大山背)",
+                "HeadsignEn": "Neiwan Station→Zhudong Train Station(Via Da shan be)",
+                "Direction": 1,
+                "DepartureStopNameZh": "內灣大橋",
+                "DepartureStopNameEn": "Neiwan Bridge",
+                "DestinationStopNameZh": "竹東火車站",
+                "DestinationStopNameEn": "Zhu Dong train station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "觀光6號",
+            "En": "觀光6號"
+        },
+        "DepartureStopNameZh": "竹東火車站",
+        "DepartureStopNameEn": "Zhu Dong train station",
+        "DestinationStopNameZh": "內灣大橋",
+        "DestinationStopNameEn": "Neiwan Bridge",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0106.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0109",
+        "RouteID": "0109",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "18",
+                "OperatorName": {
+                    "Zh_tw": "科技之星交通",
+                    "En": "KJ-Star Bus Co., Ltd."
+                },
+                "OperatorCode": "KJ-StarBus",
+                "OperatorNo": "0909"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ010901",
+                "SubRouteID": "010901",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "68路",
+                    "En": "68路"
+                },
+                "Headsign": "家樂福→蓮花寺",
+                "HeadsignEn": "Carrefour→LianHua Temple",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            },
+            {
+                "SubRouteUID": "HSQ0109A1",
+                "SubRouteID": "0109A1",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "68路A",
+                    "En": "68路A"
+                },
+                "Headsign": "家樂福→蓮花寺[經竹北火車站、明新科技大學]",
+                "HeadsignEn": "Carrefour→LianHua Temple(via Zhubei Rear railway station、Minghsin University of Science and Technology)",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            },
+            {
+                "SubRouteUID": "HSQ0109B1",
+                "SubRouteID": "0109B1",
+                "OperatorIDs": [
+                    "18"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "68路B",
+                    "En": "68路B"
+                },
+                "Headsign": "家樂福→蓮花寺[經明新科技大學、竹北火車站]",
+                "HeadsignEn": "Carrefour→LianHua Temple(via Minghsin University of Science and Technology、Zhubei Rear railway station)",
+                "Direction": 0,
+                "DepartureStopNameZh": "家樂福",
+                "DepartureStopNameEn": "Carrefour",
+                "DestinationStopNameZh": "家樂福",
+                "DestinationStopNameEn": "Carrefour"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "68路",
+            "En": "68路"
+        },
+        "DepartureStopNameZh": "家樂福",
+        "DepartureStopNameEn": "Carrefour",
+        "DestinationStopNameZh": "家樂福",
+        "DestinationStopNameEn": "Carrefour",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0109.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0118",
+        "RouteID": "0118",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "67",
+                "OperatorName": {
+                    "Zh_tw": "金牌客運",
+                    "En": "Champion Bus Co., Ltd."
+                },
+                "OperatorCode": "ChampionBus",
+                "OperatorNo": "0808"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ011801",
+                "SubRouteID": "011801",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "觀光8號",
+                    "En": "觀光8號"
+                },
+                "Headsign": "高鐵新竹站→觀霧山莊",
+                "HeadsignEn": "HSR Hsinchu Station→Guanwu Villa",
+                "Direction": 0,
+                "DepartureStopNameZh": "高鐵新竹站",
+                "DepartureStopNameEn": "HSR Hsinchu Station",
+                "DestinationStopNameZh": "觀霧山莊",
+                "DestinationStopNameEn": "Guanwu Villa"
+            },
+            {
+                "SubRouteUID": "HSQ011802",
+                "SubRouteID": "011802",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "觀光8號",
+                    "En": "觀光8號"
+                },
+                "Headsign": "觀霧山莊→高鐵新竹站",
+                "HeadsignEn": "Guanwu Villa→HSR Hsinchu Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "觀霧山莊",
+                "DepartureStopNameEn": "Guanwu Villa",
+                "DestinationStopNameZh": "高鐵新竹站",
+                "DestinationStopNameEn": "HSR Hsinchu Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "觀光8號",
+            "En": "觀光8號"
+        },
+        "DepartureStopNameZh": "高鐵新竹站",
+        "DepartureStopNameEn": "HSR Hsinchu Station",
+        "DestinationStopNameZh": "觀霧山莊",
+        "DestinationStopNameEn": "Guanwu Villa",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0118.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0132",
+        "RouteID": "0132",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ013201",
+                "SubRouteID": "013201",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "花園線",
+                    "En": "花園線"
+                },
+                "Headsign": "五峰鄉公所—天湖",
+                "HeadsignEn": "Wufeng Township Office—Tianhu",
+                "Direction": 0,
+                "DepartureStopNameZh": "五峰鄉公所",
+                "DepartureStopNameEn": "Wufeng Township Office",
+                "DestinationStopNameZh": "天湖",
+                "DestinationStopNameEn": "Tianhu"
+            },
+            {
+                "SubRouteUID": "HSQ013202",
+                "SubRouteID": "013202",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "花園線",
+                    "En": "花園線"
+                },
+                "Headsign": "天湖—五峰鄉公所",
+                "HeadsignEn": "Tianhu—Wufeng Township Office",
+                "Direction": 1,
+                "DepartureStopNameZh": "天湖",
+                "DepartureStopNameEn": "Tianhu",
+                "DestinationStopNameZh": "五峰鄉公所",
+                "DestinationStopNameEn": "Wufeng Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "花園線",
+            "En": "花園線"
+        },
+        "DepartureStopNameZh": "五峰鄉公所",
+        "DepartureStopNameEn": "Wufeng Township Office",
+        "DestinationStopNameZh": "天湖",
+        "DestinationStopNameEn": "Tianhu",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0132.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0133",
+        "RouteID": "0133",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ013301",
+                "SubRouteID": "013301",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "桃山線",
+                    "En": "桃山線"
+                },
+                "Headsign": "五峰鄉公所→迦南山莊",
+                "HeadsignEn": "Wufeng Township Office→Jianan Villa",
+                "Direction": 0,
+                "DepartureStopNameZh": "五峰鄉公所",
+                "DepartureStopNameEn": "Wufeng Township Office",
+                "DestinationStopNameZh": "迦南山莊",
+                "DestinationStopNameEn": "Canaan Villa"
+            },
+            {
+                "SubRouteUID": "HSQ013302",
+                "SubRouteID": "013302",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "桃山線",
+                    "En": "桃山線"
+                },
+                "Headsign": "迦南山莊→五峰鄉公所",
+                "HeadsignEn": "Jianan Villa→Wufeng Township Office",
+                "Direction": 1,
+                "DepartureStopNameZh": "迦南山莊",
+                "DepartureStopNameEn": "Canaan Villa",
+                "DestinationStopNameZh": "五峰鄉公所",
+                "DestinationStopNameEn": "Wufeng Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "桃山線",
+            "En": "桃山線"
+        },
+        "DepartureStopNameZh": "五峰鄉公所",
+        "DepartureStopNameEn": "Wufeng Township Office",
+        "DestinationStopNameZh": "迦南山莊",
+        "DestinationStopNameEn": "Canaan Villa",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0133.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0134",
+        "RouteID": "0134",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ013401",
+                "SubRouteID": "013401",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "竹林線",
+                    "En": "竹林線"
+                },
+                "Headsign": "五峰鄉公所—五峰鄉公所",
+                "HeadsignEn": "Wufeng Township Office—Wufeng Township Office",
+                "Direction": 0,
+                "DepartureStopNameZh": "五峰鄉公所",
+                "DepartureStopNameEn": "Wufeng Township Office",
+                "DestinationStopNameZh": "五峰鄉公所",
+                "DestinationStopNameEn": "Wufeng Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "竹林線",
+            "En": "竹林線"
+        },
+        "DepartureStopNameZh": "五峰鄉公所",
+        "DepartureStopNameEn": "Wufeng Township Office",
+        "DestinationStopNameZh": "五峰鄉公所",
+        "DestinationStopNameEn": "Wufeng Township Office",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0134.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0135",
+        "RouteID": "0135",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ013501",
+                "SubRouteID": "013501",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "隘蘭線",
+                    "En": "隘蘭線"
+                },
+                "Headsign": "五峰鄉公所—涼山",
+                "HeadsignEn": "Wufeng Township Office—Liangshan",
+                "Direction": 0,
+                "DepartureStopNameZh": "五峰鄉公所",
+                "DepartureStopNameEn": "Wufeng Township Office",
+                "DestinationStopNameZh": "涼山",
+                "DestinationStopNameEn": "Liangshan"
+            },
+            {
+                "SubRouteUID": "HSQ013502",
+                "SubRouteID": "013502",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "隘蘭線",
+                    "En": "隘蘭線"
+                },
+                "Headsign": "涼山—五峰鄉公所",
+                "HeadsignEn": "Liangshan—Wufeng Township Office",
+                "Direction": 1,
+                "DepartureStopNameZh": "涼山",
+                "DepartureStopNameEn": "Liangshan",
+                "DestinationStopNameZh": "五峰鄉公所",
+                "DestinationStopNameEn": "Wufeng Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "隘蘭線",
+            "En": "隘蘭線"
+        },
+        "DepartureStopNameZh": "五峰鄉公所",
+        "DepartureStopNameEn": "Wufeng Township Office",
+        "DestinationStopNameZh": "涼山",
+        "DestinationStopNameEn": "Liangshan",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0135.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0151",
+        "RouteID": "0151",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ015101",
+                "SubRouteID": "015101",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "關六線",
+                    "En": "關六線"
+                },
+                "Headsign": "關西人行廣場—六曲窩 (關六線)",
+                "HeadsignEn": "Guanxi Pedestrian square—Lioucyuwo (Guanliu Line)",
+                "Direction": 0,
+                "DepartureStopNameZh": "人行廣場",
+                "DepartureStopNameEn": "Pedestrian square",
+                "DestinationStopNameZh": "六曲窩",
+                "DestinationStopNameEn": "Lioucyuwo"
+            },
+            {
+                "SubRouteUID": "HSQ015102",
+                "SubRouteID": "015102",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "關六線",
+                    "En": "關六線"
+                },
+                "Headsign": "六曲窩—關西人行廣場 (關六線)",
+                "HeadsignEn": "Lioucyuwo—Guanxi Pedestrian square (Guanliu Line)",
+                "Direction": 1,
+                "DepartureStopNameZh": "六曲窩",
+                "DepartureStopNameEn": "Lioucyuwo",
+                "DestinationStopNameZh": "人行廣場",
+                "DestinationStopNameEn": "Pedestrian square"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "關六線",
+            "En": "關六線"
+        },
+        "DepartureStopNameZh": "人行廣場",
+        "DepartureStopNameEn": "Pedestrian square",
+        "DestinationStopNameZh": "六曲窩",
+        "DestinationStopNameEn": "Lioucyuwo",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0151.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0152",
+        "RouteID": "0152",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ0152A1",
+                "SubRouteID": "0152A1",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "關金線A",
+                    "En": "關金線A"
+                },
+                "Headsign": "關西人行廣場—金鳥樂園 (關金線A)",
+                "HeadsignEn": "Guanxi Pedestrian square—Jin Niao (Guanjin Line A)",
+                "Direction": 0,
+                "DepartureStopNameZh": "人行廣場",
+                "DepartureStopNameEn": "Pedestrian square",
+                "DestinationStopNameZh": "金鳥樂園",
+                "DestinationStopNameEn": "Jin Niao"
+            },
+            {
+                "SubRouteUID": "HSQ0152A2",
+                "SubRouteID": "0152A2",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "關金線A",
+                    "En": "關金線A"
+                },
+                "Headsign": "金鳥樂園—關西人行廣場 (關金線A)",
+                "HeadsignEn": "Jin Niao—Guanxi Pedestrian square (Guanjin Line A)",
+                "Direction": 1,
+                "DepartureStopNameZh": "金鳥樂園",
+                "DepartureStopNameEn": "Jin Niao",
+                "DestinationStopNameZh": "人行廣場",
+                "DestinationStopNameEn": "Pedestrian square"
+            },
+            {
+                "SubRouteUID": "HSQ0152B1",
+                "SubRouteID": "0152B1",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "關金線B",
+                    "En": "關金線B"
+                },
+                "Headsign": "關西人行廣場—六曲窩—金鳥樂園 (關金線B)",
+                "HeadsignEn": "Guanxi Pedestrian square—Lioucyuwo—Jin Niao (Guanjin Line B)",
+                "Direction": 0,
+                "DepartureStopNameZh": "人行廣場",
+                "DepartureStopNameEn": "Pedestrian square",
+                "DestinationStopNameZh": "金鳥樂園",
+                "DestinationStopNameEn": "Jin Niao"
+            },
+            {
+                "SubRouteUID": "HSQ0152B2",
+                "SubRouteID": "0152B2",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "關金線B",
+                    "En": "關金線B"
+                },
+                "Headsign": "金鳥樂園—六曲窩—關西人行廣場 (關金線B)",
+                "HeadsignEn": "Jin Niao—Lioucyuwo—Guanxi Pedestrian square (Guanjin Line B)",
+                "Direction": 1,
+                "DepartureStopNameZh": "金鳥樂園",
+                "DepartureStopNameEn": "Jin Niao",
+                "DestinationStopNameZh": "人行廣場",
+                "DestinationStopNameEn": "Pedestrian square"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "關金線",
+            "En": "關金線"
+        },
+        "DepartureStopNameZh": "人行廣場",
+        "DepartureStopNameEn": "Pedestrian square",
+        "DestinationStopNameZh": "金鳥樂園",
+        "DestinationStopNameEn": "Jin Niao",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0152.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0153",
+        "RouteID": "0153",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ015301",
+                "SubRouteID": "015301",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "153",
+                    "En": "153"
+                },
+                "Headsign": "關西人行廣場—玉山 (關玉線)",
+                "HeadsignEn": "Guanxi Pedestrian square—Yu Shan (Guanyu Line)",
+                "Direction": 0,
+                "DepartureStopNameZh": "人行廣場",
+                "DepartureStopNameEn": "Pedestrian square",
+                "DestinationStopNameZh": "玉山",
+                "DestinationStopNameEn": "Yu Shan"
+            },
+            {
+                "SubRouteUID": "HSQ015302",
+                "SubRouteID": "015302",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "153",
+                    "En": "153"
+                },
+                "Headsign": "玉山—關西人行廣場 (關玉線)",
+                "HeadsignEn": "Yu Shan—Guanxi Pedestrian square (Guanyu Line)",
+                "Direction": 1,
+                "DepartureStopNameZh": "玉山",
+                "DepartureStopNameEn": "Yu Shan",
+                "DestinationStopNameZh": "人行廣場",
+                "DestinationStopNameEn": "Pedestrian square"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "153",
+            "En": "153"
+        },
+        "DepartureStopNameZh": "人行廣場",
+        "DepartureStopNameEn": "Pedestrian square",
+        "DestinationStopNameZh": "玉山",
+        "DestinationStopNameEn": "Yu Shan",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0153.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0154",
+        "RouteID": "0154",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ015401",
+                "SubRouteID": "015401",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "關下線",
+                    "En": "關下線"
+                },
+                "Headsign": "關西人行廣場—下橫坑 (關下線)",
+                "HeadsignEn": "Guanxi Pedestrian square—Sia Heng Keng (Guansia Line)",
+                "Direction": 0,
+                "DepartureStopNameZh": "人行廣場",
+                "DepartureStopNameEn": "Pedestrian square",
+                "DestinationStopNameZh": "下橫坑",
+                "DestinationStopNameEn": "Sia Heng Keng"
+            },
+            {
+                "SubRouteUID": "HSQ015402",
+                "SubRouteID": "015402",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "關下線",
+                    "En": "關下線"
+                },
+                "Headsign": "下橫坑—關西人行廣場 (關下線)",
+                "HeadsignEn": "Sia Heng Keng—Guanxi Pedestrian square (Guansia Line)",
+                "Direction": 1,
+                "DepartureStopNameZh": "下橫坑",
+                "DepartureStopNameEn": "Sia Heng Keng",
+                "DestinationStopNameZh": "人行廣場",
+                "DestinationStopNameEn": "Pedestrian square"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "關下線",
+            "En": "關下線"
+        },
+        "DepartureStopNameZh": "人行廣場",
+        "DepartureStopNameEn": "Pedestrian square",
+        "DestinationStopNameZh": "下橫坑",
+        "DestinationStopNameEn": "Sia Heng Keng",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0154.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0176",
+        "RouteID": "0176",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "73",
+                "OperatorName": {
+                    "Zh_tw": "尖石鄉公所",
+                    "En": "Jianshih Township Office"
+                },
+                "OperatorCode": "JianshihTownshipOffice",
+                "OperatorNo": "0603"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ017601",
+                "SubRouteID": "017601",
+                "OperatorIDs": [
+                    "73"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "114路前山觀光預約線",
+                    "En": "114路前山觀光預約線"
+                },
+                "Headsign": "內灣─內灣(預約制)",
+                "HeadsignEn": "Neiwan–Neiwan (Reservation Required).",
+                "Direction": 0,
+                "DepartureStopNameZh": "內灣",
+                "DepartureStopNameEn": "Neiwan",
+                "DestinationStopNameZh": "內灣",
+                "DestinationStopNameEn": "Neiwan"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "114路前山觀光預約線",
+            "En": "114路前山觀光預約線"
+        },
+        "DepartureStopNameZh": "內灣",
+        "DepartureStopNameEn": "Neiwan",
+        "DestinationStopNameZh": "內灣",
+        "DestinationStopNameEn": "Neiwan",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0176.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0177",
+        "RouteID": "0177",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ017701",
+                "SubRouteID": "017701",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "芎林鄉幸福小黃",
+                    "En": "芎林鄉幸福小黃"
+                },
+                "Headsign": "芎林—竹東線",
+                "HeadsignEn": "Qionglin—TR Zhudong Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "敏實科大",
+                "DepartureStopNameEn": "Minth University",
+                "DestinationStopNameZh": "竹東車站",
+                "DestinationStopNameEn": "TR Zhudong Station"
+            },
+            {
+                "SubRouteUID": "HSQ017702",
+                "SubRouteID": "017702",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "芎林鄉幸福小黃",
+                    "En": "芎林鄉幸福小黃"
+                },
+                "Headsign": "竹東線—芎林",
+                "HeadsignEn": "TR Zhudong Station—Qionglin",
+                "Direction": 1,
+                "DepartureStopNameZh": "竹東車站",
+                "DepartureStopNameEn": "TR Zhudong Station",
+                "DestinationStopNameZh": "敏實科大",
+                "DestinationStopNameEn": "Minth University"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "芎林鄉幸福小黃",
+            "En": "芎林鄉幸福小黃"
+        },
+        "DepartureStopNameZh": "敏實科大",
+        "DepartureStopNameEn": "Minth University",
+        "DestinationStopNameZh": "竹東車站",
+        "DestinationStopNameEn": "TR Zhudong Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0177.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0199",
+        "RouteID": "0199",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ019901",
+                "SubRouteID": "019901",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "芎林鄉幸福小黃",
+                    "En": "芎林鄉幸福小黃"
+                },
+                "Headsign": "芎林—高鐵線[敏實科大→高鐵新竹站]",
+                "HeadsignEn": "Qionglin—THSR Hsinchu Station[Minth University→THSR Hsinchu Station]",
+                "Direction": 0,
+                "DepartureStopNameZh": "敏實科大",
+                "DepartureStopNameEn": "Minth University",
+                "DestinationStopNameZh": "高鐵新竹站",
+                "DestinationStopNameEn": "THSR Hsinchu Station"
+            },
+            {
+                "SubRouteUID": "HSQ019902",
+                "SubRouteID": "019902",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "芎林－高鐵線",
+                    "En": "芎林－高鐵線"
+                },
+                "Headsign": "高鐵線－芎林[高鐵新竹站→敏實科大]",
+                "HeadsignEn": "THSR Hsinchu Station— Qionglin [THSR Hsinchu Station→Minth University]",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵新竹站",
+                "DepartureStopNameEn": "THSR Hsinchu Station",
+                "DestinationStopNameZh": "敏實科大",
+                "DestinationStopNameEn": "Minth University"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "芎林鄉幸福小黃",
+            "En": "芎林鄉幸福小黃"
+        },
+        "DepartureStopNameZh": "敏實科大",
+        "DepartureStopNameEn": "Minth University",
+        "DestinationStopNameZh": "高鐵新竹站",
+        "DestinationStopNameEn": "THSR Hsinchu Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0199.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0223",
+        "RouteID": "0223",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "136",
+                "OperatorName": {
+                    "Zh_tw": "北埔鄉公所"
+                }
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ022301",
+                "SubRouteID": "022301",
+                "OperatorIDs": [
+                    "136"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "五指山平日線",
+                    "En": "五指山平日線"
+                },
+                "Headsign": "五指山遊客服務中心—竹東火車站",
+                "HeadsignEn": "Wuzhi Mountain Tourist Service Center—Zhudong Railway Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "五指山遊客服務中心",
+                "DepartureStopNameEn": "Wuzhi  Mountain Tourist Service  Center",
+                "DestinationStopNameZh": "竹東火車站(北興路)",
+                "DestinationStopNameEn": "Zhudong Railway Station"
+            },
+            {
+                "SubRouteUID": "HSQ022302",
+                "SubRouteID": "022302",
+                "OperatorIDs": [
+                    "136"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "五指山平日線",
+                    "En": "五指山平日線"
+                },
+                "Headsign": "竹東火車站—五指山遊客服務中心",
+                "HeadsignEn": "Zhudong Railway Station—Wuzhi Mountain Tourist Service Center",
+                "Direction": 1,
+                "DepartureStopNameZh": "竹東火車站(北興路)",
+                "DepartureStopNameEn": "Zhudong Railway Station",
+                "DestinationStopNameZh": "五指山遊客服務中心",
+                "DestinationStopNameEn": "Wuzhi  Mountain Tourist Service  Center"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "五指山平日線",
+            "En": "五指山平日線"
+        },
+        "DepartureStopNameZh": "五指山遊客服務中心",
+        "DepartureStopNameEn": "Wuzhi  Mountain Tourist Service  Center",
+        "DestinationStopNameZh": "竹東火車站(北興路)",
+        "DestinationStopNameEn": "Zhudong Railway Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0223.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0224",
+        "RouteID": "0224",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "136",
+                "OperatorName": {
+                    "Zh_tw": "北埔鄉公所"
+                }
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ022401",
+                "SubRouteID": "022401",
+                "OperatorIDs": [
+                    "136"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "北埔老街假日線",
+                    "En": "北埔老街假日線"
+                },
+                "Headsign": "往北埔遊客中心",
+                "HeadsignEn": "bound for Beipu Tourist Service Center",
+                "Direction": 0,
+                "DepartureStopNameZh": "北埔遊客中心/鄧南光影像紀念館",
+                "DepartureStopNameEn": "Beipu Tourist Service Center / Deng Nan-Guang Memo",
+                "DestinationStopNameZh": "北埔遊客中心/鄧南光影像紀念館",
+                "DestinationStopNameEn": "Beipu Tourist Service Center / Deng Nan-Guang Memo"
+            },
+            {
+                "SubRouteUID": "HSQ022402",
+                "SubRouteID": "022402",
+                "OperatorIDs": [
+                    "136"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "北埔老街假日線",
+                    "En": "北埔老街假日線"
+                },
+                "Headsign": "往北埔遊客中心",
+                "HeadsignEn": "bound for Beipu Tourist Service Center",
+                "Direction": 1,
+                "DepartureStopNameZh": "北埔遊客中心/鄧南光影像紀念館",
+                "DepartureStopNameEn": "Beipu Tourist Service Center / Deng Nan-Guang Memo",
+                "DestinationStopNameZh": "北埔遊客中心/鄧南光影像紀念館",
+                "DestinationStopNameEn": "Beipu Tourist Service Center / Deng Nan-Guang Memo"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "北埔老街假日線",
+            "En": "北埔老街假日線"
+        },
+        "DepartureStopNameZh": "北埔遊客中心/鄧南光影像紀念館",
+        "DepartureStopNameEn": "Beipu Tourist Service Center / Deng Nan-Guang Memo",
+        "DestinationStopNameZh": "北埔遊客中心/鄧南光影像紀念館",
+        "DestinationStopNameEn": "Beipu Tourist Service Center / Deng Nan-Guang Memo",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0224.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0505",
+        "RouteID": "0505",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ050501",
+                "SubRouteID": "050501",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0505",
+                    "En": "0505"
+                },
+                "Headsign": "沙湖壢藝術村—馬偕醫院",
+                "HeadsignEn": "From Shahulin Art Village to Mackay Memorial Hospital(Shan hu xian)",
+                "Direction": 0,
+                "DepartureStopNameZh": "沙湖壢藝術村",
+                "DepartureStopNameEn": "Sha Hu Li&#160;Art&#160;Village",
+                "DestinationStopNameZh": "馬偕醫院",
+                "DestinationStopNameEn": "Mackay&#160; Hospital"
+            },
+            {
+                "SubRouteUID": "HSQ050502",
+                "SubRouteID": "050502",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0505",
+                    "En": "0505"
+                },
+                "Headsign": "馬偕醫院—沙湖壢藝術村",
+                "HeadsignEn": "Mackay Hospital to Shahulin Art Village (Shan hu xian)",
+                "Direction": 1,
+                "DepartureStopNameZh": "馬偕醫院",
+                "DepartureStopNameEn": "Mackay&#160; Hospital",
+                "DestinationStopNameZh": "沙湖壢藝術村",
+                "DestinationStopNameEn": "Sha Hu Li&#160;Art&#160;Village"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0505",
+            "En": "0505"
+        },
+        "DepartureStopNameZh": "沙湖壢藝術村",
+        "DepartureStopNameEn": "Sha Hu Li&#160;Art&#160;Village",
+        "DestinationStopNameZh": "馬偕醫院",
+        "DestinationStopNameEn": "Mackay&#160; Hospital",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0505.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0506",
+        "RouteID": "0506",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ050601",
+                "SubRouteID": "050601",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0506",
+                    "En": "0506"
+                },
+                "Headsign": "寶山鄉公所—果菜市場",
+                "HeadsignEn": "From Baoshan Township Office to Fruit and Vegetable Market(Shuang xi A)",
+                "Direction": 0,
+                "DepartureStopNameZh": "鄉公所",
+                "DepartureStopNameEn": "Township Office",
+                "DestinationStopNameZh": "果菜市場",
+                "DestinationStopNameEn": "Fruit  vegetable market"
+            },
+            {
+                "SubRouteUID": "HSQ050602",
+                "SubRouteID": "050602",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0506",
+                    "En": "0506"
+                },
+                "Headsign": "果菜市場—寶山鄉公所",
+                "HeadsignEn": "From the Fruit and Vegetable Market to Baoshan Township Office(Shuang xi A)",
+                "Direction": 1,
+                "DepartureStopNameZh": "果菜市場",
+                "DepartureStopNameEn": "Fruit  vegetable market",
+                "DestinationStopNameZh": "鄉公所",
+                "DestinationStopNameEn": "Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0506",
+            "En": "0506"
+        },
+        "DepartureStopNameZh": "鄉公所",
+        "DepartureStopNameEn": "Township Office",
+        "DestinationStopNameZh": "果菜市場",
+        "DestinationStopNameEn": "Fruit  vegetable market",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0506.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0507",
+        "RouteID": "0507",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ050701",
+                "SubRouteID": "050701",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0507",
+                    "En": "0507"
+                },
+                "Headsign": "寶山鄉公所—臺大新竹醫院",
+                "HeadsignEn": "From Baoshan Township Office to National Taiwan University Hsinchu Hospital(Shuang xi B)",
+                "Direction": 0,
+                "DepartureStopNameZh": "鄉公所",
+                "DepartureStopNameEn": "Township Office",
+                "DestinationStopNameZh": "臺大新竹分院",
+                "DestinationStopNameEn": "National Taiwan University Hsinchu"
+            },
+            {
+                "SubRouteUID": "HSQ050702",
+                "SubRouteID": "050702",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0507",
+                    "En": "0507"
+                },
+                "Headsign": "臺大新竹醫院—寶山鄉公所",
+                "HeadsignEn": "From NTU Hsinchu Hospital to Baoshan Township Office(Shuang xi B)",
+                "Direction": 1,
+                "DepartureStopNameZh": "臺大新竹分院",
+                "DepartureStopNameEn": "National Taiwan University Hsinchu",
+                "DestinationStopNameZh": "鄉公所",
+                "DestinationStopNameEn": "Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0507",
+            "En": "0507"
+        },
+        "DepartureStopNameZh": "鄉公所",
+        "DepartureStopNameEn": "Township Office",
+        "DestinationStopNameZh": "臺大新竹分院",
+        "DestinationStopNameEn": "National Taiwan University Hsinchu",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0507.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0508",
+        "RouteID": "0508",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ050801",
+                "SubRouteID": "050801",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0508",
+                    "En": "0508"
+                },
+                "Headsign": "新豐宮—臺大新竹醫院",
+                "HeadsignEn": "From Xinfeng Temple to NTU Hsinchu Hospital(Xin Cheng B)",
+                "Direction": 0,
+                "DepartureStopNameZh": "新豐宮",
+                "DepartureStopNameEn": "Xinfeng Palace",
+                "DestinationStopNameZh": "臺大新竹分院",
+                "DestinationStopNameEn": "National Taiwan University Hsinchu"
+            },
+            {
+                "SubRouteUID": "HSQ050802",
+                "SubRouteID": "050802",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0508",
+                    "En": "0508"
+                },
+                "Headsign": "臺大新竹醫院—吉利山莊",
+                "HeadsignEn": "From National Taiwan University Hsinchu Hospital to Jili Villa(Xin Cheng B)",
+                "Direction": 1,
+                "DepartureStopNameZh": "臺大新竹分院",
+                "DepartureStopNameEn": "National Taiwan University Hsinchu",
+                "DestinationStopNameZh": "吉利山莊",
+                "DestinationStopNameEn": "Jili Villa"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0508",
+            "En": "0508"
+        },
+        "DepartureStopNameZh": "新豐宮",
+        "DepartureStopNameEn": "Xinfeng Palace",
+        "DestinationStopNameZh": "臺大新竹分院",
+        "DestinationStopNameEn": "National Taiwan University Hsinchu",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0508.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0535",
+        "RouteID": "0535",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ053501",
+                "SubRouteID": "053501",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0535",
+                    "En": "0535"
+                },
+                "Headsign": "新竹→三峰(經雙溪)",
+                "HeadsignEn": "Hsinchu→Sanfeng(Via Shuangxi)",
+                "Direction": 0,
+                "DepartureStopNameZh": "火車站",
+                "DepartureStopNameEn": "Railway Station",
+                "DestinationStopNameZh": "三峰",
+                "DestinationStopNameEn": "Sanfeng"
+            },
+            {
+                "SubRouteUID": "HSQ053502",
+                "SubRouteID": "053502",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0535",
+                    "En": "0535"
+                },
+                "Headsign": "三峰→新竹(經雙溪)",
+                "HeadsignEn": "Sanfeng→Hsinchu(Via Shuangxi)",
+                "Direction": 1,
+                "DepartureStopNameZh": "三峰",
+                "DepartureStopNameEn": "Sanfeng",
+                "DestinationStopNameZh": "中正路",
+                "DestinationStopNameEn": "Zhongzheng Rd."
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0535",
+            "En": "0535"
+        },
+        "DepartureStopNameZh": "火車站",
+        "DepartureStopNameEn": "Railway Station",
+        "DestinationStopNameZh": "三峰",
+        "DestinationStopNameEn": "Sanfeng",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0535.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0536",
+        "RouteID": "0536",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ053601",
+                "SubRouteID": "053601",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0536",
+                    "En": "0536"
+                },
+                "Headsign": "新竹→新城",
+                "HeadsignEn": "Hsinchu→Xincheng",
+                "Direction": 0,
+                "DepartureStopNameZh": "火車站",
+                "DepartureStopNameEn": "Railway Station",
+                "DestinationStopNameZh": "新城",
+                "DestinationStopNameEn": "Xincheng"
+            },
+            {
+                "SubRouteUID": "HSQ053602",
+                "SubRouteID": "053602",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0536",
+                    "En": "0536"
+                },
+                "Headsign": "新城→新竹",
+                "HeadsignEn": "Xincheng→Hsinchu",
+                "Direction": 1,
+                "DepartureStopNameZh": "新城",
+                "DepartureStopNameEn": "Xincheng",
+                "DestinationStopNameZh": "中正路",
+                "DestinationStopNameEn": "Zhongzheng Rd."
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0536",
+            "En": "0536"
+        },
+        "DepartureStopNameZh": "火車站",
+        "DepartureStopNameEn": "Railway Station",
+        "DestinationStopNameZh": "新城",
+        "DestinationStopNameEn": "Xincheng",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0536.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0551",
+        "RouteID": "0551",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ055101",
+                "SubRouteID": "055101",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0551",
+                    "En": "0551"
+                },
+                "Headsign": "新埔→芎林",
+                "HeadsignEn": "Xinpu→Qionglin",
+                "Direction": 0,
+                "DepartureStopNameZh": "新埔站",
+                "DepartureStopNameEn": "Xinpu Station",
+                "DestinationStopNameZh": "芎林",
+                "DestinationStopNameEn": "Qionglin"
+            },
+            {
+                "SubRouteUID": "HSQ055102",
+                "SubRouteID": "055102",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0551",
+                    "En": "0551"
+                },
+                "Headsign": "芎林→新埔",
+                "HeadsignEn": "Qionglin→Xinpu",
+                "Direction": 1,
+                "DepartureStopNameZh": "芎林",
+                "DepartureStopNameEn": "Qionglin",
+                "DestinationStopNameZh": "新埔站",
+                "DestinationStopNameEn": "Xinpu Station"
+            },
+            {
+                "SubRouteUID": "HSQ0551A1",
+                "SubRouteID": "0551A1",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0551A",
+                    "En": "0551A"
+                },
+                "Headsign": "新埔→芎林(經內立)",
+                "HeadsignEn": "Xinpu→Qionglin",
+                "Direction": 0,
+                "DepartureStopNameZh": "新埔站",
+                "DepartureStopNameEn": "Xinpu Station",
+                "DestinationStopNameZh": "芎林",
+                "DestinationStopNameEn": "Qionglin"
+            },
+            {
+                "SubRouteUID": "HSQ0551A2",
+                "SubRouteID": "0551A2",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0551A",
+                    "En": "0551A"
+                },
+                "Headsign": "芎林→新埔(經內立)",
+                "HeadsignEn": "Qionglin→Xinpu",
+                "Direction": 1,
+                "DepartureStopNameZh": "芎林",
+                "DepartureStopNameEn": "Qionglin",
+                "DestinationStopNameZh": "新埔站",
+                "DestinationStopNameEn": "Xinpu Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0551",
+            "En": "0551"
+        },
+        "DepartureStopNameZh": "新埔站",
+        "DepartureStopNameEn": "Xinpu Station",
+        "DestinationStopNameZh": "芎林",
+        "DestinationStopNameEn": "Qionglin",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0551.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0552",
+        "RouteID": "0552",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ055201",
+                "SubRouteID": "055201",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0552",
+                    "En": "0552"
+                },
+                "Headsign": "新埔→龍潭(經三水)",
+                "HeadsignEn": "Xinpu→Longtan(Via Sanshui)",
+                "Direction": 0,
+                "DepartureStopNameZh": "新埔站",
+                "DepartureStopNameEn": "Xinpu Station",
+                "DestinationStopNameZh": "龍潭",
+                "DestinationStopNameEn": "Longtan"
+            },
+            {
+                "SubRouteUID": "HSQ055202",
+                "SubRouteID": "055202",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0552",
+                    "En": "0552"
+                },
+                "Headsign": "龍潭→新埔(經三水)",
+                "HeadsignEn": "Longtan→Xinpu(Via Sanshui)",
+                "Direction": 1,
+                "DepartureStopNameZh": "龍潭",
+                "DepartureStopNameEn": "Longtan",
+                "DestinationStopNameZh": "新埔站",
+                "DestinationStopNameEn": "Xinpu Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0552",
+            "En": "0552"
+        },
+        "DepartureStopNameZh": "新埔站",
+        "DepartureStopNameEn": "Xinpu Station",
+        "DestinationStopNameZh": "龍潭",
+        "DestinationStopNameEn": "Longtan",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0552.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0553",
+        "RouteID": "0553",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ055301",
+                "SubRouteID": "055301",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0553",
+                    "En": "0553"
+                },
+                "Headsign": "新埔→湖口(經舊湖口)",
+                "HeadsignEn": "Xinpu→Hukou(Via Jiuhukou)",
+                "Direction": 0,
+                "DepartureStopNameZh": "新埔站",
+                "DepartureStopNameEn": "Xinpu Station",
+                "DestinationStopNameZh": "湖口火車站",
+                "DestinationStopNameEn": "TRA Hukou Station"
+            },
+            {
+                "SubRouteUID": "HSQ055302",
+                "SubRouteID": "055302",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0553",
+                    "En": "0553"
+                },
+                "Headsign": "湖口→新埔(經舊湖口)",
+                "HeadsignEn": "Hukou→Xinpu(Via Jiuhukou)",
+                "Direction": 1,
+                "DepartureStopNameZh": "湖口火車站",
+                "DepartureStopNameEn": "TRA Hukou Station",
+                "DestinationStopNameZh": "新埔站",
+                "DestinationStopNameEn": "Xinpu Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0553",
+            "En": "0553"
+        },
+        "DepartureStopNameZh": "新埔站",
+        "DepartureStopNameEn": "Xinpu Station",
+        "DestinationStopNameZh": "湖口火車站",
+        "DestinationStopNameEn": "TRA Hukou Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0553.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0554",
+        "RouteID": "0554",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ055401",
+                "SubRouteID": "055401",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0554",
+                    "En": "0554"
+                },
+                "Headsign": "新埔→楊梅(經清水)",
+                "HeadsignEn": "Xinpu→Yongmei(Via Qingshui)",
+                "Direction": 0,
+                "DepartureStopNameZh": "新埔站",
+                "DepartureStopNameEn": "Xinpu Station",
+                "DestinationStopNameZh": "楊梅站",
+                "DestinationStopNameEn": "Yangmei Station"
+            },
+            {
+                "SubRouteUID": "HSQ055402",
+                "SubRouteID": "055402",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0554",
+                    "En": "0554"
+                },
+                "Headsign": "楊梅→新埔(經清水)",
+                "HeadsignEn": "Yongmei→Xinpu(Via Qingshui)",
+                "Direction": 1,
+                "DepartureStopNameZh": "楊梅站",
+                "DepartureStopNameEn": "Yangmei Station",
+                "DestinationStopNameZh": "新埔站",
+                "DestinationStopNameEn": "Xinpu Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0554",
+            "En": "0554"
+        },
+        "DepartureStopNameZh": "新埔站",
+        "DepartureStopNameEn": "Xinpu Station",
+        "DestinationStopNameZh": "楊梅站",
+        "DestinationStopNameEn": "Yangmei Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0554.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0555",
+        "RouteID": "0555",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ055501",
+                "SubRouteID": "055501",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0555",
+                    "En": "0555"
+                },
+                "Headsign": "楊梅→新埔(經北坑口)",
+                "HeadsignEn": "Yongmei→Xinpu(Via Beikengkou)",
+                "Direction": 0,
+                "DepartureStopNameZh": "楊梅站",
+                "DepartureStopNameEn": "Yangmei Station",
+                "DestinationStopNameZh": "新埔站",
+                "DestinationStopNameEn": "Xinpu Station"
+            },
+            {
+                "SubRouteUID": "HSQ055502",
+                "SubRouteID": "055502",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0555",
+                    "En": "0555"
+                },
+                "Headsign": "新埔→楊梅(經北坑口)",
+                "HeadsignEn": "Xinpu→Yongmei(Via Beikengkou)",
+                "Direction": 1,
+                "DepartureStopNameZh": "新埔站",
+                "DepartureStopNameEn": "Xinpu Station",
+                "DestinationStopNameZh": "楊梅站",
+                "DestinationStopNameEn": "Yangmei Station"
+            },
+            {
+                "SubRouteUID": "HSQ0555A1",
+                "SubRouteID": "0555A1",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0555A",
+                    "En": "0555A"
+                },
+                "Headsign": "楊梅—湖口(經北坑口、舊湖口)",
+                "HeadsignEn": "Yongmei→Xinpu(Via Beikengkou、Jiuhukou)",
+                "Direction": 0,
+                "DepartureStopNameZh": "楊梅站",
+                "DepartureStopNameEn": "Yangmei Station",
+                "DestinationStopNameZh": "湖口火車站",
+                "DestinationStopNameEn": "TRA Hukou Station"
+            },
+            {
+                "SubRouteUID": "HSQ0555A2",
+                "SubRouteID": "0555A2",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0555A",
+                    "En": "0555A"
+                },
+                "Headsign": "湖口—楊梅(經北坑口、舊湖口)",
+                "HeadsignEn": "Xinpu→Yongmei(Via Beikengkou、Jiuhukou)",
+                "Direction": 1,
+                "DepartureStopNameZh": "湖口火車站",
+                "DepartureStopNameEn": "TRA Hukou Station",
+                "DestinationStopNameZh": "楊梅站",
+                "DestinationStopNameEn": "Yangmei Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0555",
+            "En": "0555"
+        },
+        "DepartureStopNameZh": "楊梅站",
+        "DepartureStopNameEn": "Yangmei Station",
+        "DestinationStopNameZh": "新埔站",
+        "DestinationStopNameEn": "Xinpu Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0555.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0556",
+        "RouteID": "0556",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ055601",
+                "SubRouteID": "055601",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0556",
+                    "En": "0556"
+                },
+                "Headsign": "龍潭—新埔—芎林(經三水、內立)",
+                "HeadsignEn": "Longtan—Xinpu—Qionglin(Via Sanshui Nei Li)",
+                "Direction": 0,
+                "DepartureStopNameZh": "龍潭",
+                "DepartureStopNameEn": "Longtan",
+                "DestinationStopNameZh": "芎林",
+                "DestinationStopNameEn": "Qionglin"
+            },
+            {
+                "SubRouteUID": "HSQ055602",
+                "SubRouteID": "055602",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0556",
+                    "En": "0556"
+                },
+                "Headsign": "芎林→新埔→龍潭(經三水、內立)",
+                "HeadsignEn": "Qionglin→Xinpu→Longtan(vai Sanshui Nei Li)",
+                "Direction": 1,
+                "DepartureStopNameZh": "芎林",
+                "DepartureStopNameEn": "Qionglin",
+                "DestinationStopNameZh": "龍潭",
+                "DestinationStopNameEn": "Longtan"
+            },
+            {
+                "SubRouteUID": "HSQ0556A1",
+                "SubRouteID": "0556A1",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0556A",
+                    "En": "0556A"
+                },
+                "Headsign": "龍潭—新埔(經三水、內立)",
+                "HeadsignEn": "Longtan—Xinpu(Via Sanshui、Nei Li)",
+                "Direction": 0,
+                "DepartureStopNameZh": "龍潭",
+                "DepartureStopNameEn": "Longtan",
+                "DestinationStopNameZh": "新埔站",
+                "DestinationStopNameEn": "Xinpu Station"
+            },
+            {
+                "SubRouteUID": "HSQ0556A2",
+                "SubRouteID": "0556A2",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0556A",
+                    "En": "0556A"
+                },
+                "Headsign": "新埔→龍潭(經三水、內立)",
+                "HeadsignEn": "Xinpu→Longtan(vai Sanshui Nei Li)",
+                "Direction": 1,
+                "DepartureStopNameZh": "新埔站",
+                "DepartureStopNameEn": "Xinpu Station",
+                "DestinationStopNameZh": "龍潭",
+                "DestinationStopNameEn": "Longtan"
+            },
+            {
+                "SubRouteUID": "HSQ0556B1",
+                "SubRouteID": "0556B1",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0556B",
+                    "En": "0556B"
+                },
+                "Headsign": "龍潭—新埔—芎林(經三水)",
+                "HeadsignEn": "Longtan—Xinpu—Qionglin(Via Sanshui Nei Li)",
+                "Direction": 0,
+                "DepartureStopNameZh": "龍潭",
+                "DepartureStopNameEn": "Longtan",
+                "DestinationStopNameZh": "芎林",
+                "DestinationStopNameEn": "Qionglin"
+            },
+            {
+                "SubRouteUID": "HSQ0556B2",
+                "SubRouteID": "0556B2",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0556B",
+                    "En": "0556B"
+                },
+                "Headsign": "芎林→新埔→龍潭(經三水)",
+                "HeadsignEn": "Qionglin→Xinpu→Longtan(vai Sanshui)",
+                "Direction": 1,
+                "DepartureStopNameZh": "芎林",
+                "DepartureStopNameEn": "Qionglin",
+                "DestinationStopNameZh": "龍潭",
+                "DestinationStopNameEn": "Longtan"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0556",
+            "En": "0556"
+        },
+        "DepartureStopNameZh": "龍潭",
+        "DepartureStopNameEn": "Longtan",
+        "DestinationStopNameZh": "芎林",
+        "DestinationStopNameEn": "Qionglin",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0556.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0557",
+        "RouteID": "0557",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ055701",
+                "SubRouteID": "055701",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0557",
+                    "En": "0557"
+                },
+                "Headsign": "新埔—高鐵新竹站",
+                "HeadsignEn": "Xinpu—Hsinchu High Speed ??Rail Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "新埔鎮公所",
+                "DepartureStopNameEn": "Xinpu Town Office",
+                "DestinationStopNameZh": "高鐵新竹站",
+                "DestinationStopNameEn": "HSR Hsinchu Station"
+            },
+            {
+                "SubRouteUID": "HSQ055702",
+                "SubRouteID": "055702",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0557",
+                    "En": "0557"
+                },
+                "Headsign": "高鐵新竹站—新埔",
+                "HeadsignEn": "High—speed Rail Hsinchu Station—Xinpu",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵新竹站",
+                "DepartureStopNameEn": "HSR Hsinchu Station",
+                "DestinationStopNameZh": "新埔鎮公所",
+                "DestinationStopNameEn": "Xinpu Town Office"
+            },
+            {
+                "SubRouteUID": "HSQ0557A1",
+                "SubRouteID": "0557A1",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0557A",
+                    "En": "0557A"
+                },
+                "Headsign": "關西迎風館－高鐵新竹站(經文華路)",
+                "HeadsignEn": "Guanxi Yingfeng Hall—High Speed ??Rail Hsinchu Station (Wenhua Road)",
+                "Direction": 0,
+                "DepartureStopNameZh": "關西迎風館",
+                "DepartureStopNameEn": "Kansai Yingfengkan",
+                "DestinationStopNameZh": "高鐵新竹站",
+                "DestinationStopNameEn": "HSR Hsinchu Station"
+            },
+            {
+                "SubRouteUID": "HSQ0557A2",
+                "SubRouteID": "0557A2",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0557A",
+                    "En": "0557A"
+                },
+                "Headsign": "關西迎風館－高鐵新竹站(經文華路)",
+                "HeadsignEn": "High—speed Rail Hsinchu Station—Guanxi Town Yingfeng Hall(Wenhua Road)",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵新竹站",
+                "DepartureStopNameEn": "HSR Hsinchu Station",
+                "DestinationStopNameZh": "關西迎風館",
+                "DestinationStopNameEn": "Kansai Yingfengkan"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0557",
+            "En": "0557"
+        },
+        "DepartureStopNameZh": "新埔鎮公所",
+        "DepartureStopNameEn": "Xinpu Town Office",
+        "DestinationStopNameZh": "高鐵新竹站",
+        "DestinationStopNameEn": "HSR Hsinchu Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0557.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0747",
+        "RouteID": "0747",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "67",
+                "OperatorName": {
+                    "Zh_tw": "金牌客運",
+                    "En": "Champion Bus Co., Ltd."
+                },
+                "OperatorCode": "ChampionBus",
+                "OperatorNo": "0808"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ074701",
+                "SubRouteID": "074701",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷8號",
+                    "En": "快捷8號"
+                },
+                "Headsign": "竹東—竹北(經中正大橋)",
+                "HeadsignEn": "Zhudong→Zubei(Passes Zhongzheng Bridge)",
+                "Direction": 0,
+                "DepartureStopNameZh": "台大竹東分院",
+                "DepartureStopNameEn": "National Taiwan University Hospital Chu-Tung Branc",
+                "DestinationStopNameZh": "竹北火車站",
+                "DestinationStopNameEn": "Zhubei Train Station"
+            },
+            {
+                "SubRouteUID": "HSQ074702",
+                "SubRouteID": "074702",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷8號",
+                    "En": "快捷8號"
+                },
+                "Headsign": "竹北—竹東(經中正大橋)",
+                "HeadsignEn": "Zubei→Zhudong(Passes Zhongzheng Bridge)",
+                "Direction": 1,
+                "DepartureStopNameZh": "竹北火車站",
+                "DepartureStopNameEn": "Zhubei Train Station",
+                "DestinationStopNameZh": "台大竹東分院",
+                "DestinationStopNameEn": "National Taiwan University Hospital Chu-Tung Branc"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "快捷8號",
+            "En": "快捷8號"
+        },
+        "DepartureStopNameZh": "台大竹東分院",
+        "DepartureStopNameEn": "National Taiwan University Hospital Chu-Tung Branc",
+        "DestinationStopNameZh": "竹北火車站",
+        "DestinationStopNameEn": "Zhubei Train Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0747.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0748",
+        "RouteID": "0748",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "67",
+                "OperatorName": {
+                    "Zh_tw": "金牌客運",
+                    "En": "Champion Bus Co., Ltd."
+                },
+                "OperatorCode": "ChampionBus",
+                "OperatorNo": "0808"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ074801",
+                "SubRouteID": "074801",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷8號支",
+                    "En": "快捷8號支"
+                },
+                "Headsign": "竹東→竹北(經興隆大橋)",
+                "HeadsignEn": "Zhudong→ Zhubei(Via Xinglong Bridge)",
+                "Direction": 0,
+                "DepartureStopNameZh": "台大竹東分院",
+                "DepartureStopNameEn": "National Taiwan University Hospital Chu-Tung Branc",
+                "DestinationStopNameZh": "竹北火車站",
+                "DestinationStopNameEn": "Zhubei Train Station"
+            },
+            {
+                "SubRouteUID": "HSQ074802",
+                "SubRouteID": "074802",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷8號支",
+                    "En": "快捷8號支"
+                },
+                "Headsign": "竹北→竹東(經興隆大橋)",
+                "HeadsignEn": "Zhubei→Zhudongi(Via Xinglong Bridge)",
+                "Direction": 1,
+                "DepartureStopNameZh": "竹北火車站",
+                "DepartureStopNameEn": "Zhubei Train Station",
+                "DestinationStopNameZh": "台大竹東分院",
+                "DestinationStopNameEn": "National Taiwan University Hospital Chu-Tung Branc"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "快捷8號支",
+            "En": "快捷8號支"
+        },
+        "DepartureStopNameZh": "台大竹東分院",
+        "DepartureStopNameEn": "National Taiwan University Hospital Chu-Tung Branc",
+        "DestinationStopNameZh": "竹北火車站",
+        "DestinationStopNameEn": "Zhubei Train Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0748.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0749",
+        "RouteID": "0749",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "67",
+                "OperatorName": {
+                    "Zh_tw": "金牌客運",
+                    "En": "Champion Bus Co., Ltd."
+                },
+                "OperatorCode": "ChampionBus",
+                "OperatorNo": "0808"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ074901",
+                "SubRouteID": "074901",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "觀光1號",
+                    "En": "觀光1號"
+                },
+                "Headsign": "高鐵新竹站—照門休閒農業區(九芎湖)",
+                "HeadsignEn": "THSR－Zhaomen Casual Agricultural area (Jiuqiong Lake)",
+                "Direction": 0,
+                "DepartureStopNameZh": "高鐵新竹站",
+                "DepartureStopNameEn": "HSR Hsinchu Station",
+                "DestinationStopNameZh": "鴛鴦池口",
+                "DestinationStopNameEn": "Yuanyang Pond Entrance"
+            },
+            {
+                "SubRouteUID": "HSQ074902",
+                "SubRouteID": "074902",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "觀光1號",
+                    "En": "觀光1號"
+                },
+                "Headsign": "照門休閒農業區(九芎湖)—高鐵新竹站",
+                "HeadsignEn": "Zhaomen Casual Agricultural area (Jiuqiong Lake)－THSR",
+                "Direction": 1,
+                "DepartureStopNameZh": "鴛鴦池口",
+                "DepartureStopNameEn": "Yuanyang Pond Entrance",
+                "DestinationStopNameZh": "高鐵新竹站",
+                "DestinationStopNameEn": "HSR Hsinchu Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "觀光1號",
+            "En": "觀光1號"
+        },
+        "DepartureStopNameZh": "高鐵新竹站",
+        "DepartureStopNameEn": "HSR Hsinchu Station",
+        "DestinationStopNameZh": "鴛鴦池口",
+        "DestinationStopNameEn": "Yuanyang Pond Entrance",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0749.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0756",
+        "RouteID": "0756",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "67",
+                "OperatorName": {
+                    "Zh_tw": "金牌客運",
+                    "En": "Champion Bus Co., Ltd."
+                },
+                "OperatorCode": "ChampionBus",
+                "OperatorNo": "0808"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ075601",
+                "SubRouteID": "075601",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "觀光2號",
+                    "En": "觀光2號"
+                },
+                "Headsign": "高鐵新竹站—六福村主題遊樂園",
+                "HeadsignEn": "THSR—Leofoo Village Theme Park",
+                "Direction": 0,
+                "DepartureStopNameZh": "高鐵新竹站",
+                "DepartureStopNameEn": "HSR Hsinchu Station",
+                "DestinationStopNameZh": "六福村主題樂園",
+                "DestinationStopNameEn": "Leofoo Village Theme Park"
+            },
+            {
+                "SubRouteUID": "HSQ075602",
+                "SubRouteID": "075602",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "觀光2號",
+                    "En": "觀光2號"
+                },
+                "Headsign": "六福村主題遊樂園—高鐵新竹站",
+                "HeadsignEn": "Leofoo Village Theme Park—THSR",
+                "Direction": 1,
+                "DepartureStopNameZh": "六福村主題樂園",
+                "DepartureStopNameEn": "Leofoo Village Theme Park",
+                "DestinationStopNameZh": "高鐵新竹站",
+                "DestinationStopNameEn": "HSR Hsinchu Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "觀光2號",
+            "En": "觀光2號"
+        },
+        "DepartureStopNameZh": "高鐵新竹站",
+        "DepartureStopNameEn": "HSR Hsinchu Station",
+        "DestinationStopNameZh": "六福村主題樂園",
+        "DestinationStopNameEn": "Leofoo Village Theme Park",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0756.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HSQ0805",
+        "RouteID": "0805",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "130",
+                "OperatorName": {
+                    "Zh_tw": "捷乘客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1111"
+            }
+        ],
+        "AuthorityID": "013",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HSQ080501",
+                "SubRouteID": "080501",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷9號",
+                    "En": "快捷9號"
+                },
+                "Headsign": "勝利八街—陽明交大(博愛校區)",
+                "HeadsignEn": "Shengli 8th Street Terminus — NYCU(Boai Cam—pus)",
+                "Direction": 0,
+                "DepartureStopNameZh": "勝利八街總站",
+                "DepartureStopNameEn": "Shengli 8th Street Terminus",
+                "DestinationStopNameZh": "陽明交大(博愛校區)",
+                "DestinationStopNameEn": "NYCU(Boai Cam-pus)"
+            },
+            {
+                "SubRouteUID": "HSQ080502",
+                "SubRouteID": "080502",
+                "OperatorIDs": [
+                    "130"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "快捷9號",
+                    "En": "快捷9號"
+                },
+                "Headsign": "陽明交大(博愛校區)—勝利八街",
+                "HeadsignEn": "NYCU(Boai Cam—pus)—Shengli 8th Street Terminus",
+                "Direction": 1,
+                "DepartureStopNameZh": "陽明交大(博愛校區)",
+                "DepartureStopNameEn": "NYCU(Boai Cam-pus)",
+                "DestinationStopNameZh": "勝利八街總站",
+                "DestinationStopNameEn": "Shengli 8th Street Terminus"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "快捷9號",
+            "En": "快捷9號"
+        },
+        "DepartureStopNameZh": "勝利八街總站",
+        "DepartureStopNameEn": "Shengli 8th Street Terminus",
+        "DestinationStopNameZh": "陽明交大(博愛校區)",
+        "DestinationStopNameEn": "NYCU(Boai Cam-pus)",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0805.jpg",
+        "City": "HsinchuCounty",
+        "CityCode": "HSQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    }
+]

@@ -52,6 +52,26 @@ interface VersionResponse {
   UpdateCheckTime: string;
 }
 
+interface BusRoute {
+  RouteUID: string;
+  RouteID: string;
+  RouteName: {
+    Zh_tw: string;
+    En: string;
+  };
+  DepartureStopNameZh: string;
+  DestinationStopNameZh: string;
+  RouteMapImageUrl: string;
+  City: string;
+  CityCode: string;
+  UpdateTime: string;
+  VersionID: number;
+}
+
+interface BusRoutesResponse {
+  Routes: BusRoute[];
+}
+
 interface VersionData {
   version: Array<{
     city: string;
@@ -274,5 +294,58 @@ for (const city of cities) {
     await sleep(1000); // 1 second delay before next city
   } catch (error) {
     console.error(`Error processing ${city}:`, error);
+  }
+}
+
+async function getBusRoutes(
+  city: string,
+  bus: string,
+  token: string,
+): Promise<BusRoute[] | null> {
+  try {
+    console.log(`Fetching routes for ${bus} in ${city}...`);
+    const req = await fetch(
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/Route/City/${city}/${bus}?%24format=JSON`,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
+      },
+    );
+
+    if (!req.ok) {
+      const errorMsg = `Error fetching routes for ${bus} in ${city}: ${req.status} ${req.statusText}`;
+      console.error(errorMsg);
+
+      if (req.status === 404) {
+        console.log(`No routes found for ${bus} in ${city}`);
+        return null;
+      }
+
+      const responseText = await req.text();
+      console.error(`Response body: ${responseText}`);
+
+      if (req.status === 401 || req.status === 403) {
+        console.error(
+          "Token might be invalid or expired. Getting new token...",
+        );
+        const newToken = await getNewToken(tdxClientId, tdxClientSecret);
+        return getBusRoutes(city, bus, newToken);
+      }
+
+      if (req.status === 429) {
+        console.log("Rate limit hit. Waiting 1 minute before retrying...");
+        await sleep(60 * 1000);
+        return getBusRoutes(city, bus, token);
+      }
+
+      return null;
+    }
+
+    const res = (await req.json()) as BusRoutesResponse;
+    return res.Routes;
+  } catch (error) {
+    console.error(`Error in getBusRoutes for ${bus} in ${city}:`, error);
+    return null;
   }
 }

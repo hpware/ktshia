@@ -60,11 +60,6 @@ Bun.serve({
         return new Response(`Bus stops ${url.pathname}`);
       }
       if (url.pathname.startsWith("/api/bus/routes/")) {
-        const route = url.pathname.split("/")[Symbol.iterator]();
-
-        return new Response(
-          `Bus route ${route.map((item) => item).join(", ")}`,
-        );
       }
       if (url.pathname === "/api/bus/alerts") {
         const alerts = await tdx.getAlerts();

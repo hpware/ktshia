@@ -1,0 +1,1173 @@
+[
+    {
+        "RouteUID": "NAN0029",
+        "RouteID": "0029",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "53",
+                "OperatorName": {
+                    "Zh_tw": "總達客運",
+                    "En": "All Day Bus Co., Ltd."
+                },
+                "OperatorCode": "AllDayBus",
+                "OperatorNo": "1702"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN002901",
+                "SubRouteID": "002901",
+                "OperatorIDs": [
+                    "53"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5",
+                    "En": "5"
+                },
+                "Headsign": "南投→水里",
+                "HeadsignEn": "Nantou→Shuili",
+                "Direction": 0,
+                "DepartureStopNameZh": "南投高中",
+                "DepartureStopNameEn": "National Nantou Senior High School",
+                "DestinationStopNameZh": "水里商工",
+                "DestinationStopNameEn": "Shuili Vocational High School of Commerce and Indu"
+            },
+            {
+                "SubRouteUID": "NAN002902",
+                "SubRouteID": "002902",
+                "OperatorIDs": [
+                    "53"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5",
+                    "En": "5"
+                },
+                "Headsign": "水里→南投",
+                "HeadsignEn": "Shuili→Nantou",
+                "Direction": 1,
+                "DepartureStopNameZh": "水里商工",
+                "DepartureStopNameEn": "Shuili Vocational High School of Commerce and Indu",
+                "DestinationStopNameZh": "南投高中",
+                "DestinationStopNameEn": "National Nantou Senior High School"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5",
+            "En": "5"
+        },
+        "DepartureStopNameZh": "南投高中",
+        "DepartureStopNameEn": "National Nantou Senior High School",
+        "DestinationStopNameZh": "水里商工",
+        "DestinationStopNameEn": "Shuili Vocational High School of Commerce and Indu",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0029.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0561",
+        "RouteID": "0561",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "103",
+                "OperatorName": {
+                    "Zh_tw": "南投縣政府",
+                    "En": "Nantou County Government"
+                },
+                "OperatorCode": "NantouCounty",
+                "OperatorNo": "0903"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN056101",
+                "SubRouteID": "056101",
+                "OperatorIDs": [
+                    "103"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0561",
+                    "En": "0561"
+                },
+                "Headsign": "潭南→人和→水里",
+                "Direction": 0,
+                "DepartureStopNameZh": "潭南國小",
+                "DepartureStopNameEn": "Tannan Elementary School",
+                "DestinationStopNameZh": "水里火車站",
+                "DestinationStopNameEn": "Shuili Station"
+            },
+            {
+                "SubRouteUID": "NAN056102",
+                "SubRouteID": "056102",
+                "OperatorIDs": [
+                    "103"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0561",
+                    "En": "0561"
+                },
+                "Headsign": "水里→人和→潭南",
+                "Direction": 1,
+                "DepartureStopNameZh": "水里火車站",
+                "DepartureStopNameEn": "Shuili Station",
+                "DestinationStopNameZh": "潭南國小",
+                "DestinationStopNameEn": "Tannan Elementary School"
+            },
+            {
+                "SubRouteUID": "NAN0561A1",
+                "SubRouteID": "0561A1",
+                "OperatorIDs": [
+                    "103"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0561A",
+                    "En": "0561A"
+                },
+                "Headsign": "潭南→人和→水里[繞駛洽波石社區]",
+                "Direction": 0,
+                "DepartureStopNameZh": "潭南國小",
+                "DepartureStopNameEn": "Tannan Elementary School",
+                "DestinationStopNameZh": "水里火車站",
+                "DestinationStopNameEn": "Shuili Station"
+            },
+            {
+                "SubRouteUID": "NAN0561A2",
+                "SubRouteID": "0561A2",
+                "OperatorIDs": [
+                    "103"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0561A",
+                    "En": "0561A"
+                },
+                "Headsign": "水里→人和→潭南[繞駛洽波石社區]",
+                "Direction": 1,
+                "DepartureStopNameZh": "水里火車站",
+                "DepartureStopNameEn": "Shuili Station",
+                "DestinationStopNameZh": "潭南國小",
+                "DestinationStopNameEn": "Tannan Elementary School"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0561",
+            "En": "0561"
+        },
+        "DepartureStopNameZh": "潭南國小",
+        "DepartureStopNameEn": "Tannan Elementary School",
+        "DestinationStopNameZh": "水里火車站",
+        "DestinationStopNameEn": "Shuili Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0561.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0580",
+        "RouteID": "0580",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "88",
+                "OperatorName": {
+                    "Zh_tw": "草屯鎮公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1007"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN058001",
+                "SubRouteID": "058001",
+                "OperatorIDs": [
+                    "88"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "路東1",
+                    "En": "路東1"
+                },
+                "Headsign": "草屯鎮公所→頂埔",
+                "HeadsignEn": "Caotun Township Office,Nanto County→Dingpu",
+                "Direction": 0,
+                "DepartureStopNameZh": "草屯鎮公所",
+                "DepartureStopNameEn": "Caotun Township Office,Nanto County",
+                "DestinationStopNameZh": "頂埔站",
+                "DestinationStopNameEn": "Dingpu"
+            },
+            {
+                "SubRouteUID": "NAN058002",
+                "SubRouteID": "058002",
+                "OperatorIDs": [
+                    "88"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "路東1",
+                    "En": "路東1"
+                },
+                "Headsign": "頂埔→草屯鎮公所",
+                "HeadsignEn": "Dingpu→Caotun Township Office,Nanto County",
+                "Direction": 1,
+                "DepartureStopNameZh": "頂埔",
+                "DepartureStopNameEn": "Dingpu",
+                "DestinationStopNameZh": "草屯鎮公所",
+                "DestinationStopNameEn": "Caotun Township Office,Nanto County"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "路東1",
+            "En": "路東1"
+        },
+        "DepartureStopNameZh": "草屯鎮公所",
+        "DepartureStopNameEn": "Caotun Township Office,Nanto County",
+        "DestinationStopNameZh": "頂埔站",
+        "DestinationStopNameEn": "Dingpu",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0580.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0581",
+        "RouteID": "0581",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "88",
+                "OperatorName": {
+                    "Zh_tw": "草屯鎮公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1007"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN058101",
+                "SubRouteID": "058101",
+                "OperatorIDs": [
+                    "88"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "路東2",
+                    "En": "路東2"
+                },
+                "Headsign": "草屯鎮公所→頂埔",
+                "HeadsignEn": "Caotun Township Office,Nanto County→Dingpu",
+                "Direction": 0,
+                "DepartureStopNameZh": "草屯鎮公所",
+                "DepartureStopNameEn": "Caotun Township Office,Nanto County",
+                "DestinationStopNameZh": "頂埔",
+                "DestinationStopNameEn": "Dingpu"
+            },
+            {
+                "SubRouteUID": "NAN058102",
+                "SubRouteID": "058102",
+                "OperatorIDs": [
+                    "88"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "路東2",
+                    "En": "路東2"
+                },
+                "Headsign": "頂埔→草屯鎮公所",
+                "HeadsignEn": "Dingpu→Caotun Township Office,Nanto County",
+                "Direction": 1,
+                "DepartureStopNameZh": "頂埔",
+                "DepartureStopNameEn": "Dingpu",
+                "DestinationStopNameZh": "草屯鎮公所",
+                "DestinationStopNameEn": "Caotun Township Office,Nanto County"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "路東2",
+            "En": "路東2"
+        },
+        "DepartureStopNameZh": "草屯鎮公所",
+        "DepartureStopNameEn": "Caotun Township Office,Nanto County",
+        "DestinationStopNameZh": "頂埔",
+        "DestinationStopNameEn": "Dingpu",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0581.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0582",
+        "RouteID": "0582",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "88",
+                "OperatorName": {
+                    "Zh_tw": "草屯鎮公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1007"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN058201",
+                "SubRouteID": "058201",
+                "OperatorIDs": [
+                    "88"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "路西",
+                    "En": "路西"
+                },
+                "Headsign": "草屯鎮公所→惠德宮",
+                "HeadsignEn": "Caotun Township Office,Nanto County→Huide Temple",
+                "Direction": 0,
+                "DepartureStopNameZh": "草屯鎮公所",
+                "DepartureStopNameEn": "Caotun Township Office,Nanto County",
+                "DestinationStopNameZh": "佑民醫院站",
+                "DestinationStopNameEn": "Yumin Hospital"
+            },
+            {
+                "SubRouteUID": "NAN058202",
+                "SubRouteID": "058202",
+                "OperatorIDs": [
+                    "88"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "路西",
+                    "En": "路西"
+                },
+                "Headsign": "惠德宮→草屯鎮公所",
+                "HeadsignEn": "Huide Temple→Caotun Township Office,Nanto County",
+                "Direction": 1,
+                "DepartureStopNameZh": "佑民醫院站",
+                "DepartureStopNameEn": "Yumin Hospital",
+                "DestinationStopNameZh": "草屯鎮公所",
+                "DestinationStopNameEn": "Caotun Township Office,Nanto County"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "路西",
+            "En": "路西"
+        },
+        "DepartureStopNameZh": "草屯鎮公所",
+        "DepartureStopNameEn": "Caotun Township Office,Nanto County",
+        "DestinationStopNameZh": "佑民醫院站",
+        "DestinationStopNameEn": "Yumin Hospital",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0582.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0584",
+        "RouteID": "0584",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "88",
+                "OperatorName": {
+                    "Zh_tw": "草屯鎮公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1007"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN058401",
+                "SubRouteID": "058401",
+                "OperatorIDs": [
+                    "88"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "路西2",
+                    "En": "路西2"
+                },
+                "Headsign": "路西2",
+                "HeadsignEn": "Road West2",
+                "Direction": 0,
+                "DepartureStopNameZh": "草屯鎮公所站",
+                "DepartureStopNameEn": "Caotun Township Office",
+                "DestinationStopNameZh": "寶島時代村站",
+                "DestinationStopNameEn": "Taiwan Times Village"
+            },
+            {
+                "SubRouteUID": "NAN058402",
+                "SubRouteID": "058402",
+                "OperatorIDs": [
+                    "88"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "路西2",
+                    "En": "路西2"
+                },
+                "Headsign": "路西2",
+                "HeadsignEn": "Road West2",
+                "Direction": 1,
+                "DepartureStopNameZh": "寶島時代村站",
+                "DepartureStopNameEn": "Taiwan Times Village",
+                "DestinationStopNameZh": "草屯鎮公所站",
+                "DestinationStopNameEn": "Caotun Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "路西2",
+            "En": "路西2"
+        },
+        "DepartureStopNameZh": "草屯鎮公所站",
+        "DepartureStopNameEn": "Caotun Township Office",
+        "DestinationStopNameZh": "寶島時代村站",
+        "DestinationStopNameEn": "Taiwan Times Village",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0584.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0585",
+        "RouteID": "0585",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "88",
+                "OperatorName": {
+                    "Zh_tw": "草屯鎮公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1007"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN058501",
+                "SubRouteID": "058501",
+                "OperatorIDs": [
+                    "88"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "路東3",
+                    "En": "路東3"
+                },
+                "Headsign": "路東3",
+                "HeadsignEn": "Road East3",
+                "Direction": 0,
+                "DepartureStopNameZh": "草屯鎮公所站",
+                "DepartureStopNameEn": "Caotun Township Office",
+                "DestinationStopNameZh": "石灼巷站",
+                "DestinationStopNameEn": "Shizhuo"
+            },
+            {
+                "SubRouteUID": "NAN058502",
+                "SubRouteID": "058502",
+                "OperatorIDs": [
+                    "88"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "路東3",
+                    "En": "路東3"
+                },
+                "Headsign": "路東3",
+                "HeadsignEn": "Road East3",
+                "Direction": 1,
+                "DepartureStopNameZh": "石灼巷站",
+                "DepartureStopNameEn": "Shizhuo",
+                "DestinationStopNameZh": "草屯鎮公所站",
+                "DestinationStopNameEn": "Caotun Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "路東3",
+            "En": "路東3"
+        },
+        "DepartureStopNameZh": "草屯鎮公所站",
+        "DepartureStopNameEn": "Caotun Township Office",
+        "DestinationStopNameZh": "石灼巷站",
+        "DestinationStopNameEn": "Shizhuo",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0585.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0590",
+        "RouteID": "0590",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "89",
+                "OperatorName": {
+                    "Zh_tw": "中寮鄉公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "0414"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN059001",
+                "SubRouteID": "059001",
+                "OperatorIDs": [
+                    "89"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "南中寮線1",
+                    "En": "南中寮線1"
+                },
+                "Headsign": "頂城子→鄉親寮→大坑→鄉親寮",
+                "HeadsignEn": "Dingchengzi→Xiangqinliao→Dakeng→Xiangqinliao",
+                "Direction": 0,
+                "DepartureStopNameZh": "頂城子站",
+                "DepartureStopNameEn": "Dingchengzi",
+                "DestinationStopNameZh": "鄉親寮站",
+                "DestinationStopNameEn": "Xiangqinliao"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "南中寮線1",
+            "En": "南中寮線1"
+        },
+        "DepartureStopNameZh": "頂城子站",
+        "DepartureStopNameEn": "Dingchengzi",
+        "DestinationStopNameZh": "鄉親寮站",
+        "DestinationStopNameEn": "Xiangqinliao",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0590.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0591",
+        "RouteID": "0591",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "89",
+                "OperatorName": {
+                    "Zh_tw": "中寮鄉公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "0414"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN059101",
+                "SubRouteID": "059101",
+                "OperatorIDs": [
+                    "89"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "南中寮線2",
+                    "En": "南中寮線2"
+                },
+                "Headsign": "鄉親寮→粗坑→大坑→鄉親寮→頂城子",
+                "HeadsignEn": "Xiangqinliao→Cukeng→Dakeng→Xiangqinliao→Dingchengzi",
+                "Direction": 0,
+                "DepartureStopNameZh": "鄉親寮站",
+                "DepartureStopNameEn": "Xiangqinliao",
+                "DestinationStopNameZh": "鄉親寮站",
+                "DestinationStopNameEn": "Xiangqinliao"
+            },
+            {
+                "SubRouteUID": "NAN059102",
+                "SubRouteID": "059102",
+                "OperatorIDs": [
+                    "89"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "南中寮線2",
+                    "En": "南中寮線2"
+                },
+                "Headsign": "頂城子→鄉親寮→大坑→粗坑→鄉親寮",
+                "HeadsignEn": "Dingchengzi→Xiangqinliao→Dakeng→Cukeng→Xiangqinliao",
+                "Direction": 1,
+                "DepartureStopNameZh": "鄉親寮站",
+                "DepartureStopNameEn": "Xiangqinliao",
+                "DestinationStopNameZh": "鄉親寮站",
+                "DestinationStopNameEn": "Xiangqinliao"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "南中寮線2",
+            "En": "南中寮線2"
+        },
+        "DepartureStopNameZh": "鄉親寮站",
+        "DepartureStopNameEn": "Xiangqinliao",
+        "DestinationStopNameZh": "鄉親寮站",
+        "DestinationStopNameEn": "Xiangqinliao",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0591.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0592",
+        "RouteID": "0592",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "89",
+                "OperatorName": {
+                    "Zh_tw": "中寮鄉公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "0414"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN059201",
+                "SubRouteID": "059201",
+                "OperatorIDs": [
+                    "89"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "南中寮線3",
+                    "En": "南中寮線3"
+                },
+                "Headsign": "鄉親寮→粗坑→大坑→鄉親寮",
+                "HeadsignEn": "Xiangqinliao→Cukeng→Dakeng→Xiangqinliao",
+                "Direction": 0,
+                "DepartureStopNameZh": "鄉親寮站",
+                "DepartureStopNameEn": "Xiangqinliao",
+                "DestinationStopNameZh": "鄉親寮站",
+                "DestinationStopNameEn": "Xiangqinliao"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "南中寮線3",
+            "En": "南中寮線3"
+        },
+        "DepartureStopNameZh": "鄉親寮站",
+        "DepartureStopNameEn": "Xiangqinliao",
+        "DestinationStopNameZh": "鄉親寮站",
+        "DestinationStopNameEn": "Xiangqinliao",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0592.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0593",
+        "RouteID": "0593",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "89",
+                "OperatorName": {
+                    "Zh_tw": "中寮鄉公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "0414"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN059301",
+                "SubRouteID": "059301",
+                "OperatorIDs": [
+                    "89"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "南中寮線4",
+                    "En": "南中寮線4"
+                },
+                "Headsign": "鄉親寮→大坑→粗坑→鄉親寮→頂城子",
+                "HeadsignEn": "Xiangqinliao→Dakeng→Cukeng→Xiangqinliao→Dingchengzi",
+                "Direction": 0,
+                "DepartureStopNameZh": "鄉親寮站",
+                "DepartureStopNameEn": "Xiangqinliao",
+                "DestinationStopNameZh": "頂城子站",
+                "DestinationStopNameEn": "Dingchengzi"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "南中寮線4",
+            "En": "南中寮線4"
+        },
+        "DepartureStopNameZh": "鄉親寮站",
+        "DepartureStopNameEn": "Xiangqinliao",
+        "DestinationStopNameZh": "頂城子站",
+        "DestinationStopNameEn": "Dingchengzi",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0593.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0706",
+        "RouteID": "0706",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "64",
+                "OperatorName": {
+                    "Zh_tw": "南投客運",
+                    "En": "Nantou Bus Co., Ltd."
+                },
+                "OperatorCode": "NantouBus",
+                "OperatorNo": "0902"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN070601",
+                "SubRouteID": "070601",
+                "OperatorIDs": [
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "1",
+                    "En": "1"
+                },
+                "Headsign": "埔里→法治→萬豐",
+                "HeadsignEn": "Puli→Fazhi→Wanfeng",
+                "Direction": 0,
+                "DepartureStopNameZh": "埔里總站",
+                "DepartureStopNameEn": "Puli",
+                "DestinationStopNameZh": "法治",
+                "DestinationStopNameEn": "Fazhi"
+            },
+            {
+                "SubRouteUID": "NAN070602",
+                "SubRouteID": "070602",
+                "OperatorIDs": [
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "1",
+                    "En": "1"
+                },
+                "Headsign": "萬豐→法治→埔里",
+                "HeadsignEn": "Wanfeng→Fazhi→Puli",
+                "Direction": 1,
+                "DepartureStopNameZh": "法治",
+                "DepartureStopNameEn": "Fazhi",
+                "DestinationStopNameZh": "埔里總站",
+                "DestinationStopNameEn": "Puli"
+            },
+            {
+                "SubRouteUID": "NAN0706A1",
+                "SubRouteID": "0706A1",
+                "OperatorIDs": [
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "1A",
+                    "En": "1A"
+                },
+                "Headsign": "暨南大學→埔里→中正→法治→萬豐",
+                "HeadsignEn": "National Chi Nan University→Puli→Zhongzheng→Fazhi→Wanfeng",
+                "Direction": 0,
+                "DepartureStopNameZh": "行政大樓",
+                "DepartureStopNameEn": "Administrative Building",
+                "DestinationStopNameZh": "法治",
+                "DestinationStopNameEn": "Fazhi"
+            },
+            {
+                "SubRouteUID": "NAN0706A2",
+                "SubRouteID": "0706A2",
+                "OperatorIDs": [
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "1A",
+                    "En": "1A"
+                },
+                "Headsign": "萬豐→法治→中正→埔里→暨南大學",
+                "HeadsignEn": "Wanfeng→Fazhi→Zhongzheng→Puli→National Chi Nan University",
+                "Direction": 1,
+                "DepartureStopNameZh": "法治",
+                "DepartureStopNameEn": "Fazhi",
+                "DestinationStopNameZh": "行政大樓",
+                "DestinationStopNameEn": "Administrative Building"
+            },
+            {
+                "SubRouteUID": "NAN0706B1",
+                "SubRouteID": "0706B1",
+                "OperatorIDs": [
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "1B",
+                    "En": "1B"
+                },
+                "Headsign": "埔里→暨南大學",
+                "HeadsignEn": "Puli→National Chi Nan University",
+                "Direction": 0,
+                "DepartureStopNameZh": "埔里站",
+                "DepartureStopNameEn": "Puli Station",
+                "DestinationStopNameZh": "行政大樓",
+                "DestinationStopNameEn": "Administrative Building"
+            },
+            {
+                "SubRouteUID": "NAN0706B2",
+                "SubRouteID": "0706B2",
+                "OperatorIDs": [
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "1B",
+                    "En": "1B"
+                },
+                "Headsign": "暨南大學→埔里",
+                "HeadsignEn": "National Chi Nan University →Puli",
+                "Direction": 1,
+                "DepartureStopNameZh": "行政大樓",
+                "DepartureStopNameEn": "Administrative Building",
+                "DestinationStopNameZh": "埔里站",
+                "DestinationStopNameEn": "Puli Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "DepartureStopNameZh": "埔里總站",
+        "DepartureStopNameEn": "Puli",
+        "DestinationStopNameZh": "法治",
+        "DestinationStopNameEn": "Fazhi",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0706.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0707",
+        "RouteID": "0707",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "64",
+                "OperatorName": {
+                    "Zh_tw": "南投客運",
+                    "En": "Nantou Bus Co., Ltd."
+                },
+                "OperatorCode": "NantouBus",
+                "OperatorNo": "0902"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN070701",
+                "SubRouteID": "070701",
+                "OperatorIDs": [
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "2",
+                    "En": "2"
+                },
+                "Headsign": "清境農場國民賓館→青青草原",
+                "HeadsignEn": "Cingjing Guest House→Green Green Grassland",
+                "Direction": 0,
+                "DepartureStopNameZh": "公車接駁處",
+                "DepartureStopNameEn": "Bus station",
+                "DestinationStopNameZh": "青青草原",
+                "DestinationStopNameEn": "Qingqingcaoyuan"
+            },
+            {
+                "SubRouteUID": "NAN070702",
+                "SubRouteID": "070702",
+                "OperatorIDs": [
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "2",
+                    "En": "2"
+                },
+                "Headsign": "青青草原→清境農場國民賓館",
+                "HeadsignEn": "Green Green Grassland→Cingjing Guest House",
+                "Direction": 1,
+                "DepartureStopNameZh": "青青草原",
+                "DepartureStopNameEn": "Qingqingcaoyuan",
+                "DestinationStopNameZh": "公車接駁處",
+                "DestinationStopNameEn": "Bus station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "2",
+            "En": "2"
+        },
+        "DepartureStopNameZh": "公車接駁處",
+        "DepartureStopNameEn": "Bus station",
+        "DestinationStopNameZh": "青青草原",
+        "DestinationStopNameEn": "Qingqingcaoyuan",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0707.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0776",
+        "RouteID": "0776",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "60",
+                "OperatorName": {
+                    "Zh_tw": "彰化客運",
+                    "En": "Chang Hua Bus Co., Ltd."
+                },
+                "OperatorCode": "ChangHuaBus",
+                "OperatorNo": "1403"
+            },
+            {
+                "OperatorID": "61",
+                "OperatorName": {
+                    "Zh_tw": "員林客運",
+                    "En": "Yuan Lin Bus Co., Ltd."
+                },
+                "OperatorCode": "YuanLinBus",
+                "OperatorNo": "1001"
+            },
+            {
+                "OperatorID": "64",
+                "OperatorName": {
+                    "Zh_tw": "南投客運",
+                    "En": "Nantou Bus Co., Ltd."
+                },
+                "OperatorCode": "NantouBus",
+                "OperatorNo": "0902"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN077601",
+                "SubRouteID": "077601",
+                "OperatorIDs": [
+                    "60",
+                    "61",
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "3",
+                    "En": "3"
+                },
+                "Headsign": "草屯→南投→溪頭[經中興]",
+                "HeadsignEn": "Caotun→Nantou→Xitou[via Zhongxing]",
+                "Direction": 0,
+                "DepartureStopNameZh": "南岸",
+                "DepartureStopNameEn": "Nanan",
+                "DestinationStopNameZh": "溪頭",
+                "DestinationStopNameEn": "Xitou"
+            },
+            {
+                "SubRouteUID": "NAN077602",
+                "SubRouteID": "077602",
+                "OperatorIDs": [
+                    "60",
+                    "61",
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "3",
+                    "En": "3"
+                },
+                "Headsign": "溪頭→南投→草屯[經中興]",
+                "HeadsignEn": "Xitou→Nantou→Caotun[via Zhongxing]",
+                "Direction": 1,
+                "DepartureStopNameZh": "溪頭",
+                "DepartureStopNameEn": "Xitou",
+                "DestinationStopNameZh": "南岸",
+                "DestinationStopNameEn": "Nanan"
+            },
+            {
+                "SubRouteUID": "NAN0776A1",
+                "SubRouteID": "0776A1",
+                "OperatorIDs": [
+                    "60",
+                    "61",
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "3A",
+                    "En": "3A"
+                },
+                "Headsign": "草屯→南投→溪頭[經彰南路]",
+                "HeadsignEn": "Caotun→Nantou→Xitou[via Zhangnan Rd.]",
+                "Direction": 0,
+                "DepartureStopNameZh": "南岸",
+                "DepartureStopNameEn": "Nanan",
+                "DestinationStopNameZh": "溪頭",
+                "DestinationStopNameEn": "Xitou"
+            },
+            {
+                "SubRouteUID": "NAN0776A2",
+                "SubRouteID": "0776A2",
+                "OperatorIDs": [
+                    "60",
+                    "61",
+                    "64"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "3A",
+                    "En": "3A"
+                },
+                "Headsign": "溪頭→南投→草屯[經彰南路]",
+                "HeadsignEn": "Xitou→Nantou→Caotun[via Zhangnan Rd.]",
+                "Direction": 1,
+                "DepartureStopNameZh": "溪頭",
+                "DepartureStopNameEn": "Xitou",
+                "DestinationStopNameZh": "南岸",
+                "DestinationStopNameEn": "Nanan"
+            },
+            {
+                "SubRouteUID": "NAN0776B1",
+                "SubRouteID": "0776B1",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "3B",
+                    "En": "3B"
+                },
+                "Headsign": "南投→溪頭[經彰南路]",
+                "HeadsignEn": "Nantou→Xitou[via Zhangnan Rd.]",
+                "Direction": 0,
+                "DepartureStopNameZh": "南投",
+                "DepartureStopNameEn": "Nantou",
+                "DestinationStopNameZh": "溪頭",
+                "DestinationStopNameEn": "Xitou"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "3",
+            "En": "3"
+        },
+        "DepartureStopNameZh": "南岸",
+        "DepartureStopNameEn": "Nanan",
+        "DestinationStopNameZh": "溪頭",
+        "DestinationStopNameEn": "Xitou",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0776.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "NAN0803",
+        "RouteID": "0803",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "60",
+                "OperatorName": {
+                    "Zh_tw": "彰化客運",
+                    "En": "Chang Hua Bus Co., Ltd."
+                },
+                "OperatorCode": "ChangHuaBus",
+                "OperatorNo": "1403"
+            }
+        ],
+        "AuthorityID": "016",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "NAN080301",
+                "SubRouteID": "080301",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "6",
+                    "En": "6"
+                },
+                "Headsign": "高鐵臺中站—南投—松柏嶺(經國道3號)(台灣好行八卦山線—台中出發)",
+                "HeadsignEn": "High—speed Rail Taichung Station — Nantou — Songbailing (via National Highway No. 3) (Taiwan Haoxing Bagua Mountain Line — from Taichung)",
+                "Direction": 0,
+                "DepartureStopNameZh": "高鐵台中站",
+                "DepartureStopNameEn": "HSR Taichung Station",
+                "DestinationStopNameZh": "受天宮",
+                "DestinationStopNameEn": "Shoutian Temple"
+            },
+            {
+                "SubRouteUID": "NAN080302",
+                "SubRouteID": "080302",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "6",
+                    "En": "6"
+                },
+                "Headsign": "松柏嶺—南投—高鐵臺中站(經國道3號)(台灣好行八卦山線—台中出發)",
+                "HeadsignEn": "Songbailing—Nantou—High—speed Rail Taichung Station(via National Highway No. 3) (Taiwan Haoxing Bagua Mountain Line — from Taichung)",
+                "Direction": 1,
+                "DepartureStopNameZh": "受天宮",
+                "DepartureStopNameEn": "Shoutian Temple",
+                "DestinationStopNameZh": "高鐵台中站",
+                "DestinationStopNameEn": "HSR Taichung Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "6",
+            "En": "6"
+        },
+        "DepartureStopNameZh": "高鐵台中站",
+        "DepartureStopNameEn": "HSR Taichung Station",
+        "DestinationStopNameZh": "受天宮",
+        "DestinationStopNameEn": "Shoutian Temple",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0803.jpg",
+        "City": "NantouCounty",
+        "CityCode": "NAN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    }
+]

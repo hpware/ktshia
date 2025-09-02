@@ -1,0 +1,180 @@
+[
+    {
+        "RouteUID": "MIA0737",
+        "RouteID": "0737",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "67",
+                "OperatorName": {
+                    "Zh_tw": "金牌客運",
+                    "En": "Champion Bus Co., Ltd."
+                },
+                "OperatorCode": "ChampionBus",
+                "OperatorNo": "0808"
+            }
+        ],
+        "AuthorityID": "014",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "MIA073701",
+                "SubRouteID": "073701",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101",
+                    "En": "101"
+                },
+                "Headsign": "竹南科→高鐵苗栗站→雪霸管理處",
+                "HeadsignEn": "Jhunan Science Park→THSR Miaoli Station→Shei—pa National Park Headquarters",
+                "Direction": 0,
+                "DepartureStopNameZh": "竹南科學園區",
+                "DepartureStopNameEn": "Jhunan Science Park",
+                "DestinationStopNameZh": "雪霸國家公園管理處",
+                "DestinationStopNameEn": "Shei-pa National Park Headquarters"
+            },
+            {
+                "SubRouteUID": "MIA073702",
+                "SubRouteID": "073702",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101",
+                    "En": "101"
+                },
+                "Headsign": "雪霸管理處→高鐵苗栗站→竹南科",
+                "HeadsignEn": "Shei—pa National Park Headquarters→THSR Miaoli Station→Jhunan Science Park",
+                "Direction": 1,
+                "DepartureStopNameZh": "雪霸國家公園管理處",
+                "DepartureStopNameEn": "Shei-pa National Park Headquarters",
+                "DestinationStopNameZh": "竹南科學園區",
+                "DestinationStopNameEn": "Jhunan Science Park"
+            },
+            {
+                "SubRouteUID": "MIA0737A1",
+                "SubRouteID": "0737A1",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101A",
+                    "En": "101A"
+                },
+                "Headsign": "竹南科→高鐵苗栗站",
+                "HeadsignEn": "Jhunan Science Park→THSR Miaoli Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "竹南科學園區",
+                "DepartureStopNameEn": "Jhunan Science Park",
+                "DestinationStopNameZh": "高鐵苗栗站",
+                "DestinationStopNameEn": "THSR Miaoli Station"
+            },
+            {
+                "SubRouteUID": "MIA0737A2",
+                "SubRouteID": "0737A2",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101A",
+                    "En": "101A"
+                },
+                "Headsign": "高鐵苗栗站→竹南科",
+                "HeadsignEn": "THSR Miaoli Station→Jhunan Science Park",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵苗栗站",
+                "DepartureStopNameEn": "THSR Miaoli Station",
+                "DestinationStopNameZh": "竹南科學園區",
+                "DestinationStopNameEn": "Jhunan Science Park"
+            },
+            {
+                "SubRouteUID": "MIA0737B1",
+                "SubRouteID": "0737B1",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101B",
+                    "En": "101B"
+                },
+                "Headsign": "雪霸管理處→高鐵苗栗站",
+                "HeadsignEn": "Shei—pa National Park Headquarters→THSR Miaoli Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "雪霸國家公園管理處",
+                "DepartureStopNameEn": "Shei-pa National Park Headquarters",
+                "DestinationStopNameZh": "高鐵苗栗站",
+                "DestinationStopNameEn": "THSR Miaoli Station"
+            },
+            {
+                "SubRouteUID": "MIA0737B2",
+                "SubRouteID": "0737B2",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101B",
+                    "En": "101B"
+                },
+                "Headsign": "高鐵苗栗站→雪霸管理處",
+                "HeadsignEn": "THSR Miaoli Station→Shei—pa National Park Headquarters",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵苗栗站",
+                "DepartureStopNameEn": "THSR Miaoli Station",
+                "DestinationStopNameZh": "雪霸國家公園管理處",
+                "DestinationStopNameEn": "Shei-pa National Park Headquarters"
+            },
+            {
+                "SubRouteUID": "MIA0737C1",
+                "SubRouteID": "0737C1",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101C",
+                    "En": "101C"
+                },
+                "Headsign": "竹南科→高鐵苗栗站(繞駛育達校區)",
+                "HeadsignEn": "Jhunan Science Park→THSR Miaoli Station(via Yu Da Campus)",
+                "Direction": 0,
+                "DepartureStopNameZh": "竹南科學園區",
+                "DepartureStopNameEn": "Jhunan Science Park",
+                "DestinationStopNameZh": "高鐵苗栗站",
+                "DestinationStopNameEn": "THSR Miaoli Station"
+            },
+            {
+                "SubRouteUID": "MIA0737C2",
+                "SubRouteID": "0737C2",
+                "OperatorIDs": [
+                    "67"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101C",
+                    "En": "101C"
+                },
+                "Headsign": "高鐵苗栗站→竹南科(繞駛育達校區)",
+                "HeadsignEn": "THSR Miaoli Station→Jhunan Science Park(via Yu Da Campus)",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵苗栗站",
+                "DepartureStopNameEn": "THSR Miaoli Station",
+                "DestinationStopNameZh": "竹南科學園區",
+                "DestinationStopNameEn": "Jhunan Science Park"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "DepartureStopNameZh": "竹南科學園區",
+        "DepartureStopNameEn": "Jhunan Science Park",
+        "DestinationStopNameZh": "雪霸國家公園管理處",
+        "DestinationStopNameEn": "Shei-pa National Park Headquarters",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0737.jpg",
+        "City": "MiaoliCounty",
+        "CityCode": "MIA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    }
+]

@@ -1,0 +1,926 @@
+[
+    {
+        "RouteUID": "CYI0119",
+        "RouteID": "0119",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "019",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYI011901",
+                "SubRouteID": "011901",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活3路",
+                    "En": "樂活3路"
+                },
+                "Headsign": "奉天宮—奉天宮",
+                "HeadsignEn": "Fengtian temple→Fengtian temple",
+                "Direction": 0,
+                "DepartureStopNameZh": "許氏宗祠(預約站)",
+                "DepartureStopNameEn": "Xu&#39;s Ancestral Hall",
+                "DestinationStopNameZh": "許厝庄福德宮(預約站)",
+                "DestinationStopNameEn": "Hui Chu Chuang Fuk Fuk Palace"
+            },
+            {
+                "SubRouteUID": "CYI011902",
+                "SubRouteID": "011902",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活3路",
+                    "En": "樂活3路"
+                },
+                "Headsign": "奉天宮—奉天宮",
+                "HeadsignEn": "Fengtian temple→Fengtian temple",
+                "Direction": 1,
+                "DepartureStopNameZh": "許厝庄福德宮(預約站)",
+                "DepartureStopNameEn": "Hui Chu Chuang Fuk Fuk Palace",
+                "DestinationStopNameZh": "許氏宗祠(預約站)",
+                "DestinationStopNameEn": "Xu&#39;s Ancestral Hall"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "樂活3路",
+            "En": "樂活3路"
+        },
+        "DepartureStopNameZh": "許氏宗祠(預約站)",
+        "DepartureStopNameEn": "Xu&#39;s Ancestral Hall",
+        "DestinationStopNameZh": "許厝庄福德宮(預約站)",
+        "DestinationStopNameEn": "Hui Chu Chuang Fuk Fuk Palace",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0119.jpg",
+        "City": "Chiayi",
+        "CityCode": "CYI",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYI0123",
+        "RouteID": "0123",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "019",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYI012301",
+                "SubRouteID": "012301",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活1路",
+                    "En": "樂活1路"
+                },
+                "Headsign": "濟美仁愛之家→榮民醫院長照點",
+                "HeadsignEn": "Ji—Mei Residential Home for the Elderly→chiayi branch taichung Veterans general hospital long term care",
+                "Direction": 0,
+                "DepartureStopNameZh": "濟美仁愛之家",
+                "DepartureStopNameEn": "Ji-Mei Residential Home for the Elderly",
+                "DestinationStopNameZh": "榮民醫院長照點",
+                "DestinationStopNameEn": "chiayi branch taichung Veterans general hospital l"
+            },
+            {
+                "SubRouteUID": "CYI012302",
+                "SubRouteID": "012302",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活1路",
+                    "En": "樂活1路"
+                },
+                "Headsign": "榮民醫院長照點→濟美仁愛之家",
+                "HeadsignEn": "chiayi branch taichung Veterans general hospital long term care→Ji—Mei Residential Home for the Elderly",
+                "Direction": 1,
+                "DepartureStopNameZh": "榮民醫院長照點",
+                "DepartureStopNameEn": "chiayi branch taichung Veterans general hospital l",
+                "DestinationStopNameZh": "濟美仁愛之家",
+                "DestinationStopNameEn": "Ji-Mei Residential Home for the Elderly"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "樂活1路",
+            "En": "樂活1路"
+        },
+        "DepartureStopNameZh": "濟美仁愛之家",
+        "DepartureStopNameEn": "Ji-Mei Residential Home for the Elderly",
+        "DestinationStopNameZh": "榮民醫院長照點",
+        "DestinationStopNameEn": "chiayi branch taichung Veterans general hospital l",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0123.jpg",
+        "City": "Chiayi",
+        "CityCode": "CYI",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYI0124",
+        "RouteID": "0124",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "019",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYI012401",
+                "SubRouteID": "012401",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活2路",
+                    "En": "樂活2路"
+                },
+                "Headsign": "竹村里活動中心→市政府(中山路)",
+                "HeadsignEn": "Jhucun li Activity Center→City Hall(zhong shan Road)",
+                "Direction": 0,
+                "DepartureStopNameZh": "竹村里活動中心",
+                "DepartureStopNameEn": "Jhucun li Activity Center",
+                "DestinationStopNameZh": "市政府(中山路)",
+                "DestinationStopNameEn": "City Hall(zhong shan Road)"
+            },
+            {
+                "SubRouteUID": "CYI012402",
+                "SubRouteID": "012402",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活2路",
+                    "En": "樂活2路"
+                },
+                "Headsign": "市政府(中山路)→竹村里活動中心",
+                "HeadsignEn": "City Hall(zhong shan Road)→Jhucun li Activity Center",
+                "Direction": 1,
+                "DepartureStopNameZh": "市政府(中山路)",
+                "DepartureStopNameEn": "City Hall(zhong shan Road)",
+                "DestinationStopNameZh": "竹村里活動中心",
+                "DestinationStopNameEn": "Jhucun li Activity Center"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "樂活2路",
+            "En": "樂活2路"
+        },
+        "DepartureStopNameZh": "竹村里活動中心",
+        "DepartureStopNameEn": "Jhucun li Activity Center",
+        "DestinationStopNameZh": "市政府(中山路)",
+        "DestinationStopNameEn": "City Hall(zhong shan Road)",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0124.jpg",
+        "City": "Chiayi",
+        "CityCode": "CYI",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYI0128",
+        "RouteID": "0128",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "019",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYI012801",
+                "SubRouteID": "012801",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活5路",
+                    "En": "樂活5路"
+                },
+                "Headsign": "樂活5路",
+                "HeadsignEn": "Lohas 5 Road",
+                "Direction": 0,
+                "DepartureStopNameZh": "轉運中心",
+                "DepartureStopNameEn": "Chiayi City Transit Center",
+                "DestinationStopNameZh": "轉運中心",
+                "DestinationStopNameEn": "Chiayi City Transit Center"
+            },
+            {
+                "SubRouteUID": "CYI012802",
+                "SubRouteID": "012802",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活5路",
+                    "En": "樂活5路"
+                },
+                "Headsign": "樂活5路",
+                "HeadsignEn": "Lohas 5 Road",
+                "Direction": 1,
+                "DepartureStopNameZh": "轉運中心",
+                "DepartureStopNameEn": "Chiayi City Transit Center",
+                "DestinationStopNameZh": "轉運中心",
+                "DestinationStopNameEn": "Chiayi City Transit Center"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "樂活5路",
+            "En": "樂活5路"
+        },
+        "DepartureStopNameZh": "轉運中心",
+        "DepartureStopNameEn": "Chiayi City Transit Center",
+        "DestinationStopNameZh": "轉運中心",
+        "DestinationStopNameEn": "Chiayi City Transit Center",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0128.jpg",
+        "City": "Chiayi",
+        "CityCode": "CYI",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYI0129",
+        "RouteID": "0129",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "019",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYI012901",
+                "SubRouteID": "012901",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活6路",
+                    "En": "樂活6路"
+                },
+                "Headsign": "紅瓦里(1)全家超商→嘉義基督教醫院",
+                "HeadsignEn": "Hungwali 1 family mart→Chiayi Christian Hospital",
+                "Direction": 0,
+                "DepartureStopNameZh": "紅瓦里(1)全家超商",
+                "DepartureStopNameEn": "Hungwali 1 family mart",
+                "DestinationStopNameZh": "嘉義基督教醫院",
+                "DestinationStopNameEn": "Chiayi Christian Hospital"
+            },
+            {
+                "SubRouteUID": "CYI012902",
+                "SubRouteID": "012902",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活6路",
+                    "En": "樂活6路"
+                },
+                "Headsign": "嘉義基督教醫院→紅瓦里(1)全家超商",
+                "HeadsignEn": "Chiayi Christian Hospital→Hungwali 1 family mart",
+                "Direction": 1,
+                "DepartureStopNameZh": "嘉義基督教醫院",
+                "DepartureStopNameEn": "Chiayi Christian Hospital",
+                "DestinationStopNameZh": "紅瓦里(1)全家超商",
+                "DestinationStopNameEn": "Hungwali 1 family mart"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "樂活6路",
+            "En": "樂活6路"
+        },
+        "DepartureStopNameZh": "紅瓦里(1)全家超商",
+        "DepartureStopNameEn": "Hungwali 1 family mart",
+        "DestinationStopNameZh": "嘉義基督教醫院",
+        "DestinationStopNameEn": "Chiayi Christian Hospital",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0129.jpg",
+        "City": "Chiayi",
+        "CityCode": "CYI",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYI0130",
+        "RouteID": "0130",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "019",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYI013001",
+                "SubRouteID": "013001",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活7路",
+                    "En": "樂活7路"
+                },
+                "Headsign": "順興宮—順興宮",
+                "HeadsignEn": "Shunsing temple→Shunsing temple",
+                "Direction": 0,
+                "DepartureStopNameZh": "五港宮(預約站)",
+                "DepartureStopNameEn": "Wugang temple",
+                "DestinationStopNameZh": "五港宮(預約站)",
+                "DestinationStopNameEn": "Wugang temple"
+            },
+            {
+                "SubRouteUID": "CYI013002",
+                "SubRouteID": "013002",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活7路",
+                    "En": "樂活7路"
+                },
+                "Headsign": "順興宮—順興宮",
+                "HeadsignEn": "Shunsing temple→Shunsing temple",
+                "Direction": 1,
+                "DepartureStopNameZh": "五港宮(預約站)",
+                "DepartureStopNameEn": "Wugang temple",
+                "DestinationStopNameZh": "五港宮(預約站)",
+                "DestinationStopNameEn": "Wugang temple"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "樂活7路",
+            "En": "樂活7路"
+        },
+        "DepartureStopNameZh": "五港宮(預約站)",
+        "DepartureStopNameEn": "Wugang temple",
+        "DestinationStopNameZh": "五港宮(預約站)",
+        "DestinationStopNameEn": "Wugang temple",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0130.jpg",
+        "City": "Chiayi",
+        "CityCode": "CYI",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYI0138",
+        "RouteID": "0138",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "019",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYI013801",
+                "SubRouteID": "013801",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活8路",
+                    "En": "樂活8路"
+                },
+                "Headsign": "泰勒瓦莊園→轉運中心",
+                "HeadsignEn": "Terroir Villa→Chiayi City Transit Center",
+                "Direction": 0,
+                "DepartureStopNameZh": "泰勒瓦莊園(預約站位)",
+                "DepartureStopNameEn": "Terroir Villa",
+                "DestinationStopNameZh": "轉運中心",
+                "DestinationStopNameEn": "Chiayi City Transit Center"
+            },
+            {
+                "SubRouteUID": "CYI013802",
+                "SubRouteID": "013802",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活8路",
+                    "En": "樂活8路"
+                },
+                "Headsign": "轉運中心→泰勒瓦莊園",
+                "HeadsignEn": "Chiayi City Transit Center→Terroir Villa",
+                "Direction": 1,
+                "DepartureStopNameZh": "轉運中心",
+                "DepartureStopNameEn": "Chiayi City Transit Center",
+                "DestinationStopNameZh": "泰勒瓦莊園(預約站位)",
+                "DestinationStopNameEn": "Terroir Villa"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "樂活8路",
+            "En": "樂活8路"
+        },
+        "DepartureStopNameZh": "泰勒瓦莊園(預約站位)",
+        "DepartureStopNameEn": "Terroir Villa",
+        "DestinationStopNameZh": "轉運中心",
+        "DestinationStopNameEn": "Chiayi City Transit Center",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0138.jpg",
+        "City": "Chiayi",
+        "CityCode": "CYI",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYI0139",
+        "RouteID": "0139",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "019",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYI013901",
+                "SubRouteID": "013901",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活9路",
+                    "En": "樂活9路"
+                },
+                "Headsign": "泰勒瓦莊園→榮民醫院長照點",
+                "HeadsignEn": "Terroir Villa→chiayi branch taichung Veterans general hospital long term care",
+                "Direction": 0,
+                "DepartureStopNameZh": "泰勒瓦莊園(預約站位)",
+                "DepartureStopNameEn": "Terroir Villa",
+                "DestinationStopNameZh": "榮民醫院長照點",
+                "DestinationStopNameEn": "chiayi branch taichung Veterans general hospital l"
+            },
+            {
+                "SubRouteUID": "CYI013902",
+                "SubRouteID": "013902",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活9路",
+                    "En": "樂活9路"
+                },
+                "Headsign": "榮民醫院長照點→泰勒瓦莊園",
+                "HeadsignEn": "chiayi branch taichung Veterans general hospital long term care→Terroir Villa",
+                "Direction": 1,
+                "DepartureStopNameZh": "榮民醫院長照點",
+                "DepartureStopNameEn": "chiayi branch taichung Veterans general hospital l",
+                "DestinationStopNameZh": "泰勒瓦莊園(預約站位)",
+                "DestinationStopNameEn": "Terroir Villa"
+            },
+            {
+                "SubRouteUID": "CYI0139A1",
+                "SubRouteID": "0139A1",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活9路A",
+                    "En": "樂活9路A"
+                },
+                "Headsign": "榮民醫院長照點→仁義潭水庫管理中心(預約站)",
+                "HeadsignEn": "chiayi branch taichung Veterans general hospital long term care→Renyitan Reservoir",
+                "Direction": 0,
+                "DepartureStopNameZh": "榮民醫院長照點",
+                "DepartureStopNameEn": "chiayi branch taichung Veterans general hospital l",
+                "DestinationStopNameZh": "仁義潭水庫管理中心(預約站)",
+                "DestinationStopNameEn": "Renyitan Reservoir"
+            },
+            {
+                "SubRouteUID": "CYI0139A2",
+                "SubRouteID": "0139A2",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "樂活9路A",
+                    "En": "樂活9路A"
+                },
+                "Headsign": "仁義潭水庫管理中心(預約站)→榮民醫院長照點",
+                "HeadsignEn": "Renyitan Reservoir→chiayi branch taichung Veterans general hospital long term care",
+                "Direction": 1,
+                "DepartureStopNameZh": "仁義潭水庫管理中心(預約站)",
+                "DepartureStopNameEn": "Renyitan Reservoir",
+                "DestinationStopNameZh": "榮民醫院長照點",
+                "DestinationStopNameEn": "chiayi branch taichung Veterans general hospital l"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "樂活9路",
+            "En": "樂活9路"
+        },
+        "DepartureStopNameZh": "泰勒瓦莊園(預約站位)",
+        "DepartureStopNameEn": "Terroir Villa",
+        "DestinationStopNameZh": "榮民醫院長照點",
+        "DestinationStopNameEn": "chiayi branch taichung Veterans general hospital l",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0139.jpg",
+        "City": "Chiayi",
+        "CityCode": "CYI",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYI0714",
+        "RouteID": "0714",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "45",
+                "OperatorName": {
+                    "Zh_tw": "國光客運",
+                    "En": "Kuo-Kuang Bus Co., Ltd."
+                },
+                "OperatorCode": "KuoKuangBus",
+                "OperatorNo": "1101"
+            }
+        ],
+        "AuthorityID": "019",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYI071401",
+                "SubRouteID": "071401",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "中山幹線(綠線)",
+                    "En": "中山幹線(綠線)"
+                },
+                "Headsign": "大富路→嘉義大學蘭潭校區",
+                "HeadsignEn": "Da Fu Road→Chiayi University Lan Tan Campus",
+                "Direction": 0,
+                "DepartureStopNameZh": "大富路",
+                "DepartureStopNameEn": "Da Fu Road",
+                "DestinationStopNameZh": "嘉義大學校區內",
+                "DestinationStopNameEn": "Chiayi University"
+            },
+            {
+                "SubRouteUID": "CYI071402",
+                "SubRouteID": "071402",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "中山幹線(綠線)",
+                    "En": "中山幹線(綠線)"
+                },
+                "Headsign": "嘉義大學蘭潭校區→大富路",
+                "HeadsignEn": "Chiayi University Lan Tan Campus→Da Fu Road",
+                "Direction": 1,
+                "DepartureStopNameZh": "嘉義大學校區內",
+                "DepartureStopNameEn": "Chiayi University",
+                "DestinationStopNameZh": "大富路",
+                "DestinationStopNameEn": "Da Fu Road"
+            },
+            {
+                "SubRouteUID": "CYI0714A1",
+                "SubRouteID": "0714A1",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "中山幹線(綠A線)A",
+                    "En": "中山幹線(綠A線)A"
+                },
+                "Headsign": "二二八國家紀念公園→嘉義大學蘭潭校區",
+                "HeadsignEn": "228 Memorial Park→Chiayi University Lan Tan Campus",
+                "Direction": 0,
+                "DepartureStopNameZh": "二二八國家紀念公園",
+                "DepartureStopNameEn": "228 Memorial Park",
+                "DestinationStopNameZh": "嘉義大學校區內",
+                "DestinationStopNameEn": "Chiayi University"
+            },
+            {
+                "SubRouteUID": "CYI0714A2",
+                "SubRouteID": "0714A2",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "中山幹線(綠A線)A",
+                    "En": "中山幹線(綠A線)A"
+                },
+                "Headsign": "嘉義大學蘭潭校區→二二八國家紀念公園",
+                "HeadsignEn": "Chiayi University Lan Tan Campus→228 Memorial Park",
+                "Direction": 1,
+                "DepartureStopNameZh": "嘉義大學校區內",
+                "DepartureStopNameEn": "Chiayi University",
+                "DestinationStopNameZh": "二二八國家紀念公園",
+                "DestinationStopNameEn": "228 Memorial Park"
+            },
+            {
+                "SubRouteUID": "CYI0714B1",
+                "SubRouteID": "0714B1",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "中山快捷(綠B線)B",
+                    "En": "中山快捷(綠B線)B"
+                },
+                "Headsign": "嘉義高工—嘉義高工",
+                "HeadsignEn": "National Chia—Yi Industrial Vocational High School—National Chia—Yi Industrial Vocational High School",
+                "Direction": 0,
+                "DepartureStopNameZh": "嘉義高工",
+                "DepartureStopNameEn": "Chia-yi Industrial Vocational High School",
+                "DestinationStopNameZh": "嘉義高工",
+                "DestinationStopNameEn": "Chia-yi Industrial Vocational High School"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "中山幹線(綠線)",
+            "En": "中山幹線(綠線)"
+        },
+        "DepartureStopNameZh": "大富路",
+        "DepartureStopNameEn": "Da Fu Road",
+        "DestinationStopNameZh": "嘉義大學校區內",
+        "DestinationStopNameEn": "Chiayi University",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0714.jpg",
+        "City": "Chiayi",
+        "CityCode": "CYI",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYI0715",
+        "RouteID": "0715",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "45",
+                "OperatorName": {
+                    "Zh_tw": "國光客運",
+                    "En": "Kuo-Kuang Bus Co., Ltd."
+                },
+                "OperatorCode": "KuoKuangBus",
+                "OperatorNo": "1101"
+            }
+        ],
+        "AuthorityID": "019",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYI071501",
+                "SubRouteID": "071501",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行光林我嘉線(黃線)",
+                    "En": "台灣好行光林我嘉線(黃線)"
+                },
+                "Headsign": "港坪運動公園→蘭潭",
+                "HeadsignEn": "Kang Ping Sport Park→Lantan",
+                "Direction": 0,
+                "DepartureStopNameZh": "港坪運動公園",
+                "DepartureStopNameEn": "Kang Ping Sport Park",
+                "DestinationStopNameZh": "蘭潭",
+                "DestinationStopNameEn": "Lantan"
+            },
+            {
+                "SubRouteUID": "CYI071502",
+                "SubRouteID": "071502",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行光林我嘉線(黃線)",
+                    "En": "台灣好行光林我嘉線(黃線)"
+                },
+                "Headsign": "蘭潭→港坪運動公園",
+                "HeadsignEn": "Lantan→Kang Ping Sport Park",
+                "Direction": 1,
+                "DepartureStopNameZh": "蘭潭",
+                "DepartureStopNameEn": "Lantan",
+                "DestinationStopNameZh": "港坪運動公園",
+                "DestinationStopNameEn": "Kang Ping Sport Park"
+            },
+            {
+                "SubRouteUID": "CYI0715A1",
+                "SubRouteID": "0715A1",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行光林我嘉線(黃線)A",
+                    "En": "台灣好行光林我嘉線(黃線)A"
+                },
+                "Headsign": "港坪運動公園→東洋新村1",
+                "HeadsignEn": "Kang Ping Sport Park→Dongyangxincun1",
+                "Direction": 0,
+                "DepartureStopNameZh": "港坪運動公園",
+                "DepartureStopNameEn": "Kang Ping Sport Park",
+                "DestinationStopNameZh": "東洋新村1",
+                "DestinationStopNameEn": "Dongyangxincun1"
+            },
+            {
+                "SubRouteUID": "CYI0715A2",
+                "SubRouteID": "0715A2",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行光林我嘉線(黃線)A",
+                    "En": "台灣好行光林我嘉線(黃線)A"
+                },
+                "Headsign": "東洋新村1→港坪運動公園",
+                "HeadsignEn": "Dongyangxincun1→Kang Ping Sport Park",
+                "Direction": 1,
+                "DepartureStopNameZh": "東洋新村1",
+                "DepartureStopNameEn": "Dongyangxincun1",
+                "DestinationStopNameZh": "港坪運動公園",
+                "DestinationStopNameEn": "Kang Ping Sport Park"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行光林我嘉線(黃線)",
+            "En": "台灣好行光林我嘉線(黃線)"
+        },
+        "DepartureStopNameZh": "港坪運動公園",
+        "DepartureStopNameEn": "Kang Ping Sport Park",
+        "DestinationStopNameZh": "蘭潭",
+        "DestinationStopNameEn": "Lantan",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0715.jpg",
+        "City": "Chiayi",
+        "CityCode": "CYI",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYI0716",
+        "RouteID": "0716",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "45",
+                "OperatorName": {
+                    "Zh_tw": "國光客運",
+                    "En": "Kuo-Kuang Bus Co., Ltd."
+                },
+                "OperatorCode": "KuoKuangBus",
+                "OperatorNo": "1101"
+            }
+        ],
+        "AuthorityID": "019",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYI071601",
+                "SubRouteID": "071601",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "忠孝新民幹線(紅線)",
+                    "En": "忠孝新民幹線(紅線)"
+                },
+                "Headsign": "彌陀夜市→忠孝北街",
+                "HeadsignEn": "Mituo Night Market→Zhongxiao North Street",
+                "Direction": 0,
+                "DepartureStopNameZh": "勞工育樂中心",
+                "DepartureStopNameEn": "Labor Recreation Center",
+                "DestinationStopNameZh": "忠孝北街",
+                "DestinationStopNameEn": "Zhongxiao North Street"
+            },
+            {
+                "SubRouteUID": "CYI071602",
+                "SubRouteID": "071602",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "忠孝新民幹線(紅線)",
+                    "En": "忠孝新民幹線(紅線)"
+                },
+                "Headsign": "忠孝北街→彌陀夜市",
+                "HeadsignEn": "Zhongxiao North Street→Mituo Night Market",
+                "Direction": 1,
+                "DepartureStopNameZh": "忠孝北街",
+                "DepartureStopNameEn": "Zhongxiao North Street",
+                "DestinationStopNameZh": "彌陀夜市",
+                "DestinationStopNameEn": "Mituo Night Market"
+            },
+            {
+                "SubRouteUID": "CYI0716A1",
+                "SubRouteID": "0716A1",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "忠孝新民幹線(紅A線)A",
+                    "En": "忠孝新民幹線(紅A線)A"
+                },
+                "Headsign": "彌陀夜市→民雄工業區服務中心",
+                "HeadsignEn": "Mituo Night Market→Service Center of Minxiong Industrial Zone",
+                "Direction": 0,
+                "DepartureStopNameZh": "彌陀夜市",
+                "DepartureStopNameEn": "Mituo Night Market",
+                "DestinationStopNameZh": "民雄工業區服務中心",
+                "DestinationStopNameEn": "Service Center of Minxiong Industrial Zone"
+            },
+            {
+                "SubRouteUID": "CYI0716A2",
+                "SubRouteID": "0716A2",
+                "OperatorIDs": [
+                    "45"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "忠孝新民幹線(紅A線)A",
+                    "En": "忠孝新民幹線(紅A線)A"
+                },
+                "Headsign": "民雄工業區服務中心→彌陀夜市",
+                "HeadsignEn": "Service Center of Minxiong Industrial Zone→Mituo Night Market",
+                "Direction": 1,
+                "DepartureStopNameZh": "民雄工業區服務中心",
+                "DepartureStopNameEn": "Service Center of Minxiong Industrial Zone",
+                "DestinationStopNameZh": "彌陀夜市",
+                "DestinationStopNameEn": "Mituo Night Market"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "忠孝新民幹線(紅線)",
+            "En": "忠孝新民幹線(紅線)"
+        },
+        "DepartureStopNameZh": "勞工育樂中心",
+        "DepartureStopNameEn": "Labor Recreation Center",
+        "DestinationStopNameZh": "忠孝北街",
+        "DestinationStopNameEn": "Zhongxiao North Street",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0716.jpg",
+        "City": "Chiayi",
+        "CityCode": "CYI",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    }
+]

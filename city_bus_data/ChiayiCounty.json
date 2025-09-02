@@ -1,0 +1,2820 @@
+[
+    {
+        "RouteUID": "CYQ0035",
+        "RouteID": "0035",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ003501",
+                "SubRouteID": "003501",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福六腳1路",
+                    "En": "幸福六腳1路"
+                },
+                "Headsign": "六腳環狀線",
+                "HeadsignEn": "Lioujiao Circular Line",
+                "Direction": 0,
+                "DepartureStopNameZh": "高鐵嘉義站",
+                "DepartureStopNameEn": "HSR Chiayi Station",
+                "DestinationStopNameZh": "高鐵嘉義站",
+                "DestinationStopNameEn": "HSR Chiayi Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福六腳1路",
+            "En": "幸福六腳1路"
+        },
+        "DepartureStopNameZh": "高鐵嘉義站",
+        "DepartureStopNameEn": "HSR Chiayi Station",
+        "DestinationStopNameZh": "高鐵嘉義站",
+        "DestinationStopNameEn": "HSR Chiayi Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0035.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0036",
+        "RouteID": "0036",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ003601",
+                "SubRouteID": "003601",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "110",
+                    "En": "110"
+                },
+                "Headsign": "嘉義火車站—野薑花溪步道(瑞里線)",
+                "HeadsignEn": "Chiayi Train Station—Yejianghua Stream Trail Station(Ruili Line)",
+                "Direction": 0,
+                "DepartureStopNameZh": "嘉義火車站",
+                "DepartureStopNameEn": "Chiayi Train Station",
+                "DestinationStopNameZh": "野薑花溪步道站",
+                "DestinationStopNameEn": "Yejianghua Stream Trail Station"
+            },
+            {
+                "SubRouteUID": "CYQ003602",
+                "SubRouteID": "003602",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "110",
+                    "En": "110"
+                },
+                "Headsign": "野薑花溪步道→嘉義火車站(瑞里線)",
+                "HeadsignEn": "Yejianghua Stream Trail Station→Chiayi Train Station(Ruili Line)",
+                "Direction": 1,
+                "DepartureStopNameZh": "野薑花溪步道站",
+                "DepartureStopNameEn": "Yejianghua Stream Trail Station",
+                "DestinationStopNameZh": "嘉義火車站",
+                "DestinationStopNameEn": "Chiayi Train Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "110",
+            "En": "110"
+        },
+        "DepartureStopNameZh": "嘉義火車站",
+        "DepartureStopNameEn": "Chiayi Train Station",
+        "DestinationStopNameZh": "野薑花溪步道站",
+        "DestinationStopNameEn": "Yejianghua Stream Trail Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0036.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0037",
+        "RouteID": "0037",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ003701",
+                "SubRouteID": "003701",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福布袋1路",
+                    "En": "幸福布袋1路"
+                },
+                "Headsign": "布袋—長庚醫院",
+                "HeadsignEn": "Budai Changgung Hospital Line",
+                "Direction": 0,
+                "DepartureStopNameZh": "武聖宮",
+                "DepartureStopNameEn": "WuSheng Temple",
+                "DestinationStopNameZh": "長庚醫院",
+                "DestinationStopNameEn": "Changgung Hospital"
+            },
+            {
+                "SubRouteUID": "CYQ003702",
+                "SubRouteID": "003702",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福布袋1路",
+                    "En": "幸福布袋1路"
+                },
+                "Headsign": "長庚醫院→布袋",
+                "HeadsignEn": "Changgung Hospital→Budai",
+                "Direction": 1,
+                "DepartureStopNameZh": "長庚醫院",
+                "DepartureStopNameEn": "Changgung Hospital",
+                "DestinationStopNameZh": "武聖宮",
+                "DestinationStopNameEn": "WuSheng Temple"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福布袋1路",
+            "En": "幸福布袋1路"
+        },
+        "DepartureStopNameZh": "武聖宮",
+        "DepartureStopNameEn": "WuSheng Temple",
+        "DestinationStopNameZh": "長庚醫院",
+        "DestinationStopNameEn": "Changgung Hospital",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0037.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0051",
+        "RouteID": "0051",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "91",
+                "OperatorName": {
+                    "Zh_tw": "阿里山鄉公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "0819"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ005101",
+                "SubRouteID": "005101",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山3路",
+                    "En": "幸福阿里山3路"
+                },
+                "Headsign": "十字→里佳",
+                "HeadsignEn": "Shizi Lijia Line",
+                "Direction": 0,
+                "DepartureStopNameZh": "十字村",
+                "DepartureStopNameEn": "Shizi Village",
+                "DestinationStopNameZh": "里佳",
+                "DestinationStopNameEn": "Lijia"
+            },
+            {
+                "SubRouteUID": "CYQ005102",
+                "SubRouteID": "005102",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山3路",
+                    "En": "幸福阿里山3路"
+                },
+                "Headsign": "里佳→十字",
+                "HeadsignEn": "Shizi Lijia Line",
+                "Direction": 1,
+                "DepartureStopNameZh": "里佳",
+                "DepartureStopNameEn": "Lijia",
+                "DestinationStopNameZh": "十字村",
+                "DestinationStopNameEn": "Shizi Village"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福阿里山3路",
+            "En": "幸福阿里山3路"
+        },
+        "DepartureStopNameZh": "十字村",
+        "DepartureStopNameEn": "Shizi Village",
+        "DestinationStopNameZh": "里佳",
+        "DestinationStopNameEn": "Lijia",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0051.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0053",
+        "RouteID": "0053",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "132",
+                "OperatorName": {
+                    "Zh_tw": "皇冠交通股份有限公司"
+                }
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ005301",
+                "SubRouteID": "005301",
+                "OperatorIDs": [
+                    "132"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福水上1路",
+                    "En": "幸福水上1路"
+                },
+                "Headsign": "義興村鎮北宮→嘉義榮民醫院",
+                "HeadsignEn": "Yixing Village Zhenbei Temple→Chiayi Branch, Taichung Veterans General Hospital",
+                "Direction": 0,
+                "DepartureStopNameZh": "義興村鎮北宮",
+                "DepartureStopNameEn": "Yixing Village Zhenbei Temple",
+                "DestinationStopNameZh": "嘉義榮民醫院",
+                "DestinationStopNameEn": "Chiayi Branch, Taichung Veterans General Hospital"
+            },
+            {
+                "SubRouteUID": "CYQ005302",
+                "SubRouteID": "005302",
+                "OperatorIDs": [
+                    "132"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福水上1路",
+                    "En": "幸福水上1路"
+                },
+                "Headsign": "嘉義榮民醫院→義興村鎮北宮",
+                "HeadsignEn": "Chiayi Branch, Taichung Veterans General Hospital→Yixing Village Zhenbei Temple",
+                "Direction": 1,
+                "DepartureStopNameZh": "嘉義榮民醫院",
+                "DepartureStopNameEn": "Chiayi Branch, Taichung Veterans General Hospital",
+                "DestinationStopNameZh": "義興村鎮北宮",
+                "DestinationStopNameEn": "Yixing Village Zhenbei Temple"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福水上1路",
+            "En": "幸福水上1路"
+        },
+        "DepartureStopNameZh": "義興村鎮北宮",
+        "DepartureStopNameEn": "Yixing Village Zhenbei Temple",
+        "DestinationStopNameZh": "嘉義榮民醫院",
+        "DestinationStopNameEn": "Chiayi Branch, Taichung Veterans General Hospital",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0053.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0054",
+        "RouteID": "0054",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "132",
+                "OperatorName": {
+                    "Zh_tw": "皇冠交通股份有限公司"
+                }
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ005401",
+                "SubRouteID": "005401",
+                "OperatorIDs": [
+                    "132"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福水上2路",
+                    "En": "幸福水上2路"
+                },
+                "Headsign": "義興村鎮北宮→聖馬爾定醫院(大雅院區)",
+                "HeadsignEn": "Yixing Village Zhenbei Temple→St. Martin De Porres Hospital",
+                "Direction": 0,
+                "DepartureStopNameZh": "義興村鎮北宮",
+                "DepartureStopNameEn": "Yixing Village Zhenbei Temple",
+                "DestinationStopNameZh": "聖馬爾定醫院(大雅院區)",
+                "DestinationStopNameEn": "St. Martin De Porres Hospital"
+            },
+            {
+                "SubRouteUID": "CYQ005402",
+                "SubRouteID": "005402",
+                "OperatorIDs": [
+                    "132"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福水上2路",
+                    "En": "幸福水上2路"
+                },
+                "Headsign": "聖馬爾定醫院(大雅院區)→義興村鎮北宮",
+                "HeadsignEn": "St. Martin De Porres Hospital→Yixing Village Zhenbei Temple",
+                "Direction": 1,
+                "DepartureStopNameZh": "聖馬爾定醫院(大雅院區)",
+                "DepartureStopNameEn": "St. Martin De Porres Hospital",
+                "DestinationStopNameZh": "義興村鎮北宮",
+                "DestinationStopNameEn": "Yixing Village Zhenbei Temple"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福水上2路",
+            "En": "幸福水上2路"
+        },
+        "DepartureStopNameZh": "義興村鎮北宮",
+        "DepartureStopNameEn": "Yixing Village Zhenbei Temple",
+        "DestinationStopNameZh": "聖馬爾定醫院(大雅院區)",
+        "DestinationStopNameEn": "St. Martin De Porres Hospital",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0054.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0088",
+        "RouteID": "0088",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ008801",
+                "SubRouteID": "008801",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大林1路",
+                    "En": "幸福大林1路"
+                },
+                "Headsign": "大林轉運站→大林轉運站(西線)",
+                "HeadsignEn": "Dalin Bus Station→Dalin Bus Station(Western Lin)",
+                "Direction": 0,
+                "DepartureStopNameZh": "大林轉運站",
+                "DepartureStopNameEn": "Dalin Bus Station",
+                "DestinationStopNameZh": "大林轉運站",
+                "DestinationStopNameEn": "Dalin Bus Station"
+            },
+            {
+                "SubRouteUID": "CYQ008802",
+                "SubRouteID": "008802",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大林1路",
+                    "En": "幸福大林1路"
+                },
+                "Headsign": "大林轉運站→大林轉運站(西線)",
+                "HeadsignEn": "Dalin Bus Station→Dalin Bus Station(Western Lin)",
+                "Direction": 1,
+                "DepartureStopNameZh": "大林轉運站",
+                "DepartureStopNameEn": "Dalin Bus Station",
+                "DestinationStopNameZh": "大林轉運站",
+                "DestinationStopNameEn": "Dalin Bus Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福大林1路",
+            "En": "幸福大林1路"
+        },
+        "DepartureStopNameZh": "大林轉運站",
+        "DepartureStopNameEn": "Dalin Bus Station",
+        "DestinationStopNameZh": "大林轉運站",
+        "DestinationStopNameEn": "Dalin Bus Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0088.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0089",
+        "RouteID": "0089",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ008901",
+                "SubRouteID": "008901",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大林2路",
+                    "En": "幸福大林2路"
+                },
+                "Headsign": "大林轉運站→大林轉運站(東線)",
+                "HeadsignEn": "Dalin Bus Station→Dalin Bus Station(Eastern Line)",
+                "Direction": 0,
+                "DepartureStopNameZh": "大林轉運站",
+                "DepartureStopNameEn": "Dalin Bus Station",
+                "DestinationStopNameZh": "大林轉運站",
+                "DestinationStopNameEn": "Dalin Bus Station"
+            },
+            {
+                "SubRouteUID": "CYQ008902",
+                "SubRouteID": "008902",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大林2路",
+                    "En": "幸福大林2路"
+                },
+                "Headsign": "大林轉運站→大林轉運站(東線)",
+                "HeadsignEn": "Dalin Bus Station→Dalin Bus Station(Eastern Line)",
+                "Direction": 1,
+                "DepartureStopNameZh": "大林轉運站",
+                "DepartureStopNameEn": "Dalin Bus Station",
+                "DestinationStopNameZh": "大林轉運站",
+                "DestinationStopNameEn": "Dalin Bus Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福大林2路",
+            "En": "幸福大林2路"
+        },
+        "DepartureStopNameZh": "大林轉運站",
+        "DepartureStopNameEn": "Dalin Bus Station",
+        "DestinationStopNameZh": "大林轉運站",
+        "DestinationStopNameEn": "Dalin Bus Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0089.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0091",
+        "RouteID": "0091",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "90",
+                "OperatorName": {
+                    "Zh_tw": "大埔鄉公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "0309"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ009101",
+                "SubRouteID": "009101",
+                "OperatorIDs": [
+                    "90"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔1路",
+                    "En": "幸福大埔1路"
+                },
+                "Headsign": "大埔鄉公所→分水嶺(永樂線)",
+                "HeadsignEn": "Dapu Township Office→Fenshuiling(Yongle Line)",
+                "Direction": 0,
+                "DepartureStopNameZh": "大埔鄉公所",
+                "DepartureStopNameEn": "Dapu Township Office",
+                "DestinationStopNameZh": "分水嶺",
+                "DestinationStopNameEn": "Fenshuiling"
+            },
+            {
+                "SubRouteUID": "CYQ009102",
+                "SubRouteID": "009102",
+                "OperatorIDs": [
+                    "90"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔1路",
+                    "En": "幸福大埔1路"
+                },
+                "Headsign": "分水嶺→大埔鄉公所(永樂線)",
+                "HeadsignEn": "Fenshuiling→Dapu Township Office(Yongle Line)",
+                "Direction": 1,
+                "DepartureStopNameZh": "分水嶺",
+                "DepartureStopNameEn": "Fenshuiling",
+                "DestinationStopNameZh": "大埔鄉公所",
+                "DestinationStopNameEn": "Dapu Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福大埔1路",
+            "En": "幸福大埔1路"
+        },
+        "DepartureStopNameZh": "大埔鄉公所",
+        "DepartureStopNameEn": "Dapu Township Office",
+        "DestinationStopNameZh": "分水嶺",
+        "DestinationStopNameEn": "Fenshuiling",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0091.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0092",
+        "RouteID": "0092",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "90",
+                "OperatorName": {
+                    "Zh_tw": "大埔鄉公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "0309"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ009201",
+                "SubRouteID": "009201",
+                "OperatorIDs": [
+                    "90"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔2路",
+                    "En": "幸福大埔2路"
+                },
+                "Headsign": "大埔鄉公所→菜瓜坪(西興茄苳線)",
+                "HeadsignEn": "Dapu Township Office→Caiguaping(Xixing Jiadong Line)",
+                "Direction": 0,
+                "DepartureStopNameZh": "大埔鄉公所",
+                "DepartureStopNameEn": "Dapu Township Office",
+                "DestinationStopNameZh": "菜瓜坪",
+                "DestinationStopNameEn": "Caiguaping"
+            },
+            {
+                "SubRouteUID": "CYQ009202",
+                "SubRouteID": "009202",
+                "OperatorIDs": [
+                    "90"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔2路",
+                    "En": "幸福大埔2路"
+                },
+                "Headsign": "菜瓜坪→大埔鄉公所(西興茄苳線)",
+                "HeadsignEn": "Caiguaping→Dapu Township Office(Xixing Jiadong Line)",
+                "Direction": 1,
+                "DepartureStopNameZh": "菜瓜坪",
+                "DepartureStopNameEn": "Caiguaping",
+                "DestinationStopNameZh": "大埔鄉公所",
+                "DestinationStopNameEn": "Dapu Township Office"
+            },
+            {
+                "SubRouteUID": "CYQ0092A1",
+                "SubRouteID": "0092A1",
+                "OperatorIDs": [
+                    "90"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔2路A",
+                    "En": "幸福大埔2路A"
+                },
+                "Headsign": "大埔鄉公所→木瓜坑土地公廟(西興茄苳線)",
+                "HeadsignEn": "Dapu Township Office→Muguakeng Tudigong Temple(Xixing Jiadong Line A)",
+                "Direction": 0,
+                "DepartureStopNameZh": "大埔鄉公所",
+                "DepartureStopNameEn": "Dapu Township Office",
+                "DestinationStopNameZh": "木瓜坑土地公廟",
+                "DestinationStopNameEn": "Muguakeng Tudigong Temple"
+            },
+            {
+                "SubRouteUID": "CYQ0092A2",
+                "SubRouteID": "0092A2",
+                "OperatorIDs": [
+                    "90"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔2路A",
+                    "En": "幸福大埔2路A"
+                },
+                "Headsign": "木瓜坑土地公廟→大埔鄉公所(西興茄苳線)",
+                "HeadsignEn": "Muguakeng Tudigong Temple→Dapu Township Office(Xixing Jiadong Line A)",
+                "Direction": 1,
+                "DepartureStopNameZh": "木瓜坑土地公廟",
+                "DepartureStopNameEn": "Muguakeng Tudigong Temple",
+                "DestinationStopNameZh": "大埔鄉公所",
+                "DestinationStopNameEn": "Dapu Township Office"
+            },
+            {
+                "SubRouteUID": "CYQ0092B1",
+                "SubRouteID": "0092B1",
+                "OperatorIDs": [
+                    "90"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔2路B",
+                    "En": "幸福大埔2路B"
+                },
+                "Headsign": "大埔鄉公所→三腳石(西興茄苳線)",
+                "HeadsignEn": "Dapu Township Office→Sanjiaoshi(Xixing Jiadong Line B)",
+                "Direction": 0,
+                "DepartureStopNameZh": "大埔鄉公所",
+                "DepartureStopNameEn": "Dapu Township Office",
+                "DestinationStopNameZh": "三腳石",
+                "DestinationStopNameEn": "Sanjiaoshi"
+            },
+            {
+                "SubRouteUID": "CYQ0092B2",
+                "SubRouteID": "0092B2",
+                "OperatorIDs": [
+                    "90"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔2路B",
+                    "En": "幸福大埔2路B"
+                },
+                "Headsign": "三腳石→大埔鄉公所(西興茄苳線)",
+                "HeadsignEn": "Sanjiaoshi→Dapu Township Office(Xixing Jiadong Line B)",
+                "Direction": 1,
+                "DepartureStopNameZh": "三腳石",
+                "DepartureStopNameEn": "Sanjiaoshi",
+                "DestinationStopNameZh": "大埔鄉公所",
+                "DestinationStopNameEn": "Dapu Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福大埔2路",
+            "En": "幸福大埔2路"
+        },
+        "DepartureStopNameZh": "大埔鄉公所",
+        "DepartureStopNameEn": "Dapu Township Office",
+        "DestinationStopNameZh": "菜瓜坪",
+        "DestinationStopNameEn": "Caiguaping",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0092.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0093",
+        "RouteID": "0093",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "91",
+                "OperatorName": {
+                    "Zh_tw": "阿里山鄉公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "0819"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ009301",
+                "SubRouteID": "009301",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山1路",
+                    "En": "幸福阿里山1路"
+                },
+                "Headsign": "龍美→茶山",
+                "HeadsignEn": "Longmei→Chashan(Longmei Chashan Line)",
+                "Direction": 0,
+                "DepartureStopNameZh": "龍美",
+                "DepartureStopNameEn": "Longmei",
+                "DestinationStopNameZh": "茶山",
+                "DestinationStopNameEn": "Chashan"
+            },
+            {
+                "SubRouteUID": "CYQ009302",
+                "SubRouteID": "009302",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山1路",
+                    "En": "幸福阿里山1路"
+                },
+                "Headsign": "茶山→龍美",
+                "HeadsignEn": "Chashan→Longmei(Longmei Chashan Line)",
+                "Direction": 1,
+                "DepartureStopNameZh": "茶山",
+                "DepartureStopNameEn": "Chashan",
+                "DestinationStopNameZh": "龍美",
+                "DestinationStopNameEn": "Longmei"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福阿里山1路",
+            "En": "幸福阿里山1路"
+        },
+        "DepartureStopNameZh": "龍美",
+        "DepartureStopNameEn": "Longmei",
+        "DestinationStopNameZh": "茶山",
+        "DestinationStopNameEn": "Chashan",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0093.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0094",
+        "RouteID": "0094",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "91",
+                "OperatorName": {
+                    "Zh_tw": "阿里山鄉公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "0819"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ009401",
+                "SubRouteID": "009401",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山2路",
+                    "En": "幸福阿里山2路"
+                },
+                "Headsign": "石棹→豐山(主線)",
+                "HeadsignEn": "Shizhao→Fengshan(Shizhao Fengshan Line )",
+                "Direction": 0,
+                "DepartureStopNameZh": "石棹",
+                "DepartureStopNameEn": "Shizhao",
+                "DestinationStopNameZh": "豐山村辦公處",
+                "DestinationStopNameEn": "Fengshan Village Office"
+            },
+            {
+                "SubRouteUID": "CYQ009402",
+                "SubRouteID": "009402",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山2路",
+                    "En": "幸福阿里山2路"
+                },
+                "Headsign": "豐山→石棹(主線)",
+                "HeadsignEn": "Fengshan→Shizhao(Shizhao Fengshan Line )",
+                "Direction": 1,
+                "DepartureStopNameZh": "豐山村辦公處",
+                "DepartureStopNameEn": "Fengshan Village Office",
+                "DestinationStopNameZh": "石棹",
+                "DestinationStopNameEn": "Shizhao"
+            },
+            {
+                "SubRouteUID": "CYQ0094A1",
+                "SubRouteID": "0094A1",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山2路A",
+                    "En": "幸福阿里山2路A"
+                },
+                "Headsign": "石棹→豐山(支線，預約行駛大凍山—多林—得恩亞納)",
+                "HeadsignEn": "Shizhao→Fengshan(Shizhao Fengshan Line )",
+                "Direction": 0,
+                "DepartureStopNameZh": "石棹",
+                "DepartureStopNameEn": "Shizhao",
+                "DestinationStopNameZh": "豐山村辦公處",
+                "DestinationStopNameEn": "Fengshan Village Office"
+            },
+            {
+                "SubRouteUID": "CYQ0094A2",
+                "SubRouteID": "0094A2",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山2路A",
+                    "En": "幸福阿里山2路A"
+                },
+                "Headsign": "豐山→石棹(支線，預約行駛大凍山—多林—得恩亞納)",
+                "HeadsignEn": "Shizhao Fengshan Line A",
+                "Direction": 1,
+                "DepartureStopNameZh": "豐山村辦公處",
+                "DepartureStopNameEn": "Fengshan Village Office",
+                "DestinationStopNameZh": "石棹",
+                "DestinationStopNameEn": "Shizhao"
+            },
+            {
+                "SubRouteUID": "CYQ0094B1",
+                "SubRouteID": "0094B1",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山2路B",
+                    "En": "幸福阿里山2路B"
+                },
+                "Headsign": "石棹→阿里山鄉衛生所→石棹",
+                "HeadsignEn": "Shizhao→Alishan Township office→Shizhao",
+                "Direction": 0,
+                "DepartureStopNameZh": "石棹",
+                "DepartureStopNameEn": "Shizhao",
+                "DestinationStopNameZh": "石棹",
+                "DestinationStopNameEn": "Shizhao"
+            },
+            {
+                "SubRouteUID": "CYQ0094B2",
+                "SubRouteID": "0094B2",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山2路B",
+                    "En": "幸福阿里山2路B"
+                },
+                "Headsign": "石棹→阿里山鄉衛生所→石棹",
+                "HeadsignEn": "Fengshan→Alishan Township office→Fengshan",
+                "Direction": 1,
+                "DepartureStopNameZh": "石棹",
+                "DepartureStopNameEn": "Shizhao",
+                "DestinationStopNameZh": "石棹",
+                "DestinationStopNameEn": "Shizhao"
+            },
+            {
+                "SubRouteUID": "CYQ0094C1",
+                "SubRouteID": "0094C1",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山2路C",
+                    "En": "幸福阿里山2路C"
+                },
+                "Headsign": "豐山→石盤谷步道",
+                "HeadsignEn": "Fengshan→Shipangu Trail",
+                "Direction": 0,
+                "DepartureStopNameZh": "豐山村辦公處",
+                "DepartureStopNameEn": "Fengshan Village Office",
+                "DestinationStopNameZh": "石盤谷步道(預約站位)",
+                "DestinationStopNameEn": "Shipangu Trail"
+            },
+            {
+                "SubRouteUID": "CYQ0094C2",
+                "SubRouteID": "0094C2",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山2路C",
+                    "En": "幸福阿里山2路C"
+                },
+                "Headsign": "石盤谷步道→豐山",
+                "HeadsignEn": "Shipangu Trail→Fengshan",
+                "Direction": 1,
+                "DepartureStopNameZh": "石盤谷步道(預約站位)",
+                "DepartureStopNameEn": "Shipangu Trail",
+                "DestinationStopNameZh": "豐山村辦公處",
+                "DestinationStopNameEn": "Fengshan Village Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福阿里山2路",
+            "En": "幸福阿里山2路"
+        },
+        "DepartureStopNameZh": "石棹",
+        "DepartureStopNameEn": "Shizhao",
+        "DestinationStopNameZh": "豐山村辦公處",
+        "DestinationStopNameEn": "Fengshan Village Office",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0094.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0095",
+        "RouteID": "0095",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ009501",
+                "SubRouteID": "009501",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福番路1路",
+                    "En": "幸福番路1路"
+                },
+                "Headsign": "聖馬爾定醫院→菜公店(新福內甕線)",
+                "HeadsignEn": "St. Martin De Porres Hospital→Caigongdian(Fanlu Township Office)(Xinfu Neiweng Line)",
+                "Direction": 0,
+                "DepartureStopNameZh": "聖馬爾定醫院(大雅院區)",
+                "DepartureStopNameEn": "St. Martin De Porres Hospital",
+                "DestinationStopNameZh": "聖馬爾定醫院(大雅院區)",
+                "DestinationStopNameEn": "St. Martin De Porres Hospital"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福番路1路",
+            "En": "幸福番路1路"
+        },
+        "DepartureStopNameZh": "聖馬爾定醫院(大雅院區)",
+        "DepartureStopNameEn": "St. Martin De Porres Hospital",
+        "DestinationStopNameZh": "聖馬爾定醫院(大雅院區)",
+        "DestinationStopNameEn": "St. Martin De Porres Hospital",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0095.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0096",
+        "RouteID": "0096",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ009601",
+                "SubRouteID": "009601",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福朴子1路",
+                    "En": "幸福朴子1路"
+                },
+                "Headsign": "朴子→樹林頭",
+                "HeadsignEn": "Puzi→Shulintou",
+                "Direction": 0,
+                "DepartureStopNameZh": "朴子轉運站",
+                "DepartureStopNameEn": "Puzi Bus Station",
+                "DestinationStopNameZh": "樹林頭",
+                "DestinationStopNameEn": "Shulintou"
+            },
+            {
+                "SubRouteUID": "CYQ009602",
+                "SubRouteID": "009602",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福朴子1路",
+                    "En": "幸福朴子1路"
+                },
+                "Headsign": "樹林頭→朴子",
+                "HeadsignEn": "Shulintou→Puzi",
+                "Direction": 1,
+                "DepartureStopNameZh": "樹林頭",
+                "DepartureStopNameEn": "Shulintou",
+                "DestinationStopNameZh": "朴子轉運站",
+                "DestinationStopNameEn": "Puzi Bus Station"
+            },
+            {
+                "SubRouteUID": "CYQ0096A1",
+                "SubRouteID": "0096A1",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福朴子1路A",
+                    "En": "幸福朴子1路A"
+                },
+                "Headsign": "長庚醫院→樹林頭",
+                "HeadsignEn": "Changgung Hospital→Shulintou",
+                "Direction": 0,
+                "DepartureStopNameZh": "長庚醫院",
+                "DepartureStopNameEn": "Changgung Hospital",
+                "DestinationStopNameZh": "樹林頭",
+                "DestinationStopNameEn": "Shulintou"
+            },
+            {
+                "SubRouteUID": "CYQ0096A2",
+                "SubRouteID": "0096A2",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福朴子1路A",
+                    "En": "幸福朴子1路A"
+                },
+                "Headsign": "樹林頭→長庚醫院",
+                "HeadsignEn": "Shulintou→Changgung Hospital",
+                "Direction": 1,
+                "DepartureStopNameZh": "樹林頭",
+                "DepartureStopNameEn": "Shulintou",
+                "DestinationStopNameZh": "長庚醫院",
+                "DestinationStopNameEn": "Changgung Hospital"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福朴子1路",
+            "En": "幸福朴子1路"
+        },
+        "DepartureStopNameZh": "朴子轉運站",
+        "DepartureStopNameEn": "Puzi Bus Station",
+        "DestinationStopNameZh": "樹林頭",
+        "DestinationStopNameEn": "Shulintou",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0096.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0097",
+        "RouteID": "0097",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ009701",
+                "SubRouteID": "009701",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福東石1路",
+                    "En": "幸福東石1路"
+                },
+                "Headsign": "朴子—東石漁人碼頭",
+                "HeadsignEn": "Puzi→Dongshi Fishman's Wharf",
+                "Direction": 0,
+                "DepartureStopNameZh": "朴子轉運站",
+                "DepartureStopNameEn": "Puzi Bus Station",
+                "DestinationStopNameZh": "東石漁人碼頭",
+                "DestinationStopNameEn": "Dongshi Fishman's Wharf"
+            },
+            {
+                "SubRouteUID": "CYQ009702",
+                "SubRouteID": "009702",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福東石1路",
+                    "En": "幸福東石1路"
+                },
+                "Headsign": "東石漁人碼頭—朴子",
+                "HeadsignEn": "Dongshi Fishman's Wharf→Puzi",
+                "Direction": 1,
+                "DepartureStopNameZh": "東石漁人碼頭",
+                "DepartureStopNameEn": "Dongshi Fishman's Wharf",
+                "DestinationStopNameZh": "朴子轉運站",
+                "DestinationStopNameEn": "Puzi Bus Station"
+            },
+            {
+                "SubRouteUID": "CYQ0097A1",
+                "SubRouteID": "0097A1",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福東石1路A",
+                    "En": "幸福東石1路A"
+                },
+                "Headsign": "長庚醫院—東石漁人碼頭",
+                "HeadsignEn": "Dongshi Minibus No.1(A)",
+                "Direction": 0,
+                "DepartureStopNameZh": "長庚醫院",
+                "DepartureStopNameEn": "Changgung Hospital",
+                "DestinationStopNameZh": "東石漁人碼頭",
+                "DestinationStopNameEn": "Dongshi Fishman's Wharf"
+            },
+            {
+                "SubRouteUID": "CYQ0097A2",
+                "SubRouteID": "0097A2",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福東石1路A",
+                    "En": "幸福東石1路A"
+                },
+                "Headsign": "東石漁人碼頭—長庚醫院",
+                "HeadsignEn": "Changgung Hospital Dongshi Fishman's Wharf Line",
+                "Direction": 1,
+                "DepartureStopNameZh": "東石漁人碼頭",
+                "DepartureStopNameEn": "Dongshi Fishman's Wharf",
+                "DestinationStopNameZh": "長庚醫院",
+                "DestinationStopNameEn": "Changgung Hospital"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福東石1路",
+            "En": "幸福東石1路"
+        },
+        "DepartureStopNameZh": "朴子轉運站",
+        "DepartureStopNameEn": "Puzi Bus Station",
+        "DestinationStopNameZh": "東石漁人碼頭",
+        "DestinationStopNameEn": "Dongshi Fishman's Wharf",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0097.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0107",
+        "RouteID": "0107",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ010701",
+                "SubRouteID": "010701",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "107",
+                    "En": "107"
+                },
+                "Headsign": "梅山→太平雲梯",
+                "HeadsignEn": "Meishan→Taiping",
+                "Direction": 0,
+                "DepartureStopNameZh": "梅山",
+                "DepartureStopNameEn": "Meishan",
+                "DestinationStopNameZh": "太平雲梯",
+                "DestinationStopNameEn": "Taiping"
+            },
+            {
+                "SubRouteUID": "CYQ010702",
+                "SubRouteID": "010702",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "107",
+                    "En": "107"
+                },
+                "Headsign": "太平雲梯→梅山",
+                "HeadsignEn": "Taiping→Meishan",
+                "Direction": 1,
+                "DepartureStopNameZh": "太平雲梯",
+                "DepartureStopNameEn": "Taiping",
+                "DestinationStopNameZh": "梅山",
+                "DestinationStopNameEn": "Meishan"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "107",
+            "En": "107"
+        },
+        "DepartureStopNameZh": "梅山",
+        "DepartureStopNameEn": "Meishan",
+        "DestinationStopNameZh": "太平雲梯",
+        "DestinationStopNameEn": "Taiping",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0107.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0166",
+        "RouteID": "0166",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ016601",
+                "SubRouteID": "016601",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "166",
+                    "En": "166"
+                },
+                "Headsign": "高鐵嘉義站→鹽水",
+                "HeadsignEn": "HSR Chiayi Station→Yanshui",
+                "Direction": 0,
+                "DepartureStopNameZh": "高鐵嘉義站",
+                "DepartureStopNameEn": "HSR Chiayi Station",
+                "DestinationStopNameZh": "鹽水",
+                "DestinationStopNameEn": "Yanshui"
+            },
+            {
+                "SubRouteUID": "CYQ016602",
+                "SubRouteID": "016602",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "166",
+                    "En": "166"
+                },
+                "Headsign": "鹽水→高鐵嘉義站",
+                "HeadsignEn": "Yanshui→HSR Chiayi Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "鹽水",
+                "DepartureStopNameEn": "Yanshui",
+                "DestinationStopNameZh": "高鐵嘉義站",
+                "DestinationStopNameEn": "HSR Chiayi Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "166",
+            "En": "166"
+        },
+        "DepartureStopNameZh": "高鐵嘉義站",
+        "DepartureStopNameEn": "HSR Chiayi Station",
+        "DestinationStopNameZh": "鹽水",
+        "DestinationStopNameEn": "Yanshui",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0166.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0171",
+        "RouteID": "0171",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ017101",
+                "SubRouteID": "017101",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福溪口1路",
+                    "En": "幸福溪口1路"
+                },
+                "Headsign": "溪口→高鐵嘉義站",
+                "HeadsignEn": "Xikou→HSR Chiayi Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "溪口",
+                "DepartureStopNameEn": "Xikou",
+                "DestinationStopNameZh": "高鐵嘉義站",
+                "DestinationStopNameEn": "HSR Chiayi Station"
+            },
+            {
+                "SubRouteUID": "CYQ017102",
+                "SubRouteID": "017102",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福溪口1路",
+                    "En": "幸福溪口1路"
+                },
+                "Headsign": "高鐵嘉義站→溪口",
+                "HeadsignEn": "HSR Chiayi Station→Xikou",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵嘉義站",
+                "DepartureStopNameEn": "HSR Chiayi Station",
+                "DestinationStopNameZh": "溪口",
+                "DestinationStopNameEn": "Xikou"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福溪口1路",
+            "En": "幸福溪口1路"
+        },
+        "DepartureStopNameZh": "溪口",
+        "DepartureStopNameEn": "Xikou",
+        "DestinationStopNameZh": "高鐵嘉義站",
+        "DestinationStopNameEn": "HSR Chiayi Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0171.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0172",
+        "RouteID": "0172",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ017201",
+                "SubRouteID": "017201",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福溪口2路",
+                    "En": "幸福溪口2路"
+                },
+                "Headsign": "溪口→溪口(經後港)",
+                "HeadsignEn": "Xikou→Xikou(Via Hougang)",
+                "Direction": 0,
+                "DepartureStopNameZh": "溪口",
+                "DepartureStopNameEn": "Xikou",
+                "DestinationStopNameZh": "溪口",
+                "DestinationStopNameEn": "Xikou"
+            },
+            {
+                "SubRouteUID": "CYQ017202",
+                "SubRouteID": "017202",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福溪口2路",
+                    "En": "幸福溪口2路"
+                },
+                "Headsign": "溪口→溪口(經妙崙)",
+                "HeadsignEn": "Xikou→Xikou(Via Miaulun)",
+                "Direction": 1,
+                "DepartureStopNameZh": "溪口",
+                "DepartureStopNameEn": "Xikou",
+                "DestinationStopNameZh": "溪口",
+                "DestinationStopNameEn": "Xikou"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福溪口2路",
+            "En": "幸福溪口2路"
+        },
+        "DepartureStopNameZh": "溪口",
+        "DepartureStopNameEn": "Xikou",
+        "DestinationStopNameZh": "溪口",
+        "DestinationStopNameEn": "Xikou",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0172.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0173",
+        "RouteID": "0173",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ017301",
+                "SubRouteID": "017301",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福溪口3路",
+                    "En": "幸福溪口3路"
+                },
+                "Headsign": "游西武英殿→大林轉運站",
+                "HeadsignEn": "Youxi Wuying Temple→Dalin Bus Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "游西武英殿",
+                "DepartureStopNameEn": "Youxi Wuying Temple",
+                "DestinationStopNameZh": "大林轉運站",
+                "DestinationStopNameEn": "Dalin Bus Station"
+            },
+            {
+                "SubRouteUID": "CYQ017302",
+                "SubRouteID": "017302",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福溪口3路",
+                    "En": "幸福溪口3路"
+                },
+                "Headsign": "大林轉運站→游西武英殿",
+                "HeadsignEn": "Dalin Bus Station→Youxi Wuying Temple",
+                "Direction": 1,
+                "DepartureStopNameZh": "大林轉運站",
+                "DepartureStopNameEn": "Dalin Bus Station",
+                "DestinationStopNameZh": "游西武英殿",
+                "DestinationStopNameEn": "Youxi Wuying Temple"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福溪口3路",
+            "En": "幸福溪口3路"
+        },
+        "DepartureStopNameZh": "游西武英殿",
+        "DepartureStopNameEn": "Youxi Wuying Temple",
+        "DestinationStopNameZh": "大林轉運站",
+        "DestinationStopNameEn": "Dalin Bus Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0173.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0174",
+        "RouteID": "0174",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ017401",
+                "SubRouteID": "017401",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "109",
+                    "En": "109"
+                },
+                "Headsign": "高鐵嘉義站→大林→大埔美→南華大學",
+                "HeadsignEn": "HSR Chiayi Station→Dalin Bus Station→Dapumei→Nanhua University",
+                "Direction": 0,
+                "DepartureStopNameZh": "高鐵嘉義站",
+                "DepartureStopNameEn": "HSR Chiayi Station",
+                "DestinationStopNameZh": "南華大學",
+                "DestinationStopNameEn": "Nanhua University"
+            },
+            {
+                "SubRouteUID": "CYQ017402",
+                "SubRouteID": "017402",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "109",
+                    "En": "109"
+                },
+                "Headsign": "南華大學→大埔美→大林→高鐵嘉義站",
+                "HeadsignEn": "Nanhua University→Dapumei→Dalin Bus Station→HSR Chiayi Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "南華大學",
+                "DepartureStopNameEn": "Nanhua University",
+                "DestinationStopNameZh": "高鐵嘉義站",
+                "DestinationStopNameEn": "HSR Chiayi Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "109",
+            "En": "109"
+        },
+        "DepartureStopNameZh": "高鐵嘉義站",
+        "DepartureStopNameEn": "HSR Chiayi Station",
+        "DestinationStopNameZh": "南華大學",
+        "DestinationStopNameEn": "Nanhua University",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0174.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0197",
+        "RouteID": "0197",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ019701",
+                "SubRouteID": "019701",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔美1路",
+                    "En": "幸福大埔美1路"
+                },
+                "Headsign": "大林轉運站→梅山(小鎮慢城線—主線)",
+                "HeadsignEn": "Dalin Bus Station—Meishan",
+                "Direction": 0,
+                "DepartureStopNameZh": "大林轉運站",
+                "DepartureStopNameEn": "Dalin Bus Station",
+                "DestinationStopNameZh": "梅山",
+                "DestinationStopNameEn": "Meishan"
+            },
+            {
+                "SubRouteUID": "CYQ019702",
+                "SubRouteID": "019702",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔美1路",
+                    "En": "幸福大埔美1路"
+                },
+                "Headsign": "梅山→大林轉運站(小鎮慢城線—主線)",
+                "HeadsignEn": "Meishan—Dalin Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "梅山",
+                "DepartureStopNameEn": "Meishan",
+                "DestinationStopNameZh": "大林轉運站",
+                "DestinationStopNameEn": "Dalin Bus Station"
+            },
+            {
+                "SubRouteUID": "CYQ0197A1",
+                "SubRouteID": "0197A1",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔美1路A",
+                    "En": "幸福大埔美1路A"
+                },
+                "Headsign": "大林轉運站→翠菓子食品園區(小鎮慢城線—支線)",
+                "HeadsignEn": "Dalin Bus Station—Trygoodz Food Industrial Park",
+                "Direction": 0,
+                "DepartureStopNameZh": "大林轉運站",
+                "DepartureStopNameEn": "Dalin Bus Station",
+                "DestinationStopNameZh": "翠菓子食品園區",
+                "DestinationStopNameEn": "Trygoodz Food Industrial Park"
+            },
+            {
+                "SubRouteUID": "CYQ0197A2",
+                "SubRouteID": "0197A2",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔美1路A",
+                    "En": "幸福大埔美1路A"
+                },
+                "Headsign": "翠菓子食品園區→大林轉運站(小鎮慢城線—支線)",
+                "HeadsignEn": "Trygoodz Food Industrial Park—Dalin Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "翠菓子食品園區",
+                "DepartureStopNameEn": "Trygoodz Food Industrial Park",
+                "DestinationStopNameZh": "大林轉運站",
+                "DestinationStopNameEn": "Dalin Bus Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福大埔美1路",
+            "En": "幸福大埔美1路"
+        },
+        "DepartureStopNameZh": "大林轉運站",
+        "DepartureStopNameEn": "Dalin Bus Station",
+        "DestinationStopNameZh": "梅山",
+        "DestinationStopNameEn": "Meishan",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0197.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0213",
+        "RouteID": "0213",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ021301",
+                "SubRouteID": "021301",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "113",
+                    "En": "113"
+                },
+                "Headsign": "大林轉運站—太平雲梯",
+                "HeadsignEn": "Dalin Bus Station—Taiping",
+                "Direction": 0,
+                "DepartureStopNameZh": "大林轉運站",
+                "DepartureStopNameEn": "Dalin Bus Station",
+                "DestinationStopNameZh": "太平雲梯",
+                "DestinationStopNameEn": "Taiping"
+            },
+            {
+                "SubRouteUID": "CYQ021302",
+                "SubRouteID": "021302",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "113",
+                    "En": "113"
+                },
+                "Headsign": "太平雲梯—大林轉運站",
+                "HeadsignEn": "Taiping—Dalin Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "太平雲梯",
+                "DepartureStopNameEn": "Taiping",
+                "DestinationStopNameZh": "大林轉運站",
+                "DestinationStopNameEn": "Dalin Bus Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "113",
+            "En": "113"
+        },
+        "DepartureStopNameZh": "大林轉運站",
+        "DepartureStopNameEn": "Dalin Bus Station",
+        "DestinationStopNameZh": "太平雲梯",
+        "DestinationStopNameEn": "Taiping",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0213.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0219",
+        "RouteID": "0219",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "90",
+                "OperatorName": {
+                    "Zh_tw": "大埔鄉公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "0309"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ021901",
+                "SubRouteID": "021901",
+                "OperatorIDs": [
+                    "90"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔5路",
+                    "En": "幸福大埔5路"
+                },
+                "Headsign": "大埔鄉公所→嘉義火車站→高鐵嘉義站→縣政府站",
+                "HeadsignEn": "Dapu Township Office→TRA Chiayi Station→HSR Chiayi Station→County Government",
+                "Direction": 0,
+                "DepartureStopNameZh": "大埔鄉公所",
+                "DepartureStopNameEn": "Dapu Township Office",
+                "DestinationStopNameZh": "縣政府",
+                "DestinationStopNameEn": "County Government"
+            },
+            {
+                "SubRouteUID": "CYQ021902",
+                "SubRouteID": "021902",
+                "OperatorIDs": [
+                    "90"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福大埔5路",
+                    "En": "幸福大埔5路"
+                },
+                "Headsign": "縣政府站→高鐵嘉義站→嘉義火車站→大埔鄉公所",
+                "HeadsignEn": "County Government→HSR Chiayi Station→TRA Chiayi Station→Dapu Township Office",
+                "Direction": 1,
+                "DepartureStopNameZh": "縣政府",
+                "DepartureStopNameEn": "County Government",
+                "DestinationStopNameZh": "大埔鄉公所",
+                "DestinationStopNameEn": "Dapu Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福大埔5路",
+            "En": "幸福大埔5路"
+        },
+        "DepartureStopNameZh": "大埔鄉公所",
+        "DepartureStopNameEn": "Dapu Township Office",
+        "DestinationStopNameZh": "縣政府",
+        "DestinationStopNameEn": "County Government",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0219.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0250",
+        "RouteID": "0250",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "91",
+                "OperatorName": {
+                    "Zh_tw": "阿里山鄉公所"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "0819"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ025001",
+                "SubRouteID": "025001",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山5路",
+                    "En": "幸福阿里山5路"
+                },
+                "Headsign": "石棹→協同中學",
+                "HeadsignEn": "Shizhao→Concordia Middle School",
+                "Direction": 0,
+                "DepartureStopNameZh": "石棹",
+                "DepartureStopNameEn": "Shizhao",
+                "DestinationStopNameZh": "協同中學",
+                "DestinationStopNameEn": "Concordia Middle School"
+            },
+            {
+                "SubRouteUID": "CYQ025002",
+                "SubRouteID": "025002",
+                "OperatorIDs": [
+                    "91"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福阿里山5路",
+                    "En": "幸福阿里山5路"
+                },
+                "Headsign": "協同中學→石棹",
+                "HeadsignEn": "Concordia Middle School→Shizhao",
+                "Direction": 1,
+                "DepartureStopNameZh": "協同中學",
+                "DepartureStopNameEn": "Concordia Middle School",
+                "DestinationStopNameZh": "石棹",
+                "DestinationStopNameEn": "Shizhao"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福阿里山5路",
+            "En": "幸福阿里山5路"
+        },
+        "DepartureStopNameZh": "石棹",
+        "DepartureStopNameEn": "Shizhao",
+        "DestinationStopNameZh": "協同中學",
+        "DestinationStopNameEn": "Concordia Middle School",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0250.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0289",
+        "RouteID": "0289",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "115",
+                "OperatorName": {
+                    "Zh_tw": "台一大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ028901",
+                "SubRouteID": "028901",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福朴子2路",
+                    "En": "幸福朴子2路"
+                },
+                "Headsign": "朴子環狀線(順時針)",
+                "HeadsignEn": "Puzi Circular Line",
+                "Direction": 0,
+                "DepartureStopNameZh": "朴子轉運站",
+                "DepartureStopNameEn": "Puzi Bus Station",
+                "DestinationStopNameZh": "朴子轉運站",
+                "DestinationStopNameEn": "Puzi Bus Station"
+            },
+            {
+                "SubRouteUID": "CYQ028902",
+                "SubRouteID": "028902",
+                "OperatorIDs": [
+                    "115"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福朴子2路",
+                    "En": "幸福朴子2路"
+                },
+                "Headsign": "朴子環狀線(逆時針)",
+                "HeadsignEn": "Puzi Circular Line(counterclockwise)",
+                "Direction": 1,
+                "DepartureStopNameZh": "朴子轉運站",
+                "DepartureStopNameEn": "Puzi Bus Station",
+                "DestinationStopNameZh": "朴子轉運站",
+                "DestinationStopNameEn": "Puzi Bus Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福朴子2路",
+            "En": "幸福朴子2路"
+        },
+        "DepartureStopNameZh": "朴子轉運站",
+        "DepartureStopNameEn": "Puzi Bus Station",
+        "DestinationStopNameZh": "朴子轉運站",
+        "DestinationStopNameEn": "Puzi Bus Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0289.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0485",
+        "RouteID": "0485",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ048501",
+                "SubRouteID": "048501",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福義竹1路",
+                    "En": "幸福義竹1路"
+                },
+                "Headsign": "東榮村→新店→長庚醫院",
+                "HeadsignEn": "Dongrong Village→ Xindian Village→Changgung Hospital",
+                "Direction": 0,
+                "DepartureStopNameZh": "東榮村",
+                "DepartureStopNameEn": "Dongrong Village",
+                "DestinationStopNameZh": "長庚醫院",
+                "DestinationStopNameEn": "Changgung Hospital"
+            },
+            {
+                "SubRouteUID": "CYQ048502",
+                "SubRouteID": "048502",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福義竹1路",
+                    "En": "幸福義竹1路"
+                },
+                "Headsign": "長庚醫院→新店→東榮村",
+                "HeadsignEn": "Changgung Hospital→ Xindian Village→Dongrong Village",
+                "Direction": 1,
+                "DepartureStopNameZh": "長庚醫院",
+                "DepartureStopNameEn": "Changgung Hospital",
+                "DestinationStopNameZh": "東榮村",
+                "DestinationStopNameEn": "Dongrong Village"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福義竹1路",
+            "En": "幸福義竹1路"
+        },
+        "DepartureStopNameZh": "東榮村",
+        "DepartureStopNameEn": "Dongrong Village",
+        "DestinationStopNameZh": "長庚醫院",
+        "DestinationStopNameEn": "Changgung Hospital",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0485.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0486",
+        "RouteID": "0486",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "108",
+                "OperatorName": {
+                    "Zh_tw": "捷乘交通有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1110"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ048601",
+                "SubRouteID": "048601",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福義竹2路",
+                    "En": "幸福義竹2路"
+                },
+                "Headsign": "西竿仔寮→義竹→長庚醫院",
+                "HeadsignEn": "Xiganziliao→Yizhu→Changgung Hospital",
+                "Direction": 0,
+                "DepartureStopNameZh": "西竿仔寮",
+                "DepartureStopNameEn": "Xiganziliao",
+                "DestinationStopNameZh": "長庚醫院",
+                "DestinationStopNameEn": "Changgung Hospital"
+            },
+            {
+                "SubRouteUID": "CYQ048602",
+                "SubRouteID": "048602",
+                "OperatorIDs": [
+                    "108"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福義竹2路",
+                    "En": "幸福義竹2路"
+                },
+                "Headsign": "長庚醫院→義竹→西竿仔寮",
+                "HeadsignEn": "Changgung Hospital→Yizhu→Xiganziliao",
+                "Direction": 1,
+                "DepartureStopNameZh": "長庚醫院",
+                "DepartureStopNameEn": "Changgung Hospital",
+                "DestinationStopNameZh": "西竿仔寮",
+                "DestinationStopNameEn": "Xiganziliao"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福義竹2路",
+            "En": "幸福義竹2路"
+        },
+        "DepartureStopNameZh": "西竿仔寮",
+        "DepartureStopNameEn": "Xiganziliao",
+        "DestinationStopNameZh": "長庚醫院",
+        "DestinationStopNameEn": "Changgung Hospital",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0486.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0708",
+        "RouteID": "0708",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ070801",
+                "SubRouteID": "070801",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101",
+                    "En": "101"
+                },
+                "Headsign": "嘉義→塘興村",
+                "HeadsignEn": "Chiayi→Tong Xing village",
+                "Direction": 0,
+                "DepartureStopNameZh": "大雅站",
+                "DepartureStopNameEn": "Da Ya Station",
+                "DestinationStopNameZh": "頂坪",
+                "DestinationStopNameEn": "Ding Ping"
+            },
+            {
+                "SubRouteUID": "CYQ070802",
+                "SubRouteID": "070802",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101",
+                    "En": "101"
+                },
+                "Headsign": "塘興村→嘉義",
+                "HeadsignEn": "Tong Xing village→Chiayi",
+                "Direction": 1,
+                "DepartureStopNameZh": "頂坪",
+                "DepartureStopNameEn": "Ding Ping",
+                "DestinationStopNameZh": "大雅站",
+                "DestinationStopNameEn": "Da Ya Station"
+            },
+            {
+                "SubRouteUID": "CYQ0708A1",
+                "SubRouteID": "0708A1",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101A",
+                    "En": "101A"
+                },
+                "Headsign": "嘉義→塘興村[繞桃子斜]",
+                "HeadsignEn": "Chiayi→Tang Sing Cun[via Taozaixie]",
+                "Direction": 0,
+                "DepartureStopNameZh": "大雅站",
+                "DepartureStopNameEn": "Da Ya Station",
+                "DestinationStopNameZh": "頂坪",
+                "DestinationStopNameEn": "Ding Ping"
+            },
+            {
+                "SubRouteUID": "CYQ0708A2",
+                "SubRouteID": "0708A2",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101A",
+                    "En": "101A"
+                },
+                "Headsign": "塘興村→嘉義[繞桃子斜]",
+                "HeadsignEn": "Tang Sing Cun→Chiayi [via Taozaixie]",
+                "Direction": 1,
+                "DepartureStopNameZh": "頂坪",
+                "DepartureStopNameEn": "Ding Ping",
+                "DestinationStopNameZh": "大雅站",
+                "DestinationStopNameEn": "Da Ya Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "DepartureStopNameZh": "大雅站",
+        "DepartureStopNameEn": "Da Ya Station",
+        "DestinationStopNameZh": "頂坪",
+        "DestinationStopNameEn": "Ding Ping",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0708.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0711",
+        "RouteID": "0711",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ071101",
+                "SubRouteID": "071101",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "102",
+                    "En": "102"
+                },
+                "Headsign": "嘉義→松仔腳[經埤角]",
+                "HeadsignEn": "Chiayi－Song Zih Jiao[via bi jiao]",
+                "Direction": 0,
+                "DepartureStopNameZh": "大雅站",
+                "DepartureStopNameEn": "Da Ya Station",
+                "DestinationStopNameZh": "松仔腳",
+                "DestinationStopNameEn": "Song Zai Jiao"
+            },
+            {
+                "SubRouteUID": "CYQ071102",
+                "SubRouteID": "071102",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "102",
+                    "En": "102"
+                },
+                "Headsign": "松仔腳→嘉義[經埤角]",
+                "HeadsignEn": "Song Zih Jiao－Chiayi[via bi jiao]",
+                "Direction": 1,
+                "DepartureStopNameZh": "松仔腳",
+                "DepartureStopNameEn": "Song Zai Jiao",
+                "DestinationStopNameZh": "大雅站",
+                "DestinationStopNameEn": "Da Ya Station"
+            },
+            {
+                "SubRouteUID": "CYQ0711A1",
+                "SubRouteID": "0711A1",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "102A",
+                    "En": "102A"
+                },
+                "Headsign": "嘉義→松仔腳[經埤角 繞學區]",
+                "HeadsignEn": "Chiayi-Song Zai Jiao[via school]",
+                "Direction": 0,
+                "DepartureStopNameZh": "大雅站",
+                "DepartureStopNameEn": "Da Ya Station",
+                "DestinationStopNameZh": "松仔腳",
+                "DestinationStopNameEn": "Song Zai Jiao"
+            },
+            {
+                "SubRouteUID": "CYQ0711A2",
+                "SubRouteID": "0711A2",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "102A",
+                    "En": "102A"
+                },
+                "Headsign": "松仔腳→嘉義[經埤角 繞學區]",
+                "HeadsignEn": "Chiayi-Song Zai Jiao[via school]",
+                "Direction": 1,
+                "DepartureStopNameZh": "松仔腳",
+                "DepartureStopNameEn": "Song Zai Jiao",
+                "DestinationStopNameZh": "大雅站",
+                "DestinationStopNameEn": "Da Ya Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "102",
+            "En": "102"
+        },
+        "DepartureStopNameZh": "大雅站",
+        "DepartureStopNameEn": "Da Ya Station",
+        "DestinationStopNameZh": "松仔腳",
+        "DestinationStopNameEn": "Song Zai Jiao",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0711.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0742",
+        "RouteID": "0742",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ074201",
+                "SubRouteID": "074201",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "105",
+                    "En": "105"
+                },
+                "Headsign": "大雅站—高鐵嘉義站—溪厝村",
+                "HeadsignEn": "Da Ya Station—HSR Chiayi Station—Xicuo Village",
+                "Direction": 0,
+                "DepartureStopNameZh": "大雅站",
+                "DepartureStopNameEn": "Da Ya Station",
+                "DestinationStopNameZh": "溪厝村",
+                "DestinationStopNameEn": "Xicuo Village"
+            },
+            {
+                "SubRouteUID": "CYQ074202",
+                "SubRouteID": "074202",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "105",
+                    "En": "105"
+                },
+                "Headsign": "溪厝村—高鐵嘉義站—大雅站",
+                "HeadsignEn": "Xicuo Village—HSR Chiayi Station—Da Ya Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "溪厝村",
+                "DepartureStopNameEn": "Xicuo Village",
+                "DestinationStopNameZh": "大雅站",
+                "DestinationStopNameEn": "Da Ya Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "105",
+            "En": "105"
+        },
+        "DepartureStopNameZh": "大雅站",
+        "DepartureStopNameEn": "Da Ya Station",
+        "DestinationStopNameZh": "溪厝村",
+        "DestinationStopNameEn": "Xicuo Village",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0742.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0746",
+        "RouteID": "0746",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ074601",
+                "SubRouteID": "074601",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "106",
+                    "En": "106"
+                },
+                "Headsign": "嘉義→中正大學→故宮南院→高鐵嘉義站",
+                "HeadsignEn": "Chiayi→NationalChungChengUniversity→NPM Southern Branch→HSR Chiayi Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "嘉義火車站",
+                "DepartureStopNameEn": "Taiwan Railways Chiayi Station",
+                "DestinationStopNameZh": "高鐵嘉義站",
+                "DestinationStopNameEn": "HSR Chiayi Station"
+            },
+            {
+                "SubRouteUID": "CYQ074602",
+                "SubRouteID": "074602",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "106",
+                    "En": "106"
+                },
+                "Headsign": "高鐵嘉義站→故宮南院→中正大學→嘉義",
+                "HeadsignEn": "HSR Chiayi Station→NPM Southern Branch→NationalChungChengUniversity→Chiayi",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵嘉義站",
+                "DepartureStopNameEn": "HSR Chiayi Station",
+                "DestinationStopNameZh": "嘉義火車站",
+                "DestinationStopNameEn": "Taiwan Railways Chiayi Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "106",
+            "En": "106"
+        },
+        "DepartureStopNameZh": "嘉義火車站",
+        "DepartureStopNameEn": "Taiwan Railways Chiayi Station",
+        "DestinationStopNameZh": "高鐵嘉義站",
+        "DestinationStopNameEn": "HSR Chiayi Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0746.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0813",
+        "RouteID": "0813",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ081301",
+                "SubRouteID": "081301",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "縣府1路",
+                    "En": "縣府1路"
+                },
+                "Headsign": "大雅站→文化中心(檜意森活村)→縣政府",
+                "HeadsignEn": "Da Ya Station→Cultural Center→County Hall",
+                "Direction": 0,
+                "DepartureStopNameZh": "大雅站",
+                "DepartureStopNameEn": "Da Ya Station",
+                "DestinationStopNameZh": "縣政府",
+                "DestinationStopNameEn": "County Hall"
+            },
+            {
+                "SubRouteUID": "CYQ081302",
+                "SubRouteID": "081302",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "縣府1路",
+                    "En": "縣府1路"
+                },
+                "Headsign": "縣政府→文化中心(檜意森活村)→大雅站",
+                "HeadsignEn": "County Hall→Cultural Center→Da Ya Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "縣政府",
+                "DepartureStopNameEn": "County Hall",
+                "DestinationStopNameZh": "大雅站",
+                "DestinationStopNameEn": "Da Ya Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "縣府1路",
+            "En": "縣府1路"
+        },
+        "DepartureStopNameZh": "大雅站",
+        "DepartureStopNameEn": "Da Ya Station",
+        "DestinationStopNameZh": "縣政府",
+        "DestinationStopNameEn": "County Hall",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0813.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0814",
+        "RouteID": "0814",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ081401",
+                "SubRouteID": "081401",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "縣府3路",
+                    "En": "縣府3路"
+                },
+                "Headsign": "大雅站→嘉義火車站→嘉義區監理所",
+                "HeadsignEn": "Da Ya Station→Chiayi Train Station→Chiayi Motor Vehicles Office",
+                "Direction": 0,
+                "DepartureStopNameZh": "大雅站",
+                "DepartureStopNameEn": "Da Ya Station",
+                "DestinationStopNameZh": "嘉義區監理所",
+                "DestinationStopNameEn": "Chiayi Motor Vehicles Office"
+            },
+            {
+                "SubRouteUID": "CYQ081402",
+                "SubRouteID": "081402",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "縣府3路",
+                    "En": "縣府3路"
+                },
+                "Headsign": "嘉義區監理所→嘉義火車站→大雅站",
+                "HeadsignEn": "Chiayi Motor Vehicles Office→Chiayi Train Station→Da Ya Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "嘉義區監理所",
+                "DepartureStopNameEn": "Chiayi Motor Vehicles Office",
+                "DestinationStopNameZh": "大雅站",
+                "DestinationStopNameEn": "Da Ya Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "縣府3路",
+            "En": "縣府3路"
+        },
+        "DepartureStopNameZh": "大雅站",
+        "DepartureStopNameEn": "Da Ya Station",
+        "DestinationStopNameZh": "嘉義區監理所",
+        "DestinationStopNameEn": "Chiayi Motor Vehicles Office",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0814.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0815",
+        "RouteID": "0815",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ081501",
+                "SubRouteID": "081501",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "縣府5路",
+                    "En": "縣府5路"
+                },
+                "Headsign": "大雅站→民生社區→嘉義區監理所",
+                "HeadsignEn": "Da Ya Station→Minsheng Community→Chiayi Motor Vehicles Office",
+                "Direction": 0,
+                "DepartureStopNameZh": "大雅站",
+                "DepartureStopNameEn": "Da Ya Station",
+                "DestinationStopNameZh": "嘉義區監理所",
+                "DestinationStopNameEn": "Chiayi Motor Vehicles Office"
+            },
+            {
+                "SubRouteUID": "CYQ081502",
+                "SubRouteID": "081502",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "縣府5路",
+                    "En": "縣府5路"
+                },
+                "Headsign": "嘉義區監理所→民生社區→大雅站",
+                "HeadsignEn": "Chiayi Motor Vehicles Office→Minsheng Community→Da Ya Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "嘉義區監理所",
+                "DepartureStopNameEn": "Chiayi Motor Vehicles Office",
+                "DestinationStopNameZh": "大雅站",
+                "DestinationStopNameEn": "Da Ya Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "縣府5路",
+            "En": "縣府5路"
+        },
+        "DepartureStopNameZh": "大雅站",
+        "DepartureStopNameEn": "Da Ya Station",
+        "DestinationStopNameZh": "嘉義區監理所",
+        "DestinationStopNameEn": "Chiayi Motor Vehicles Office",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0815.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CYQ0816",
+        "RouteID": "0816",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "22",
+                "OperatorName": {
+                    "Zh_tw": "嘉義縣公車處",
+                    "En": "Chiayi County Bus Service Administration"
+                },
+                "OperatorCode": "ChiayiBusOffice",
+                "OperatorNo": "1402"
+            }
+        ],
+        "AuthorityID": "018",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CYQ081601",
+                "SubRouteID": "081601",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "縣府6路",
+                    "En": "縣府6路"
+                },
+                "Headsign": "大雅站→後庄→縣政府",
+                "HeadsignEn": "Da Ya Station→Houzhuang→County Hall",
+                "Direction": 0,
+                "DepartureStopNameZh": "大雅站",
+                "DepartureStopNameEn": "Da Ya Station",
+                "DestinationStopNameZh": "縣政府",
+                "DestinationStopNameEn": "County Hall"
+            },
+            {
+                "SubRouteUID": "CYQ081602",
+                "SubRouteID": "081602",
+                "OperatorIDs": [
+                    "22"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "縣府6路",
+                    "En": "縣府6路"
+                },
+                "Headsign": "縣政府→後庄→大雅站",
+                "HeadsignEn": "County Hall→Houzhuang→Da Ya Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "縣政府",
+                "DepartureStopNameEn": "County Hall",
+                "DestinationStopNameZh": "大雅站",
+                "DestinationStopNameEn": "Da Ya Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "縣府6路",
+            "En": "縣府6路"
+        },
+        "DepartureStopNameZh": "大雅站",
+        "DepartureStopNameEn": "Da Ya Station",
+        "DestinationStopNameZh": "縣政府",
+        "DestinationStopNameEn": "County Hall",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0816.jpg",
+        "City": "ChiayiCounty",
+        "CityCode": "CYQ",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    }
+]

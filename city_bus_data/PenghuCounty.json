@@ -1,0 +1,3633 @@
+[
+    {
+        "RouteUID": "PEN0162",
+        "RouteID": "0162",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN016201",
+                "SubRouteID": "016201",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "001",
+                    "En": "001"
+                },
+                "Headsign": "媽宮北環線",
+                "HeadsignEn": "Magong Shuttle Bus North Ring Line",
+                "Direction": 0,
+                "DepartureStopNameZh": "西衛東站",
+                "DepartureStopNameEn": "East Xiwei Village",
+                "DestinationStopNameZh": "西衛東站",
+                "DestinationStopNameEn": "East Xiwei Village"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "001",
+            "En": "001"
+        },
+        "DepartureStopNameZh": "西衛東站",
+        "DepartureStopNameEn": "East Xiwei Village",
+        "DestinationStopNameZh": "西衛東站",
+        "DestinationStopNameEn": "East Xiwei Village",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0162.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0164",
+        "RouteID": "0164",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN016401",
+                "SubRouteID": "016401",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "003",
+                    "En": "003"
+                },
+                "Headsign": "媽宮湖西線",
+                "HeadsignEn": "Magong Shuttle Bus Huxi Line",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公港站",
+                "DepartureStopNameEn": "Magong Port Station",
+                "DestinationStopNameZh": "馬公港站",
+                "DestinationStopNameEn": "Magong Port Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "003",
+            "En": "003"
+        },
+        "DepartureStopNameZh": "馬公港站",
+        "DepartureStopNameEn": "Magong Port Station",
+        "DestinationStopNameZh": "馬公港站",
+        "DestinationStopNameEn": "Magong Port Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0164.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0165",
+        "RouteID": "0165",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN016501",
+                "SubRouteID": "016501",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "002",
+                    "En": "002"
+                },
+                "Headsign": "媽宮澎南線",
+                "HeadsignEn": "Magong Pengnan Line",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公港站",
+                "DepartureStopNameEn": "Magong Port Station",
+                "DestinationStopNameZh": "馬公港站",
+                "DestinationStopNameEn": "Magong Port Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "002",
+            "En": "002"
+        },
+        "DepartureStopNameZh": "馬公港站",
+        "DepartureStopNameEn": "Magong Port Station",
+        "DestinationStopNameZh": "馬公港站",
+        "DestinationStopNameEn": "Magong Port Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0165.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0167",
+        "RouteID": "0167",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "129",
+                "OperatorName": {
+                    "Zh_tw": "雄獅通運股份有限公司"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1207"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN016701",
+                "SubRouteID": "016701",
+                "OperatorIDs": [
+                    "129"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "004",
+                    "En": "004"
+                },
+                "Headsign": "台灣好行—澎湖空港快線",
+                "HeadsignEn": "Taiwan Tourist Shuttle — Penghu Airport Express Route",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公港",
+                "DepartureStopNameEn": "Magong Harbor",
+                "DestinationStopNameZh": "澎湖機場",
+                "DestinationStopNameEn": "Penghu Airport"
+            },
+            {
+                "SubRouteUID": "PEN016702",
+                "SubRouteID": "016702",
+                "OperatorIDs": [
+                    "129"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "004",
+                    "En": "004"
+                },
+                "Headsign": "台灣好行—澎湖空港快線",
+                "HeadsignEn": "Taiwan Tourist Shuttle — Penghu Airport Express Route",
+                "Direction": 1,
+                "DepartureStopNameZh": "澎湖機場",
+                "DepartureStopNameEn": "Penghu Airport",
+                "DestinationStopNameZh": "馬公港",
+                "DestinationStopNameEn": "Magong Harbor"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "004",
+            "En": "004"
+        },
+        "DepartureStopNameZh": "馬公港",
+        "DepartureStopNameEn": "Magong Harbor",
+        "DestinationStopNameZh": "澎湖機場",
+        "DestinationStopNameEn": "Penghu Airport",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0167.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0758",
+        "RouteID": "0758",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN075801",
+                "SubRouteID": "075801",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21",
+                    "En": "21"
+                },
+                "Headsign": "馬公→外垵[06：55]，返程[08：15]",
+                "HeadsignEn": "Mogong→Waian[06：55]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN075802",
+                "SubRouteID": "075802",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21",
+                    "En": "21"
+                },
+                "Headsign": "外垵→馬公[08：15]",
+                "HeadsignEn": "Waian→Mogong[08：15]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758A1",
+                "SubRouteID": "0758A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21A",
+                    "En": "21A"
+                },
+                "Headsign": "馬公→外垵[08：55]，返程[10：15]",
+                "HeadsignEn": "Mogong→Waian[08：55]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758A2",
+                "SubRouteID": "0758A2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21A",
+                    "En": "21A"
+                },
+                "Headsign": "外垵→馬公[10：15]",
+                "HeadsignEn": "Waian→Mogong[10：15]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758B1",
+                "SubRouteID": "0758B1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21B",
+                    "En": "21B"
+                },
+                "Headsign": "馬公→外垵[09：40]，返程[10：50]",
+                "HeadsignEn": "Mogong→Waian[09：40]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758B2",
+                "SubRouteID": "0758B2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21B",
+                    "En": "21B"
+                },
+                "Headsign": "外垵→馬公[10：50]",
+                "HeadsignEn": "Waian→Mogong[10：50]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758C1",
+                "SubRouteID": "0758C1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21C",
+                    "En": "21C"
+                },
+                "Headsign": "馬公→外垵[10：40]，返程[12：10]",
+                "HeadsignEn": "Mogong→Waian[10：40]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758C2",
+                "SubRouteID": "0758C2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21C",
+                    "En": "21C"
+                },
+                "Headsign": "外垵→馬公[12：10]",
+                "HeadsignEn": "Waian→Mogong[12：10]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758D1",
+                "SubRouteID": "0758D1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21D",
+                    "En": "21D"
+                },
+                "Headsign": "馬公→外垵[12：05]，返程[13：15]",
+                "HeadsignEn": "Mogong→Waian[12：05]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758D2",
+                "SubRouteID": "0758D2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21D",
+                    "En": "21D"
+                },
+                "Headsign": "外垵→馬公[13：15]",
+                "HeadsignEn": "Waian→Mogong[13：15]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758E1",
+                "SubRouteID": "0758E1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21E",
+                    "En": "21E"
+                },
+                "Headsign": "馬公→外垵[13：10]，返程[14：25]",
+                "HeadsignEn": "Mogong→Waian[13：10]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758E2",
+                "SubRouteID": "0758E2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21E",
+                    "En": "21E"
+                },
+                "Headsign": "外垵→馬公[14：25]",
+                "HeadsignEn": "Waian→Mogong[14：25]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758F1",
+                "SubRouteID": "0758F1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21F",
+                    "En": "21F"
+                },
+                "Headsign": "馬公→外垵[14：50]，返程[16：00]",
+                "HeadsignEn": "Mogong→Waian[14：50]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758F2",
+                "SubRouteID": "0758F2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21F",
+                    "En": "21F"
+                },
+                "Headsign": "外垵→馬公[16：00]",
+                "HeadsignEn": "Waian→Mogong[16：00]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758H1",
+                "SubRouteID": "0758H1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21H",
+                    "En": "21H"
+                },
+                "Headsign": "馬公→外垵[16：40]，返程[18：00]",
+                "HeadsignEn": "Mogong→Waian[16：40]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758H2",
+                "SubRouteID": "0758H2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21H",
+                    "En": "21H"
+                },
+                "Headsign": "外垵→馬公[18：00]",
+                "HeadsignEn": "Waian→Mogong[18：00]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758I1",
+                "SubRouteID": "0758I1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21I",
+                    "En": "21I"
+                },
+                "Headsign": "馬公→外垵[18：00]，返程[19：20]",
+                "HeadsignEn": "Mogong→Waian[18：00]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758I2",
+                "SubRouteID": "0758I2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21I",
+                    "En": "21I"
+                },
+                "Headsign": "外垵→馬公[19：20]",
+                "HeadsignEn": "Waian→Mogong[19：20]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758J1",
+                "SubRouteID": "0758J1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21J",
+                    "En": "21J"
+                },
+                "Headsign": "馬公→外垵[19：30]，返程[20：40]",
+                "HeadsignEn": "Mogong→Waian[19：30]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758J2",
+                "SubRouteID": "0758J2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21J",
+                    "En": "21J"
+                },
+                "Headsign": "外垵→馬公[20：40]",
+                "HeadsignEn": "Waian→Mogong[20：40]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "北辰小郵局",
+                "DestinationStopNameEn": "Beichen Post Office"
+            },
+            {
+                "SubRouteUID": "PEN0758K1",
+                "SubRouteID": "0758K1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21K",
+                    "En": "21K"
+                },
+                "Headsign": "馬公→外垵[21：40]",
+                "HeadsignEn": "Mogong→Waian[21：40]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758L2",
+                "SubRouteID": "0758L2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21L",
+                    "En": "21L"
+                },
+                "Headsign": "外垵→馬公[06：20]",
+                "HeadsignEn": "Waian→Mogong[06：20]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758M2",
+                "SubRouteID": "0758M2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21M",
+                    "En": "21M"
+                },
+                "Headsign": "外垵→馬公[06：50]",
+                "HeadsignEn": "Waian→Mogong[06：50]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758N1",
+                "SubRouteID": "0758N1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21N",
+                    "En": "21N"
+                },
+                "Headsign": "馬公→外垵[15：30本班車國定假日、例假日停開]",
+                "HeadsignEn": "Mogong→Waian[15：30][The bus on holiday out of service]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0758N2",
+                "SubRouteID": "0758N2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "21N",
+                    "En": "21N"
+                },
+                "Headsign": "外垵→馬公[17：00本班車國定假日、例假日停開]",
+                "HeadsignEn": "Waian→Mogong[17：00][The bus on holiday out of service]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "21",
+            "En": "21"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "外垵終點站",
+        "DestinationStopNameEn": "Waian Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0758.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0759",
+        "RouteID": "0759",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN075901",
+                "SubRouteID": "075901",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "33",
+                    "En": "33"
+                },
+                "Headsign": "馬公→北寮[1240]，返程[1305]",
+                "HeadsignEn": "Mogong→Beiliao[12：40]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "北寮終點站",
+                "DestinationStopNameEn": "Beiliao Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN075902",
+                "SubRouteID": "075902",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "33",
+                    "En": "33"
+                },
+                "Headsign": "北寮→馬公[1305]",
+                "HeadsignEn": "Beiliao→Mogong[13：05]",
+                "Direction": 1,
+                "DepartureStopNameZh": "北寮終點站",
+                "DepartureStopNameEn": "Beiliao Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0759A1",
+                "SubRouteID": "0759A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "33A",
+                    "En": "33A"
+                },
+                "Headsign": "馬公→北寮[1620]，返程[1655]",
+                "HeadsignEn": "Mogong→Beiliao[16：20]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "北寮終點站",
+                "DestinationStopNameEn": "Beiliao Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0759A2",
+                "SubRouteID": "0759A2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "33A",
+                    "En": "33A"
+                },
+                "Headsign": "北寮→馬公[1655]",
+                "HeadsignEn": "Beiliao→Mogong[16：55]",
+                "Direction": 1,
+                "DepartureStopNameZh": "北寮終點站",
+                "DepartureStopNameEn": "Beiliao Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0759B2",
+                "SubRouteID": "0759B2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "33B",
+                    "En": "33B"
+                },
+                "Headsign": "北寮→馬公[0640]",
+                "HeadsignEn": "Beiliao→Mogong[06：40]",
+                "Direction": 1,
+                "DepartureStopNameZh": "北寮終點站",
+                "DepartureStopNameEn": "Beiliao Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "33",
+            "En": "33"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "北寮終點站",
+        "DestinationStopNameEn": "Beiliao Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0759.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0761",
+        "RouteID": "0761",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN076101",
+                "SubRouteID": "076101",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "13",
+                    "En": "13"
+                },
+                "Headsign": "馬公→光華[1730]",
+                "HeadsignEn": "Mogong→Guanghua[17：30]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0761A1",
+                "SubRouteID": "0761A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "13A",
+                    "En": "13A"
+                },
+                "Headsign": "馬公→光華[2015]",
+                "HeadsignEn": "Mogong→Guanghua[20：15]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "13",
+            "En": "13"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "馬公總站",
+        "DestinationStopNameEn": "Magong Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0761.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0762",
+        "RouteID": "0762",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN0762A1",
+                "SubRouteID": "0762A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22A",
+                    "En": "22A"
+                },
+                "Headsign": "馬公→通梁[06:35]，返程[07:20]",
+                "HeadsignEn": "Magong→Tongliang[06:35]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "通梁古榕終點站",
+                "DestinationStopNameEn": "Tongliang banyan Terminu stop"
+            },
+            {
+                "SubRouteUID": "PEN0762A2",
+                "SubRouteID": "0762A2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22A",
+                    "En": "22A"
+                },
+                "Headsign": "通梁→馬公[07:20]",
+                "HeadsignEn": "Tongliang→Magong[07:20]",
+                "Direction": 1,
+                "DepartureStopNameZh": "通梁古榕終點站",
+                "DepartureStopNameEn": "Tongliang banyan Terminu stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0762B1",
+                "SubRouteID": "0762B1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22B",
+                    "En": "22B"
+                },
+                "Headsign": "馬公→通梁[08:00]，返程[08:50]",
+                "HeadsignEn": "Magong→Tongliang[08:00]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "通梁古榕終點站",
+                "DestinationStopNameEn": "Tongliang banyan Terminu stop"
+            },
+            {
+                "SubRouteUID": "PEN0762B2",
+                "SubRouteID": "0762B2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "002B",
+                    "En": "002B"
+                },
+                "Headsign": "通梁→馬公[08:50]",
+                "HeadsignEn": "Tongliang→Magong[08:50]",
+                "Direction": 1,
+                "DepartureStopNameZh": "通梁古榕終點站",
+                "DepartureStopNameEn": "Tongliang banyan Terminu stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0762C1",
+                "SubRouteID": "0762C1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22C",
+                    "En": "22C"
+                },
+                "Headsign": "馬公→通梁[10:00]，返程[10:50]",
+                "HeadsignEn": "Magong→Tongliang[10:00]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "通梁古榕終點站",
+                "DestinationStopNameEn": "Tongliang banyan Terminu stop"
+            },
+            {
+                "SubRouteUID": "PEN0762C2",
+                "SubRouteID": "0762C2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "002C",
+                    "En": "002C"
+                },
+                "Headsign": "通梁→馬公[10:50]",
+                "HeadsignEn": "Tongliang→Magong[10:50]",
+                "Direction": 1,
+                "DepartureStopNameZh": "通梁古榕終點站",
+                "DepartureStopNameEn": "Tongliang banyan Terminu stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0762D1",
+                "SubRouteID": "0762D1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22D",
+                    "En": "22D"
+                },
+                "Headsign": "馬公→通梁[12:00]，返程[12:45]",
+                "HeadsignEn": "Magong→Tongliang[12:00]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "通梁古榕終點站",
+                "DestinationStopNameEn": "Tongliang banyan Terminu stop"
+            },
+            {
+                "SubRouteUID": "PEN0762D2",
+                "SubRouteID": "0762D2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "002D",
+                    "En": "002D"
+                },
+                "Headsign": "通梁→馬公[12:45]",
+                "HeadsignEn": "Tongliang→Magong[12:45]",
+                "Direction": 1,
+                "DepartureStopNameZh": "通梁古榕終點站",
+                "DepartureStopNameEn": "Tongliang banyan Terminu stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0762E1",
+                "SubRouteID": "0762E1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22E",
+                    "En": "22E"
+                },
+                "Headsign": "馬公→通梁[16:35]，返程[17:30]",
+                "HeadsignEn": "Magong→Tongliang[16:35]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "通梁古榕終點站",
+                "DestinationStopNameEn": "Tongliang banyan Terminu stop"
+            },
+            {
+                "SubRouteUID": "PEN0762E2",
+                "SubRouteID": "0762E2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22E",
+                    "En": "22E"
+                },
+                "Headsign": "通梁→馬公[17:30]",
+                "HeadsignEn": "Tongliang→Magong[17:30]",
+                "Direction": 1,
+                "DepartureStopNameZh": "通梁古榕終點站",
+                "DepartureStopNameEn": "Tongliang banyan Terminu stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0762F1",
+                "SubRouteID": "0762F1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22F",
+                    "En": "22F"
+                },
+                "Headsign": "馬公→通梁[18:30]，返程[19:15]",
+                "HeadsignEn": "Magong→Tongliang[18:30]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "通梁古榕終點站",
+                "DestinationStopNameEn": "Tongliang banyan Terminu stop"
+            },
+            {
+                "SubRouteUID": "PEN0762F2",
+                "SubRouteID": "0762F2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22F",
+                    "En": "22F"
+                },
+                "Headsign": "通梁→馬公[19:15]",
+                "HeadsignEn": "Tongliang→Magong[19:15]",
+                "Direction": 1,
+                "DepartureStopNameZh": "通梁古榕終點站",
+                "DepartureStopNameEn": "Tongliang banyan Terminu stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0762H2",
+                "SubRouteID": "0762H2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22H",
+                    "En": "22H"
+                },
+                "Headsign": "通梁→馬公[06:00]",
+                "HeadsignEn": "Tongliang→Magong[06:00]",
+                "Direction": 1,
+                "DepartureStopNameZh": "通梁古榕終點站",
+                "DepartureStopNameEn": "Tongliang banyan Terminu stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0762I1",
+                "SubRouteID": "0762I1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22I",
+                    "En": "22I"
+                },
+                "Headsign": "馬公→通梁[17:50本班車例假日寒暑假停開]",
+                "HeadsignEn": "Magong→Tongliang[17:50]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "通梁古榕終點站",
+                "DestinationStopNameEn": "Tongliang banyan Terminu stop"
+            },
+            {
+                "SubRouteUID": "PEN0762K2",
+                "SubRouteID": "0762K2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "22K",
+                    "En": "22K"
+                },
+                "Headsign": "通梁→馬公[06:40]",
+                "HeadsignEn": "Tongliang→Magong[06:40]",
+                "Direction": 1,
+                "DepartureStopNameZh": "通梁古榕終點站",
+                "DepartureStopNameEn": "Tongliang banyan Terminu stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "22",
+            "En": "22"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "通梁古榕終點站",
+        "DestinationStopNameEn": "Tongliang banyan Terminu stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0762.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0763",
+        "RouteID": "0763",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN076301",
+                "SubRouteID": "076301",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "35",
+                    "En": "35"
+                },
+                "Headsign": "馬公→太武[06:35]，返程[07:05]",
+                "HeadsignEn": "Magong→Taiwu[06:35]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "太武終點站",
+                "DestinationStopNameEn": "Taiwu Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN076302",
+                "SubRouteID": "076302",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "35",
+                    "En": "35"
+                },
+                "Headsign": "太武→馬公[07:05]",
+                "HeadsignEn": "Taiwu→Magong[07:05]",
+                "Direction": 1,
+                "DepartureStopNameZh": "太武終點站",
+                "DepartureStopNameEn": "Taiwu Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0763A1",
+                "SubRouteID": "0763A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "35A",
+                    "En": "35A"
+                },
+                "Headsign": "馬公→太武[10:45]，返程[11:10]",
+                "HeadsignEn": "Magong→Taiwu[10:45]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "太武終點站",
+                "DestinationStopNameEn": "Taiwu Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0763A2",
+                "SubRouteID": "0763A2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "35A",
+                    "En": "35A"
+                },
+                "Headsign": "太武→馬公[11:10]",
+                "HeadsignEn": "Taiwu→Magong[11:10]",
+                "Direction": 1,
+                "DepartureStopNameZh": "太武終點站",
+                "DepartureStopNameEn": "Taiwu Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "35",
+            "En": "35"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "太武終點站",
+        "DestinationStopNameEn": "Taiwu Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0763.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0764",
+        "RouteID": "0764",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN076401",
+                "SubRouteID": "076401",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "12",
+                    "En": "12"
+                },
+                "Headsign": "馬公→前寮[07:35]",
+                "HeadsignEn": "Magon→Qianliao[07:35]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0764A1",
+                "SubRouteID": "0764A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "12A",
+                    "En": "12A"
+                },
+                "Headsign": "馬公→前寮[09:45]",
+                "HeadsignEn": "Magon→Qianliao[09:45]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0764B1",
+                "SubRouteID": "0764B1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "12B",
+                    "En": "12B"
+                },
+                "Headsign": "馬公→前寮[10:45]",
+                "HeadsignEn": "Magon→Qianliao[10:45]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0764C1",
+                "SubRouteID": "0764C1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "12C",
+                    "En": "12C"
+                },
+                "Headsign": "馬公→前寮[12:10]",
+                "HeadsignEn": "Magon→Qianliao[12:10]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0764D1",
+                "SubRouteID": "0764D1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "12D",
+                    "En": "12D"
+                },
+                "Headsign": "馬公→前寮[15:50]",
+                "HeadsignEn": "Magon→Qianliao[15:50]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "12",
+            "En": "12"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "馬公總站",
+        "DestinationStopNameEn": "Magong Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0764.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0765",
+        "RouteID": "0765",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN076501",
+                "SubRouteID": "076501",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "11",
+                    "En": "11"
+                },
+                "Headsign": "馬公→烏崁→馬公[07:05]循環線",
+                "HeadsignEn": "Magon→Wukan→Magon[07:05]Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0765A1",
+                "SubRouteID": "0765A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "11A",
+                    "En": "11A"
+                },
+                "Headsign": "馬公→烏崁→馬公[09:05]循環線",
+                "HeadsignEn": "Magon→Wukan→Magon[09:05]Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0765B1",
+                "SubRouteID": "0765B1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "11B",
+                    "En": "11B"
+                },
+                "Headsign": "馬公→烏崁→馬公[16:25本班車例假日寒暑假停開]循環線",
+                "HeadsignEn": "Magon→Wukan→Magon[16:25]Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0765C1",
+                "SubRouteID": "0765C1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "11C",
+                    "En": "11C"
+                },
+                "Headsign": "馬公→烏崁→馬公[17:45]循環線",
+                "HeadsignEn": "Magon→Wukan→Magon[17:45]Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0765D1",
+                "SubRouteID": "0765D1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "11D",
+                    "En": "11D"
+                },
+                "Headsign": "馬公→烏崁→馬公[20:45]循環線",
+                "HeadsignEn": "Magon→Wukan→Magon[20:45]Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "北辰市場站",
+                "DestinationStopNameEn": "Beichen Market stop"
+            },
+            {
+                "SubRouteUID": "PEN0765E1",
+                "SubRouteID": "0765E1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "11E",
+                    "En": "11E"
+                },
+                "Headsign": "馬公→烏崁→馬公[13:20]循環線",
+                "HeadsignEn": "Magon→Wukan→Magon[13:20]Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "馬公總站",
+        "DestinationStopNameEn": "Magong Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0765.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0766",
+        "RouteID": "0766",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN076601",
+                "SubRouteID": "076601",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23",
+                    "En": "23"
+                },
+                "Headsign": "馬公→沙港[06:50]，返程[07:15]",
+                "HeadsignEn": "Magon→Shagang[06:50]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "成功天軍廟",
+                "DestinationStopNameEn": "Chenggong Tianjun Temple"
+            },
+            {
+                "SubRouteUID": "PEN076602",
+                "SubRouteID": "076602",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23",
+                    "En": "23"
+                },
+                "Headsign": "沙港→馬公[07:15]",
+                "HeadsignEn": "Shagang→Magon[07:15]",
+                "Direction": 1,
+                "DepartureStopNameZh": "成功天軍廟",
+                "DepartureStopNameEn": "Chenggong Tianjun Temple",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0766A1",
+                "SubRouteID": "0766A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23A",
+                    "En": "23A"
+                },
+                "Headsign": "馬公→沙港[07:20]，返程[07:50]",
+                "HeadsignEn": "Magon→Shagang[07:20]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "沙港東站",
+                "DestinationStopNameEn": "Shagang East stop"
+            },
+            {
+                "SubRouteUID": "PEN0766A2",
+                "SubRouteID": "0766A2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23A",
+                    "En": "23A"
+                },
+                "Headsign": "沙港→馬公[07:50]",
+                "HeadsignEn": "Shagang→Magon[07:50]",
+                "Direction": 1,
+                "DepartureStopNameZh": "沙港東站",
+                "DepartureStopNameEn": "Shagang East stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0766B1",
+                "SubRouteID": "0766B1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23B",
+                    "En": "23B"
+                },
+                "Headsign": "馬公→沙港[09:50]，返程[10:20]",
+                "HeadsignEn": "Magon→Shagang[09:50]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "沙港東站",
+                "DestinationStopNameEn": "Shagang East stop"
+            },
+            {
+                "SubRouteUID": "PEN0766B2",
+                "SubRouteID": "0766B2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23B",
+                    "En": "23B"
+                },
+                "Headsign": "沙港→馬公[10:20]",
+                "HeadsignEn": "Shagang→Magon[10:20]",
+                "Direction": 1,
+                "DepartureStopNameZh": "沙港東站",
+                "DepartureStopNameEn": "Shagang East stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0766C1",
+                "SubRouteID": "0766C1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23C",
+                    "En": "23C"
+                },
+                "Headsign": "馬公→沙港[11:55]，返程[12:25]",
+                "HeadsignEn": "Magon→Shagang[11:55]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "成功天軍廟",
+                "DestinationStopNameEn": "Chenggong Tianjun Temple"
+            },
+            {
+                "SubRouteUID": "PEN0766C2",
+                "SubRouteID": "0766C2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23C",
+                    "En": "23C"
+                },
+                "Headsign": "沙港→馬公[12:25]",
+                "HeadsignEn": "Shagang→Magon[12:25]",
+                "Direction": 1,
+                "DepartureStopNameZh": "成功天軍廟",
+                "DepartureStopNameEn": "Chenggong Tianjun Temple",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0766D1",
+                "SubRouteID": "0766D1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23D",
+                    "En": "23D"
+                },
+                "Headsign": "馬公→沙港[14:00]，返程[14:20]",
+                "HeadsignEn": "Magon→Shagang[14:00]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "沙港東站",
+                "DestinationStopNameEn": "Shagang East stop"
+            },
+            {
+                "SubRouteUID": "PEN0766D2",
+                "SubRouteID": "0766D2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23D",
+                    "En": "23D"
+                },
+                "Headsign": "沙港→馬公[14:20]",
+                "HeadsignEn": "Shagang→Magon[14:20]",
+                "Direction": 1,
+                "DepartureStopNameZh": "沙港東站",
+                "DepartureStopNameEn": "Shagang East stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0766E1",
+                "SubRouteID": "0766E1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23E",
+                    "En": "23E"
+                },
+                "Headsign": "馬公→沙港[16:30]，返程[17:00]",
+                "HeadsignEn": "Magon→Shagang[16:30]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "沙港東站",
+                "DestinationStopNameEn": "Shagang East stop"
+            },
+            {
+                "SubRouteUID": "PEN0766E2",
+                "SubRouteID": "0766E2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23E",
+                    "En": "23E"
+                },
+                "Headsign": "沙港→馬公[17:00]",
+                "HeadsignEn": "Shagang→Magon[17:00]",
+                "Direction": 1,
+                "DepartureStopNameZh": "沙港東站",
+                "DepartureStopNameEn": "Shagang East stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0766F1",
+                "SubRouteID": "0766F1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23F",
+                    "En": "23F"
+                },
+                "Headsign": "馬公→沙港[17:40]，返程[18:10]",
+                "HeadsignEn": "Magon→Shagang[17:40]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "成功天軍廟",
+                "DestinationStopNameEn": "Chenggong Tianjun Temple"
+            },
+            {
+                "SubRouteUID": "PEN0766F2",
+                "SubRouteID": "0766F2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23F",
+                    "En": "23F"
+                },
+                "Headsign": "沙港→馬公[18:10]",
+                "HeadsignEn": "Shagang→Magon[18:10]",
+                "Direction": 1,
+                "DepartureStopNameZh": "成功天軍廟",
+                "DepartureStopNameEn": "Chenggong Tianjun Temple",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0766G1",
+                "SubRouteID": "0766G1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23G",
+                    "En": "23G"
+                },
+                "Headsign": "馬公→沙港[18:25]，返程[18:50]",
+                "HeadsignEn": "Magon→Shagang[18:25]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "沙港東站",
+                "DestinationStopNameEn": "Shagang East stop"
+            },
+            {
+                "SubRouteUID": "PEN0766G2",
+                "SubRouteID": "0766G2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23G",
+                    "En": "23G"
+                },
+                "Headsign": "沙港→馬公[18:50]",
+                "HeadsignEn": "Shagang→Magon[18:50]",
+                "Direction": 1,
+                "DepartureStopNameZh": "沙港東站",
+                "DepartureStopNameEn": "Shagang East stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0766H1",
+                "SubRouteID": "0766H1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23H",
+                    "En": "23H"
+                },
+                "Headsign": "馬公→沙港[21:05]，返程[21:30]",
+                "HeadsignEn": "Magon→Shagang[21:05]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "沙港東站",
+                "DestinationStopNameEn": "Shagang East stop"
+            },
+            {
+                "SubRouteUID": "PEN0766H2",
+                "SubRouteID": "0766H2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23H",
+                    "En": "23H"
+                },
+                "Headsign": "沙港→馬公[21:30]",
+                "HeadsignEn": "Shagang→Magon[21:30]",
+                "Direction": 1,
+                "DepartureStopNameZh": "沙港東站",
+                "DepartureStopNameEn": "Shagang East stop",
+                "DestinationStopNameZh": "北辰小郵局",
+                "DestinationStopNameEn": "Beichen Post Office"
+            },
+            {
+                "SubRouteUID": "PEN0766I2",
+                "SubRouteID": "0766I2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23I",
+                    "En": "23I"
+                },
+                "Headsign": "沙港→馬公[06:00]",
+                "HeadsignEn": "Shagang→Magon[06:00]",
+                "Direction": 1,
+                "DepartureStopNameZh": "沙港東站",
+                "DepartureStopNameEn": "Shagang East stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "成功天軍廟",
+        "DestinationStopNameEn": "Chenggong Tianjun Temple",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0766.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0767",
+        "RouteID": "0767",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN076701",
+                "SubRouteID": "076701",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32",
+                    "En": "32"
+                },
+                "Headsign": "馬公—尖山—馬公[07：00]循環線",
+                "HeadsignEn": "Mogong→Jianshan→Mogong [07：00] Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0767A1",
+                "SubRouteID": "0767A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32A",
+                    "En": "32A"
+                },
+                "Headsign": "馬公—尖山—馬公[08：05]循環線",
+                "HeadsignEn": "Mogong→Jianshan→Mogong [08：05] Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0767B1",
+                "SubRouteID": "0767B1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32B",
+                    "En": "32B"
+                },
+                "Headsign": "馬公—尖山—馬公[10：05]循環線",
+                "HeadsignEn": "Mogong→Jianshan→Mogong [10：05] Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0767C1",
+                "SubRouteID": "0767C1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32C",
+                    "En": "32C"
+                },
+                "Headsign": "馬公—尖山—馬公[11：20]循環線",
+                "HeadsignEn": "Mogong→Jianshan→Mogong [11：20] Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0767D1",
+                "SubRouteID": "0767D1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32D",
+                    "En": "32D"
+                },
+                "Headsign": "馬公—尖山—馬公[12：15]循環線",
+                "HeadsignEn": "Mogong→Jianshan→Mogong [12：15] Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0767E1",
+                "SubRouteID": "0767E1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32E",
+                    "En": "32E"
+                },
+                "Headsign": "馬公—尖山—馬公[14：05]循環線",
+                "HeadsignEn": "Mogong→Jianshan→Mogong [14：05] Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0767F1",
+                "SubRouteID": "0767F1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32F",
+                    "En": "32F"
+                },
+                "Headsign": "馬公—尖山—馬公[16：25]循環線",
+                "HeadsignEn": "Mogong→Jianshan→Mogong [16：25] Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0767G1",
+                "SubRouteID": "0767G1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32G",
+                    "En": "32G"
+                },
+                "Headsign": "馬公—尖山—馬公[16：50]循環線",
+                "HeadsignEn": "Mogong→Jianshan→Mogong [16：50] Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0767H1",
+                "SubRouteID": "0767H1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32H",
+                    "En": "32H"
+                },
+                "Headsign": "馬公—尖山—馬公[17：50]循環線",
+                "HeadsignEn": "Mogong→Jianshan→Mogong [17：50] Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0767I1",
+                "SubRouteID": "0767I1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32I",
+                    "En": "32I"
+                },
+                "Headsign": "馬公—尖山—馬公[20：00本班車例假日寒暑假停開]循環線",
+                "HeadsignEn": "Mogong→Jianshan→Mogong [20：00 This shift Holiday、Winter vacation summer vacation Stop] Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0767J1",
+                "SubRouteID": "0767J1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32J",
+                    "En": "32J"
+                },
+                "Headsign": "馬公—尖山—馬公[21：15]循環線",
+                "HeadsignEn": "Mogong→Jianshan→Mogong [21：15] Circular",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "北辰小郵局",
+                "DestinationStopNameEn": "Beichen Post Office"
+            },
+            {
+                "SubRouteUID": "PEN0767K2",
+                "SubRouteID": "0767K2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32K",
+                    "En": "32K"
+                },
+                "Headsign": "尖山─馬公[0600]",
+                "HeadsignEn": "Jianshan→Mogong[06：00]",
+                "Direction": 1,
+                "DepartureStopNameZh": "龍門終點站",
+                "DepartureStopNameEn": "Longmen Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "32",
+            "En": "32"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "馬公總站",
+        "DestinationStopNameEn": "Magong Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0767.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0768",
+        "RouteID": "0768",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN076801",
+                "SubRouteID": "076801",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "34",
+                    "En": "34"
+                },
+                "Headsign": "馬公→青螺[06:40]，返程[07:10]",
+                "HeadsignEn": "Magon→Qingluo[06:40]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "青螺終點站",
+                "DestinationStopNameEn": "Qingluo Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN076802",
+                "SubRouteID": "076802",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "34",
+                    "En": "34"
+                },
+                "Headsign": "青螺→馬公[07:10]",
+                "HeadsignEn": "Qingluo→Magon[07:10]",
+                "Direction": 1,
+                "DepartureStopNameZh": "青螺終點站",
+                "DepartureStopNameEn": "Qingluo Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0768A1",
+                "SubRouteID": "0768A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "34A",
+                    "En": "34A"
+                },
+                "Headsign": "馬公→青螺[09:35]，返程[10:05]",
+                "HeadsignEn": "Magon→Qingluo[09:35]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "青螺終點站",
+                "DestinationStopNameEn": "Qingluo Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0768A2",
+                "SubRouteID": "0768A2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "34A",
+                    "En": "34A"
+                },
+                "Headsign": "青螺→馬公[10:05]",
+                "HeadsignEn": "Qingluo→Magon[10:05]",
+                "Direction": 1,
+                "DepartureStopNameZh": "青螺終點站",
+                "DepartureStopNameEn": "Qingluo Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0768B1",
+                "SubRouteID": "0768B1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "34B",
+                    "En": "34B"
+                },
+                "Headsign": "馬公→青螺[12:10]，返程[12:40]",
+                "HeadsignEn": "Magon→Qingluo[12:10]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "青螺終點站",
+                "DestinationStopNameEn": "Qingluo Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0768B2",
+                "SubRouteID": "0768B2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "34B",
+                    "En": "34B"
+                },
+                "Headsign": "青螺→馬公[12:40]",
+                "HeadsignEn": "Qingluo→Magon[12:40]",
+                "Direction": 1,
+                "DepartureStopNameZh": "青螺終點站",
+                "DepartureStopNameEn": "Qingluo Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0768C1",
+                "SubRouteID": "0768C1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "34C",
+                    "En": "34C"
+                },
+                "Headsign": "馬公→青螺[17:05]，返程[17:40]",
+                "HeadsignEn": "Magon→Qingluo[17:05]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "青螺終點站",
+                "DestinationStopNameEn": "Qingluo Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0768C2",
+                "SubRouteID": "0768C2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "34C",
+                    "En": "34C"
+                },
+                "Headsign": "青螺→馬公[17:40]",
+                "HeadsignEn": "Qingluo→Magon[17:40]",
+                "Direction": 1,
+                "DepartureStopNameZh": "青螺終點站",
+                "DepartureStopNameEn": "Qingluo Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "34",
+            "En": "34"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "青螺終點站",
+        "DestinationStopNameEn": "Qingluo Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0768.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0769",
+        "RouteID": "0769",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN076901",
+                "SubRouteID": "076901",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0W",
+                    "En": "0W"
+                },
+                "Headsign": "零路[西][07：40]",
+                "HeadsignEn": "Mogong→0－[West][07：40]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0769A1",
+                "SubRouteID": "0769A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0WA",
+                    "En": "0WA"
+                },
+                "Headsign": "零路[西][08：30]",
+                "HeadsignEn": "Mogong→0－[West][08：30]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0W",
+            "En": "0W"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "馬公總站",
+        "DestinationStopNameEn": "Magong Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0769.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0773",
+        "RouteID": "0773",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN077301",
+                "SubRouteID": "077301",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "52",
+                    "En": "52"
+                },
+                "Headsign": "馬公→山水[06:45]，返程[07:10]",
+                "HeadsignEn": "Magong→Shanshui[06:45]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "山水沙灘終點站",
+                "DestinationStopNameEn": "Shanshui Beach"
+            },
+            {
+                "SubRouteUID": "PEN077302",
+                "SubRouteID": "077302",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "52",
+                    "En": "52"
+                },
+                "Headsign": "山水→馬公[07:10]",
+                "HeadsignEn": "Shanshui→Magong[07:10]",
+                "Direction": 1,
+                "DepartureStopNameZh": "山水沙灘終點站",
+                "DepartureStopNameEn": "Shanshui Beach",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0773A1",
+                "SubRouteID": "0773A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "52A",
+                    "En": "52A"
+                },
+                "Headsign": "馬公→山水[07:50]，返程[08:20]",
+                "HeadsignEn": "Magong→Shanshui[07:50]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "山水沙灘終點站",
+                "DestinationStopNameEn": "Shanshui Beach"
+            },
+            {
+                "SubRouteUID": "PEN0773A2",
+                "SubRouteID": "0773A2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "52A",
+                    "En": "52A"
+                },
+                "Headsign": "山水→馬公[08:20]",
+                "HeadsignEn": "Shanshui→Magong[08:20]",
+                "Direction": 1,
+                "DepartureStopNameZh": "山水沙灘終點站",
+                "DepartureStopNameEn": "Shanshui Beach",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0773B1",
+                "SubRouteID": "0773B1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "52B",
+                    "En": "52B"
+                },
+                "Headsign": "馬公→山水[09:00]，返程[09:30]",
+                "HeadsignEn": "Magong→Shanshui[09:00]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "山水沙灘終點站",
+                "DestinationStopNameEn": "Shanshui Beach"
+            },
+            {
+                "SubRouteUID": "PEN0773B2",
+                "SubRouteID": "0773B2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "52B",
+                    "En": "52B"
+                },
+                "Headsign": "山水→馬公[09:30]",
+                "HeadsignEn": "Shanshui→Magong[09:30]",
+                "Direction": 1,
+                "DepartureStopNameZh": "山水沙灘終點站",
+                "DepartureStopNameEn": "Shanshui Beach",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0773D1",
+                "SubRouteID": "0773D1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "52D",
+                    "En": "52D"
+                },
+                "Headsign": "馬公→山水[17:25]，返程[17:55]",
+                "HeadsignEn": "Magong→Shanshui[17:25]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "山水沙灘終點站",
+                "DestinationStopNameEn": "Shanshui Beach"
+            },
+            {
+                "SubRouteUID": "PEN0773D2",
+                "SubRouteID": "0773D2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "52D",
+                    "En": "52D"
+                },
+                "Headsign": "山水→馬公[17:55]",
+                "HeadsignEn": "Shanshui→Magong[17:55]",
+                "Direction": 1,
+                "DepartureStopNameZh": "山水沙灘終點站",
+                "DepartureStopNameEn": "Shanshui Beach",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0773E1",
+                "SubRouteID": "0773E1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "52E",
+                    "En": "52E"
+                },
+                "Headsign": "馬公→山水 [16:40]本班車平日行駛、寒暑假、例假日停開",
+                "HeadsignEn": "Mogong→Shanshui [16：40] This bus runs during  weekdays  and stops on winter and summer vacations, holidays",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "山水沙灘終點站",
+                "DestinationStopNameEn": "Shanshui Beach"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "52",
+            "En": "52"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "山水沙灘終點站",
+        "DestinationStopNameEn": "Shanshui Beach",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0773.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0774",
+        "RouteID": "0774",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN077401",
+                "SubRouteID": "077401",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31",
+                    "En": "31"
+                },
+                "Headsign": "馬公→龍門→馬公[06:50]循環線",
+                "HeadsignEn": "Magon→Longmen→Magon[06:50]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0774A1",
+                "SubRouteID": "0774A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31A",
+                    "En": "31A"
+                },
+                "Headsign": "馬公→龍門→馬公[07:45]循環線",
+                "HeadsignEn": "Magon→Longmen→Magon[07:45]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0774B1",
+                "SubRouteID": "0774B1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31B",
+                    "En": "31B"
+                },
+                "Headsign": "馬公→龍門→馬公[08:50]循環線",
+                "HeadsignEn": "Magon→Longmen→Magon[08:50]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0774C1",
+                "SubRouteID": "0774C1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31C",
+                    "En": "31C"
+                },
+                "Headsign": "馬公→龍門→馬公[10:20]循環線",
+                "HeadsignEn": "Magon→Longmen→Magon[10:20]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0774D1",
+                "SubRouteID": "0774D1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31D",
+                    "En": "31D"
+                },
+                "Headsign": "馬公→龍門→馬公[11:50]循環線",
+                "HeadsignEn": "Magon→Longmen→Magon[11:50]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0774E1",
+                "SubRouteID": "0774E1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31E",
+                    "En": "31E"
+                },
+                "Headsign": "馬公→龍門→馬公[14:35]循環線",
+                "HeadsignEn": "Magon→Longmen→Magon[14:35]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0774F1",
+                "SubRouteID": "0774F1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31F",
+                    "En": "31F"
+                },
+                "Headsign": "馬公→龍門→馬公[16:10]循環線",
+                "HeadsignEn": "Magon→Longmen→Magon[16:10]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0774G1",
+                "SubRouteID": "0774G1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31G",
+                    "En": "31G"
+                },
+                "Headsign": "馬公→龍門→馬公[18:10]循環線",
+                "HeadsignEn": "Magon→Longmen→Magon[18:10]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0774H1",
+                "SubRouteID": "0774H1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31H",
+                    "En": "31H"
+                },
+                "Headsign": "馬公→龍門→馬公[20:40]循環線",
+                "HeadsignEn": "Magon→Longmen→Magon[20:40]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "北辰小郵局",
+                "DestinationStopNameEn": "Beichen Post Office"
+            },
+            {
+                "SubRouteUID": "PEN0774I1",
+                "SubRouteID": "0774I1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31I",
+                    "En": "31I"
+                },
+                "Headsign": "馬公→龍門→馬公[21:40]循環線",
+                "HeadsignEn": "Magon→Longmen→Magon[21:40]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "北辰小郵局",
+                "DestinationStopNameEn": "Beichen Post Office"
+            },
+            {
+                "SubRouteUID": "PEN0774K2",
+                "SubRouteID": "0774K2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31K",
+                    "En": "31K"
+                },
+                "Headsign": "龍門→馬公[06:00]",
+                "HeadsignEn": "Longmen→Magon[06:00]",
+                "Direction": 1,
+                "DepartureStopNameZh": "龍門漁港",
+                "DepartureStopNameEn": "Longmen Wharf",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0774L1",
+                "SubRouteID": "0774L1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31L",
+                    "En": "31L"
+                },
+                "Headsign": "馬公→龍門→馬公[16:35本班車例假日寒暑假停開]循環線加班車",
+                "HeadsignEn": "Magon→Longmen→Magon[16:10]Circular ADD",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "31",
+            "En": "31"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "馬公總站",
+        "DestinationStopNameEn": "Magong Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0774.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0777",
+        "RouteID": "0777",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN077701",
+                "SubRouteID": "077701",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51",
+                    "En": "51"
+                },
+                "Headsign": "馬公→風櫃[07:25]，返程[08:05]",
+                "HeadsignEn": "Mogong→Fengguei[07：25]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "風櫃終點站",
+                "DestinationStopNameEn": "Fenggui Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN077702",
+                "SubRouteID": "077702",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51",
+                    "En": "51"
+                },
+                "Headsign": "風櫃→馬公[08:05]",
+                "HeadsignEn": "Fengguei→Mogong[08：05]",
+                "Direction": 1,
+                "DepartureStopNameZh": "風櫃終點站",
+                "DepartureStopNameEn": "Fenggui Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777A1",
+                "SubRouteID": "0777A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51A",
+                    "En": "51A"
+                },
+                "Headsign": "馬公→風櫃[08:35]，返程[09:20]",
+                "HeadsignEn": "Mogong→Fengguei[08：35]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "風櫃終點站",
+                "DestinationStopNameEn": "Fenggui Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777A2",
+                "SubRouteID": "0777A2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51A",
+                    "En": "51A"
+                },
+                "Headsign": "風櫃→馬公[09:20]",
+                "HeadsignEn": "Fengguei→Mogong[09：20]",
+                "Direction": 1,
+                "DepartureStopNameZh": "風櫃終點站",
+                "DepartureStopNameEn": "Fenggui Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777B1",
+                "SubRouteID": "0777B1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51B",
+                    "En": "51B"
+                },
+                "Headsign": "馬公→風櫃[09:50]，返程[10:35]",
+                "HeadsignEn": "Mogong→Fengguei[09：50]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "西港終點站",
+                "DestinationStopNameEn": "Xigang Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777B2",
+                "SubRouteID": "0777B2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51B",
+                    "En": "51B"
+                },
+                "Headsign": "風櫃→馬公[10:35]",
+                "HeadsignEn": "Fengguei→Mogong[10：35]",
+                "Direction": 1,
+                "DepartureStopNameZh": "西港終點站",
+                "DepartureStopNameEn": "Xigang Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777C1",
+                "SubRouteID": "0777C1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51C",
+                    "En": "51C"
+                },
+                "Headsign": "馬公→風櫃[10:50]，返程[11:35]",
+                "HeadsignEn": "Mogong→Fengguei[10：50]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "西港終點站",
+                "DestinationStopNameEn": "Xigang Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777C2",
+                "SubRouteID": "0777C2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51C",
+                    "En": "51C"
+                },
+                "Headsign": "風櫃→馬公[11:35]",
+                "HeadsignEn": "Fengguei→Mogong[11：35]",
+                "Direction": 1,
+                "DepartureStopNameZh": "西港終點站",
+                "DepartureStopNameEn": "Xigang Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777D1",
+                "SubRouteID": "0777D1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51D",
+                    "En": "51D"
+                },
+                "Headsign": "馬公→風櫃[12:05]，返程[12:55]",
+                "HeadsignEn": "Mogong→Fengguei[12：05]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "西港終點站",
+                "DestinationStopNameEn": "Xigang Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777D2",
+                "SubRouteID": "0777D2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51D",
+                    "En": "51D"
+                },
+                "Headsign": "風櫃→馬公[12:55]",
+                "HeadsignEn": "Fengguei→Mogong[12：55]",
+                "Direction": 1,
+                "DepartureStopNameZh": "西港終點站",
+                "DepartureStopNameEn": "Xigang Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777E1",
+                "SubRouteID": "0777E1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51E",
+                    "En": "51E"
+                },
+                "Headsign": "馬公→風櫃[13:30]，返程[14:10]",
+                "HeadsignEn": "Mogong→Fengguei[13：30]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "風櫃終點站",
+                "DestinationStopNameEn": "Fenggui Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777E2",
+                "SubRouteID": "0777E2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51E",
+                    "En": "51E"
+                },
+                "Headsign": "風櫃→馬公[14:10]",
+                "HeadsignEn": "Fengguei→Mogong[14：10]",
+                "Direction": 1,
+                "DepartureStopNameZh": "風櫃終點站",
+                "DepartureStopNameEn": "Fenggui Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777F1",
+                "SubRouteID": "0777F1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51F",
+                    "En": "51F"
+                },
+                "Headsign": "馬公→風櫃[15:10]，返程[15:55]",
+                "HeadsignEn": "Mogong→Fengguei[15：10]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "風櫃終點站",
+                "DestinationStopNameEn": "Fenggui Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777F2",
+                "SubRouteID": "0777F2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51F",
+                    "En": "51F"
+                },
+                "Headsign": "風櫃→馬公[15:55]",
+                "HeadsignEn": "Fengguei→Mogong[15：55]",
+                "Direction": 1,
+                "DepartureStopNameZh": "風櫃終點站",
+                "DepartureStopNameEn": "Fenggui Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777G1",
+                "SubRouteID": "0777G1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51G",
+                    "En": "51G"
+                },
+                "Headsign": "馬公→風櫃[16:30]，返程[17:20]本班車平日行駛、寒暑假、例假日停開",
+                "HeadsignEn": "Mogong→Fengguei[16：30], return [17:20] This bus runs on weekdays, and is closed during winter and summer vacations and public holidays",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "風櫃終點站",
+                "DestinationStopNameEn": "Fenggui Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777G2",
+                "SubRouteID": "0777G2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51G",
+                    "En": "51G"
+                },
+                "Headsign": "風櫃→馬公[17:20]本班車平日行駛、寒暑假、例假日停開",
+                "HeadsignEn": "Fengguei→Mogong[17：20]This bus runs on weekdays, and is closed during winter and summer vacations and public holidays",
+                "Direction": 1,
+                "DepartureStopNameZh": "風櫃終點站",
+                "DepartureStopNameEn": "Fenggui Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777H1",
+                "SubRouteID": "0777H1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51H",
+                    "En": "51H"
+                },
+                "Headsign": "馬公→風櫃[17:40]，返程[18:25]",
+                "HeadsignEn": "Mogong→Fengguei[17：40]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "風櫃終點站",
+                "DestinationStopNameEn": "Fenggui Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777H2",
+                "SubRouteID": "0777H2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51H",
+                    "En": "51H"
+                },
+                "Headsign": "風櫃→馬公[18:25]",
+                "HeadsignEn": "Fengguei→Mogong[18：25]",
+                "Direction": 1,
+                "DepartureStopNameZh": "風櫃終點站",
+                "DepartureStopNameEn": "Fenggui Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777I1",
+                "SubRouteID": "0777I1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51I",
+                    "En": "51I"
+                },
+                "Headsign": "馬公→風櫃[19:00]，返程[19:50]",
+                "HeadsignEn": "Mogong→Fengguei[19：00]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "風櫃終點站",
+                "DestinationStopNameEn": "Fenggui Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777I2",
+                "SubRouteID": "0777I2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51I",
+                    "En": "51I"
+                },
+                "Headsign": "風櫃→馬公[19:50]",
+                "HeadsignEn": "Fengguei→Mogong[19：50]",
+                "Direction": 1,
+                "DepartureStopNameZh": "風櫃終點站",
+                "DepartureStopNameEn": "Fenggui Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777J1",
+                "SubRouteID": "0777J1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51J",
+                    "En": "51J"
+                },
+                "Headsign": "馬公→風櫃[20:30]，返程[21:15]",
+                "HeadsignEn": "Mogong→Fengguei[20：30]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "風櫃終點站",
+                "DestinationStopNameEn": "Fenggui Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777J2",
+                "SubRouteID": "0777J2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51J",
+                    "En": "51J"
+                },
+                "Headsign": "風櫃→馬公[21:15]",
+                "HeadsignEn": "Fengguei→Mogong[21：15]",
+                "Direction": 1,
+                "DepartureStopNameZh": "風櫃終點站",
+                "DepartureStopNameEn": "Fenggui Terminal stop",
+                "DestinationStopNameZh": "北辰市場站",
+                "DestinationStopNameEn": "Beichen Market stop"
+            },
+            {
+                "SubRouteUID": "PEN0777K1",
+                "SubRouteID": "0777K1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51K",
+                    "En": "51K"
+                },
+                "Headsign": "馬公→風櫃[21:45]，返程[22:25]",
+                "HeadsignEn": "Mogong→Fengguei[21：45]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "風櫃終點站",
+                "DestinationStopNameEn": "Fenggui Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777K2",
+                "SubRouteID": "0777K2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51K",
+                    "En": "51K"
+                },
+                "Headsign": "風櫃→馬公[22:25]",
+                "HeadsignEn": "Fengguei→Mogong[22：25]",
+                "Direction": 1,
+                "DepartureStopNameZh": "風櫃終點站",
+                "DepartureStopNameEn": "Fenggui Terminal stop",
+                "DestinationStopNameZh": "北辰市場站",
+                "DestinationStopNameEn": "Beichen Market stop"
+            },
+            {
+                "SubRouteUID": "PEN0777L2",
+                "SubRouteID": "0777L2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51L",
+                    "En": "51L"
+                },
+                "Headsign": "風櫃→馬公[06:00]",
+                "HeadsignEn": "Fengguei→Mogong[06：00]",
+                "Direction": 1,
+                "DepartureStopNameZh": "風櫃終點站",
+                "DepartureStopNameEn": "Fenggui Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777M2",
+                "SubRouteID": "0777M2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51M",
+                    "En": "51M"
+                },
+                "Headsign": "風櫃→馬公[07:25]",
+                "HeadsignEn": "Fengguei→Mogong[07：25]",
+                "Direction": 1,
+                "DepartureStopNameZh": "西港終點站",
+                "DepartureStopNameEn": "Xigang Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777O1",
+                "SubRouteID": "0777O1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51O",
+                    "En": "51O"
+                },
+                "Headsign": "馬公→風櫃[16:30]，返程[17:20]本班車寒暑假、例假日行駛、平日停開",
+                "HeadsignEn": "Mogong→Fengguei[16：30], return [17:20] This bus runs during winter and summer vacations, holidays, and stops on weekdays",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "風櫃終點站",
+                "DestinationStopNameEn": "Fenggui Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0777O2",
+                "SubRouteID": "0777O2",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "51O",
+                    "En": "51O"
+                },
+                "Headsign": "風櫃→馬公[17:20]本班車寒暑假、例假日行駛、平日停開",
+                "HeadsignEn": "Fengguei→Mogong[17：20]This bus runs during winter and summer vacations, holidays, and holidays, and stops on weekdays",
+                "Direction": 1,
+                "DepartureStopNameZh": "風櫃終點站",
+                "DepartureStopNameEn": "Fenggui Terminal stop",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "51",
+            "En": "51"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "風櫃終點站",
+        "DestinationStopNameEn": "Fenggui Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0777.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0798",
+        "RouteID": "0798",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN079801",
+                "SubRouteID": "079801",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "25",
+                    "En": "25"
+                },
+                "Headsign": "馬公→通梁→外垵[20:30]，返程[21:50]",
+                "HeadsignEn": "Magong→Tongliang→Waian",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "外垵終點站",
+                "DestinationStopNameEn": "Waian Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN079802",
+                "SubRouteID": "079802",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "25",
+                    "En": "25"
+                },
+                "Headsign": "外垵→通梁→馬公[21:50]",
+                "HeadsignEn": "Waian→Tongliang→Magong[21:50]",
+                "Direction": 1,
+                "DepartureStopNameZh": "外垵終點站",
+                "DepartureStopNameEn": "Waian Terminal stop",
+                "DestinationStopNameZh": "北辰小郵局",
+                "DestinationStopNameEn": "Beichen Post Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "25",
+            "En": "25"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "外垵終點站",
+        "DestinationStopNameEn": "Waian Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0798.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "PEN0799",
+        "RouteID": "0799",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "78",
+                "OperatorName": {
+                    "Zh_tw": "澎湖縣公共車船管理處",
+                    "En": "City Bus and Ferry Management Office, Penghu County"
+                },
+                "OperatorCode": "PenghuBusFerryOffice",
+                "OperatorNo": "1501"
+            }
+        ],
+        "AuthorityID": "025",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "PEN079901",
+                "SubRouteID": "079901",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0E",
+                    "En": "0E"
+                },
+                "Headsign": "零路[東][09：15]",
+                "HeadsignEn": "Mogong→0－[East][09：15]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0799A1",
+                "SubRouteID": "0799A1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0EA",
+                    "En": "0EA"
+                },
+                "Headsign": "零路[東][10：00]",
+                "HeadsignEn": "Mogong→0－[East][10：00]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0799B1",
+                "SubRouteID": "0799B1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0EB",
+                    "En": "0EB"
+                },
+                "Headsign": "零路[東][16：45]",
+                "HeadsignEn": "Mogong→0－[East][16：45]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0799C1",
+                "SubRouteID": "0799C1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0EC",
+                    "En": "0EC"
+                },
+                "Headsign": "零路[東][17：45]",
+                "HeadsignEn": "Mogong→0－[East][17：45]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            },
+            {
+                "SubRouteUID": "PEN0799D1",
+                "SubRouteID": "0799D1",
+                "OperatorIDs": [
+                    "78"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "0ED",
+                    "En": "0ED"
+                },
+                "Headsign": "零路[東][20：55]",
+                "HeadsignEn": "Mogong→0－[East][20：55]",
+                "Direction": 0,
+                "DepartureStopNameZh": "馬公總站",
+                "DepartureStopNameEn": "Magong Station",
+                "DestinationStopNameZh": "馬公總站",
+                "DestinationStopNameEn": "Magong Terminal stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "0E",
+            "En": "0E"
+        },
+        "DepartureStopNameZh": "馬公總站",
+        "DepartureStopNameEn": "Magong Station",
+        "DestinationStopNameZh": "馬公總站",
+        "DestinationStopNameEn": "Magong Terminal stop",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0799.jpg",
+        "City": "PenghuCounty",
+        "CityCode": "PEN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    }
+]

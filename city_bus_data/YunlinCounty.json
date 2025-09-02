@@ -1,0 +1,1000 @@
+[
+    {
+        "RouteUID": "YUN0030",
+        "RouteID": "0030",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "21",
+                "OperatorName": {
+                    "Zh_tw": "臺西客運",
+                    "En": "Taisi Bus Co., Ltd."
+                },
+                "OperatorCode": "TaisiBus",
+                "OperatorNo": "1408"
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN003001",
+                "SubRouteID": "003001",
+                "OperatorIDs": [
+                    "21"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "Y02",
+                    "En": "Y02"
+                },
+                "Headsign": "北港虎尾線",
+                "HeadsignEn": "Beigang Huwei line",
+                "Direction": 0,
+                "DepartureStopNameZh": "斗六火車站",
+                "DepartureStopNameEn": "Douliou Train Station",
+                "DestinationStopNameZh": "斗六火車站",
+                "DestinationStopNameEn": "Douliou Train Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "Y02",
+            "En": "Y02"
+        },
+        "DepartureStopNameZh": "斗六火車站",
+        "DepartureStopNameEn": "Douliou Train Station",
+        "DestinationStopNameZh": "斗六火車站",
+        "DestinationStopNameEn": "Douliou Train Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0030.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "YUN0031",
+        "RouteID": "0031",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "23",
+                "OperatorName": {
+                    "Zh_tw": "嘉義客運",
+                    "En": "Chiayi Bus Co., Ltd."
+                },
+                "OperatorCode": "ChiayiBus",
+                "OperatorNo": "1401"
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN003101",
+                "SubRouteID": "003101",
+                "OperatorIDs": [
+                    "23"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "Y01",
+                    "En": "Y01"
+                },
+                "Headsign": "斗六古坑線",
+                "HeadsignEn": "Douliu Gukeng Line",
+                "Direction": 0,
+                "DepartureStopNameZh": "斗六火車站",
+                "DepartureStopNameEn": "Doulin Station",
+                "DestinationStopNameZh": "華山咖啡大街",
+                "DestinationStopNameEn": "Huashan Coffee Street"
+            },
+            {
+                "SubRouteUID": "YUN003102",
+                "SubRouteID": "003102",
+                "OperatorIDs": [
+                    "23"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "Y01",
+                    "En": "Y01"
+                },
+                "Headsign": "斗六古坑線",
+                "HeadsignEn": "Douliu Gukeng Line",
+                "Direction": 1,
+                "DepartureStopNameZh": "華山咖啡大街",
+                "DepartureStopNameEn": "Huashan Coffee Street",
+                "DestinationStopNameZh": "斗六火車站",
+                "DestinationStopNameEn": "Doulin Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "Y01",
+            "En": "Y01"
+        },
+        "DepartureStopNameZh": "斗六火車站",
+        "DepartureStopNameEn": "Doulin Station",
+        "DestinationStopNameZh": "華山咖啡大街",
+        "DestinationStopNameEn": "Huashan Coffee Street",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0031.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "YUN0140",
+        "RouteID": "0140",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "34",
+                "OperatorName": {
+                    "Zh_tw": "統聯客運",
+                    "En": "United Highway Bus Co., Ltd."
+                },
+                "OperatorCode": "UnitedHighwayBus",
+                "OperatorNo": "1201"
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN014001",
+                "SubRouteID": "014001",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101",
+                    "En": "101"
+                },
+                "Headsign": "斗六棒球場→受天宮",
+                "HeadsignEn": "Douliu baseball stadium→Shoutiangong Temple",
+                "Direction": 0,
+                "DepartureStopNameZh": "斗六棒球場",
+                "DepartureStopNameEn": "Douliu baseball stadium",
+                "DestinationStopNameZh": "受天宮",
+                "DestinationStopNameEn": "Shoutiangong Temple"
+            },
+            {
+                "SubRouteUID": "YUN014002",
+                "SubRouteID": "014002",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101",
+                    "En": "101"
+                },
+                "Headsign": "受天宮→斗六棒球場",
+                "HeadsignEn": "Shoutiangong Temple→Douliu baseball stadium",
+                "Direction": 1,
+                "DepartureStopNameZh": "受天宮",
+                "DepartureStopNameEn": "Shoutiangong Temple",
+                "DestinationStopNameZh": "斗六棒球場",
+                "DestinationStopNameEn": "Douliu baseball stadium"
+            },
+            {
+                "SubRouteUID": "YUN0140B1",
+                "SubRouteID": "0140B1",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "101B",
+                    "En": "101B"
+                },
+                "Headsign": "斗六棒球場→受天宮",
+                "HeadsignEn": "Douliu baseball stadium→Shoutiangong Temple",
+                "Direction": 0,
+                "DepartureStopNameZh": "斗六棒球場",
+                "DepartureStopNameEn": "Douliu baseball stadium",
+                "DestinationStopNameZh": "受天宮",
+                "DestinationStopNameEn": "Shoutiangong Temple"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "DepartureStopNameZh": "斗六棒球場",
+        "DepartureStopNameEn": "Douliu baseball stadium",
+        "DestinationStopNameZh": "受天宮",
+        "DestinationStopNameEn": "Shoutiangong Temple",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0140.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "YUN0141",
+        "RouteID": "0141",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "34",
+                "OperatorName": {
+                    "Zh_tw": "統聯客運",
+                    "En": "United Highway Bus Co., Ltd."
+                },
+                "OperatorCode": "UnitedHighwayBus",
+                "OperatorNo": "1201"
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN014101",
+                "SubRouteID": "014101",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "102",
+                    "En": "102"
+                },
+                "Headsign": "斗六火車站→崙仔集會所",
+                "HeadsignEn": "Taipower Company Yunlin Branch→Lunzi convocation office",
+                "Direction": 0,
+                "DepartureStopNameZh": "台電公司雲林區處",
+                "DepartureStopNameEn": "Taipower Company Yunlin Branch",
+                "DestinationStopNameZh": "崙仔集會所",
+                "DestinationStopNameEn": "Lunzi convocation office"
+            },
+            {
+                "SubRouteUID": "YUN014102",
+                "SubRouteID": "014102",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "102",
+                    "En": "102"
+                },
+                "Headsign": "崙仔集會所→斗六火車站",
+                "HeadsignEn": "Lunzi convocation office→Douliou Train Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "崙仔集會所",
+                "DepartureStopNameEn": "Lunzi convocation office",
+                "DestinationStopNameZh": "台電公司雲林區處",
+                "DestinationStopNameEn": "Taipower Company Yunlin Branch"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "102",
+            "En": "102"
+        },
+        "DepartureStopNameZh": "台電公司雲林區處",
+        "DepartureStopNameEn": "Taipower Company Yunlin Branch",
+        "DestinationStopNameZh": "崙仔集會所",
+        "DestinationStopNameEn": "Lunzi convocation office",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0141.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "YUN0149",
+        "RouteID": "0149",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "135",
+                "OperatorName": {
+                    "Zh_tw": "斗南鎮公所"
+                }
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN014901",
+                "SubRouteID": "014901",
+                "OperatorIDs": [
+                    "135"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "103",
+                    "En": "103"
+                },
+                "Headsign": "斗南鎮公所→斗南鎮公所(經阿丹、石龜)",
+                "HeadsignEn": "Dounan Township Office →Dounan Township Office(Via Adan﹑Shigui)",
+                "Direction": 0,
+                "DepartureStopNameZh": "斗南鎮公所",
+                "DepartureStopNameEn": "Dounan Township Office",
+                "DestinationStopNameZh": "斗南鎮公所",
+                "DestinationStopNameEn": "Dounan Township Office"
+            },
+            {
+                "SubRouteUID": "YUN014902",
+                "SubRouteID": "014902",
+                "OperatorIDs": [
+                    "135"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "103",
+                    "En": "103"
+                },
+                "Headsign": "斗南鎮公所→斗南鎮公所(經石龜﹑阿丹)",
+                "HeadsignEn": "Dounan Township Office →Dounan Township Office(Via Shigui﹑Adan)",
+                "Direction": 1,
+                "DepartureStopNameZh": "斗南鎮公所",
+                "DepartureStopNameEn": "Dounan Township Office",
+                "DestinationStopNameZh": "斗南鎮公所",
+                "DestinationStopNameEn": "Dounan Township Office"
+            },
+            {
+                "SubRouteUID": "YUN0149A1",
+                "SubRouteID": "0149A1",
+                "OperatorIDs": [
+                    "135"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "103A",
+                    "En": "103A"
+                },
+                "Headsign": "斗南鎮公所→斗南鎮公所(經新崙、新光)",
+                "HeadsignEn": "Dounan Township Office →Dounan Township Office(Via Xinlun﹑Xinguang)",
+                "Direction": 0,
+                "DepartureStopNameZh": "斗南鎮公所",
+                "DepartureStopNameEn": "Dounan Township Office",
+                "DestinationStopNameZh": "斗南鎮公所",
+                "DestinationStopNameEn": "Dounan Township Office"
+            },
+            {
+                "SubRouteUID": "YUN0149A2",
+                "SubRouteID": "0149A2",
+                "OperatorIDs": [
+                    "135"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "103A",
+                    "En": "103A"
+                },
+                "Headsign": "斗南鎮公所→斗南鎮公所(經新光、新崙)",
+                "HeadsignEn": "Dounan Township Office →Dounan Township Office(Via Xinguang﹑ Xinlun)",
+                "Direction": 1,
+                "DepartureStopNameZh": "斗南鎮公所",
+                "DepartureStopNameEn": "Dounan Township Office",
+                "DestinationStopNameZh": "斗南鎮公所",
+                "DestinationStopNameEn": "Dounan Township Office"
+            },
+            {
+                "SubRouteUID": "YUN0149B1",
+                "SubRouteID": "0149B1",
+                "OperatorIDs": [
+                    "135"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "103B",
+                    "En": "103B"
+                },
+                "Headsign": "斗南鎮公所→斗南鎮公所(經六房媽、將軍崙)",
+                "HeadsignEn": "Dounan Township Office →Dounan Township Office(Via LIU FANG Mazu﹑Jiangjunlun)",
+                "Direction": 0,
+                "DepartureStopNameZh": "斗南鎮公所",
+                "DepartureStopNameEn": "Dounan Township Office",
+                "DestinationStopNameZh": "斗南鎮公所",
+                "DestinationStopNameEn": "Dounan Township Office"
+            },
+            {
+                "SubRouteUID": "YUN0149C1",
+                "SubRouteID": "0149C1",
+                "OperatorIDs": [
+                    "135"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "103C",
+                    "En": "103C"
+                },
+                "Headsign": "斗南鎮公所→斗南鎮公所(經福安醫院、彰化銀行)",
+                "HeadsignEn": "Dounan Township Office →Dounan Township Office(Via Catholic Fuan Hospital﹑Changhua Bank)",
+                "Direction": 0,
+                "DepartureStopNameZh": "斗南鎮公所",
+                "DepartureStopNameEn": "Dounan Township Office",
+                "DestinationStopNameZh": "斗南鎮公所",
+                "DestinationStopNameEn": "Dounan Township Office"
+            },
+            {
+                "SubRouteUID": "YUN0149C2",
+                "SubRouteID": "0149C2",
+                "OperatorIDs": [
+                    "135"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "103C",
+                    "En": "103C"
+                },
+                "Headsign": "斗南鎮公所→斗南鎮公所(經彰化銀行﹑福安醫院)",
+                "HeadsignEn": "Dounan Township Office →Dounan Township Office(Via Changhua Bank﹑Adan)",
+                "Direction": 1,
+                "DepartureStopNameZh": "斗南鎮公所",
+                "DepartureStopNameEn": "Dounan Township Office",
+                "DestinationStopNameZh": "斗南鎮公所",
+                "DestinationStopNameEn": "Dounan Township Office"
+            },
+            {
+                "SubRouteUID": "YUN0149D1",
+                "SubRouteID": "0149D1",
+                "OperatorIDs": [
+                    "135"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "103D",
+                    "En": "103D"
+                },
+                "Headsign": "斗南鎮公所→斗南鎮公所(經小東)",
+                "HeadsignEn": "Dounan Township Office →Dounan Township Office(Via Siaodong)",
+                "Direction": 0,
+                "DepartureStopNameZh": "斗南鎮公所",
+                "DepartureStopNameEn": "Dounan Township Office",
+                "DestinationStopNameZh": "斗南鎮公所",
+                "DestinationStopNameEn": "Dounan Township Office"
+            },
+            {
+                "SubRouteUID": "YUN0149D2",
+                "SubRouteID": "0149D2",
+                "OperatorIDs": [
+                    "135"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "103D",
+                    "En": "103D"
+                },
+                "Headsign": "斗南鎮公所→斗南鎮公所(經小東)",
+                "HeadsignEn": "Dounan Township Office →Dounan Township Office(Via Siaodong)",
+                "Direction": 1,
+                "DepartureStopNameZh": "斗南鎮公所",
+                "DepartureStopNameEn": "Dounan Township Office",
+                "DestinationStopNameZh": "斗南鎮公所",
+                "DestinationStopNameEn": "Dounan Township Office"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "103",
+            "En": "103"
+        },
+        "DepartureStopNameZh": "斗南鎮公所",
+        "DepartureStopNameEn": "Dounan Township Office",
+        "DestinationStopNameZh": "斗南鎮公所",
+        "DestinationStopNameEn": "Dounan Township Office",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0149.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "YUN0169",
+        "RouteID": "0169",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "124",
+                "OperatorName": {
+                    "Zh_tw": "雲林縣石璧文化發展協會"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1316"
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN016901",
+                "SubRouteID": "016901",
+                "OperatorIDs": [
+                    "124"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "205",
+                    "En": "205"
+                },
+                "Headsign": "石壁北天宮→雲嶺之丘(經五元兩角)",
+                "HeadsignEn": "Shibig Line",
+                "Direction": 0,
+                "DepartureStopNameZh": "石壁北天宮",
+                "DepartureStopNameEn": "Shibi  Beitian Temple",
+                "DestinationStopNameZh": "石壁北天宮",
+                "DestinationStopNameEn": "Shibi  Beitian Temple"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "205",
+            "En": "205"
+        },
+        "DepartureStopNameZh": "石壁北天宮",
+        "DepartureStopNameEn": "Shibi  Beitian Temple",
+        "DestinationStopNameZh": "石壁北天宮",
+        "DestinationStopNameEn": "Shibi  Beitian Temple",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0169.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "YUN0201",
+        "RouteID": "0201",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "34",
+                "OperatorName": {
+                    "Zh_tw": "統聯客運",
+                    "En": "United Highway Bus Co., Ltd."
+                },
+                "OperatorCode": "UnitedHighwayBus",
+                "OperatorNo": "1201"
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN020101",
+                "SubRouteID": "020101",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "201",
+                    "En": "201"
+                },
+                "Headsign": "高鐵雲林站→斗六火車站→雲林科技大學",
+                "HeadsignEn": "THSR Yunlin Station→TRA Douliu Station→National Yunlin University of Science and Technology",
+                "Direction": 0,
+                "DepartureStopNameZh": "高鐵雲林站",
+                "DepartureStopNameEn": "THSR Yunlin Station",
+                "DestinationStopNameZh": "雲林科技大學",
+                "DestinationStopNameEn": "National Yunlin University of Science and Technolo"
+            },
+            {
+                "SubRouteUID": "YUN020102",
+                "SubRouteID": "020102",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "201",
+                    "En": "201"
+                },
+                "Headsign": "雲林科技大學→斗六火車站→高鐵雲林站",
+                "HeadsignEn": "National Yunlin University of Science and Technology→TRA Douliu Station→THSR Yunlin Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "雲林科技大學",
+                "DepartureStopNameEn": "National Yunlin University of Science and Technolo",
+                "DestinationStopNameZh": "高鐵雲林站",
+                "DestinationStopNameEn": "THSR Yunlin Station"
+            },
+            {
+                "SubRouteUID": "YUN0201A2",
+                "SubRouteID": "0201A2",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "201A",
+                    "En": "201A"
+                },
+                "Headsign": "雲林科技大學→斗六火車站[區間車]",
+                "HeadsignEn": "National Yunlin University of Science and Technology→TRA Douliu Station(shuttle bus)",
+                "Direction": 1,
+                "DepartureStopNameZh": "雲林科技大學",
+                "DepartureStopNameEn": "National Yunlin University of Science and Technolo",
+                "DestinationStopNameZh": "斗六火車站",
+                "DestinationStopNameEn": "Douliou Train Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "DepartureStopNameZh": "高鐵雲林站",
+        "DepartureStopNameEn": "THSR Yunlin Station",
+        "DestinationStopNameZh": "雲林科技大學",
+        "DestinationStopNameEn": "National Yunlin University of Science and Technolo",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0201.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "YUN0203",
+        "RouteID": "0203",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "23",
+                "OperatorName": {
+                    "Zh_tw": "嘉義客運",
+                    "En": "Chiayi Bus Co., Ltd."
+                },
+                "OperatorCode": "ChiayiBus",
+                "OperatorNo": "1401"
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN020301",
+                "SubRouteID": "020301",
+                "OperatorIDs": [
+                    "23"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "203",
+                    "En": "203"
+                },
+                "Headsign": "水林蘇秦海埔→北港",
+                "HeadsignEn": "Shuilin→Beigang Line",
+                "Direction": 0,
+                "DepartureStopNameZh": "豐德宮",
+                "DepartureStopNameEn": "Harvested Temple",
+                "DestinationStopNameZh": "北港",
+                "DestinationStopNameEn": "Beigang"
+            },
+            {
+                "SubRouteUID": "YUN020302",
+                "SubRouteID": "020302",
+                "OperatorIDs": [
+                    "23"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "203",
+                    "En": "203"
+                },
+                "Headsign": "北港→水林蘇秦海埔",
+                "HeadsignEn": "Beigang→Shuilin Line",
+                "Direction": 1,
+                "DepartureStopNameZh": "北港",
+                "DepartureStopNameEn": "Beigang",
+                "DestinationStopNameZh": "豐德宮",
+                "DestinationStopNameEn": "Harvested Temple"
+            },
+            {
+                "SubRouteUID": "YUN0203A1",
+                "SubRouteID": "0203A1",
+                "OperatorIDs": [
+                    "23"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "203A",
+                    "En": "203A"
+                },
+                "Headsign": "水林蘇秦海埔→北港",
+                "HeadsignEn": "Shuilin→Beigang Line",
+                "Direction": 0,
+                "DepartureStopNameZh": "北港",
+                "DepartureStopNameEn": "Beigang",
+                "DestinationStopNameZh": "北港",
+                "DestinationStopNameEn": "Beigang"
+            },
+            {
+                "SubRouteUID": "YUN0203A2",
+                "SubRouteID": "0203A2",
+                "OperatorIDs": [
+                    "23"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "203A",
+                    "En": "203A"
+                },
+                "Headsign": "北港→水林蘇秦海埔",
+                "HeadsignEn": "Beigang→Shuilin Line",
+                "Direction": 1,
+                "DepartureStopNameZh": "北港",
+                "DepartureStopNameEn": "Beigang",
+                "DestinationStopNameZh": "北港",
+                "DestinationStopNameEn": "Beigang"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "203",
+            "En": "203"
+        },
+        "DepartureStopNameZh": "豐德宮",
+        "DepartureStopNameEn": "Harvested Temple",
+        "DestinationStopNameZh": "北港",
+        "DestinationStopNameEn": "Beigang",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0203.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "YUN0220",
+        "RouteID": "0220",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "23",
+                "OperatorName": {
+                    "Zh_tw": "嘉義客運",
+                    "En": "Chiayi Bus Co., Ltd."
+                },
+                "OperatorCode": "ChiayiBus",
+                "OperatorNo": "1401"
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN022001",
+                "SubRouteID": "022001",
+                "OperatorIDs": [
+                    "23"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "202",
+                    "En": "202"
+                },
+                "Headsign": "元長→高鐵雲林站",
+                "HeadsignEn": "Yuanchang→HSR Yunlin Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "元長1",
+                "DepartureStopNameEn": "Yuanchang(1)",
+                "DestinationStopNameZh": "高鐵雲林站",
+                "DestinationStopNameEn": "HSR Yunlin Station"
+            },
+            {
+                "SubRouteUID": "YUN022002",
+                "SubRouteID": "022002",
+                "OperatorIDs": [
+                    "23"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "202",
+                    "En": "202"
+                },
+                "Headsign": "高鐵雲林站→元長",
+                "HeadsignEn": "HSR Yunlin Station→Yuanchang",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵雲林站",
+                "DepartureStopNameEn": "HSR Yunlin Station",
+                "DestinationStopNameZh": "元長1",
+                "DestinationStopNameEn": "Yuanchang(1)"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "202",
+            "En": "202"
+        },
+        "DepartureStopNameZh": "元長1",
+        "DepartureStopNameEn": "Yuanchang(1)",
+        "DestinationStopNameZh": "高鐵雲林站",
+        "DestinationStopNameEn": "HSR Yunlin Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0220.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "YUN0311",
+        "RouteID": "0311",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "21",
+                "OperatorName": {
+                    "Zh_tw": "臺西客運",
+                    "En": "Taisi Bus Co., Ltd."
+                },
+                "OperatorCode": "TaisiBus",
+                "OperatorNo": "1408"
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN031101",
+                "SubRouteID": "031101",
+                "OperatorIDs": [
+                    "21"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "301",
+                    "En": "301"
+                },
+                "Headsign": "高鐵雲林站→北港",
+                "HeadsignEn": "THSR Yunlin Station→Beigang",
+                "Direction": 0,
+                "DepartureStopNameZh": "高鐵雲林站",
+                "DepartureStopNameEn": "THSR Yunlin Station",
+                "DestinationStopNameZh": "北港",
+                "DestinationStopNameEn": "Beigang"
+            },
+            {
+                "SubRouteUID": "YUN031102",
+                "SubRouteID": "031102",
+                "OperatorIDs": [
+                    "21"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "301",
+                    "En": "301"
+                },
+                "Headsign": "北港→高鐵雲林站",
+                "HeadsignEn": "Beigang→THSR Yunlin Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "北港",
+                "DepartureStopNameEn": "Beigang",
+                "DestinationStopNameZh": "高鐵雲林站",
+                "DestinationStopNameEn": "THSR Yunlin Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "301",
+            "En": "301"
+        },
+        "DepartureStopNameZh": "高鐵雲林站",
+        "DepartureStopNameEn": "THSR Yunlin Station",
+        "DestinationStopNameZh": "北港",
+        "DestinationStopNameEn": "Beigang",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0311.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "YUN0586",
+        "RouteID": "0586",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "21",
+                "OperatorName": {
+                    "Zh_tw": "臺西客運",
+                    "En": "Taisi Bus Co., Ltd."
+                },
+                "OperatorCode": "TaisiBus",
+                "OperatorNo": "1408"
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN058601",
+                "SubRouteID": "058601",
+                "OperatorIDs": [
+                    "21"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "Y03",
+                    "En": "Y03"
+                },
+                "Headsign": "北港武德宮→高鐵嘉義站",
+                "HeadsignEn": "Beigang Wude Temple→HSR Chiayi Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "北港武德宮",
+                "DepartureStopNameEn": "Beigang Wude Temple",
+                "DestinationStopNameZh": "高鐵嘉義站",
+                "DestinationStopNameEn": "HSR Chiayi Station"
+            },
+            {
+                "SubRouteUID": "YUN058602",
+                "SubRouteID": "058602",
+                "OperatorIDs": [
+                    "21"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "Y03",
+                    "En": "Y03"
+                },
+                "Headsign": "高鐵嘉義站→北港武德宮",
+                "HeadsignEn": "HSR Chiayi Station→Beigang Wude Temple",
+                "Direction": 1,
+                "DepartureStopNameZh": "高鐵嘉義站",
+                "DepartureStopNameEn": "HSR Chiayi Station",
+                "DestinationStopNameZh": "北港武德宮",
+                "DestinationStopNameEn": "Beigang Wude Temple"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "Y03",
+            "En": "Y03"
+        },
+        "DepartureStopNameZh": "北港武德宮",
+        "DepartureStopNameEn": "Beigang Wude Temple",
+        "DestinationStopNameZh": "高鐵嘉義站",
+        "DestinationStopNameEn": "HSR Chiayi Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0586.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "YUN0796",
+        "RouteID": "0796",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "21",
+                "OperatorName": {
+                    "Zh_tw": "臺西客運",
+                    "En": "Taisi Bus Co., Ltd."
+                },
+                "OperatorCode": "TaisiBus",
+                "OperatorNo": "1408"
+            }
+        ],
+        "AuthorityID": "017",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "YUN079601",
+                "SubRouteID": "079601",
+                "OperatorIDs": [
+                    "21"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "701",
+                    "En": "701"
+                },
+                "Headsign": "斗六→荷苞村→草嶺",
+                "HeadsignEn": "Douliu→Hebao Village→Caoling",
+                "Direction": 0,
+                "DepartureStopNameZh": "斗六火車站",
+                "DepartureStopNameEn": "Douliou Train Station",
+                "DestinationStopNameZh": "東?山莊",
+                "DestinationStopNameEn": "Dongbi Villa"
+            },
+            {
+                "SubRouteUID": "YUN079602",
+                "SubRouteID": "079602",
+                "OperatorIDs": [
+                    "21"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "701",
+                    "En": "701"
+                },
+                "Headsign": "草嶺→荷苞村→斗六",
+                "HeadsignEn": "Caoling→Hebao Village→Douliu",
+                "Direction": 1,
+                "DepartureStopNameZh": "東?山莊",
+                "DepartureStopNameEn": "Dongbi Villa",
+                "DestinationStopNameZh": "斗六火車站",
+                "DestinationStopNameEn": "Douliou Train Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "701",
+            "En": "701"
+        },
+        "DepartureStopNameZh": "斗六火車站",
+        "DepartureStopNameEn": "Douliou Train Station",
+        "DestinationStopNameZh": "東𤧥山莊",
+        "DestinationStopNameEn": "Dongbi Villa",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0796.jpg",
+        "City": "YunlinCounty",
+        "CityCode": "YUN",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    }
+]

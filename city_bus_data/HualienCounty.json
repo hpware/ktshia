@@ -1,0 +1,983 @@
+[
+    {
+        "RouteUID": "HUA0027",
+        "RouteID": "0027",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "114",
+                "OperatorName": {
+                    "Zh_tw": "興東客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1602"
+            }
+        ],
+        "AuthorityID": "022",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HUA002701",
+                "SubRouteID": "002701",
+                "OperatorIDs": [
+                    "114"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "309",
+                    "En": "309"
+                },
+                "Headsign": "玉里火車站→石梯坪",
+                "HeadsignEn": "TRA Yuli Station→Shiti Port",
+                "Direction": 0,
+                "DepartureStopNameZh": "玉里火車站",
+                "DepartureStopNameEn": "Yuli Station",
+                "DestinationStopNameZh": "玉里火車站",
+                "DestinationStopNameEn": "Yuli Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "309",
+            "En": "309"
+        },
+        "DepartureStopNameZh": "玉里火車站",
+        "DepartureStopNameEn": "Yuli Station",
+        "DestinationStopNameZh": "玉里火車站",
+        "DestinationStopNameEn": "Yuli Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0027.jpg",
+        "City": "HualienCounty",
+        "CityCode": "HUA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HUA0117",
+        "RouteID": "0117",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "34",
+                "OperatorName": {
+                    "Zh_tw": "統聯客運",
+                    "En": "United Highway Bus Co., Ltd."
+                },
+                "OperatorCode": "UnitedHighwayBus",
+                "OperatorNo": "1201"
+            }
+        ],
+        "AuthorityID": "022",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HUA011701",
+                "SubRouteID": "011701",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "311",
+                    "En": "311"
+                },
+                "Headsign": "花蓮轉運站→美崙→海星中學→慈濟醫院→花蓮轉運站",
+                "HeadsignEn": "Hualien Bus Sation→Mei Lun→Stella Maris Ursuline High School →Buddhist Tzu Chi General Hospital→Hualien Bus Sation",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Sation",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Sation"
+            },
+            {
+                "SubRouteUID": "HUA0117A1",
+                "SubRouteID": "0117A1",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "311A",
+                    "En": "311A"
+                },
+                "Headsign": "花蓮轉運站→花蓮機場",
+                "HeadsignEn": "Hualien Bus Station→Hualien Airport",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Sation",
+                "DestinationStopNameZh": "花蓮機場",
+                "DestinationStopNameEn": "Hualien Airport"
+            },
+            {
+                "SubRouteUID": "HUA0117A2",
+                "SubRouteID": "0117A2",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "311A",
+                    "En": "311A"
+                },
+                "Headsign": "花蓮機場→花蓮轉運站",
+                "HeadsignEn": "Hualien Airport→Hualien Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "花蓮機場",
+                "DepartureStopNameEn": "Hualien Airport",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Sation"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "311",
+            "En": "311"
+        },
+        "DepartureStopNameZh": "花蓮轉運站",
+        "DepartureStopNameEn": "Hualien Bus Sation",
+        "DestinationStopNameZh": "花蓮轉運站",
+        "DestinationStopNameEn": "Hualien Bus Sation",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0117.jpg",
+        "City": "HualienCounty",
+        "CityCode": "HUA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HUA0300",
+        "RouteID": "0300",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "34",
+                "OperatorName": {
+                    "Zh_tw": "統聯客運",
+                    "En": "United Highway Bus Co., Ltd."
+                },
+                "OperatorCode": "UnitedHighwayBus",
+                "OperatorNo": "1201"
+            }
+        ],
+        "AuthorityID": "022",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HUA030001",
+                "SubRouteID": "030001",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "310",
+                    "En": "310"
+                },
+                "Headsign": "花蓮轉運站—太魯閣遊客中心",
+                "HeadsignEn": "Hualien Bus Station—Taroko Visitor Center",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Station",
+                "DestinationStopNameZh": "太魯閣遊客中心",
+                "DestinationStopNameEn": "Taroko Visitor Center"
+            },
+            {
+                "SubRouteUID": "HUA030002",
+                "SubRouteID": "030002",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "310",
+                    "En": "310"
+                },
+                "Headsign": "太魯閣遊客中心—花蓮轉運站",
+                "HeadsignEn": "Taroko Visitor Center—Hualien Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "太魯閣遊客中心",
+                "DepartureStopNameEn": "Taroko Visitor Center",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Station"
+            },
+            {
+                "SubRouteUID": "HUA0300A2",
+                "SubRouteID": "0300A2",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "310A",
+                    "En": "310A"
+                },
+                "Headsign": "天祥—花蓮轉運站[繞駛布洛灣]",
+                "HeadsignEn": "Tianxiang—Hualien Bus Station(via Blow Bay)",
+                "Direction": 1,
+                "DepartureStopNameZh": "天祥",
+                "DepartureStopNameEn": "Tianxiang",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "310",
+            "En": "310"
+        },
+        "DepartureStopNameZh": "花蓮轉運站",
+        "DepartureStopNameEn": "Hualien Bus Station",
+        "DestinationStopNameZh": "太魯閣遊客中心",
+        "DestinationStopNameEn": "Taroko Visitor Center",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0300.jpg",
+        "City": "HualienCounty",
+        "CityCode": "HUA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HUA0301",
+        "RouteID": "0301",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "77",
+                "OperatorName": {
+                    "Zh_tw": "太魯閣客運",
+                    "En": "Taroko Bus Co., Ltd."
+                },
+                "OperatorCode": "TarokoBus",
+                "OperatorNo": "0412"
+            }
+        ],
+        "AuthorityID": "022",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HUA030101",
+                "SubRouteID": "030101",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "301",
+                    "En": "301"
+                },
+                "Headsign": "花蓮轉運站→東華大學",
+                "HeadsignEn": "Hualien Bus Station→Donghua University",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Sation",
+                "DestinationStopNameZh": "圖書館資訊大樓",
+                "DestinationStopNameEn": "Library Information Building"
+            },
+            {
+                "SubRouteUID": "HUA030102",
+                "SubRouteID": "030102",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "301",
+                    "En": "301"
+                },
+                "Headsign": "東華大學→花蓮轉運站",
+                "HeadsignEn": "Donghua University→Hualien Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "圖書館資訊大樓",
+                "DepartureStopNameEn": "Library Information Building",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Sation"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "301",
+            "En": "301"
+        },
+        "DepartureStopNameZh": "花蓮轉運站",
+        "DepartureStopNameEn": "Hualien Bus Sation",
+        "DestinationStopNameZh": "圖書館資訊大樓",
+        "DestinationStopNameEn": "Library Information Building",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0301.jpg",
+        "City": "HualienCounty",
+        "CityCode": "HUA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HUA0302",
+        "RouteID": "0302",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "77",
+                "OperatorName": {
+                    "Zh_tw": "太魯閣客運",
+                    "En": "Taroko Bus Co., Ltd."
+                },
+                "OperatorCode": "TarokoBus",
+                "OperatorNo": "0412"
+            }
+        ],
+        "AuthorityID": "022",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HUA030201",
+                "SubRouteID": "030201",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "302",
+                    "En": "302"
+                },
+                "Headsign": "新城火車站→天祥",
+                "HeadsignEn": "Xingcheng Rail Station→Tianxiang",
+                "Direction": 0,
+                "DepartureStopNameZh": "新城火車站",
+                "DepartureStopNameEn": "TRA Xingcheng Station",
+                "DestinationStopNameZh": "天祥",
+                "DestinationStopNameEn": "Tianxiang"
+            },
+            {
+                "SubRouteUID": "HUA030202",
+                "SubRouteID": "030202",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "302",
+                    "En": "302"
+                },
+                "Headsign": "天祥→新城火車站",
+                "HeadsignEn": "Tianxiang→Xingcheng Rail Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "天祥",
+                "DepartureStopNameEn": "Tianxiang",
+                "DestinationStopNameZh": "新城火車站",
+                "DestinationStopNameEn": "TRA Xingcheng Station"
+            },
+            {
+                "SubRouteUID": "HUA0302A1",
+                "SubRouteID": "0302A1",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "302A",
+                    "En": "302A"
+                },
+                "Headsign": "新城車站→老街→三棧→新城車站",
+                "HeadsignEn": "Xingcheng Rail Station→Old Street→Sanzhan→Xingcheng Rail Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "新城火車站",
+                "DepartureStopNameEn": "TRA Xingcheng Station",
+                "DestinationStopNameZh": "新城火車站",
+                "DestinationStopNameEn": "TRA Xingcheng Station"
+            },
+            {
+                "SubRouteUID": "HUA0302A2",
+                "SubRouteID": "0302A2",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "302A",
+                    "En": "302A"
+                },
+                "Headsign": "新城車站→三棧→老街→新城車站",
+                "HeadsignEn": "Xingcheng Rail Station→Sanzhan→Old Street→Xingcheng Rail Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "新城火車站",
+                "DepartureStopNameEn": "TRA Xingcheng Station",
+                "DestinationStopNameZh": "新城火車站",
+                "DestinationStopNameEn": "TRA Xingcheng Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "DepartureStopNameZh": "新城火車站",
+        "DepartureStopNameEn": "TRA Xingcheng Station",
+        "DestinationStopNameZh": "天祥",
+        "DestinationStopNameEn": "Tianxiang",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0302.jpg",
+        "City": "HualienCounty",
+        "CityCode": "HUA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HUA0303",
+        "RouteID": "0303",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "77",
+                "OperatorName": {
+                    "Zh_tw": "太魯閣客運",
+                    "En": "Taroko Bus Co., Ltd."
+                },
+                "OperatorCode": "TarokoBus",
+                "OperatorNo": "0412"
+            }
+        ],
+        "AuthorityID": "022",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HUA030301",
+                "SubRouteID": "030301",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "303",
+                    "En": "303"
+                },
+                "Headsign": "花蓮轉運站→雲山水",
+                "HeadsignEn": "Hualien Bus Station→Yun Shan Shui",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Sation",
+                "DestinationStopNameZh": "雲山水",
+                "DestinationStopNameEn": "Yun Shan Shui"
+            },
+            {
+                "SubRouteUID": "HUA030302",
+                "SubRouteID": "030302",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "303",
+                    "En": "303"
+                },
+                "Headsign": "雲山水→花蓮轉運站",
+                "HeadsignEn": "Yun Shan Shui→Hualien Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "雲山水",
+                "DepartureStopNameEn": "Yun Shan Shui",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Sation"
+            },
+            {
+                "SubRouteUID": "HUA0303B1",
+                "SubRouteID": "0303B1",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "303B",
+                    "En": "303B"
+                },
+                "Headsign": "花蓮轉運站→花蓮觀光糖廠",
+                "HeadsignEn": "Hualien Bus Station→Hualian Sugar Factory",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Sation",
+                "DestinationStopNameZh": "花蓮觀光糖廠",
+                "DestinationStopNameEn": "Hualian Sugar Factory"
+            },
+            {
+                "SubRouteUID": "HUA0303B2",
+                "SubRouteID": "0303B2",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "303B",
+                    "En": "303B"
+                },
+                "Headsign": "花蓮觀光糖廠→花蓮轉運站",
+                "HeadsignEn": "Hualian Sugar Factory→Hualien Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "花蓮觀光糖廠",
+                "DepartureStopNameEn": "Hualian Sugar Factory",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Sation"
+            },
+            {
+                "SubRouteUID": "HUA0303C1",
+                "SubRouteID": "0303C1",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "303C",
+                    "En": "303C"
+                },
+                "Headsign": "花蓮轉運站→花蓮觀光糖廠",
+                "HeadsignEn": "Hualien Bus Station→Hualian Sugar Factory",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Sation",
+                "DestinationStopNameZh": "花蓮觀光糖廠",
+                "DestinationStopNameEn": "Hualian Sugar Factory"
+            },
+            {
+                "SubRouteUID": "HUA0303C2",
+                "SubRouteID": "0303C2",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "303C",
+                    "En": "303C"
+                },
+                "Headsign": "花蓮觀光糖廠→花蓮轉運站",
+                "HeadsignEn": "Hualian Sugar Factory→Hualien Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "花蓮觀光糖廠",
+                "DepartureStopNameEn": "Hualian Sugar Factory",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Sation"
+            },
+            {
+                "SubRouteUID": "HUA0303D1",
+                "SubRouteID": "0303D1",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "303D",
+                    "En": "303D"
+                },
+                "Headsign": "花蓮轉運站→林田山林業文化園區",
+                "HeadsignEn": "Hualien Bus Station→Lintian Mountain Forestry Center",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Sation",
+                "DestinationStopNameZh": "林田山中山堂",
+                "DestinationStopNameEn": "Lintian Mountain Zhongshantang"
+            },
+            {
+                "SubRouteUID": "HUA0303D2",
+                "SubRouteID": "0303D2",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "303D",
+                    "En": "303D"
+                },
+                "Headsign": "林田山林業文化園區→花蓮轉運站",
+                "HeadsignEn": "Lintian Mountain Forestry Center→Hualien Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "林田山中山堂",
+                "DepartureStopNameEn": "Lintian Mountain Zhongshantang",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Sation"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "303",
+            "En": "303"
+        },
+        "DepartureStopNameZh": "花蓮轉運站",
+        "DepartureStopNameEn": "Hualien Bus Sation",
+        "DestinationStopNameZh": "雲山水",
+        "DestinationStopNameEn": "Yun Shan Shui",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0303.jpg",
+        "City": "HualienCounty",
+        "CityCode": "HUA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HUA0304",
+        "RouteID": "0304",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "86",
+                "OperatorName": {
+                    "Zh_tw": "華聯客運"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1204"
+            }
+        ],
+        "AuthorityID": "022",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HUA030401",
+                "SubRouteID": "030401",
+                "OperatorIDs": [
+                    "86"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "304",
+                    "En": "304"
+                },
+                "Headsign": "花蓮火車站→石梯坪",
+                "HeadsignEn": "TRA Hualian Station→Shitiping",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Sation",
+                "DestinationStopNameZh": "石梯坪",
+                "DestinationStopNameEn": "Shihtiping"
+            },
+            {
+                "SubRouteUID": "HUA030402",
+                "SubRouteID": "030402",
+                "OperatorIDs": [
+                    "86"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "304",
+                    "En": "304"
+                },
+                "Headsign": "石梯坪→花蓮火車站",
+                "HeadsignEn": "Shitiping→TRA Hualian Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "石梯坪",
+                "DepartureStopNameEn": "Shihtiping",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Sation"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "304",
+            "En": "304"
+        },
+        "DepartureStopNameZh": "花蓮轉運站",
+        "DepartureStopNameEn": "Hualien Bus Sation",
+        "DestinationStopNameZh": "石梯坪",
+        "DestinationStopNameEn": "Shihtiping",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0304.jpg",
+        "City": "HualienCounty",
+        "CityCode": "HUA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HUA0305",
+        "RouteID": "0305",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "77",
+                "OperatorName": {
+                    "Zh_tw": "太魯閣客運",
+                    "En": "Taroko Bus Co., Ltd."
+                },
+                "OperatorCode": "TarokoBus",
+                "OperatorNo": "0412"
+            }
+        ],
+        "AuthorityID": "022",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HUA030501",
+                "SubRouteID": "030501",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "305",
+                    "En": "305"
+                },
+                "Headsign": "花蓮轉運站→水源村",
+                "HeadsignEn": "Hualien Bus Station→Shuiyuan Village",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Sation",
+                "DestinationStopNameZh": "水源村",
+                "DestinationStopNameEn": "Shuiyuan Village"
+            },
+            {
+                "SubRouteUID": "HUA030502",
+                "SubRouteID": "030502",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "305",
+                    "En": "305"
+                },
+                "Headsign": "水源村→花蓮轉運站",
+                "HeadsignEn": "Shuiyuan Village→Hualien Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "水源村",
+                "DepartureStopNameEn": "Shuiyuan Village",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Sation"
+            },
+            {
+                "SubRouteUID": "HUA0305A1",
+                "SubRouteID": "0305A1",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "305A",
+                    "En": "305A"
+                },
+                "Headsign": "花蓮轉運站→水源村(繞駛自強國中)",
+                "HeadsignEn": "Hualien Bus Station→Shuiyuan Village(Via Ziqiang Junior high school)",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Sation",
+                "DestinationStopNameZh": "水源村",
+                "DestinationStopNameEn": "Shuiyuan Village"
+            },
+            {
+                "SubRouteUID": "HUA0305A2",
+                "SubRouteID": "0305A2",
+                "OperatorIDs": [
+                    "77"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "305A",
+                    "En": "305A"
+                },
+                "Headsign": "水源村→花蓮轉運站(繞駛自強國中)",
+                "HeadsignEn": "Shuiyuan Village→Hualien Bus Station(Via Ziqiang Junior high school)",
+                "Direction": 1,
+                "DepartureStopNameZh": "水源村",
+                "DepartureStopNameEn": "Shuiyuan Village",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Sation"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "305",
+            "En": "305"
+        },
+        "DepartureStopNameZh": "花蓮轉運站",
+        "DepartureStopNameEn": "Hualien Bus Sation",
+        "DestinationStopNameZh": "水源村",
+        "DestinationStopNameEn": "Shuiyuan Village",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0305.jpg",
+        "City": "HualienCounty",
+        "CityCode": "HUA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HUA0307",
+        "RouteID": "0307",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "39",
+                "OperatorName": {
+                    "Zh_tw": "首都客運",
+                    "En": "Capital Bus Co., Ltd."
+                },
+                "OperatorCode": "CapitalBus",
+                "OperatorNo": "0913"
+            },
+            {
+                "OperatorID": "42",
+                "OperatorName": {
+                    "Zh_tw": "臺北客運",
+                    "En": "Taipei Bus Co., Ltd."
+                },
+                "OperatorCode": "TaipeiBus",
+                "OperatorNo": "1407"
+            }
+        ],
+        "AuthorityID": "022",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HUA030701",
+                "SubRouteID": "030701",
+                "OperatorIDs": [
+                    "39",
+                    "42"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "307",
+                    "En": "307"
+                },
+                "Headsign": "花蓮轉運站→慈濟大學(建國校區)→東大門夜市→花蓮轉運站",
+                "HeadsignEn": "Hualien Bus Station→Tzu chi University Jianguo→Dongdamen Night Market→Hualien Bus Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Station",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Station"
+            },
+            {
+                "SubRouteUID": "HUA030702",
+                "SubRouteID": "030702",
+                "OperatorIDs": [
+                    "39",
+                    "42"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "307",
+                    "En": "307"
+                },
+                "Headsign": "花蓮轉運站→東大門夜市→慈濟大學(建國校區)→花蓮轉運站",
+                "HeadsignEn": "Hualien Bus Station→Dongdamen Night Market→Tzu chi University Jianguo→Hualien Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Station",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Station"
+            },
+            {
+                "SubRouteUID": "HUA0307A1",
+                "SubRouteID": "0307A1",
+                "OperatorIDs": [
+                    "39",
+                    "42"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "307A",
+                    "En": "307A"
+                },
+                "Headsign": "花蓮轉運站→慈濟大學(建國校區)",
+                "HeadsignEn": "Hualien Bus Station→Tzu chi University Jianguo",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Station",
+                "DestinationStopNameZh": "慈濟大學(建國校區)",
+                "DestinationStopNameEn": "Tzu chi University Jianguo"
+            },
+            {
+                "SubRouteUID": "HUA0307A2",
+                "SubRouteID": "0307A2",
+                "OperatorIDs": [
+                    "39",
+                    "42"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "307A",
+                    "En": "307A"
+                },
+                "Headsign": "慈濟大學(建國校區)→花蓮轉運站",
+                "HeadsignEn": "Tzu chi University Jianguo→Hualien Bus Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "慈濟大學(建國校區)",
+                "DepartureStopNameEn": "Tzu chi University Jianguo",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "307",
+            "En": "307"
+        },
+        "DepartureStopNameZh": "花蓮轉運站",
+        "DepartureStopNameEn": "Hualien Bus Station",
+        "DestinationStopNameZh": "花蓮轉運站",
+        "DestinationStopNameEn": "Hualien Bus Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0307.jpg",
+        "City": "HualienCounty",
+        "CityCode": "HUA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "HUA0308",
+        "RouteID": "0308",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "34",
+                "OperatorName": {
+                    "Zh_tw": "統聯客運",
+                    "En": "United Highway Bus Co., Ltd."
+                },
+                "OperatorCode": "UnitedHighwayBus",
+                "OperatorNo": "1201"
+            }
+        ],
+        "AuthorityID": "022",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "HUA030801",
+                "SubRouteID": "030801",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "308",
+                    "En": "308"
+                },
+                "Headsign": "飯店接駁線(花蓮轉運站→七星潭)",
+                "HeadsignEn": "Hotel connection line(Hualien Bus Station→Qixingtan)",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Station",
+                "DestinationStopNameZh": "七星潭",
+                "DestinationStopNameEn": "Qixingtan"
+            },
+            {
+                "SubRouteUID": "HUA030802",
+                "SubRouteID": "030802",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "308",
+                    "En": "308"
+                },
+                "Headsign": "飯店接駁線(七星潭→花蓮轉運站)",
+                "HeadsignEn": "Hotel connection line(Qixingtan→Hualien Bus Station)",
+                "Direction": 1,
+                "DepartureStopNameZh": "七星潭",
+                "DepartureStopNameEn": "Qixingtan",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Station"
+            },
+            {
+                "SubRouteUID": "HUA0308A1",
+                "SubRouteID": "0308A1",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "308A",
+                    "En": "308A"
+                },
+                "Headsign": "飯店接駁線(花蓮轉運站→民意社區)",
+                "HeadsignEn": "Hotel connection line(Hualien Bus Station→Minyi Community)",
+                "Direction": 0,
+                "DepartureStopNameZh": "花蓮轉運站",
+                "DepartureStopNameEn": "Hualien Bus Station",
+                "DestinationStopNameZh": "民意社區",
+                "DestinationStopNameEn": "Minyi Community"
+            },
+            {
+                "SubRouteUID": "HUA0308A2",
+                "SubRouteID": "0308A2",
+                "OperatorIDs": [
+                    "34"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "308A",
+                    "En": "308A"
+                },
+                "Headsign": "飯店接駁線(民意社區→花蓮轉運站)",
+                "HeadsignEn": "Hotel connection line(Minyi Community→Hualien Bus Station)",
+                "Direction": 1,
+                "DepartureStopNameZh": "民意社區",
+                "DepartureStopNameEn": "Minyi Community",
+                "DestinationStopNameZh": "花蓮轉運站",
+                "DestinationStopNameEn": "Hualien Bus Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "308",
+            "En": "308"
+        },
+        "DepartureStopNameZh": "花蓮轉運站",
+        "DepartureStopNameEn": "Hualien Bus Station",
+        "DestinationStopNameZh": "七星潭",
+        "DestinationStopNameEn": "Qixingtan",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0308.jpg",
+        "City": "HualienCounty",
+        "CityCode": "HUA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    }
+]

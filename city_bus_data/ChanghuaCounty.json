@@ -1,0 +1,1294 @@
+[
+    {
+        "RouteUID": "CHA0016",
+        "RouteID": "0016",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "55",
+                "OperatorName": {
+                    "Zh_tw": "中鹿客運",
+                    "En": "Chung-Lu Bus Co., Ltd."
+                },
+                "OperatorCode": "ChungluBus",
+                "OperatorNo": "0402"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA001601",
+                "SubRouteID": "001601",
+                "OperatorIDs": [
+                    "55"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "16路",
+                    "En": "16路"
+                },
+                "Headsign": "彰化→朝馬(經台74線)",
+                "HeadsignEn": "Changhua→Chaoma(via Provincial Highway No.74)",
+                "Direction": 0,
+                "DepartureStopNameZh": "彰化火車站",
+                "DepartureStopNameEn": "Changhua Station",
+                "DestinationStopNameZh": "朝馬轉運站(朝富路)",
+                "DestinationStopNameEn": "Chaoma Transfer Station(Chaofu Rd.)"
+            },
+            {
+                "SubRouteUID": "CHA001602",
+                "SubRouteID": "001602",
+                "OperatorIDs": [
+                    "55"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "16路",
+                    "En": "16路"
+                },
+                "Headsign": "朝馬→彰化(經台74線)",
+                "HeadsignEn": "Chaoma→Changhua(via Provincial Highway No.74)",
+                "Direction": 1,
+                "DepartureStopNameZh": "朝馬轉運站(朝富路)",
+                "DepartureStopNameEn": "Chaoma Transfer Station(Chaofu Rd.)",
+                "DestinationStopNameZh": "彰化火車站",
+                "DestinationStopNameEn": "Changhua Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "16路",
+            "En": "16路"
+        },
+        "DepartureStopNameZh": "彰化火車站",
+        "DepartureStopNameEn": "Changhua Station",
+        "DestinationStopNameZh": "朝馬轉運站(朝富路)",
+        "DestinationStopNameEn": "Chaoma Transfer Station(Chaofu Rd.)",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0016.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0465",
+        "RouteID": "0465",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "60",
+                "OperatorName": {
+                    "Zh_tw": "彰化客運",
+                    "En": "Chang Hua Bus Co., Ltd."
+                },
+                "OperatorCode": "ChangHuaBus",
+                "OperatorNo": "1403"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA046501",
+                "SubRouteID": "046501",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "18路",
+                    "En": "18路"
+                },
+                "Headsign": "彰化→八卦山→彰化(八卦山大佛線)",
+                "HeadsignEn": "Changhua→Bagua Mountain→Changhua(Changhua Great Buddha Line)",
+                "Direction": 0,
+                "DepartureStopNameZh": "彰客彰化站",
+                "DepartureStopNameEn": "Changhua Station",
+                "DestinationStopNameZh": "彰客彰化站",
+                "DestinationStopNameEn": "Changhua Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "18路",
+            "En": "18路"
+        },
+        "DepartureStopNameZh": "彰客彰化站",
+        "DepartureStopNameEn": "Changhua Station",
+        "DestinationStopNameZh": "彰客彰化站",
+        "DestinationStopNameEn": "Changhua Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0465.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0466",
+        "RouteID": "0466",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "61",
+                "OperatorName": {
+                    "Zh_tw": "員林客運",
+                    "En": "Yuan Lin Bus Co., Ltd."
+                },
+                "OperatorCode": "YuanLinBus",
+                "OperatorNo": "1001"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA046601",
+                "SubRouteID": "046601",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "19路",
+                    "En": "19路"
+                },
+                "Headsign": "彰化→二林(經國道1號)",
+                "HeadsignEn": "Changhua→Erlin(Via National Freeway No.1)",
+                "Direction": 0,
+                "DepartureStopNameZh": "彰客彰化站",
+                "DepartureStopNameEn": "Changhua Station",
+                "DestinationStopNameZh": "員客二林站",
+                "DestinationStopNameEn": "Yuanlin Passenger Transport Erlin Station"
+            },
+            {
+                "SubRouteUID": "CHA046602",
+                "SubRouteID": "046602",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "19路",
+                    "En": "19路"
+                },
+                "Headsign": "二林→彰化(經國道1號)",
+                "HeadsignEn": "Erlin→Changhua(Via National Freeway No.1)",
+                "Direction": 1,
+                "DepartureStopNameZh": "員客二林站",
+                "DepartureStopNameEn": "Yuanlin Passenger Transport Erlin Station",
+                "DestinationStopNameZh": "彰客彰化站",
+                "DestinationStopNameEn": "Changhua Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "19路",
+            "En": "19路"
+        },
+        "DepartureStopNameZh": "彰客彰化站",
+        "DepartureStopNameEn": "Changhua Station",
+        "DestinationStopNameZh": "員客二林站",
+        "DestinationStopNameEn": "Yuanlin Passenger Transport Erlin Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0466.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0501",
+        "RouteID": "0501",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "61",
+                "OperatorName": {
+                    "Zh_tw": "員林客運",
+                    "En": "Yuan Lin Bus Co., Ltd."
+                },
+                "OperatorCode": "YuanLinBus",
+                "OperatorNo": "1001"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA050101",
+                "SubRouteID": "050101",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23路",
+                    "En": "23路"
+                },
+                "Headsign": "員客彰化站→溪頭{經秀水，行駛台76及國道3號)",
+                "HeadsignEn": "Yuanke Zhanghua Station→Xitou(Parking Lot)",
+                "Direction": 0,
+                "DepartureStopNameZh": "員客彰化站",
+                "DepartureStopNameEn": "Yuanke Zhanghua Station",
+                "DestinationStopNameZh": "溪頭",
+                "DestinationStopNameEn": "Xitou"
+            },
+            {
+                "SubRouteUID": "CHA050102",
+                "SubRouteID": "050102",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23路",
+                    "En": "23路"
+                },
+                "Headsign": "溪頭→員客彰化站(經秀水，行駛台76及國道3號)",
+                "HeadsignEn": "Xitou(Parking Lot)→Yuanke Zhanghua Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "溪頭",
+                "DepartureStopNameEn": "Xitou",
+                "DestinationStopNameZh": "員客彰化站",
+                "DestinationStopNameEn": "Yuanke Zhanghua Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "23路",
+            "En": "23路"
+        },
+        "DepartureStopNameZh": "員客彰化站",
+        "DepartureStopNameEn": "Yuanke Zhanghua Station",
+        "DestinationStopNameZh": "溪頭",
+        "DestinationStopNameEn": "Xitou",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0501.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0502",
+        "RouteID": "0502",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "61",
+                "OperatorName": {
+                    "Zh_tw": "員林客運",
+                    "En": "Yuan Lin Bus Co., Ltd."
+                },
+                "OperatorCode": "YuanLinBus",
+                "OperatorNo": "1001"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA050201",
+                "SubRouteID": "050201",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20路",
+                    "En": "20路"
+                },
+                "Headsign": "員林→經溪湖→二林",
+                "HeadsignEn": "Yuanlin－Via Xihu Station－Erlin",
+                "Direction": 0,
+                "DepartureStopNameZh": "員林站",
+                "DepartureStopNameEn": "Yuanlin Station",
+                "DestinationStopNameZh": "員客二林站",
+                "DestinationStopNameEn": "Yuanlin Passenger Transport Erlin Station"
+            },
+            {
+                "SubRouteUID": "CHA050202",
+                "SubRouteID": "050202",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20路",
+                    "En": "20路"
+                },
+                "Headsign": "二林→經溪湖→員林",
+                "HeadsignEn": "Erlin－Via Xihu Station－Yuanlin",
+                "Direction": 1,
+                "DepartureStopNameZh": "員客二林站",
+                "DepartureStopNameEn": "Yuanlin Passenger Transport Erlin Station",
+                "DestinationStopNameZh": "員林站",
+                "DestinationStopNameEn": "Yuanlin Station"
+            },
+            {
+                "SubRouteUID": "CHA0502A1",
+                "SubRouteID": "0502A1",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20路A",
+                    "En": "20路A"
+                },
+                "Headsign": "員林→溪湖",
+                "HeadsignEn": "Yuanlin－ Xihu Station(shuttle bus)",
+                "Direction": 0,
+                "DepartureStopNameZh": "員林站",
+                "DepartureStopNameEn": "Yuanlin Station",
+                "DestinationStopNameZh": "員客溪湖站",
+                "DestinationStopNameEn": "Yuanlin Passenger Transport Xihu Station"
+            },
+            {
+                "SubRouteUID": "CHA0502A2",
+                "SubRouteID": "0502A2",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20路A",
+                    "En": "20路A"
+                },
+                "Headsign": "溪湖→員林",
+                "HeadsignEn": "Erlin－ Xihu Station(shuttle bus)",
+                "Direction": 1,
+                "DepartureStopNameZh": "員客溪湖站",
+                "DepartureStopNameEn": "Yuanlin Passenger Transport Xihu Station",
+                "DestinationStopNameZh": "員林站",
+                "DestinationStopNameEn": "Yuanlin Station"
+            },
+            {
+                "SubRouteUID": "CHA0502B1",
+                "SubRouteID": "0502B1",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20路延－B",
+                    "En": "20路延－B"
+                },
+                "Headsign": "員林→經溪湖(延駛成功高中)→二林",
+                "HeadsignEn": "Yuanlin－Xihu Station－Erlin(driving by Chengkung High School)",
+                "Direction": 0,
+                "DepartureStopNameZh": "員林站",
+                "DepartureStopNameEn": "Yuanlin Station",
+                "DestinationStopNameZh": "員客二林站",
+                "DestinationStopNameEn": "Yuanlin Passenger Transport Erlin Station"
+            },
+            {
+                "SubRouteUID": "CHA0502B2",
+                "SubRouteID": "0502B2",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20路延－B",
+                    "En": "20路延－B"
+                },
+                "Headsign": "二林→經溪湖(延駛成功高中)→員林",
+                "HeadsignEn": "Erlin－Via Xihu Station－Yuanlin",
+                "Direction": 1,
+                "DepartureStopNameZh": "員客二林站",
+                "DepartureStopNameEn": "Yuanlin Passenger Transport Erlin Station",
+                "DestinationStopNameZh": "員林站",
+                "DestinationStopNameEn": "Yuanlin Station"
+            },
+            {
+                "SubRouteUID": "CHA0502C1",
+                "SubRouteID": "0502C1",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20路A延－C",
+                    "En": "20路A延－C"
+                },
+                "Headsign": "員林→溪湖(延駛成功高中)",
+                "HeadsignEn": "Yuanlin－Xihu Station (driving by Chengkung High School)",
+                "Direction": 0,
+                "DepartureStopNameZh": "員林站",
+                "DepartureStopNameEn": "Yuanlin Station",
+                "DestinationStopNameZh": "成功高中",
+                "DestinationStopNameEn": "Changhua County Chengkung High School"
+            },
+            {
+                "SubRouteUID": "CHA0502C2",
+                "SubRouteID": "0502C2",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20路A延－C",
+                    "En": "20路A延－C"
+                },
+                "Headsign": "溪湖→員林(延駛成功高中)",
+                "HeadsignEn": "Xihu Station→Yuanlin－Yuanlin (driving by Chengkung High School)",
+                "Direction": 1,
+                "DepartureStopNameZh": "成功高中",
+                "DepartureStopNameEn": "Changhua County Chengkung High School",
+                "DestinationStopNameZh": "員林站",
+                "DestinationStopNameEn": "Yuanlin Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "20路",
+            "En": "20路"
+        },
+        "DepartureStopNameZh": "員林站",
+        "DepartureStopNameEn": "Yuanlin Station",
+        "DestinationStopNameZh": "員客二林站",
+        "DestinationStopNameEn": "Yuanlin Passenger Transport Erlin Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0502.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0625",
+        "RouteID": "0625",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "60",
+                "OperatorName": {
+                    "Zh_tw": "彰化客運",
+                    "En": "Chang Hua Bus Co., Ltd."
+                },
+                "OperatorCode": "ChangHuaBus",
+                "OperatorNo": "1403"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA062501",
+                "SubRouteID": "062501",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "17路",
+                    "En": "17路"
+                },
+                "Headsign": "彰化→芬園(經縣庄)→草屯",
+                "HeadsignEn": "Changhua→Fenyuan(Via Xianzhuang)→Caotun",
+                "Direction": 0,
+                "DepartureStopNameZh": "彰化",
+                "DepartureStopNameEn": "Changhua",
+                "DestinationStopNameZh": "草屯",
+                "DestinationStopNameEn": "Caotun"
+            },
+            {
+                "SubRouteUID": "CHA062502",
+                "SubRouteID": "062502",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "17路",
+                    "En": "17路"
+                },
+                "Headsign": "草屯→芬園(經縣庄)→彰化",
+                "HeadsignEn": "Caotun→Fenyuan(Via Xianzhuang)→Changhua",
+                "Direction": 1,
+                "DepartureStopNameZh": "草屯",
+                "DepartureStopNameEn": "Caotun",
+                "DestinationStopNameZh": "彰化",
+                "DestinationStopNameEn": "Changhua"
+            },
+            {
+                "SubRouteUID": "CHA0625A1",
+                "SubRouteID": "0625A1",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "17路A",
+                    "En": "17路A"
+                },
+                "Headsign": "彰化→芬園(經縣庄)→草屯(繞駛台鳳社區)",
+                "HeadsignEn": "Changhua→Fenyuan(Via Xianzhuang)→Caotun[VIA Taifeng Community]",
+                "Direction": 0,
+                "DepartureStopNameZh": "彰化",
+                "DepartureStopNameEn": "Changhua",
+                "DestinationStopNameZh": "草屯",
+                "DestinationStopNameEn": "Caotun"
+            },
+            {
+                "SubRouteUID": "CHA0625B1",
+                "SubRouteID": "0625B1",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "17路B",
+                    "En": "17路B"
+                },
+                "Headsign": "彰化→芬園(經縣庄)→草屯（延駛 南開科技大學）",
+                "HeadsignEn": "Changhua→Fenyuan(Via Xianzhuang)→Caotun(VIA Nankai University of Science and Technology)",
+                "Direction": 0,
+                "DepartureStopNameZh": "彰化",
+                "DepartureStopNameEn": "Changhua",
+                "DestinationStopNameZh": "南開科技大學校區",
+                "DestinationStopNameEn": "Nankai University of Science and Technology Campus"
+            },
+            {
+                "SubRouteUID": "CHA0625B2",
+                "SubRouteID": "0625B2",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "17路B",
+                    "En": "17路B"
+                },
+                "Headsign": "草屯→芬園(經縣庄)→彰化（延駛 南開科技大學）",
+                "HeadsignEn": "Caotun→Fenyuan(Via Xianzhuang)→Changhua(VIA Nankai University of Science and Technology)",
+                "Direction": 1,
+                "DepartureStopNameZh": "南開科技大學校區",
+                "DepartureStopNameEn": "Nankai University of Science and Technology Campus",
+                "DestinationStopNameZh": "彰化",
+                "DestinationStopNameEn": "Changhua"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "17路",
+            "En": "17路"
+        },
+        "DepartureStopNameZh": "彰化",
+        "DepartureStopNameEn": "Changhua",
+        "DestinationStopNameZh": "草屯",
+        "DestinationStopNameEn": "Caotun",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0625.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0702",
+        "RouteID": "0702",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "61",
+                "OperatorName": {
+                    "Zh_tw": "員林客運",
+                    "En": "Yuan Lin Bus Co., Ltd."
+                },
+                "OperatorCode": "YuanLinBus",
+                "OperatorNo": "1001"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA070201",
+                "SubRouteID": "070201",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "6路",
+                    "En": "6路"
+                },
+                "Headsign": "鹿港→員林(經員林轉運站)",
+                "HeadsignEn": "Lukang→Yuanlin[Via Yuanlin Transfer Station]",
+                "Direction": 0,
+                "DepartureStopNameZh": "鹿港乘車處",
+                "DepartureStopNameEn": "Lukang stop",
+                "DestinationStopNameZh": "員林站",
+                "DestinationStopNameEn": "Yuanlin Station"
+            },
+            {
+                "SubRouteUID": "CHA070202",
+                "SubRouteID": "070202",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "6路",
+                    "En": "6路"
+                },
+                "Headsign": "員林→鹿港(經員林轉運站)",
+                "HeadsignEn": "Yuanlin→Lukang[Via Yuanlin Transfer Station]",
+                "Direction": 1,
+                "DepartureStopNameZh": "員林站",
+                "DepartureStopNameEn": "Yuanlin Station",
+                "DestinationStopNameZh": "鹿港乘車處",
+                "DestinationStopNameEn": "Lukang stop"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "6路",
+            "En": "6路"
+        },
+        "DepartureStopNameZh": "鹿港乘車處",
+        "DepartureStopNameEn": "Lukang stop",
+        "DestinationStopNameZh": "員林站",
+        "DestinationStopNameEn": "Yuanlin Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0702.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0703",
+        "RouteID": "0703",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "60",
+                "OperatorName": {
+                    "Zh_tw": "彰化客運",
+                    "En": "Chang Hua Bus Co., Ltd."
+                },
+                "OperatorCode": "ChangHuaBus",
+                "OperatorNo": "1403"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA070301",
+                "SubRouteID": "070301",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "1路",
+                    "En": "1路"
+                },
+                "Headsign": "彰化→台鳳社區→彰化火車站",
+                "HeadsignEn": "Changhua→Tai Feng→TRA Changhua station",
+                "Direction": 0,
+                "DepartureStopNameZh": "彰化站",
+                "DepartureStopNameEn": "Changhua Station",
+                "DestinationStopNameZh": "彰化站",
+                "DestinationStopNameEn": "Changhua Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "1路",
+            "En": "1路"
+        },
+        "DepartureStopNameZh": "彰化站",
+        "DepartureStopNameEn": "Changhua Station",
+        "DestinationStopNameZh": "彰化站",
+        "DestinationStopNameEn": "Changhua Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0703.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0704",
+        "RouteID": "0704",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "60",
+                "OperatorName": {
+                    "Zh_tw": "彰化客運",
+                    "En": "Chang Hua Bus Co., Ltd."
+                },
+                "OperatorCode": "ChangHuaBus",
+                "OperatorNo": "1403"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA070401",
+                "SubRouteID": "070401",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "2路",
+                    "En": "2路"
+                },
+                "Headsign": "彰化→保警→彰化火車站[延駛彰師大進德校區]",
+                "HeadsignEn": "Changhua→Bao Jing→TRA Changhua station(Extended Changhua Universtiy of Education)",
+                "Direction": 0,
+                "DepartureStopNameZh": "彰化師大進德校區",
+                "DepartureStopNameEn": "Changhua Universtiy of Education",
+                "DestinationStopNameZh": "彰化師大進德校區",
+                "DestinationStopNameEn": "Changhua Universtiy of Education"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "2路",
+            "En": "2路"
+        },
+        "DepartureStopNameZh": "彰化師大進德校區",
+        "DepartureStopNameEn": "Changhua Universtiy of Education",
+        "DestinationStopNameZh": "彰化師大進德校區",
+        "DestinationStopNameEn": "Changhua Universtiy of Education",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0704.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0717",
+        "RouteID": "0717",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "60",
+                "OperatorName": {
+                    "Zh_tw": "彰化客運",
+                    "En": "Chang Hua Bus Co., Ltd."
+                },
+                "OperatorCode": "ChangHuaBus",
+                "OperatorNo": "1403"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA071701",
+                "SubRouteID": "071701",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "7路",
+                    "En": "7路"
+                },
+                "Headsign": "員林→高鐵彰化站→田中火車站",
+                "HeadsignEn": "Yuanlin→HSR Changhua Station→TRA Tianzhong Station",
+                "Direction": 0,
+                "DepartureStopNameZh": "員林轉運站",
+                "DepartureStopNameEn": "Yuanlin Bus Station",
+                "DestinationStopNameZh": "田中火車站",
+                "DestinationStopNameEn": "TRA Tianzhong Station"
+            },
+            {
+                "SubRouteUID": "CHA071702",
+                "SubRouteID": "071702",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "7路",
+                    "En": "7路"
+                },
+                "Headsign": "田中火車站→高鐵彰化站→員林",
+                "HeadsignEn": "TRA Tianzhong Station→Speed Rail Changhua Station→Yuanlin",
+                "Direction": 1,
+                "DepartureStopNameZh": "田中火車站",
+                "DepartureStopNameEn": "TRA Tianzhong Station",
+                "DestinationStopNameZh": "員林轉運站",
+                "DestinationStopNameEn": "Yuanlin Bus Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "7路",
+            "En": "7路"
+        },
+        "DepartureStopNameZh": "員林轉運站",
+        "DepartureStopNameEn": "Yuanlin Bus Station",
+        "DestinationStopNameZh": "田中火車站",
+        "DestinationStopNameEn": "TRA Tianzhong Station",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0717.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0754",
+        "RouteID": "0754",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "60",
+                "OperatorName": {
+                    "Zh_tw": "彰化客運",
+                    "En": "Chang Hua Bus Co., Ltd."
+                },
+                "OperatorCode": "ChangHuaBus",
+                "OperatorNo": "1403"
+            },
+            {
+                "OperatorID": "61",
+                "OperatorName": {
+                    "Zh_tw": "員林客運",
+                    "En": "Yuan Lin Bus Co., Ltd."
+                },
+                "OperatorCode": "YuanLinBus",
+                "OperatorNo": "1001"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA075401",
+                "SubRouteID": "075401",
+                "OperatorIDs": [
+                    "60",
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "9路",
+                    "En": "9路"
+                },
+                "Headsign": "彰化火車站→溪頭(行經國道3號)",
+                "HeadsignEn": "Changhua Station→Xitou(Via National Freeway No.3)",
+                "Direction": 0,
+                "DepartureStopNameZh": "彰客彰化站",
+                "DepartureStopNameEn": "Changhua Station",
+                "DestinationStopNameZh": "溪頭(停車場)",
+                "DestinationStopNameEn": "Xitou(Parking Lot)"
+            },
+            {
+                "SubRouteUID": "CHA075402",
+                "SubRouteID": "075402",
+                "OperatorIDs": [
+                    "60",
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "9路",
+                    "En": "9路"
+                },
+                "Headsign": "溪頭→彰化火車站(行經國道3號)",
+                "HeadsignEn": "Xitou→Changhua Station(Via National Freeway No.3)",
+                "Direction": 1,
+                "DepartureStopNameZh": "溪頭(停車場)",
+                "DepartureStopNameEn": "Xitou(Parking Lot)",
+                "DestinationStopNameZh": "彰客彰化站",
+                "DestinationStopNameEn": "Changhua Station"
+            },
+            {
+                "SubRouteUID": "CHA0754A1",
+                "SubRouteID": "0754A1",
+                "OperatorIDs": [
+                    "60",
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "9路A",
+                    "En": "9路A"
+                },
+                "Headsign": "鹿港→彰化火車站→溪頭(行經國道3號)",
+                "HeadsignEn": "Lukang→Changhua Station→Xitou(Via National Freeway No.3)",
+                "Direction": 0,
+                "DepartureStopNameZh": "鹿港乘車處",
+                "DepartureStopNameEn": "Lukang stop",
+                "DestinationStopNameZh": "溪頭(停車場)",
+                "DestinationStopNameEn": "Xitou(Parking Lot)"
+            },
+            {
+                "SubRouteUID": "CHA0754A2",
+                "SubRouteID": "0754A2",
+                "OperatorIDs": [
+                    "60",
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "9路A",
+                    "En": "9路A"
+                },
+                "Headsign": "溪頭→彰化火車站→鹿港(行經國道3號)",
+                "HeadsignEn": "Xitou→Changhua Station→Lukang(Via National Freeway No.3)",
+                "Direction": 1,
+                "DepartureStopNameZh": "溪頭(停車場)",
+                "DepartureStopNameEn": "Xitou(Parking Lot)",
+                "DestinationStopNameZh": "鹿港乘車處",
+                "DestinationStopNameEn": "Lukang stop"
+            },
+            {
+                "SubRouteUID": "CHA0754B1",
+                "SubRouteID": "0754B1",
+                "OperatorIDs": [
+                    "60",
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "9路B",
+                    "En": "9路B"
+                },
+                "Headsign": "和美鎮公所→彰化火車站→溪頭(行經國道3號)",
+                "HeadsignEn": "Hemei Township Administration→Changhua Station→Xitou(Via National Freeway No.3)",
+                "Direction": 0,
+                "DepartureStopNameZh": "和美(愛惜路)",
+                "DepartureStopNameEn": "Hemei (Aixi Road)",
+                "DestinationStopNameZh": "溪頭(停車場)",
+                "DestinationStopNameEn": "Xitou(Parking Lot)"
+            },
+            {
+                "SubRouteUID": "CHA0754B2",
+                "SubRouteID": "0754B2",
+                "OperatorIDs": [
+                    "60",
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "9路B",
+                    "En": "9路B"
+                },
+                "Headsign": "溪頭→彰化火車站→和美鎮公所(行經國道3號)",
+                "HeadsignEn": "Xitou→Changhua Station→Hemei Township Administration(Via National Freeway No.3)",
+                "Direction": 1,
+                "DepartureStopNameZh": "溪頭(停車場)",
+                "DepartureStopNameEn": "Xitou(Parking Lot)",
+                "DestinationStopNameZh": "和美(愛惜路)",
+                "DestinationStopNameEn": "Hemei (Aixi Road)"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "9路",
+            "En": "9路"
+        },
+        "DepartureStopNameZh": "彰客彰化站",
+        "DepartureStopNameEn": "Changhua Station",
+        "DestinationStopNameZh": "溪頭(停車場)",
+        "DestinationStopNameEn": "Xitou(Parking Lot)",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0754.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0778",
+        "RouteID": "0778",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "60",
+                "OperatorName": {
+                    "Zh_tw": "彰化客運",
+                    "En": "Chang Hua Bus Co., Ltd."
+                },
+                "OperatorCode": "ChangHuaBus",
+                "OperatorNo": "1403"
+            },
+            {
+                "OperatorID": "61",
+                "OperatorName": {
+                    "Zh_tw": "員林客運",
+                    "En": "Yuan Lin Bus Co., Ltd."
+                },
+                "OperatorCode": "YuanLinBus",
+                "OperatorNo": "1001"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA077801",
+                "SubRouteID": "077801",
+                "OperatorIDs": [
+                    "60",
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "10路",
+                    "En": "10路"
+                },
+                "Headsign": "員林轉運站→溪頭(行經台76線及國道3號)",
+                "HeadsignEn": "Yuanlin Bus Station→Xitou(via provincial highway no. 76 and national highway no. 3)",
+                "Direction": 0,
+                "DepartureStopNameZh": "員林轉運站",
+                "DepartureStopNameEn": "Yuanlin Bus Station",
+                "DestinationStopNameZh": "溪頭(停車場)",
+                "DestinationStopNameEn": "Xitou(Parking Lot)"
+            },
+            {
+                "SubRouteUID": "CHA077802",
+                "SubRouteID": "077802",
+                "OperatorIDs": [
+                    "60",
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "10路",
+                    "En": "10路"
+                },
+                "Headsign": "溪頭→員林轉運站(行經台76線及國道3號)",
+                "HeadsignEn": "Xitou→Yuanlin Bus Station(via provincial highway no. 76 and national highway no. 3)",
+                "Direction": 1,
+                "DepartureStopNameZh": "溪頭(停車場)",
+                "DepartureStopNameEn": "Xitou(Parking Lot)",
+                "DestinationStopNameZh": "員林轉運站",
+                "DestinationStopNameEn": "Yuanlin Bus Station"
+            },
+            {
+                "SubRouteUID": "CHA0778A1",
+                "SubRouteID": "0778A1",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "10路A",
+                    "En": "10路A"
+                },
+                "Headsign": "溪湖→員林轉運站→溪頭(行經台76線及國道3號)",
+                "HeadsignEn": "Qihu→Yuanlin Bus Station→Xitou(via provincial highway no. 76 and national highway no. 3)",
+                "Direction": 0,
+                "DepartureStopNameZh": "溪湖",
+                "DepartureStopNameEn": "Qihu",
+                "DestinationStopNameZh": "溪頭(停車場)",
+                "DestinationStopNameEn": "Xitou(Parking Lot)"
+            },
+            {
+                "SubRouteUID": "CHA0778A2",
+                "SubRouteID": "0778A2",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "10路A",
+                    "En": "10路A"
+                },
+                "Headsign": "溪頭→員林轉運站→溪湖(行經台76線及國道3號)",
+                "HeadsignEn": "Xitou→Yuanlin Bus Station→Qihu(via provincial highway no. 76 and national highway no. 3)",
+                "Direction": 1,
+                "DepartureStopNameZh": "溪頭(停車場)",
+                "DepartureStopNameEn": "Xitou(Parking Lot)",
+                "DestinationStopNameZh": "溪湖",
+                "DestinationStopNameEn": "Qihu"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "10路",
+            "En": "10路"
+        },
+        "DepartureStopNameZh": "員林轉運站",
+        "DepartureStopNameEn": "Yuanlin Bus Station",
+        "DestinationStopNameZh": "溪頭(停車場)",
+        "DestinationStopNameEn": "Xitou(Parking Lot)",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0778.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0779",
+        "RouteID": "0779",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "60",
+                "OperatorName": {
+                    "Zh_tw": "彰化客運",
+                    "En": "Chang Hua Bus Co., Ltd."
+                },
+                "OperatorCode": "ChangHuaBus",
+                "OperatorNo": "1403"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA077901",
+                "SubRouteID": "077901",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "8路",
+                    "En": "8路"
+                },
+                "Headsign": "臺鐵田中站→溪州公園(延駛三條村、張厝村)",
+                "HeadsignEn": "TRA Tianzhong Station→River Park",
+                "Direction": 0,
+                "DepartureStopNameZh": "臺鐵田中站",
+                "DepartureStopNameEn": "TRA Tianzhong Station",
+                "DestinationStopNameZh": "張厝村(民生路)",
+                "DestinationStopNameEn": "Zhangcuo Village (Minsheng Road )"
+            },
+            {
+                "SubRouteUID": "CHA077902",
+                "SubRouteID": "077902",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "8路",
+                    "En": "8路"
+                },
+                "Headsign": "溪州公園→臺鐵田中站(延駛三條村、張厝村)",
+                "HeadsignEn": "River Park→TRA Tianzhong Station",
+                "Direction": 1,
+                "DepartureStopNameZh": "張厝村(民生路)",
+                "DepartureStopNameEn": "Zhangcuo Village (Minsheng Road )",
+                "DestinationStopNameZh": "臺鐵田中站",
+                "DestinationStopNameEn": "TRA Tianzhong Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "8路",
+            "En": "8路"
+        },
+        "DepartureStopNameZh": "臺鐵田中站",
+        "DepartureStopNameEn": "TRA Tianzhong Station",
+        "DestinationStopNameZh": "張厝村(民生路)",
+        "DestinationStopNameEn": "Zhangcuo Village (Minsheng Road )",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0779.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0794",
+        "RouteID": "0794",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "61",
+                "OperatorName": {
+                    "Zh_tw": "員林客運",
+                    "En": "Yuan Lin Bus Co., Ltd."
+                },
+                "OperatorCode": "YuanLinBus",
+                "OperatorNo": "1001"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA079401",
+                "SubRouteID": "079401",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "15路",
+                    "En": "15路"
+                },
+                "Headsign": "二林→溪頭(行經國道3號)",
+                "HeadsignEn": "Erlin→Xitou(Via Freeway No. 3)",
+                "Direction": 0,
+                "DepartureStopNameZh": "員客二林站",
+                "DepartureStopNameEn": "Yuanlin Bus Erlin Station",
+                "DestinationStopNameZh": "溪頭(停車場)",
+                "DestinationStopNameEn": "Xitou(Parking Lot)"
+            },
+            {
+                "SubRouteUID": "CHA079402",
+                "SubRouteID": "079402",
+                "OperatorIDs": [
+                    "61"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "15路",
+                    "En": "15路"
+                },
+                "Headsign": "溪頭→二林(行經國道3號)",
+                "HeadsignEn": "Xitou→Erlin(Via Freeway No. 3)",
+                "Direction": 1,
+                "DepartureStopNameZh": "溪頭(停車場)",
+                "DepartureStopNameEn": "Xitou(Parking Lot)",
+                "DestinationStopNameZh": "員客二林站",
+                "DestinationStopNameEn": "Yuanlin Bus Erlin Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "15路",
+            "En": "15路"
+        },
+        "DepartureStopNameZh": "員客二林站",
+        "DepartureStopNameEn": "Yuanlin Bus Erlin Station",
+        "DestinationStopNameZh": "溪頭(停車場)",
+        "DestinationStopNameEn": "Xitou(Parking Lot)",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0794.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    },
+    {
+        "RouteUID": "CHA0801",
+        "RouteID": "0801",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "60",
+                "OperatorName": {
+                    "Zh_tw": "彰化客運",
+                    "En": "Chang Hua Bus Co., Ltd."
+                },
+                "OperatorCode": "ChangHuaBus",
+                "OperatorNo": "1403"
+            }
+        ],
+        "AuthorityID": "015",
+        "ProviderID": "010",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "CHA080101",
+                "SubRouteID": "080101",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "13路",
+                    "En": "13路"
+                },
+                "Headsign": "彰化→花壇→大葉大學",
+                "HeadsignEn": "Changhua→Huatan→Dayeh University",
+                "Direction": 0,
+                "DepartureStopNameZh": "彰化站",
+                "DepartureStopNameEn": "Changhua Station",
+                "DestinationStopNameZh": "大葉大學(管院站)",
+                "DestinationStopNameEn": "Dayeh University"
+            },
+            {
+                "SubRouteUID": "CHA080102",
+                "SubRouteID": "080102",
+                "OperatorIDs": [
+                    "60"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "13路",
+                    "En": "13路"
+                },
+                "Headsign": "大葉大學→花壇→彰化",
+                "HeadsignEn": "Dayeh University→Huatan→Changhua",
+                "Direction": 1,
+                "DepartureStopNameZh": "大葉大學(管院站)",
+                "DepartureStopNameEn": "Dayeh University",
+                "DestinationStopNameZh": "彰化站",
+                "DestinationStopNameEn": "Changhua Station"
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "13路",
+            "En": "13路"
+        },
+        "DepartureStopNameZh": "彰化站",
+        "DepartureStopNameEn": "Changhua Station",
+        "DestinationStopNameZh": "大葉大學(管院站)",
+        "DestinationStopNameEn": "Dayeh University",
+        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0801.jpg",
+        "City": "ChanghuaCounty",
+        "CityCode": "CHA",
+        "UpdateTime": "2025-09-02T20:00:07+08:00",
+        "VersionID": 5578
+    }
+]

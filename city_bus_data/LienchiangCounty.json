@@ -1,0 +1,2946 @@
+[
+    {
+        "RouteUID": "LIE1001",
+        "RouteID": "1001",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1001",
+                "SubRouteID": "1001",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳)(06:30)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Hou Ao)(06:30)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳)(06:30)",
+            "En": "Beigan Mountain Tangqi departure (branch: Hou Ao)(06:30)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1002",
+        "RouteID": "1002",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1002",
+                "SubRouteID": "1002",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(塘岐發)往白沙(支線: 午沙)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Wusha)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(塘岐發)往白沙(支線: 午沙)",
+            "En": "Beigan Mountain Tangqi departure (branch: Wusha)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1003",
+        "RouteID": "1003",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1003",
+                "SubRouteID": "1003",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(塘岐發)往白沙",
+                    "En": "Beigan Coast Tangqi departure"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(塘岐發)往白沙",
+            "En": "Beigan Coast Tangqi departure"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1004",
+        "RouteID": "1004",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1004",
+                "SubRouteID": "1004",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(塘岐發)往白沙(支線: 衛生所)(11:00)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Institute of Health)(11:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(塘岐發)往白沙(支線: 衛生所)(11:00)",
+            "En": "Beigan Mountain Tangqi departure (branch: Institute of Health)(11:00)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1005",
+        "RouteID": "1005",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1005",
+                "SubRouteID": "1005",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(塘岐發)往白沙(支線: 后澳)",
+                    "En": "Beigan Coast Tangqi departure (branch: Hou Ao)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(塘岐發)往白沙(支線: 后澳)",
+            "En": "Beigan Coast Tangqi departure (branch: Hou Ao)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1006",
+        "RouteID": "1006",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1006",
+                "SubRouteID": "1006",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(塘岐發)往白沙(支線: 后澳、衛生所)",
+                    "En": "Beigan Coast Tangqi departure (branch: Hou Ao, Institute of Health)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(塘岐發)往白沙(支線: 后澳、衛生所)",
+            "En": "Beigan Coast Tangqi departure (branch: Hou Ao, Institute of Health)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1007",
+        "RouteID": "1007",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1007",
+                "SubRouteID": "1007",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(塘岐發)往白沙(17:25)",
+                    "En": "Beigan Mountain Tangqi departure(17:25)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(塘岐發)往白沙(17:25)",
+            "En": "Beigan Mountain Tangqi departure(17:25)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1010",
+        "RouteID": "1010",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1010",
+                "SubRouteID": "1010",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(白沙發)往塘岐(支線: 后澳)",
+                    "En": "Beigan Coast Baisha departure (branch: Hou Ao)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(白沙發)往塘岐(支線: 后澳)",
+            "En": "Beigan Coast Baisha departure (branch: Hou Ao)"
+        },
+        "DepartureStopNameZh": "白沙",
+        "DepartureStopNameEn": "Baisha",
+        "DestinationStopNameZh": "塘岐",
+        "DestinationStopNameEn": "Tangqi",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1011",
+        "RouteID": "1011",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1011",
+                "SubRouteID": "1011",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(白沙發)往塘岐",
+                    "En": "Beigan Coast Baisha departure"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(白沙發)往塘岐",
+            "En": "Beigan Coast Baisha departure"
+        },
+        "DepartureStopNameZh": "白沙",
+        "DepartureStopNameEn": "Baisha",
+        "DestinationStopNameZh": "塘岐",
+        "DestinationStopNameEn": "Tangqi",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1012",
+        "RouteID": "1012",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1012",
+                "SubRouteID": "1012",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(白沙發)往塘岐(17:05)",
+                    "En": "Beigan Mountain Baisha departure(17:05)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(白沙發)往塘岐(17:05)",
+            "En": "Beigan Mountain Baisha departure(17:05)"
+        },
+        "DepartureStopNameZh": "白沙",
+        "DepartureStopNameEn": "Baisha",
+        "DestinationStopNameZh": "塘岐",
+        "DestinationStopNameEn": "Tangqi",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1013",
+        "RouteID": "1013",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1013",
+                "SubRouteID": "1013",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(塘岐發)往白沙(支線: 芹壁)(12:30)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Qinbi)(12:30)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(塘岐發)往白沙(支線: 芹壁)(12:30)",
+            "En": "Beigan Mountain Tangqi departure (branch: Qinbi)(12:30)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1014",
+        "RouteID": "1014",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1014",
+                "SubRouteID": "1014",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、午沙)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Wusha)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、午沙)",
+            "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Wusha)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1015",
+        "RouteID": "1015",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1015",
+                "SubRouteID": "1015",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、衛生所、芹壁)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Institute of Health, Qinbi)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、衛生所、芹壁)",
+            "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Institute of Health, Qinbi)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1016",
+        "RouteID": "1016",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1016",
+                "SubRouteID": "1016",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山轉海線(塘岐發)往白沙(支線: 芹壁、橋仔)(08:50)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Qinbi, Qiaozi)(08:50)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山轉海線(塘岐發)往白沙(支線: 芹壁、橋仔)(08:50)",
+            "En": "Beigan Mountain Tangqi departure (branch: Qinbi, Qiaozi)(08:50)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1017",
+        "RouteID": "1017",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1017",
+                "SubRouteID": "1017",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(白沙發)往塘岐(支線: 芹壁)(07:50)",
+                    "En": "Beigan Mountain Baisha departure (branch: Qinbi)(07:50)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(白沙發)往塘岐(支線: 芹壁)(07:50)",
+            "En": "Beigan Mountain Baisha departure (branch: Qinbi)(07:50)"
+        },
+        "DepartureStopNameZh": "白沙",
+        "DepartureStopNameEn": "Baisha",
+        "DestinationStopNameZh": "塘岐",
+        "DestinationStopNameEn": "Tangqi",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1018",
+        "RouteID": "1018",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1018",
+                "SubRouteID": "1018",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海轉山線(白沙發)往塘岐(支線: 芹壁、橋仔)(17:35)",
+                    "En": "Beigan Coast Baisha departure (branch: Qinbi, Qiaozi)(17:35)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海轉山線(白沙發)往塘岐(支線: 芹壁、橋仔)(17:35)",
+            "En": "Beigan Coast Baisha departure (branch: Qinbi, Qiaozi)(17:35)"
+        },
+        "DepartureStopNameZh": "白沙",
+        "DepartureStopNameEn": "Baisha",
+        "DestinationStopNameZh": "塘岐",
+        "DestinationStopNameEn": "Tangqi",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1019",
+        "RouteID": "1019",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1019",
+                "SubRouteID": "1019",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、芹壁)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Qinbi)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、芹壁)",
+            "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Qinbi)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1020",
+        "RouteID": "1020",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1020",
+                "SubRouteID": "1020",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(橋仔發)往白沙(07:05)",
+                    "En": "Beigan Coast Qiaozi departure(07:05)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(橋仔發)往白沙(07:05)",
+            "En": "Beigan Coast Qiaozi departure(07:05)"
+        },
+        "DepartureStopNameZh": "橋仔",
+        "DepartureStopNameEn": "Qiaozi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1021",
+        "RouteID": "1021",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1021",
+                "SubRouteID": "1021",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(白沙發)往橋仔(06:40)",
+                    "En": "Beigan Coast Baisha departure(06:40)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(白沙發)往橋仔(06:40)",
+            "En": "Beigan Coast Baisha departure(06:40)"
+        },
+        "DepartureStopNameZh": "白沙",
+        "DepartureStopNameEn": "Baisha",
+        "DestinationStopNameZh": "橋仔",
+        "DestinationStopNameEn": "Qiaozi",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1022",
+        "RouteID": "1022",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1022",
+                "SubRouteID": "1022",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、午沙、中山國中)(07:00)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Wusha, Zhongshan Junior High School)(07:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、午沙、中山國中)(07:00)",
+            "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Wusha, Zhongshan Junior High School)(07:00)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE1023",
+        "RouteID": "1023",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1023",
+                "SubRouteID": "1023",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山轉海線(塘岐發)往白沙(支線: 后澳、芹壁、橋仔)(13:35)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Qinbi, Qiaozi)(13:35)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山轉海線(塘岐發)往白沙(支線: 后澳、芹壁、橋仔)(13:35)",
+            "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Qinbi, Qiaozi)(13:35)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE11",
+        "RouteID": "11",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE11",
+                "SubRouteID": "11",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(介壽發)往馬港(支線: 機場、清水村、仁愛、遊客中心)(09:00)",
+                    "En": "Nangan Mountain Jieshou departure (branch: Airport, Qingshui village, Renai Village, Nangan visitor "
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(介壽發)往馬港(支線: 機場、清水村、仁愛、遊客中心)(09:00)",
+            "En": "Nangan Mountain Jieshou departure (branch: Airport, Qingshui village, Renai Village, Nangan visitor "
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE12",
+        "RouteID": "12",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE12",
+                "SubRouteID": "12",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(介壽發)往馬港(支線: 機場、清水村、津沙)(08:00)",
+                    "En": "Nangan Mountain Jieshou departure (branch: Airport, Qingshui village, Jin Sha)(08:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(介壽發)往馬港(支線: 機場、清水村、津沙)(08:00)",
+            "En": "Nangan Mountain Jieshou departure (branch: Airport, Qingshui village, Jin Sha)(08:00)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE13",
+        "RouteID": "13",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE13",
+                "SubRouteID": "13",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(介壽發)往馬港(支線: 機場、復興村、清水村、仁愛、遊客中心)(13:30)",
+                    "En": "Nangan Mountain Jieshou departure (branch: Airport, Fuxing Village, Qingshui village, Renai Village,"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(介壽發)往馬港(支線: 機場、復興村、清水村、仁愛、遊客中心)(13:30)",
+            "En": "Nangan Mountain Jieshou departure (branch: Airport, Fuxing Village, Qingshui village, Renai Village,"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE14",
+        "RouteID": "14",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE14",
+                "SubRouteID": "14",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(介壽發)往馬港(支線: 復興村、清水村、津沙)(14:30)",
+                    "En": "Nangan Mountain Jieshou departure (branch: Fuxing Village, Qingshui village, Jin Sha)(14:30)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(介壽發)往馬港(支線: 復興村、清水村、津沙)(14:30)",
+            "En": "Nangan Mountain Jieshou departure (branch: Fuxing Village, Qingshui village, Jin Sha)(14:30)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE17",
+        "RouteID": "17",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE17",
+                "SubRouteID": "17",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(介壽發)往馬港(支線: 四維)(17:40)",
+                    "En": "Nangan Coast Jieshou departure (branch: Siwei)(17:40)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(介壽發)往馬港(支線: 四維)(17:40)",
+            "En": "Nangan Coast Jieshou departure (branch: Siwei)(17:40)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE18",
+        "RouteID": "18",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE18",
+                "SubRouteID": "18",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海轉山線(介壽發)往馬港(支線: 發電廠、四維)(14:00)",
+                    "En": "Nangan Coast To Mountain Jieshou departure (branch: Power plant, Siwei)(14:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海轉山線(介壽發)往馬港(支線: 發電廠、四維)(14:00)",
+            "En": "Nangan Coast To Mountain Jieshou departure (branch: Power plant, Siwei)(14:00)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE19",
+        "RouteID": "19",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE19",
+                "SubRouteID": "19",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(介壽發)往馬港(支線: 機場)(17:00)",
+                    "En": "Nangan Coast Jieshou departure (branch: Airport)(17:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(介壽發)往馬港(支線: 機場)(17:00)",
+            "En": "Nangan Coast Jieshou departure (branch: Airport)(17:00)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE2",
+        "RouteID": "2",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE2",
+                "SubRouteID": "2",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(介壽發)往馬港(支線: 仁愛、遊客中心)(10:00)",
+                    "En": "Nangan Mountain Jieshou departure (branch: Renai Village, Nangan visitor center)(10:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(介壽發)往馬港(支線: 仁愛、遊客中心)(10:00)",
+            "En": "Nangan Mountain Jieshou departure (branch: Renai Village, Nangan visitor center)(10:00)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE20",
+        "RouteID": "20",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE20",
+                "SubRouteID": "20",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(介壽發)往馬港(支線: 機場、不經福澳碼頭)(07:10)",
+                    "En": "Nangan Coast Jieshou departure (branch: Airport, not via Fuao Wharf)(07:10)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(介壽發)往馬港(支線: 機場、不經福澳碼頭)(07:10)",
+            "En": "Nangan Coast Jieshou departure (branch: Airport, not via Fuao Wharf)(07:10)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE21",
+        "RouteID": "21",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE21",
+                "SubRouteID": "21",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(介壽發)往馬港(支線: 復興村)(07:30)",
+                    "En": "Nangan Coast Jieshou departure (branch: Fuxing Village)(07:30)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(介壽發)往馬港(支線: 復興村)(07:30)",
+            "En": "Nangan Coast Jieshou departure (branch: Fuxing Village)(07:30)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE22",
+        "RouteID": "22",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE22",
+                "SubRouteID": "22",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(介壽發)往馬港(支線: 機場、復興村)(09:30)",
+                    "En": "Nangan Coast Jieshou departure (branch: Airport, Fuxing Village)(09:30)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(介壽發)往馬港(支線: 機場、復興村)(09:30)",
+            "En": "Nangan Coast Jieshou departure (branch: Airport, Fuxing Village)(09:30)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE23",
+        "RouteID": "23",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE23",
+                "SubRouteID": "23",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(介壽發)往馬港(支線: 機場、復興村、四維)(08:30)",
+                    "En": "Nangan Coast Jieshou departure (branch: Airport, Fuxing Village, Siwei)(08:30)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(介壽發)往馬港(支線: 機場、復興村、四維)(08:30)",
+            "En": "Nangan Coast Jieshou departure (branch: Airport, Fuxing Village, Siwei)(08:30)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE301",
+        "RouteID": "301",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE301",
+                "SubRouteID": "301",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(梅石發)往馬港(支線: 仁愛)(06:20)",
+                    "En": "Nangan Mountain Meishi departure (branch: Renai)(06:20)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(梅石發)往馬港(支線: 仁愛)(06:20)",
+            "En": "Nangan Mountain Meishi departure (branch: Renai)(06:20)"
+        },
+        "DepartureStopNameZh": "梅石",
+        "DepartureStopNameEn": "Plum Stone",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE302",
+        "RouteID": "302",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE302",
+                "SubRouteID": "302",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(梅石發)往馬港(支線: 四維)(06:20)",
+                    "En": "Nangan Coast Meishi departure (branch: Siwei)(06:20)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(梅石發)往馬港(支線: 四維)(06:20)",
+            "En": "Nangan Coast Meishi departure (branch: Siwei)(06:20)"
+        },
+        "DepartureStopNameZh": "梅石",
+        "DepartureStopNameEn": "Plum Stone",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE303",
+        "RouteID": "303",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE303",
+                "SubRouteID": "303",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(梅石發)往馬港(06:20)",
+                    "En": "Nangan Mountain Meishi departure(06:20)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(梅石發)往馬港(06:20)",
+            "En": "Nangan Mountain Meishi departure(06:20)"
+        },
+        "DepartureStopNameZh": "梅石",
+        "DepartureStopNameEn": "Plum Stone",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE31",
+        "RouteID": "31",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE31",
+                "SubRouteID": "31",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(馬港發)往介壽(17:05)",
+                    "En": "Nangan Mountain Magang departure(17:05)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(馬港發)往介壽(17:05)",
+            "En": "Nangan Mountain Magang departure(17:05)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE32",
+        "RouteID": "32",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE32",
+                "SubRouteID": "32",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(馬港發)往介壽(支線: 仁愛、遊客中心)(14:25)",
+                    "En": "Nangan Mountain Magang departure (branch: Renai Village, Nangan visitor center)(14:25)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(馬港發)往介壽(支線: 仁愛、遊客中心)(14:25)",
+            "En": "Nangan Mountain Magang departure (branch: Renai Village, Nangan visitor center)(14:25)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE3201",
+        "RouteID": "3201",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE3201",
+                "SubRouteID": "3201",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福巴士 西莒線(07:00)",
+                    "En": "Happiness Bus (West Juguang)(07:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福巴士 西莒線(07:00)",
+            "En": "Happiness Bus (West Juguang)(07:00)"
+        },
+        "DepartureStopNameZh": "莒光鄉公所",
+        "DepartureStopNameEn": "Chukuang Township Office",
+        "DestinationStopNameZh": "莒光鄉公所",
+        "DestinationStopNameEn": "Chukuang Township Office",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE3202",
+        "RouteID": "3202",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE3202",
+                "SubRouteID": "3202",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "幸福巴士 東莒線(07:10)",
+                    "En": "Happiness Bus (East Juguang)(07:10)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "幸福巴士 東莒線(07:10)",
+            "En": "Happiness Bus (East Juguang)(07:10)"
+        },
+        "DepartureStopNameZh": "大坪村",
+        "DepartureStopNameEn": "Daping Village",
+        "DestinationStopNameZh": "大坪村",
+        "DestinationStopNameEn": "Daping Village",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE34",
+        "RouteID": "34",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE34",
+                "SubRouteID": "34",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(馬港發)往介壽(支線: 津沙、仁愛)(17:15)",
+                    "En": "Nangan Mountain Magang departure (branch: Jin Sha, Renai Village)(17:15)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(馬港發)往介壽(支線: 津沙、仁愛)(17:15)",
+            "En": "Nangan Mountain Magang departure (branch: Jin Sha, Renai Village)(17:15)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE36",
+        "RouteID": "36",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE36",
+                "SubRouteID": "36",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(馬港發)往介壽(支線: 仁愛、遊客中心、機場)(08:55)",
+                    "En": "Nangan Mountain Magang departure (branch: Renai Village, Nangan visitor center, Airport)(08:55)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(馬港發)往介壽(支線: 仁愛、遊客中心、機場)(08:55)",
+            "En": "Nangan Mountain Magang departure (branch: Renai Village, Nangan visitor center, Airport)(08:55)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE39",
+        "RouteID": "39",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE39",
+                "SubRouteID": "39",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(馬港發)往介壽(支線: 清水村)(10:45)",
+                    "En": "Nangan Mountain Magang departure (branch: Qingshui village)(10:45)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(馬港發)往介壽(支線: 清水村)(10:45)",
+            "En": "Nangan Mountain Magang departure (branch: Qingshui village)(10:45)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE4",
+        "RouteID": "4",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE4",
+                "SubRouteID": "4",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(介壽發)往馬港(支線: 仁愛、津沙)(17:40)",
+                    "En": "Nangan Mountain Jieshou departure (branch: Renai Village, Jin Sha)(17:40)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(介壽發)往馬港(支線: 仁愛、津沙)(17:40)",
+            "En": "Nangan Mountain Jieshou departure (branch: Renai Village, Jin Sha)(17:40)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE40",
+        "RouteID": "40",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE40",
+                "SubRouteID": "40",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(馬港發)往介壽(支線: 仁愛、遊客中心、清水村)(15:15)",
+                    "En": "Nangan Mountain Magang departure (branch: Renai Village, Nangan visitor center, Qingshui village)(15"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(馬港發)往介壽(支線: 仁愛、遊客中心、清水村)(15:15)",
+            "En": "Nangan Mountain Magang departure (branch: Renai Village, Nangan visitor center, Qingshui village)(15"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE41",
+        "RouteID": "41",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE41",
+                "SubRouteID": "41",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(馬港發)往介壽(支線: 仁愛、遊客中心、清水村、機場)(11:50)",
+                    "En": "Nangan Mountain Magang departure (branch: Renai Village, Nangan visitor center, Qingshui village, Ai"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(馬港發)往介壽(支線: 仁愛、遊客中心、清水村、機場)(11:50)",
+            "En": "Nangan Mountain Magang departure (branch: Renai Village, Nangan visitor center, Qingshui village, Ai"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE42",
+        "RouteID": "42",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE42",
+                "SubRouteID": "42",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(馬港發)往介壽(支線: 津沙、清水村)(09:45)",
+                    "En": "Nangan Mountain Magang departure (branch: Jin Sha, Qingshui village)(09:45)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(馬港發)往介壽(支線: 津沙、清水村)(09:45)",
+            "En": "Nangan Mountain Magang departure (branch: Jin Sha, Qingshui village)(09:45)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE43",
+        "RouteID": "43",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE43",
+                "SubRouteID": "43",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(馬港發)往介壽(支線: 機場)(08:25)",
+                    "En": "Nangan Coast Magang departure (branch: Airport)(08:25)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(馬港發)往介壽(支線: 機場)(08:25)",
+            "En": "Nangan Coast Magang departure (branch: Airport)(08:25)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE44",
+        "RouteID": "44",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE44",
+                "SubRouteID": "44",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(馬港發)往介壽(17:10)",
+                    "En": "Nangan Coast Magang departure(17:10)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(馬港發)往介壽(17:10)",
+            "En": "Nangan Coast Magang departure(17:10)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE45",
+        "RouteID": "45",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE45",
+                "SubRouteID": "45",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "海線(馬港發)往介壽(不經福澳碼頭)(18:00)",
+                    "En": "Nangan Coast Magang departure (not via Fuao Wharf)(18:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "海線(馬港發)往介壽(不經福澳碼頭)(18:00)",
+            "En": "Nangan Coast Magang departure (not via Fuao Wharf)(18:00)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE46",
+        "RouteID": "46",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE46",
+                "SubRouteID": "46",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山轉海線(馬港發)往介壽(支線: 發電廠、機場)(10:20)",
+                    "En": "Nangan Mountain Magang departure (branch: Power plant, Airport)(10:20)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山轉海線(馬港發)往介壽(支線: 發電廠、機場)(10:20)",
+            "En": "Nangan Mountain Magang departure (branch: Power plant, Airport)(10:20)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE47",
+        "RouteID": "47",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE47",
+                "SubRouteID": "47",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山轉海線(馬港發)往介壽(支線: 津沙、仁愛)(07:25)",
+                    "En": "Nangan Mountain Magang departure (branch: Jin Sha, Renai Village)(07:25)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山轉海線(馬港發)往介壽(支線: 津沙、仁愛)(07:25)",
+            "En": "Nangan Mountain Magang departure (branch: Jin Sha, Renai Village)(07:25)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE48",
+        "RouteID": "48",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE48",
+                "SubRouteID": "48",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山轉海線(馬港發)往介壽(支線: 發電廠、機場、不經福澳碼頭)(06:35)",
+                    "En": "Nangan Mountain Magang departure (branch: Power plant, Airport, not via Fuao Wharf)(06:35)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山轉海線(馬港發)往介壽(支線: 發電廠、機場、不經福澳碼頭)(06:35)",
+            "En": "Nangan Mountain Magang departure (branch: Power plant, Airport, not via Fuao Wharf)(06:35)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE49",
+        "RouteID": "49",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE49",
+                "SubRouteID": "49",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行北竿戰爭和平公園線(上午線)(08:30)",
+                    "En": "Beigan to Peace Memorial Park Route (Morning)(08:30)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行北竿戰爭和平公園線(上午線)(08:30)",
+            "En": "Beigan to Peace Memorial Park Route (Morning)(08:30)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "塘岐",
+        "DestinationStopNameEn": "Tangqi",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE5",
+        "RouteID": "5",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE5",
+                "SubRouteID": "5",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(介壽發)往馬港(支線: 機場)(11:30)",
+                    "En": "Nangan Mountain Jieshou departure (branch: Airport)(11:30)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(介壽發)往馬港(支線: 機場)(11:30)",
+            "En": "Nangan Mountain Jieshou departure (branch: Airport)(11:30)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE50",
+        "RouteID": "50",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE50",
+                "SubRouteID": "50",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行莒光東犬燈塔線(東莒A線)(12:00)",
+                    "En": "Juguang to Dongquan Lighthouse Route (A)(12:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行莒光東犬燈塔線(東莒A線)(12:00)",
+            "En": "Juguang to Dongquan Lighthouse Route (A)(12:00)"
+        },
+        "DepartureStopNameZh": "猛澳港",
+        "DepartureStopNameEn": "Meng‘ao Harbor",
+        "DestinationStopNameZh": "猛澳港",
+        "DestinationStopNameEn": "Meng‘ao Harbor",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE51",
+        "RouteID": "51",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE51",
+                "SubRouteID": "51",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行莒光東犬燈塔線(西莒B線)(07:50)",
+                    "En": "Juguang to Dongquan Lighthouse Route (B)(07:50)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行莒光東犬燈塔線(西莒B線)(07:50)",
+            "En": "Juguang to Dongquan Lighthouse Route (B)(07:50)"
+        },
+        "DepartureStopNameZh": "青帆港",
+        "DepartureStopNameEn": "Qingfan Harbor",
+        "DestinationStopNameZh": "青帆港",
+        "DestinationStopNameEn": "Qingfan Harbor",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE52",
+        "RouteID": "52",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE52",
+                "SubRouteID": "52",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行東引國之北疆線(上午線)(08:00)",
+                    "En": "Dongyin to Northernmost Frontier Route (Morning)(08:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行東引國之北疆線(上午線)(08:00)",
+            "En": "Dongyin to Northernmost Frontier Route (Morning)(08:00)"
+        },
+        "DepartureStopNameZh": "東引鄉公所",
+        "DepartureStopNameEn": "Dongyin Township Office",
+        "DestinationStopNameZh": "東引鄉公所",
+        "DestinationStopNameEn": "Dongyin Township Office",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE53",
+        "RouteID": "53",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE53",
+                "SubRouteID": "53",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行東引國之北疆線(下午線)(14:00)",
+                    "En": "Dongyin to Northernmost Frontier Route (Afternoon)(14:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行東引國之北疆線(下午線)(14:00)",
+            "En": "Dongyin to Northernmost Frontier Route (Afternoon)(14:00)"
+        },
+        "DepartureStopNameZh": "東引鄉公所",
+        "DepartureStopNameEn": "Dongyin Township Office",
+        "DestinationStopNameZh": "東引鄉公所",
+        "DestinationStopNameEn": "Dongyin Township Office",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE54",
+        "RouteID": "54",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE54",
+                "SubRouteID": "54",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行南竿媽祖巨神像線(上午東線)(08:30)",
+                    "En": "Nangan to Giant Matsu Statue Route(Morning)(08:30)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行南竿媽祖巨神像線(上午東線)(08:30)",
+            "En": "Nangan to Giant Matsu Statue Route(Morning)(08:30)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE55",
+        "RouteID": "55",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE55",
+                "SubRouteID": "55",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行北竿戰爭和平公園線(下午線)(14:00)",
+                    "En": "Beigan to Peace Memorial Park Route (Afternoon)(14:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行北竿戰爭和平公園線(下午線)(14:00)",
+            "En": "Beigan to Peace Memorial Park Route (Afternoon)(14:00)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "塘岐",
+        "DestinationStopNameEn": "Tangqi",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE7",
+        "RouteID": "7",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE7",
+                "SubRouteID": "7",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(介壽發)往馬港(支線: 機場、津沙)(16:00)",
+                    "En": "Nangan Mountain Jieshou departure (branch: Airport, Jin Sha)(16:00)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(介壽發)往馬港(支線: 機場、津沙)(16:00)",
+            "En": "Nangan Mountain Jieshou departure (branch: Airport, Jin Sha)(16:00)"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE72",
+        "RouteID": "72",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE72",
+                "SubRouteID": "72",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行南竿媽祖巨神像線(下午西線)(13:30)",
+                    "En": "Nangan to Giant Matsu Statue Route(Afternoon) (13:30)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行南竿媽祖巨神像線(下午西線)(13:30)",
+            "En": "Nangan to Giant Matsu Statue Route(Afternoon) (13:30)"
+        },
+        "DepartureStopNameZh": "馬港",
+        "DepartureStopNameEn": "Magang",
+        "DestinationStopNameZh": "介壽",
+        "DestinationStopNameEn": "Jieshou",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    },
+    {
+        "RouteUID": "LIE8",
+        "RouteID": "8",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE8",
+                "SubRouteID": "8",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(介壽發)往馬港(支線: 機場、復興村、仁愛、遊客中心)(15:30)",
+                    "En": "Nangan Mountain Jieshou departure (branch: Airport, Fuxing Village, Renai Village, Nangan visitor ce"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(介壽發)往馬港(支線: 機場、復興村、仁愛、遊客中心)(15:30)",
+            "En": "Nangan Mountain Jieshou departure (branch: Airport, Fuxing Village, Renai Village, Nangan visitor ce"
+        },
+        "DepartureStopNameZh": "介壽",
+        "DepartureStopNameEn": "Jieshou",
+        "DestinationStopNameZh": "馬港",
+        "DestinationStopNameEn": "Magang",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-02T23:57:07+08:00",
+        "VersionID": 2116
+    }
+]

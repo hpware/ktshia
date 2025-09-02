@@ -1,0 +1,5623 @@
+[
+    {
+        "RouteUID": "KIN101",
+        "RouteID": "101",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN101",
+                "SubRouteID": "101",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "10",
+                    "En": "10"
+                },
+                "Headsign": "10",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "湖(埔)寧",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/101/map/154/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN11",
+        "RouteID": "11",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN11",
+                "SubRouteID": "11",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "紅1往山外",
+                    "En": "Red 1 Bound for Shanwai"
+                },
+                "Headsign": "紅1往山外",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "DepartureStopNameZh": "金城",
+        "DestinationStopNameZh": "山外(幹線公車)",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/11/map/158/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN111",
+        "RouteID": "111",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN111",
+                "SubRouteID": "111",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "11",
+                    "En": "11"
+                },
+                "Headsign": "11",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DestinationStopNameZh": "頂(埔)寧",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/111/map/155/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN1111",
+        "RouteID": "1111",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN1111",
+                "SubRouteID": "1111",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "11路 不繞南山",
+                    "En": "11 skip Nanshan"
+                },
+                "Headsign": "11路 不繞南山",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "11路 不繞南山",
+            "En": "11 skip Nanshan"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DestinationStopNameZh": "頂(埔)寧",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1111/map/156/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN12",
+        "RouteID": "12",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN12",
+                "SubRouteID": "12",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "紅1往金城",
+                    "En": "Red 1 Bound for Jincheng"
+                },
+                "Headsign": "紅1往金城",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "紅1往金城",
+            "En": "Red 1 Bound for Jincheng"
+        },
+        "DepartureStopNameZh": "山外",
+        "DestinationStopNameZh": "金城(幹線公車)",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/12/map/157/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN122",
+        "RouteID": "122",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN122",
+                "SubRouteID": "122",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "12左繞",
+                    "En": "12 Left Run"
+                },
+                "Headsign": "12左繞",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "12左繞",
+            "En": "12 Left Run"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "嚨口",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/122/map/197/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN125",
+        "RouteID": "125",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN125",
+                "SubRouteID": "125",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "12右繞",
+                    "En": "12 Right Run"
+                },
+                "Headsign": "12右繞",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "12右繞",
+            "En": "12 Right Run"
+        },
+        "DepartureStopNameZh": "金城",
+        "DepartureStopNameEn": "JinChen",
+        "DestinationStopNameZh": "金城",
+        "DestinationStopNameEn": "Jinchen",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/125/map/196/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN13",
+        "RouteID": "13",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN13",
+                "SubRouteID": "13",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "藍1往山外",
+                    "En": "Blue 1 Bound for Shanwai"
+                },
+                "Headsign": "藍1往山外",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "藍1往山外",
+            "En": "Blue 1 Bound for Shanwai"
+        },
+        "DepartureStopNameZh": "金城",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "山外(經民航站、太武公園)",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/13/map/159/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN131",
+        "RouteID": "131",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN131",
+                "SubRouteID": "131",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "藍1往山外繞環保局",
+                    "En": "Blue 1 Bound for Shanwai pass Environmental Protection Bureau"
+                },
+                "Headsign": "藍1往山外繞環保局",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "藍1往山外繞環保局",
+            "En": "Blue 1 Bound for Shanwai pass Environmental Protection Bureau"
+        },
+        "DepartureStopNameZh": "金城",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "山外(經民航站、太武公園)",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/131/map/161/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN14",
+        "RouteID": "14",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN14",
+                "SubRouteID": "14",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "藍1往金城",
+                    "En": "Blue 1 Bound for Jincheng"
+                },
+                "Headsign": "藍1往金城",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "藍1往金城",
+            "En": "Blue 1 Bound for Jincheng"
+        },
+        "DepartureStopNameZh": "山外車站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "金城(經太武公園、民航站)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/14/map/160/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN141",
+        "RouteID": "141",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN141",
+                "SubRouteID": "141",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "藍1往金城繞環保局",
+                    "En": "Blue 1 Bound for Jincheng pass Environmental Protection Bureau"
+                },
+                "Headsign": "藍1往金城繞環保局",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "藍1往金城繞環保局",
+            "En": "Blue 1 Bound for Jincheng pass Environmental Protection Bureau"
+        },
+        "DepartureStopNameZh": "山外車站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "金城(經太武公園、民航站)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/141/map/162/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN1511",
+        "RouteID": "1511",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN1511",
+                "SubRouteID": "1511",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "15路金烈幹線(主線) 經東林 往烈嶼",
+                    "En": "15 Route to Liehyu"
+                },
+                "Headsign": "15路金烈幹線(主線) 經東林 往烈嶼",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "15路金烈幹線(主線) 經東林 往烈嶼",
+            "En": "15 Route to Liehyu"
+        },
+        "DepartureStopNameZh": "金城",
+        "DestinationStopNameZh": "烈嶼",
+        "DestinationStopNameEn": "Leiyi",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1511/map/111/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN1512",
+        "RouteID": "1512",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN1512",
+                "SubRouteID": "1512",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "15路金烈幹線(主線) 經東林 往金城車站",
+                    "En": "15 Route to Jincheng Station"
+                },
+                "Headsign": "15路金烈幹線(主線) 經東林 往金城車站",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "15路金烈幹線(主線) 經東林 往金城車站",
+            "En": "15 Route to Jincheng Station"
+        },
+        "DepartureStopNameZh": "烈嶼",
+        "DepartureStopNameEn": "Leiyi",
+        "DestinationStopNameZh": "金城車站",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1512/map/112/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN1514",
+        "RouteID": "1514",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN1514",
+                "SubRouteID": "1514",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "15路沙美 往烈嶼經金城",
+                    "En": "15A Bound for Liehyu"
+                },
+                "Headsign": "15路沙美 往烈嶼經金城",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "15路沙美 往烈嶼經金城",
+            "En": "15A Bound for Liehyu"
+        },
+        "DepartureStopNameZh": "沙美",
+        "DepartureStopNameEn": "Shamei",
+        "DestinationStopNameZh": "烈嶼",
+        "DestinationStopNameEn": "Leiyi",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1514/map/113/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN1524",
+        "RouteID": "1524",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN1524",
+                "SubRouteID": "1524",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "15A往烈嶼 (后頭進/黃厝出)",
+                    "En": "15A pass Liehyu bound to Jincheng"
+                },
+                "Headsign": "15A往烈嶼 (后頭進/黃厝出)",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "15A往烈嶼 (后頭進/黃厝出)",
+            "En": "15A pass Liehyu bound to Jincheng"
+        },
+        "DepartureStopNameZh": "金城",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "金城",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1524/map/114/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN1525",
+        "RouteID": "1525",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN1525",
+                "SubRouteID": "1525",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "15A往烈嶼 (后頭進/黃厝出) 繞北提",
+                    "En": "15A pass Liehyu bound to Jincheng route Beiti Rd."
+                },
+                "Headsign": "15A往烈嶼 (后頭進/黃厝出) 繞北提",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "15A往烈嶼 (后頭進/黃厝出) 繞北提",
+            "En": "15A pass Liehyu bound to Jincheng route Beiti Rd."
+        },
+        "DepartureStopNameZh": "金城",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "金城",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1525/map/115/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN1533",
+        "RouteID": "1533",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN1533",
+                "SubRouteID": "1533",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "15B往烈嶼 (黃厝進/后頭出)",
+                    "En": "15B pass Liehyu bound to Jincheng"
+                },
+                "Headsign": "15B往烈嶼 (黃厝進/后頭出)",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "15B往烈嶼 (黃厝進/后頭出)",
+            "En": "15B pass Liehyu bound to Jincheng"
+        },
+        "DepartureStopNameZh": "金城",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "金城",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1533/map/116/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN1534",
+        "RouteID": "1534",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN1534",
+                "SubRouteID": "1534",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "15B往烈嶼 (黃厝進/后頭出) 繞北提",
+                    "En": "15B pass Liehyu bound to Jincheng route Beiti Rd."
+                },
+                "Headsign": "15B往烈嶼(黃厝進/后頭出) 繞北提",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "15B往烈嶼 (黃厝進/后頭出) 繞北提",
+            "En": "15B pass Liehyu bound to Jincheng route Beiti Rd."
+        },
+        "DepartureStopNameZh": "金城",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "金城",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1534/map/117/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN181",
+        "RouteID": "181",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN181",
+                "SubRouteID": "181",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "18往沙美",
+                    "En": "18 Bound for Samei skip Elderly People Recreation Center"
+                },
+                "Headsign": "18往沙美",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "18往沙美",
+            "En": "18 Bound for Samei skip Elderly People Recreation Center"
+        },
+        "DepartureStopNameZh": "山外車站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "沙美(經碧山)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/181/map/198/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN1811",
+        "RouteID": "1811",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN1811",
+                "SubRouteID": "1811",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "18往沙美不繞碧山",
+                    "En": "18 Shamei skip Bishan"
+                },
+                "Headsign": "18往沙美不繞碧山",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "18往沙美不繞碧山",
+            "En": "18 Shamei skip Bishan"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "沙美(經碧山)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1811/map/199/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN182",
+        "RouteID": "182",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN182",
+                "SubRouteID": "182",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "18往山外",
+                    "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+                },
+                "Headsign": "18往山外",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "山外(經碧山)",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/182/map/200/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN1821",
+        "RouteID": "1821",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN1821",
+                "SubRouteID": "1821",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "18往山外不繞碧山",
+                    "En": "18 Shanwai skip Bishan"
+                },
+                "Headsign": "18往山外不繞碧山",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "18往山外不繞碧山",
+            "En": "18 Shanwai skip Bishan"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DestinationStopNameZh": "山外(經碧山)",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1821/map/201/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN183",
+        "RouteID": "183",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN183",
+                "SubRouteID": "183",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "18A往沙美",
+                    "En": "18A Bound for Shamei"
+                },
+                "Headsign": "18A往沙美",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "18A往沙美",
+            "En": "18A Bound for Shamei"
+        },
+        "DepartureStopNameZh": "山外車站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "沙美(經蔡厝)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/183/map/202/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN184",
+        "RouteID": "184",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN184",
+                "SubRouteID": "184",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "18A往山外",
+                    "En": "18 Bound for Shanwai"
+                },
+                "Headsign": "18A往山外",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "18A往山外",
+            "En": "18 Bound for Shanwai"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "山外(經蔡厝)",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/184/map/203/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN191",
+        "RouteID": "191",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN191",
+                "SubRouteID": "191",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "19",
+                    "En": "19"
+                },
+                "Headsign": "19",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "19",
+            "En": "19"
+        },
+        "DepartureStopNameZh": "山外車站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "料羅、溪邊",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/191/map/204/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN192",
+        "RouteID": "192",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN192",
+                "SubRouteID": "192",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "19繞復國墩峰上",
+                    "En": "19 Fuguodun and Fengshang"
+                },
+                "Headsign": "19繞復國墩峰上",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "19繞復國墩峰上",
+            "En": "19 Fuguodun and Fengshang"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "料羅、溪邊",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/192/map/205/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN193",
+        "RouteID": "193",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN193",
+                "SubRouteID": "193",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "19繞復國墩峰上回程不繞料羅新頭",
+                    "En": "19 Fuguodun skip Liaoluo and Xintou"
+                },
+                "Headsign": "19繞復國墩峰上回程不繞料羅新頭",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "19繞復國墩峰上回程不繞料羅新頭",
+            "En": "19 Fuguodun skip Liaoluo and Xintou"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "料羅、溪邊",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/193/map/206/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN194",
+        "RouteID": "194",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN194",
+                "SubRouteID": "194",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "19繞復國墩",
+                    "En": "19 Fuguodun"
+                },
+                "Headsign": "19繞復國墩",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "19繞復國墩",
+            "En": "19 Fuguodun"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "料羅、溪邊",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/194/map/207/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN195",
+        "RouteID": "195",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN195",
+                "SubRouteID": "195",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "19不繞溪邊",
+                    "En": "19 skip Xibian"
+                },
+                "Headsign": "19不繞溪邊",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "19不繞溪邊",
+            "En": "19 skip Xibian"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "料羅、溪邊",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/195/map/208/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN196",
+        "RouteID": "196",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN196",
+                "SubRouteID": "196",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "19 繞復國墩 繞峰上 不繞西村一走承德路",
+                    "En": "19 Fuguodun skip Xicun"
+                },
+                "Headsign": "19 繞復國墩 繞峰上 不繞西村一走承德路",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "19 繞復國墩 繞峰上 不繞西村一走承德路",
+            "En": "19 Fuguodun skip Xicun"
+        },
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/196/map/209/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN197",
+        "RouteID": "197",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN197",
+                "SubRouteID": "197",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "19回程不繞料羅新頭",
+                    "En": "19 skip Liaoluo and Xintou"
+                },
+                "Headsign": "19回程不繞料羅新頭",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "19回程不繞料羅新頭",
+            "En": "19 skip Liaoluo and Xintou"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "料羅、溪邊",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/197/map/210/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN198",
+        "RouteID": "198",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN198",
+                "SubRouteID": "198",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "19 繞復國墩峰上承德路回不繞料羅新頭西村一",
+                    "En": "19 Fuguodun skip Liaoluo and Xintou and Xicun"
+                },
+                "Headsign": "19 繞復國墩 繞峰上 回程不繞料羅新頭 不繞西村一走承德路",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "19 繞復國墩峰上承德路回不繞料羅新頭西村一",
+            "En": "19 Fuguodun skip Liaoluo and Xintou and Xicun"
+        },
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/198/map/211/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN201",
+        "RouteID": "201",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN201",
+                "SubRouteID": "201",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20",
+                    "En": "20"
+                },
+                "Headsign": "20",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "20",
+            "En": "20"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "復國墩、峰上",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/201/map/212/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN202",
+        "RouteID": "202",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN202",
+                "SubRouteID": "202",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20不繞峰上",
+                    "En": "20 skip Fengshang"
+                },
+                "Headsign": "20不繞峰上",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "20不繞峰上",
+            "En": "20 skip Fengshang"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "復國墩、峰上",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/202/map/213/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN203",
+        "RouteID": "203",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN203",
+                "SubRouteID": "203",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20不繞復國墩",
+                    "En": "20 skip Fuguodun"
+                },
+                "Headsign": "20不繞復國墩",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "20不繞復國墩",
+            "En": "20 skip Fuguodun"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "復國墩、峰上",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/203/map/214/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN204",
+        "RouteID": "204",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN204",
+                "SubRouteID": "204",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20繞料羅",
+                    "En": "20 Pass Liaoluo"
+                },
+                "Headsign": "20繞料羅",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "20繞料羅",
+            "En": "20 Pass Liaoluo"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "復國墩、峰上",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/204/map/215/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN205",
+        "RouteID": "205",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN205",
+                "SubRouteID": "205",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20不繞峰上 繞料羅",
+                    "En": "20 Pass Liaoluo skip Fengshang"
+                },
+                "Headsign": "20不繞峰上 繞料羅",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "20不繞峰上 繞料羅",
+            "En": "20 Pass Liaoluo skip Fengshang"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "復國墩、峰上",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/205/map/216/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN206",
+        "RouteID": "206",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN206",
+                "SubRouteID": "206",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "20 不繞西村一走承德路",
+                    "En": "20 skip Xicun I"
+                },
+                "Headsign": "20 不繞西村一走承德路",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "20 不繞西村一走承德路",
+            "En": "20 skip Xicun I"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "復國墩、峰上",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/206/map/217/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN21",
+        "RouteID": "21",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN21",
+                "SubRouteID": "21",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "2往山外",
+                    "En": "2 Bound for Shanwai"
+                },
+                "Headsign": "2往山外",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "2往山外",
+            "En": "2 Bound for Shanwai"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "山外(經榜林、瓊林)",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/21/map/163/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN22",
+        "RouteID": "22",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN22",
+                "SubRouteID": "22",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "2往金城",
+                    "En": "2 Bound for Jincheng"
+                },
+                "Headsign": "2往金城",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "2往金城",
+            "En": "2 Bound for Jincheng"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "金城(經瓊林、榜林)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/22/map/164/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN231",
+        "RouteID": "231",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN231",
+                "SubRouteID": "231",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23",
+                    "En": "23"
+                },
+                "Headsign": "23",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+        },
+        "DepartureStopNameZh": "山外車站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "田浦",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/231/map/218/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN232",
+        "RouteID": "232",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN232",
+                "SubRouteID": "232",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "23繞林務所",
+                    "En": "23 Pass Forestry Center"
+                },
+                "Headsign": "23繞林務所",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "23繞林務所",
+            "En": "23 Pass Forestry Center"
+        },
+        "DepartureStopNameZh": "山外車站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "田浦",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/232/map/219/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN251",
+        "RouteID": "251",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN251",
+                "SubRouteID": "251",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "25幸福巴士",
+                    "En": "25 Lucky"
+                },
+                "Headsign": "25幸福巴士",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "25幸福巴士",
+            "En": "25 Lucky"
+        },
+        "DepartureStopNameZh": "山外車站",
+        "DestinationStopNameZh": "山后(經東山前)",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/251/map/149/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN252",
+        "RouteID": "252",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN252",
+                "SubRouteID": "252",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "25幸福巴士繞山后二",
+                    "En": "25 Lucky pass ShanHou2"
+                },
+                "Headsign": "25幸福巴士繞山后二",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "25幸福巴士繞山后二",
+            "En": "25 Lucky pass ShanHou2"
+        },
+        "DepartureStopNameZh": "山外車站",
+        "DestinationStopNameZh": "山后(經東山前))",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/252/map/220/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN271",
+        "RouteID": "271",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN271",
+                "SubRouteID": "271",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "27往沙美",
+                    "En": "27 Bound for Shamei "
+                },
+                "Headsign": "27往沙美",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "27往沙美",
+            "En": "27 Bound for Shamei "
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "沙美(經金剛寺)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/271/map/242/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN2711",
+        "RouteID": "2711",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN2711",
+                "SubRouteID": "2711",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "27往沙美幸福巴士繞民航站",
+                    "En": "27 Lucky Bound for Shamei extend CAAC Stop"
+                },
+                "Headsign": "27往沙美幸福巴士繞民航站",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "27往沙美幸福巴士繞民航站",
+            "En": "27 Lucky Bound for Shamei extend CAAC Stop"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "沙美(經金剛寺)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/2711/map/243/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN2712",
+        "RouteID": "2712",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN2712",
+                "SubRouteID": "2712",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "27往沙美幸福巴士",
+                    "En": "27 Lucky Bound for Shamei extend CAAC Stop"
+                },
+                "Headsign": "27往沙美幸福巴士",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "27往沙美幸福巴士",
+            "En": "27 Lucky Bound for Shamei extend CAAC Stop"
+        },
+        "DepartureStopNameZh": "山外",
+        "DepartureStopNameEn": "Shanwai",
+        "DestinationStopNameZh": "沙美站",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/2712/map/244/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN272",
+        "RouteID": "272",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN272",
+                "SubRouteID": "272",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "27往山外",
+                    "En": "27 Bound for Shanwai"
+                },
+                "Headsign": "27往山外",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "27往山外",
+            "En": "27 Bound for Shanwai"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "山外(經金剛寺)",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/272/map/245/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN2721",
+        "RouteID": "2721",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN2721",
+                "SubRouteID": "2721",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "27往山外幸福巴士繞民航站",
+                    "En": "27 Lucky Bound for Shanwai extend CAAC Stop"
+                },
+                "Headsign": "27往山外幸福巴士繞民航站",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "27往山外幸福巴士繞民航站",
+            "En": "27 Lucky Bound for Shanwai extend CAAC Stop"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "山外(經金剛寺)",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/2721/map/246/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN2722",
+        "RouteID": "2722",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN2722",
+                "SubRouteID": "2722",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "27往山外幸福巴士",
+                    "En": "27 Lucky Bound for Shanwai extend CAAC Stop"
+                },
+                "Headsign": "27往山外幸福巴士",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "27往山外幸福巴士",
+            "En": "27 Lucky Bound for Shanwai extend CAAC Stop"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "山外",
+        "DestinationStopNameEn": "Shanwai",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/2722/map/247/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN31",
+        "RouteID": "31",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN31",
+                "SubRouteID": "31",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "3往山外",
+                    "En": "3 Bound for Shanwai"
+                },
+                "Headsign": "3往山外",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "3往山外",
+            "En": "3 Bound for Shanwai"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "山外(經珠山、民航站)",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/31/map/165/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN311",
+        "RouteID": "311",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN311",
+                "SubRouteID": "311",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31",
+                    "En": "31"
+                },
+                "Headsign": "31",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "31",
+            "En": "31"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "山后(經碧山)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/311/map/142/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN3111",
+        "RouteID": "3111",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN3111",
+                "SubRouteID": "3111",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31先繞西吳",
+                    "En": "31 pass Xiwu first"
+                },
+                "Headsign": "31先繞西吳",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "31先繞西吳",
+            "En": "31 pass Xiwu first"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "山后(經碧山)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3111/map/144/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN3112",
+        "RouteID": "3112",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN3112",
+                "SubRouteID": "3112",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31先繞西吳加繞山后2",
+                    "En": "31 pass Xiwu first pass ShanHou"
+                },
+                "Headsign": "31先繞西吳加繞山后2",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "31先繞西吳加繞山后2",
+            "En": "31 pass Xiwu first pass ShanHou"
+        },
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3112/map/145/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN312",
+        "RouteID": "312",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN312",
+                "SubRouteID": "312",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31加繞山后2",
+                    "En": "31 pass ShanHou"
+                },
+                "Headsign": "31加繞山后2",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "31加繞山后2",
+            "En": "31 pass ShanHou"
+        },
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/312/map/143/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN3121",
+        "RouteID": "3121",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN3121",
+                "SubRouteID": "3121",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "31幸福巴士",
+                    "En": "31 Lucky"
+                },
+                "Headsign": "31幸福巴士",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "31幸福巴士",
+            "En": "31 Lucky"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "沙美站",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3121/map/137/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN314",
+        "RouteID": "314",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN314",
+                "SubRouteID": "314",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "3往山外不繞民航站",
+                    "En": "3 Bound for Shanwai skip Jinhu Health Center and CAAC"
+                },
+                "Headsign": "3往山外不繞民航站",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "3往山外不繞民航站",
+            "En": "3 Bound for Shanwai skip Jinhu Health Center and CAAC"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "山外(經珠山、民航站)",
+        "DestinationStopNameEn": "Shanwai Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/314/map/167/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN32",
+        "RouteID": "32",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN32",
+                "SubRouteID": "32",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "3往金城",
+                    "En": "3 Bound for Jincheng"
+                },
+                "Headsign": "3往金城",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "3往金城",
+            "En": "3 Bound for Jincheng"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "金城(經民航站、珠山)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/32/map/166/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN321",
+        "RouteID": "321",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN321",
+                "SubRouteID": "321",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32",
+                    "En": "32"
+                },
+                "Headsign": "32",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "32",
+            "En": "32"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "青嶼(經馬山)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/321/map/146/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN3211",
+        "RouteID": "3211",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN3211",
+                "SubRouteID": "3211",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32不繞馬山",
+                    "En": "32 skip Ma Mountain"
+                },
+                "Headsign": "32不繞馬山",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "32不繞馬山",
+            "En": "32 skip Ma Mountain"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "青嶼(經馬山)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3211/map/147/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN3212",
+        "RouteID": "3212",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN3212",
+                "SubRouteID": "3212",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32繞山西不繞馬山",
+                    "En": "32 pass Shanxi skip Ma Mountain"
+                },
+                "Headsign": "32繞山西不繞馬山",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "32繞山西不繞馬山",
+            "En": "32 pass Shanxi skip Ma Mountain"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DestinationStopNameZh": "青嶼(經馬山)",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3212/map/148/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN3213",
+        "RouteID": "3213",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN3213",
+                "SubRouteID": "3213",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32幸福巴士",
+                    "En": "32 Lucky"
+                },
+                "Headsign": "32幸福巴士",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "32幸福巴士",
+            "En": "32 Lucky"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "沙美站",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3213/map/138/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN3214",
+        "RouteID": "3214",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN3214",
+                "SubRouteID": "3214",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "32幸福巴士繞山后",
+                    "En": "32 Lucky pass ShanHou"
+                },
+                "Headsign": "32幸福巴士繞山后",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "32幸福巴士繞山后",
+            "En": "32 Lucky pass ShanHou"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "沙美站",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3214/map/139/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN324",
+        "RouteID": "324",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN324",
+                "SubRouteID": "324",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "3往金城不繞民航站",
+                    "En": "3 Bound for Jincheng skip Jinhu Health Center and CAAC"
+                },
+                "Headsign": "3往金城不繞民航站",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "3往金城不繞民航站",
+            "En": "3 Bound for Jincheng skip Jinhu Health Center and CAAC"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DepartureStopNameEn": "Shanwai Station",
+        "DestinationStopNameZh": "金城(經民航站、珠山)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/324/map/168/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN331",
+        "RouteID": "331",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN331",
+                "SubRouteID": "331",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "33幸福巴士",
+                    "En": "33 Lucky"
+                },
+                "Headsign": "33幸福巴士",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "33幸福巴士",
+            "En": "33 Lucky"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "田浦",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/331/map/250/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN351",
+        "RouteID": "351",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN351",
+                "SubRouteID": "351",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "35路山烈線(經金城) 往烈嶼",
+                    "En": "35 Route to Liehyu"
+                },
+                "Headsign": "35路山烈線(經金城) 往烈嶼",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "35路山烈線(經金城) 往烈嶼",
+            "En": "35 Route to Liehyu"
+        },
+        "DepartureStopNameZh": "山外車站",
+        "DestinationStopNameZh": "烈嶼",
+        "DestinationStopNameEn": "Leiyi",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/351/map/118/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN352",
+        "RouteID": "352",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN352",
+                "SubRouteID": "352",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "35路山烈線(經金城) 往山外",
+                    "En": "35 Route to Shanwai Station"
+                },
+                "Headsign": "35路山烈線(經金城) 往山外",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "35路山烈線(經金城) 往山外",
+            "En": "35 Route to Shanwai Station"
+        },
+        "DepartureStopNameZh": "烈嶼",
+        "DepartureStopNameEn": "Leiyi",
+        "DestinationStopNameZh": "山外車站",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/352/map/119/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN364",
+        "RouteID": "364",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN364",
+                "SubRouteID": "364",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "36路山烈線(經金寧)往山外",
+                    "En": "36 Route to Shanwai Station"
+                },
+                "Headsign": "36路山烈線(經金寧)往山外",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "36路山烈線(經金寧)往山外",
+            "En": "36 Route to Shanwai Station"
+        },
+        "DepartureStopNameZh": "烈嶼",
+        "DepartureStopNameEn": "Leiyi",
+        "DestinationStopNameZh": "山外",
+        "DestinationStopNameEn": "Shanwai",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/364/map/120/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN371",
+        "RouteID": "371",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN371",
+                "SubRouteID": "371",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "37路北南線",
+                    "En": "37 Route North South Line"
+                },
+                "Headsign": "37路北南線",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "37路北南線",
+            "En": "37 Route North South Line"
+        },
+        "DepartureStopNameZh": "烈嶼",
+        "DepartureStopNameEn": "Leiyi",
+        "DestinationStopNameZh": "烈嶼",
+        "DestinationStopNameEn": "Leiyi",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/371/map/121/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN381",
+        "RouteID": "381",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN381",
+                "SubRouteID": "381",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "38路南北線",
+                    "En": "38 South North Line"
+                },
+                "Headsign": "38路南北線",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "38路南北線",
+            "En": "38 South North Line"
+        },
+        "DepartureStopNameZh": "烈嶼",
+        "DepartureStopNameEn": "Leiyi",
+        "DestinationStopNameZh": "烈嶼",
+        "DestinationStopNameEn": "Leiyi",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/381/map/122/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN51",
+        "RouteID": "51",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN51",
+                "SubRouteID": "51",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往沙美",
+                    "En": "5 Bound for Shamei"
+                },
+                "Headsign": "5往沙美",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往沙美",
+            "En": "5 Bound for Shamei"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "沙美(經高坑、斗門)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/51/map/221/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN511",
+        "RouteID": "511",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN511",
+                "SubRouteID": "511",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往沙美不繞地政局",
+                    "En": "5 Bound for Samei skip Land Administration Bureau"
+                },
+                "Headsign": "5往沙美不繞地政局",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往沙美不繞地政局",
+            "En": "5 Bound for Samei skip Land Administration Bureau"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "沙美(經高坑、斗門)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/511/map/222/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN512",
+        "RouteID": "512",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN512",
+                "SubRouteID": "512",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往沙美行駛環島北路不繞后沙地政局",
+                    "En": "5 Bound for Samei(Huandao N. Rd.)"
+                },
+                "Headsign": "5往沙美行駛環島北路不繞后沙不繞地政局",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往沙美行駛環島北路不繞后沙地政局",
+            "En": "5 Bound for Samei(Huandao N. Rd.)"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "沙美(經高坑、斗門)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/512/map/223/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN515",
+        "RouteID": "515",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN515",
+                "SubRouteID": "515",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往沙美不繞地政局 不繞后沙",
+                    "En": "5 Bound for Shamei(Huandao N. Rd.) skip Land Administration Bureau skip Housha"
+                },
+                "Headsign": "5往沙美不繞地政局 不繞后沙",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往沙美不繞地政局 不繞后沙",
+            "En": "5 Bound for Shamei(Huandao N. Rd.) skip Land Administration Bureau skip Housha"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "沙美(經高坑、斗門)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/515/map/225/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN516",
+        "RouteID": "516",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN516",
+                "SubRouteID": "516",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往沙美不繞后沙地政局繞高坑",
+                    "En": "5 Bound for Samei(Huandao N. Rd.)"
+                },
+                "Headsign": "5往沙美不繞后沙地政局繞高坑",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往沙美不繞后沙地政局繞高坑",
+            "En": "5 Bound for Samei(Huandao N. Rd.)"
+        },
+        "DepartureStopNameZh": "金城",
+        "DepartureStopNameEn": "Jincheng",
+        "DestinationStopNameZh": "沙美",
+        "DestinationStopNameEn": "Samei",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/516/map/224/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN52",
+        "RouteID": "52",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN52",
+                "SubRouteID": "52",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往金城",
+                    "En": "5 Bound for Jincheng"
+                },
+                "Headsign": "5往金城",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往金城",
+            "En": "5 Bound for Jincheng"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "金城(經斗門、高坑)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/52/map/226/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN521",
+        "RouteID": "521",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN521",
+                "SubRouteID": "521",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往金城不繞地政局",
+                    "En": "5 Bound for Jincheng skip Land Administration Bureau"
+                },
+                "Headsign": "5往金城不繞地政局",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往金城不繞地政局",
+            "En": "5 Bound for Jincheng skip Land Administration Bureau"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "金城(經斗門、高坑)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/521/map/227/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN522",
+        "RouteID": "522",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN522",
+                "SubRouteID": "522",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往金城行駛環島北路不繞后沙地政局",
+                    "En": "5 Bound for Jincheng(Huandao N. Rd.)"
+                },
+                "Headsign": "5往金城行駛環島北路不繞后沙地政局",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往金城行駛環島北路不繞后沙地政局",
+            "En": "5 Bound for Jincheng(Huandao N. Rd.)"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "金城(經斗門、高坑)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/522/map/228/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN524",
+        "RouteID": "524",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN524",
+                "SubRouteID": "524",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往金城行駛環島北路不繞后沙浦邊",
+                    "En": "5 Bound for Jincheng pass Huandao N. Rd. skip Housha  and Pubian"
+                },
+                "Headsign": "5往金城行駛環島北路不繞后沙浦邊",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往金城行駛環島北路不繞后沙浦邊",
+            "En": "5 Bound for Jincheng pass Huandao N. Rd. skip Housha  and Pubian"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "金城(經斗門、高坑)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/524/map/229/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN525",
+        "RouteID": "525",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN525",
+                "SubRouteID": "525",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往金城行駛環島北路",
+                    "En": "5 Bound for Jincheng(Huandao N. Rd.)"
+                },
+                "Headsign": "5往金城行駛環島北路",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往金城行駛環島北路",
+            "En": "5 Bound for Jincheng(Huandao N. Rd.)"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "金城(經斗門、高坑)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/525/map/230/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN526",
+        "RouteID": "526",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN526",
+                "SubRouteID": "526",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往金城行駛環島北路不繞地政局",
+                    "En": "5 Bound for Samei(Huandao N. Rd.)"
+                },
+                "Headsign": "5往金城行駛環島北路不繞地政局",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往金城行駛環島北路不繞地政局",
+            "En": "5 Bound for Samei(Huandao N. Rd.)"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "金城(經斗門、高坑)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/526/map/231/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN527",
+        "RouteID": "527",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN527",
+                "SubRouteID": "527",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5往金城行駛環島北路繞后沙地政局",
+                    "En": "5 Bound for Jincheng(Huandao N. Rd.) via Land Administration Bureau"
+                },
+                "Headsign": "5往金城行駛環島北路繞后沙地政局",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5往金城行駛環島北路繞后沙地政局",
+            "En": "5 Bound for Jincheng(Huandao N. Rd.) via Land Administration Bureau"
+        },
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/527/map/232/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN53",
+        "RouteID": "53",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN53",
+                "SubRouteID": "53",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5A往沙美",
+                    "En": "5A Bound for Shamei"
+                },
+                "Headsign": "5A往沙美",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5A往沙美",
+            "En": "5A Bound for Shamei"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "沙美(經劉澳、呂厝)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/53/map/233/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN531",
+        "RouteID": "531",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN531",
+                "SubRouteID": "531",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5A往沙美不繞后沙劉澳鶯山廟地政局",
+                    "En": "5 Bound for Shamei skip Housha Liouao and Yingshan Temple and Land Administration Bureau"
+                },
+                "Headsign": "5A往沙美不繞后沙劉澳鶯山廟地政局",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5A往沙美不繞后沙劉澳鶯山廟地政局",
+            "En": "5 Bound for Shamei skip Housha Liouao and Yingshan Temple and Land Administration Bureau"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "沙美(經劉澳、呂厝)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/531/map/234/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN532",
+        "RouteID": "532",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN532",
+                "SubRouteID": "532",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5A往沙美不繞后沙",
+                    "En": "5A Bound for Shamei skip Housha "
+                },
+                "Headsign": "5A往沙美不繞后沙",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5A往沙美不繞后沙",
+            "En": "5A Bound for Shamei skip Housha "
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "沙美(經劉澳、呂厝)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/532/map/235/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN535",
+        "RouteID": "535",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN535",
+                "SubRouteID": "535",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5A往沙美 繞何厝保安殿",
+                    "En": "5A Bound for Shamei pass HeCuoBaoAnDian"
+                },
+                "Headsign": "5A往沙美 繞何厝保安殿",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5A往沙美 繞何厝保安殿",
+            "En": "5A Bound for Shamei pass HeCuoBaoAnDian"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "沙美(經劉澳、呂厝)",
+        "DestinationStopNameEn": "Shamei Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/535/map/236/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN54",
+        "RouteID": "54",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN54",
+                "SubRouteID": "54",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5A往金城",
+                    "En": "5A Bound for Jincheng"
+                },
+                "Headsign": "5A往金城",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5A往金城",
+            "En": "5A Bound for Jincheng"
+        },
+        "DestinationStopNameZh": "金城(經呂厝、劉澳)",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/54/map/237/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN541",
+        "RouteID": "541",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN541",
+                "SubRouteID": "541",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5A往金城不繞劉澳鶯山廟地政局",
+                    "En": "5 Bound for Jincheng skip Liouao and Yingshan Temple and Land Administration Bureau"
+                },
+                "Headsign": "5A往金城不繞劉澳鶯山廟地政局",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5A往金城不繞劉澳鶯山廟地政局",
+            "En": "5 Bound for Jincheng skip Liouao and Yingshan Temple and Land Administration Bureau"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "金城(經呂厝、劉澳)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/541/map/238/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN542",
+        "RouteID": "542",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN542",
+                "SubRouteID": "542",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5A往金城不繞劉澳鶯山廟后沙地政局",
+                    "En": "5A Bound for Jincheng skip Liouao and Yingshan Temple and Housha  and Land Administration Bureau"
+                },
+                "Headsign": "5A往金城不繞劉澳鶯山廟后沙地政局",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5A往金城不繞劉澳鶯山廟后沙地政局",
+            "En": "5A Bound for Jincheng skip Liouao and Yingshan Temple and Housha  and Land Administration Bureau"
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "金城(經呂厝、劉澳)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/542/map/239/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN544",
+        "RouteID": "544",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN544",
+                "SubRouteID": "544",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5A往金城不繞后沙",
+                    "En": "5A Bound for Jincheng skip Housha "
+                },
+                "Headsign": "5A往金城不繞后沙",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5A往金城不繞后沙",
+            "En": "5A Bound for Jincheng skip Housha "
+        },
+        "DepartureStopNameZh": "沙美站",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "金城(經呂厝、劉澳)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/544/map/240/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN545",
+        "RouteID": "545",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN545",
+                "SubRouteID": "545",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "5A往金城 繞何厝保安殿",
+                    "En": "5A Bound for Jincheng pass HeCuoBaoAnDian"
+                },
+                "Headsign": "5A往金城 繞何厝保安殿",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "5A往金城 繞何厝保安殿",
+            "En": "5A Bound for Jincheng pass HeCuoBaoAnDian"
+        },
+        "DepartureStopNameZh": "沙美",
+        "DepartureStopNameEn": "Shamei Station",
+        "DestinationStopNameZh": "金城(經呂厝、劉澳)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/545/map/241/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN61",
+        "RouteID": "61",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN61",
+                "SubRouteID": "61",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "6",
+                    "En": "6"
+                },
+                "Headsign": "6",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "6",
+            "En": "6"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "金門城(先經官裡)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/61/map/190/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN611",
+        "RouteID": "611",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN611",
+                "SubRouteID": "611",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "6去程繞城區",
+                    "En": "6 Pass Shuitou Village skip Zhaishan Tunnel"
+                },
+                "Headsign": "6去程繞城區",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "6去程繞城區",
+            "En": "6 Pass Shuitou Village skip Zhaishan Tunnel"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "金門城(先經官裡)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/611/map/191/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN612",
+        "RouteID": "612",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN612",
+                "SubRouteID": "612",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "6不繞翟山坑道",
+                    "En": "18 Bound for Jincheng skip Zhaishan Tunnel"
+                },
+                "Headsign": "6不繞翟山坑道",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "6不繞翟山坑道",
+            "En": "18 Bound for Jincheng skip Zhaishan Tunnel"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "金門城(先經官裡)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/612/map/192/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN613",
+        "RouteID": "613",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN613",
+                "SubRouteID": "613",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "6去程北堤路經浯江橋 回程繞城區",
+                    "En": "6 Go Pass Beiti Road and Qijiang Bridge Back Pass City Area"
+                },
+                "Headsign": "6去程北堤路經浯江橋 回程繞城區",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "6去程北堤路經浯江橋 回程繞城區",
+            "En": "6 Go Pass Beiti Road and Qijiang Bridge Back Pass City Area"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "金門城(先經官裡)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/613/map/193/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN62",
+        "RouteID": "62",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN62",
+                "SubRouteID": "62",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "6A",
+                    "En": "6A"
+                },
+                "Headsign": "6A",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "6A",
+            "En": "6A"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "金門城(先經水頭)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/62/map/194/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN621",
+        "RouteID": "621",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN621",
+                "SubRouteID": "621",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "6A不繞翟山坑道",
+                    "En": "6A Skip Zhaishan Tunnel"
+                },
+                "Headsign": "6A不繞翟山坑道",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "6A不繞翟山坑道",
+            "En": "6A Skip Zhaishan Tunnel"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "金門城(先經水頭)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/621/map/195/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN711",
+        "RouteID": "711",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN711",
+                "SubRouteID": "711",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "7",
+                    "En": "7"
+                },
+                "Headsign": "7",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "水頭(經水試所)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/711/map/91/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN7111",
+        "RouteID": "7111",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN7111",
+                "SubRouteID": "7111",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "7回程繞古崗",
+                    "En": "7 return pass Gugang"
+                },
+                "Headsign": "7回程繞古崗",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "7回程繞古崗",
+            "En": "7 return pass Gugang"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "水頭(經水試所)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/7111/map/92/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN712",
+        "RouteID": "712",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN712",
+                "SubRouteID": "712",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "7A",
+                    "En": "7A"
+                },
+                "Headsign": "7A",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "7A",
+            "En": "7A"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "水頭(經夏墅)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/712/map/93/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN713",
+        "RouteID": "713",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN713",
+                "SubRouteID": "713",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "7B",
+                    "En": "7B"
+                },
+                "Headsign": "7B",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "7B",
+            "En": "7B"
+        },
+        "DepartureStopNameZh": "金城車站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "水頭(經夏墅、后豐港村內)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/713/map/110/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN81",
+        "RouteID": "81",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN81",
+                "SubRouteID": "81",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行-A線-水頭翟山線",
+                    "En": "A Route(Shuitou Zhaishan Tunnel Line)"
+                },
+                "Headsign": "台灣好行-水頭翟山線",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行-A線-水頭翟山線",
+            "En": "A Route(Shuitou Zhaishan Tunnel Line)"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DestinationStopNameZh": "金城站",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=A線",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN82",
+        "RouteID": "82",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN82",
+                "SubRouteID": "82",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行-B線-古寧頭戰場線",
+                    "En": "B Route(The Guningtou Battle Line)"
+                },
+                "Headsign": "台灣好行-古寧頭戰場線",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行-B線-古寧頭戰場線",
+            "En": "B Route(The Guningtou Battle Line)"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DestinationStopNameZh": "金城站",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=B線",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN83",
+        "RouteID": "83",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN83",
+                "SubRouteID": "83",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行-C線-獅山民俗線(週一行駛)",
+                    "En": "C Route(The Shishan Folk Culture Line)(Monday)"
+                },
+                "Headsign": "台灣好行-獅山民俗線(週一行駛)",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行-C線-獅山民俗線(週一行駛)",
+            "En": "C Route(The Shishan Folk Culture Line)(Monday)"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DestinationStopNameZh": "山外站",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=C線",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN831",
+        "RouteID": "831",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN831",
+                "SubRouteID": "831",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行-C線-獅山民俗線(週二-週日行駛)",
+                    "En": "C Route(The Shishan Folk Culture Line)(Except Monday)"
+                },
+                "Headsign": "台灣好行-獅山民俗線(週二-週日行駛)",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行-C線-獅山民俗線(週二-週日行駛)",
+            "En": "C Route(The Shishan Folk Culture Line)(Except Monday)"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DestinationStopNameZh": "山外站",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=C線",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN84",
+        "RouteID": "84",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN84",
+                "SubRouteID": "84",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行-D線-榕園太湖線",
+                    "En": "D Route(Rongyuan Taihu Line)"
+                },
+                "Headsign": "台灣好行-榕園太湖線",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行-D線-榕園太湖線",
+            "En": "D Route(Rongyuan Taihu Line)"
+        },
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=D線",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN85",
+        "RouteID": "85",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN85",
+                "SubRouteID": "85",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行-E線-風獅爺主題(上午)路線",
+                    "En": "E Route(The Wind Lion God Line)(Morning)"
+                },
+                "Headsign": "台灣好行-風獅爺主題(上午)路線",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行-E線-風獅爺主題(上午)路線",
+            "En": "E Route(The Wind Lion God Line)(Morning)"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DestinationStopNameZh": "山外站",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=E線",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN86",
+        "RouteID": "86",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN86",
+                "SubRouteID": "86",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行-E線-風獅爺主題(下午)路線",
+                    "En": "E Route(The Wind Lion God Line)(Afternoon)"
+                },
+                "Headsign": "台灣好行-風獅爺主題(下午)路線",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行-E線-風獅爺主題(下午)路線",
+            "En": "E Route(The Wind Lion God Line)(Afternoon)"
+        },
+        "DepartureStopNameZh": "山外站",
+        "DestinationStopNameZh": "山外站",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=E線",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN88",
+        "RouteID": "88",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN88",
+                "SubRouteID": "88",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行-F線-尋城趣主題線",
+                    "En": "F Route(Kinmen County Culture & Heritage)"
+                },
+                "Headsign": "台灣好行-尋城趣主題線",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行-F線-尋城趣主題線",
+            "En": "F Route(Kinmen County Culture & Heritage)"
+        },
+        "DepartureStopNameZh": "金城站",
+        "DestinationStopNameZh": "金城站",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=F線",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN881",
+        "RouteID": "881",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN881",
+                "SubRouteID": "881",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "台灣好行-G線-金門大橋烈嶼線",
+                    "En": "G Route(Kinmen Bridge & Leiyi)"
+                },
+                "Headsign": "台灣好行-G線-金門大橋烈嶼線",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "台灣好行-G線-金門大橋烈嶼線",
+            "En": "G Route(Kinmen Bridge & Leiyi)"
+        },
+        "DepartureStopNameZh": "金城",
+        "DepartureStopNameEn": "Kinchen",
+        "DestinationStopNameZh": "烈嶼",
+        "DestinationStopNameEn": "Leiyi",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=881",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN8821",
+        "RouteID": "8821",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN8821",
+                "SubRouteID": "8821",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "高職學生專車(放學)",
+                    "En": "Higher vocational "
+                },
+                "Headsign": "高職學生專車(放學)",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "高職學生專車(放學)",
+            "En": "Higher vocational "
+        },
+        "DepartureStopNameZh": "山外",
+        "DepartureStopNameEn": "Shanwai",
+        "DestinationStopNameZh": "烈嶼",
+        "DestinationStopNameEn": "Leiyi",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=15",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN8822",
+        "RouteID": "8822",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN8822",
+                "SubRouteID": "8822",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "高職學生專車(上學)",
+                    "En": "Higher vocational"
+                },
+                "Headsign": "高職學生專車(上學)",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "高職學生專車(上學)",
+            "En": "Higher vocational"
+        },
+        "DepartureStopNameZh": "烈嶼",
+        "DepartureStopNameEn": "Leiyi",
+        "DestinationStopNameZh": "山外",
+        "DestinationStopNameEn": "Shanwai",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=8822",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN89",
+        "RouteID": "89",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN89",
+                "SubRouteID": "89",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "8",
+                    "En": "8"
+                },
+                "Headsign": "8",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "8",
+            "En": "8"
+        },
+        "DepartureStopNameZh": "金城車站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "后湖(經珠山、和平新村)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/89/map/248/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN891",
+        "RouteID": "891",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN891",
+                "SubRouteID": "891",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "8繞金城市區",
+                    "En": "8 pass Jincheng "
+                },
+                "Headsign": "8繞金城市區",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "8繞金城市區",
+            "En": "8 pass Jincheng "
+        },
+        "DepartureStopNameZh": "金城車站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "后湖(經珠山、和平新村)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/891/map/249/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN91",
+        "RouteID": "91",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN91",
+                "SubRouteID": "91",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "9右繞",
+                    "En": "9"
+                },
+                "Headsign": "9右繞",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "9右繞",
+            "En": "9"
+        },
+        "DepartureStopNameZh": "金城車站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "古寧(經戰史館、慈湖)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/91/map/153/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN92",
+        "RouteID": "92",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN92",
+                "SubRouteID": "92",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "9左繞"
+                },
+                "Headsign": "9左繞",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "9左繞"
+        },
+        "DepartureStopNameZh": "金城車站",
+        "DepartureStopNameEn": "Jincheng Station",
+        "DestinationStopNameZh": "古寧(經慈湖、戰史館)",
+        "DestinationStopNameEn": "Jincheng Station",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/92/map/152/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN955",
+        "RouteID": "955",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN955",
+                "SubRouteID": "955",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃北南線",
+                    "En": "Yellow north south road"
+                },
+                "Headsign": "黃北南線",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "黃北南線",
+            "En": "Yellow north south road"
+        },
+        "DepartureStopNameZh": "烈嶼",
+        "DepartureStopNameEn": "Leiyi",
+        "DestinationStopNameZh": "烈嶼",
+        "DestinationStopNameEn": "Leiyi",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/955/map/131/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN956",
+        "RouteID": "956",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN956",
+                "SubRouteID": "956",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃南北線",
+                    "En": "Yellow south north road"
+                },
+                "Headsign": "黃南北線",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "黃南北線",
+            "En": "Yellow south north road"
+        },
+        "DepartureStopNameZh": "烈嶼",
+        "DepartureStopNameEn": "Leiyi",
+        "DestinationStopNameZh": "烈嶼",
+        "DestinationStopNameEn": "Leiyi",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/956/map/132/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN961",
+        "RouteID": "961",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN961",
+                "SubRouteID": "961",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃南路線順行",
+                    "En": "Yellow South Road anterograde"
+                },
+                "Headsign": "黃南路線順行",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "黃南路線順行",
+            "En": "Yellow South Road anterograde"
+        },
+        "DepartureStopNameZh": "烈嶼",
+        "DepartureStopNameEn": "Leiyi",
+        "DestinationStopNameZh": "烈嶼",
+        "DestinationStopNameEn": "Leiyi",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/961/map/127/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN963",
+        "RouteID": "963",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN963",
+                "SubRouteID": "963",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃南路線逆行",
+                    "En": "Yellow South Road retrograde"
+                },
+                "Headsign": "黃南路線逆行",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "黃南路線逆行",
+            "En": "Yellow South Road retrograde"
+        },
+        "DepartureStopNameZh": "烈嶼",
+        "DepartureStopNameEn": "Leiyi",
+        "DestinationStopNameZh": "烈嶼",
+        "DestinationStopNameEn": "Leiyi",
+        "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/963/map/129/image",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    },
+    {
+        "RouteUID": "KIN98",
+        "RouteID": "98",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "0001",
+                "OperatorName": {
+                    "Zh_tw": "金門",
+                    "En": "City Bus and Ferry Management Office, Kinmen County"
+                },
+                "OperatorCode": "KinmenBusFerryOffice",
+                "OperatorNo": "0807"
+            }
+        ],
+        "AuthorityID": "024",
+        "ProviderID": "013",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "KIN98",
+                "SubRouteID": "98",
+                "OperatorIDs": [
+                    "0001"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "金門醫院專車",
+                    "En": "Kinmen Hospital"
+                },
+                "Headsign": "金門醫院專車",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "金門醫院專車",
+            "En": "Kinmen Hospital"
+        },
+        "DepartureStopNameZh": "金門醫院專車",
+        "DestinationStopNameZh": "金門醫院專車",
+        "City": "KinmenCounty",
+        "CityCode": "KIN",
+        "UpdateTime": "2025-09-02T14:16:05+08:00",
+        "VersionID": 7152
+    }
+]
