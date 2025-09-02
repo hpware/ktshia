@@ -1,0 +1,1773 @@
+[
+    {
+        "PlateNumb": "322-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN1511",
+        "RouteID": "1511",
+        "RouteName": {
+            "Zh_tw": "15路金烈幹線(主線) 經東林 往烈嶼",
+            "En": "15 Route to Liehyu"
+        },
+        "SubRouteUID": "KIN1511",
+        "SubRouteID": "1511",
+        "SubRouteName": {
+            "Zh_tw": "15路金烈幹線(主線) 經東林 往烈嶼",
+            "En": "15 Route to Liehyu"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.25721667,
+            "PositionLat": 24.426845,
+            "GeoHash": "wsk4gnb28"
+        },
+        "Speed": 0,
+        "Azimuth": 346,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T08:47:42+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "328-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN13",
+        "RouteID": "13",
+        "RouteName": {
+            "Zh_tw": "藍1往山外",
+            "En": "Blue 1 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN13",
+        "SubRouteID": "13",
+        "SubRouteName": {
+            "Zh_tw": "藍1往山外",
+            "En": "Blue 1 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.41398167,
+            "PositionLat": 24.44229667,
+            "GeoHash": "wsk5n9d6t"
+        },
+        "Speed": 0,
+        "Azimuth": 343,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T14:02:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "331-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN21",
+        "RouteID": "21",
+        "RouteName": {
+            "Zh_tw": "2往山外",
+            "En": "2 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN21",
+        "SubRouteID": "21",
+        "SubRouteName": {
+            "Zh_tw": "2往山外",
+            "En": "2 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.41362667,
+            "PositionLat": 24.44222167,
+            "GeoHash": "wsk5n9d4m"
+        },
+        "Speed": 0,
+        "Azimuth": 330,
+        "DutyStatus": 1,
+        "GPSTime": "2025-08-30T21:42:18+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "350-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN831",
+        "RouteID": "831",
+        "RouteName": {
+            "Zh_tw": "台灣好行-C線-獅山民俗線(週二-週日行駛)",
+            "En": "C Route(The Shishan Folk Culture Line)(Except Monday)"
+        },
+        "SubRouteUID": "KIN831",
+        "SubRouteID": "831",
+        "SubRouteName": {
+            "Zh_tw": "台灣好行-C線-獅山民俗線(週二-週日行駛)",
+            "En": "C Route(The Shishan Folk Culture Line)(Except Monday)"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43169,
+            "PositionLat": 24.45159667,
+            "GeoHash": "wsk5ngr2f"
+        },
+        "Speed": 0,
+        "Azimuth": 339,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T08:41:48+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "351-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN82",
+        "RouteID": "82",
+        "RouteName": {
+            "Zh_tw": "台灣好行-B線-古寧頭戰場線",
+            "En": "B Route(The Guningtou Battle Line)"
+        },
+        "SubRouteUID": "KIN82",
+        "SubRouteID": "82",
+        "SubRouteName": {
+            "Zh_tw": "台灣好行-B線-古寧頭戰場線",
+            "En": "B Route(The Guningtou Battle Line)"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32177,
+            "PositionLat": 24.43240167,
+            "GeoHash": "wsk4urz31"
+        },
+        "Speed": 0,
+        "Azimuth": 348,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T17:00:38+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "352-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN11",
+        "RouteID": "11",
+        "RouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN11",
+        "SubRouteID": "11",
+        "SubRouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43151,
+            "PositionLat": 24.45150333,
+            "GeoHash": "wsk5ngr0q"
+        },
+        "Speed": 0,
+        "Azimuth": 329,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T18:25:31+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "356-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN22",
+        "RouteID": "22",
+        "RouteName": {
+            "Zh_tw": "2往金城",
+            "En": "2 Bound for Jincheng"
+        },
+        "SubRouteUID": "KIN22",
+        "SubRouteID": "22",
+        "SubRouteName": {
+            "Zh_tw": "2往金城",
+            "En": "2 Bound for Jincheng"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.322165,
+            "PositionLat": 24.43218833,
+            "GeoHash": "wsk4urxxf"
+        },
+        "Speed": 0,
+        "Azimuth": 20,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T08:40:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "357-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN182",
+        "RouteID": "182",
+        "RouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "SubRouteUID": "KIN182",
+        "SubRouteID": "182",
+        "SubRouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.41397667,
+            "PositionLat": 24.442095,
+            "GeoHash": "wsk5n9d3t"
+        },
+        "Speed": 11,
+        "Azimuth": 298,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T18:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "358-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN182",
+        "RouteID": "182",
+        "RouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "SubRouteUID": "KIN182",
+        "SubRouteID": "182",
+        "SubRouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43164833,
+            "PositionLat": 24.45187167,
+            "GeoHash": "wsk5ngr63"
+        },
+        "Speed": 0,
+        "Azimuth": 295,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T19:28:25+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "359-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN621",
+        "RouteID": "621",
+        "RouteName": {
+            "Zh_tw": "6A不繞翟山坑道",
+            "En": "6A Skip Zhaishan Tunnel"
+        },
+        "SubRouteUID": "KIN621",
+        "SubRouteID": "621",
+        "SubRouteName": {
+            "Zh_tw": "6A不繞翟山坑道",
+            "En": "6A Skip Zhaishan Tunnel"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32180667,
+            "PositionLat": 24.432255,
+            "GeoHash": "wsk4urz21"
+        },
+        "Speed": 0,
+        "Azimuth": 1,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T18:21:22+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "361-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN521",
+        "RouteID": "521",
+        "RouteName": {
+            "Zh_tw": "5往金城不繞地政局",
+            "En": "5 Bound for Jincheng skip Land Administration Bureau"
+        },
+        "SubRouteUID": "KIN521",
+        "SubRouteID": "521",
+        "SubRouteName": {
+            "Zh_tw": "5往金城不繞地政局",
+            "En": "5 Bound for Jincheng skip Land Administration Bureau"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32187833,
+            "PositionLat": 24.432215,
+            "GeoHash": "wsk4urxrg"
+        },
+        "Speed": 0,
+        "Azimuth": 30,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T21:01:48+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "362-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN14",
+        "RouteID": "14",
+        "RouteName": {
+            "Zh_tw": "藍1往金城",
+            "En": "Blue 1 Bound for Jincheng"
+        },
+        "SubRouteUID": "KIN14",
+        "SubRouteID": "14",
+        "SubRouteName": {
+            "Zh_tw": "藍1往金城",
+            "En": "Blue 1 Bound for Jincheng"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32181,
+            "PositionLat": 24.43215333,
+            "GeoHash": "wsk4urxrd"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T15:21:31+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "377-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN31",
+        "RouteID": "31",
+        "RouteName": {
+            "Zh_tw": "3往山外",
+            "En": "3 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN31",
+        "SubRouteID": "31",
+        "SubRouteName": {
+            "Zh_tw": "3往山外",
+            "En": "3 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.41389667,
+            "PositionLat": 24.44224167,
+            "GeoHash": "wsk5n9d67"
+        },
+        "Speed": 0,
+        "Azimuth": 297,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T20:35:32+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "378-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN21",
+        "RouteID": "21",
+        "RouteName": {
+            "Zh_tw": "2往山外",
+            "En": "2 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN21",
+        "SubRouteID": "21",
+        "SubRouteName": {
+            "Zh_tw": "2往山外",
+            "En": "2 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.41387833,
+            "PositionLat": 24.44224167,
+            "GeoHash": "wsk5n9d67"
+        },
+        "Speed": 0,
+        "Azimuth": 302,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T21:42:08+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "379-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN711",
+        "RouteID": "711",
+        "RouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "SubRouteUID": "KIN711",
+        "SubRouteID": "711",
+        "SubRouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32213,
+            "PositionLat": 24.43212,
+            "GeoHash": "wsk4urxx3"
+        },
+        "Speed": 0,
+        "Azimuth": 27,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T11:59:33+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "380-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN12",
+        "RouteID": "12",
+        "RouteName": {
+            "Zh_tw": "紅1往金城",
+            "En": "Red 1 Bound for Jincheng"
+        },
+        "SubRouteUID": "KIN12",
+        "SubRouteID": "12",
+        "SubRouteName": {
+            "Zh_tw": "紅1往金城",
+            "En": "Red 1 Bound for Jincheng"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32176667,
+            "PositionLat": 24.43221333,
+            "GeoHash": "wsk4urxrb"
+        },
+        "Speed": 0,
+        "Azimuth": 13,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T15:46:47+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "381-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN711",
+        "RouteID": "711",
+        "RouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "SubRouteUID": "KIN711",
+        "SubRouteID": "711",
+        "SubRouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.322175,
+            "PositionLat": 24.43216167,
+            "GeoHash": "wsk4urxxd"
+        },
+        "Speed": 0,
+        "Azimuth": 17,
+        "DutyStatus": 1,
+        "GPSTime": "2025-08-30T19:58:30+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "382-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN181",
+        "RouteID": "181",
+        "RouteName": {
+            "Zh_tw": "18往沙美",
+            "En": "18 Bound for Samei skip Elderly People Recreation Center"
+        },
+        "SubRouteUID": "KIN181",
+        "SubRouteID": "181",
+        "SubRouteName": {
+            "Zh_tw": "18往沙美",
+            "En": "18 Bound for Samei skip Elderly People Recreation Center"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.41309,
+            "PositionLat": 24.48908333,
+            "GeoHash": "wsk5qd1g2"
+        },
+        "Speed": 0,
+        "Azimuth": 303,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T18:51:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "383-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN182",
+        "RouteID": "182",
+        "RouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "SubRouteUID": "KIN182",
+        "SubRouteID": "182",
+        "SubRouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43124167,
+            "PositionLat": 24.451425,
+            "GeoHash": "wsk5ngnzz"
+        },
+        "Speed": 0,
+        "Azimuth": 317,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-01T18:32:08+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "385-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN11",
+        "RouteID": "11",
+        "RouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN11",
+        "SubRouteID": "11",
+        "SubRouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43135167,
+            "PositionLat": 24.45137167,
+            "GeoHash": "wsk5ngppd"
+        },
+        "Speed": 0,
+        "Azimuth": 259,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T09:41:03+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "387-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN84",
+        "RouteID": "84",
+        "RouteName": {
+            "Zh_tw": "台灣好行-D線-榕園太湖線",
+            "En": "D Route(Rongyuan Taihu Line)"
+        },
+        "SubRouteUID": "KIN84",
+        "SubRouteID": "84",
+        "SubRouteName": {
+            "Zh_tw": "台灣好行-D線-榕園太湖線",
+            "En": "D Route(Rongyuan Taihu Line)"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.431755,
+            "PositionLat": 24.45172833,
+            "GeoHash": "wsk5ngr3e"
+        },
+        "Speed": 0,
+        "Azimuth": 337,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T17:12:38+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "388-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN881",
+        "RouteID": "881",
+        "RouteName": {
+            "Zh_tw": "台灣好行-G線-金門大橋烈嶼線",
+            "En": "G Route(Kinmen Bridge & Leiyi)"
+        },
+        "SubRouteUID": "KIN881",
+        "SubRouteID": "881",
+        "SubRouteName": {
+            "Zh_tw": "台灣好行-G線-金門大橋烈嶼線",
+            "En": "G Route(Kinmen Bridge & Leiyi)"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.321695,
+            "PositionLat": 24.43217,
+            "GeoHash": "wsk4urxpx"
+        },
+        "Speed": 0,
+        "Azimuth": 17,
+        "DutyStatus": 1,
+        "GPSTime": "2025-08-31T13:13:33+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "389-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN192",
+        "RouteID": "192",
+        "RouteName": {
+            "Zh_tw": "19繞復國墩峰上",
+            "En": "19 Fuguodun and Fengshang"
+        },
+        "SubRouteUID": "KIN192",
+        "SubRouteID": "192",
+        "SubRouteName": {
+            "Zh_tw": "19繞復國墩峰上",
+            "En": "19 Fuguodun and Fengshang"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43125667,
+            "PositionLat": 24.45156,
+            "GeoHash": "wsk5ngr08"
+        },
+        "Speed": 0,
+        "Azimuth": 323,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T17:10:01+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "392-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN1511",
+        "RouteID": "1511",
+        "RouteName": {
+            "Zh_tw": "15路金烈幹線(主線) 經東林 往烈嶼",
+            "En": "15 Route to Liehyu"
+        },
+        "SubRouteUID": "KIN1511",
+        "SubRouteID": "1511",
+        "SubRouteName": {
+            "Zh_tw": "15路金烈幹線(主線) 經東林 往烈嶼",
+            "En": "15 Route to Liehyu"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.257085,
+            "PositionLat": 24.42707333,
+            "GeoHash": "wsk4gnb4j"
+        },
+        "Speed": 0,
+        "Azimuth": 15,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T14:30:47+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "393-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN197",
+        "RouteID": "197",
+        "RouteName": {
+            "Zh_tw": "19回程不繞料羅新頭",
+            "En": "19 skip Liaoluo and Xintou"
+        },
+        "SubRouteUID": "KIN197",
+        "SubRouteID": "197",
+        "SubRouteName": {
+            "Zh_tw": "19回程不繞料羅新頭",
+            "En": "19 skip Liaoluo and Xintou"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.431575,
+            "PositionLat": 24.45137167,
+            "GeoHash": "wsk5ngppx"
+        },
+        "Speed": 0,
+        "Azimuth": 340,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T19:41:34+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "397-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN1511",
+        "RouteID": "1511",
+        "RouteName": {
+            "Zh_tw": "15路金烈幹線(主線) 經東林 往烈嶼",
+            "En": "15 Route to Liehyu"
+        },
+        "SubRouteUID": "KIN1511",
+        "SubRouteID": "1511",
+        "SubRouteName": {
+            "Zh_tw": "15路金烈幹線(主線) 經東林 往烈嶼",
+            "En": "15 Route to Liehyu"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.25715833,
+            "PositionLat": 24.42694167,
+            "GeoHash": "wsk4gnb1p"
+        },
+        "Speed": 0,
+        "Azimuth": 199,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T20:33:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "398-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN1511",
+        "RouteID": "1511",
+        "RouteName": {
+            "Zh_tw": "15路金烈幹線(主線) 經東林 往烈嶼",
+            "En": "15 Route to Liehyu"
+        },
+        "SubRouteUID": "KIN1511",
+        "SubRouteID": "1511",
+        "SubRouteName": {
+            "Zh_tw": "15路金烈幹線(主線) 經東林 往烈嶼",
+            "En": "15 Route to Liehyu"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.25712333,
+            "PositionLat": 24.42692667,
+            "GeoHash": "wsk4gnb1n"
+        },
+        "Speed": 0,
+        "Azimuth": 88,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T18:18:21+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "500-XH",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN21",
+        "RouteID": "21",
+        "RouteName": {
+            "Zh_tw": "2往山外",
+            "En": "2 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN21",
+        "SubRouteID": "21",
+        "SubRouteName": {
+            "Zh_tw": "2往山外",
+            "En": "2 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.431955,
+            "PositionLat": 24.451,
+            "GeoHash": "wsk5ngpt2"
+        },
+        "Speed": 0,
+        "Azimuth": 170,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T19:40:20+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAA-015",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN32",
+        "RouteID": "32",
+        "RouteName": {
+            "Zh_tw": "3往金城",
+            "En": "3 Bound for Jincheng"
+        },
+        "SubRouteUID": "KIN32",
+        "SubRouteID": "32",
+        "SubRouteName": {
+            "Zh_tw": "3往金城",
+            "En": "3 Bound for Jincheng"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32196833,
+            "PositionLat": 24.43194,
+            "GeoHash": "wsk4urxqm"
+        },
+        "Speed": 0,
+        "Azimuth": 191,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T19:41:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAA-016",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN32",
+        "RouteID": "32",
+        "RouteName": {
+            "Zh_tw": "3往金城",
+            "En": "3 Bound for Jincheng"
+        },
+        "SubRouteUID": "KIN32",
+        "SubRouteID": "32",
+        "SubRouteName": {
+            "Zh_tw": "3往金城",
+            "En": "3 Bound for Jincheng"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.321595,
+            "PositionLat": 24.43181667,
+            "GeoHash": "wsk4urxjs"
+        },
+        "Speed": 0,
+        "Azimuth": 15,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-01T19:49:15+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAA-017",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN11",
+        "RouteID": "11",
+        "RouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN11",
+        "SubRouteID": "11",
+        "SubRouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.321715,
+            "PositionLat": 24.43199,
+            "GeoHash": "wsk4urxnx"
+        },
+        "Speed": 0,
+        "Azimuth": 203,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T21:05:03+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAA-018",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN711",
+        "RouteID": "711",
+        "RouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "SubRouteUID": "KIN711",
+        "SubRouteID": "711",
+        "SubRouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.3219,
+            "PositionLat": 24.432015,
+            "GeoHash": "wsk4urxqu"
+        },
+        "Speed": 0,
+        "Azimuth": 5,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T19:52:05+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAA-019",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN712",
+        "RouteID": "712",
+        "RouteName": {
+            "Zh_tw": "7A",
+            "En": "7A"
+        },
+        "SubRouteUID": "KIN712",
+        "SubRouteID": "712",
+        "SubRouteName": {
+            "Zh_tw": "7A",
+            "En": "7A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32206833,
+            "PositionLat": 24.43191,
+            "GeoHash": "wsk4urxw0"
+        },
+        "Speed": 0,
+        "Azimuth": 179,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T19:29:26+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAA-020",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN181",
+        "RouteID": "181",
+        "RouteName": {
+            "Zh_tw": "18往沙美",
+            "En": "18 Bound for Samei skip Elderly People Recreation Center"
+        },
+        "SubRouteUID": "KIN181",
+        "SubRouteID": "181",
+        "SubRouteName": {
+            "Zh_tw": "18往沙美",
+            "En": "18 Bound for Samei skip Elderly People Recreation Center"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43172833,
+            "PositionLat": 24.45122667,
+            "GeoHash": "wsk5ngpqe"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T14:40:25+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAA-022",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN11",
+        "RouteID": "11",
+        "RouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN11",
+        "SubRouteID": "11",
+        "SubRouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43162333,
+            "PositionLat": 24.45115167,
+            "GeoHash": "wsk5ngpq2"
+        },
+        "Speed": 0,
+        "Azimuth": 103,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T17:31:43+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1820",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN1524",
+        "RouteID": "1524",
+        "RouteName": {
+            "Zh_tw": "15A往烈嶼 (后頭進/黃厝出)",
+            "En": "15A pass Liehyu bound to Jincheng"
+        },
+        "SubRouteUID": "KIN1524",
+        "SubRouteID": "1524",
+        "SubRouteName": {
+            "Zh_tw": "15A往烈嶼 (后頭進/黃厝出)",
+            "En": "15A pass Liehyu bound to Jincheng"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32200167,
+            "PositionLat": 24.43215,
+            "GeoHash": "wsk4urxrw"
+        },
+        "Speed": 0,
+        "Azimuth": 169,
+        "DutyStatus": 1,
+        "GPSTime": "2025-08-31T21:46:25+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1821",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN7111",
+        "RouteID": "7111",
+        "RouteName": {
+            "Zh_tw": "7回程繞古崗",
+            "En": "7 return pass Gugang"
+        },
+        "SubRouteUID": "KIN7111",
+        "SubRouteID": "7111",
+        "SubRouteName": {
+            "Zh_tw": "7回程繞古崗",
+            "En": "7 return pass Gugang"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32174,
+            "PositionLat": 24.432005,
+            "GeoHash": "wsk4urxq8"
+        },
+        "Speed": 0,
+        "Azimuth": 174,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T21:07:05+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1822",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN184",
+        "RouteID": "184",
+        "RouteName": {
+            "Zh_tw": "18A往山外",
+            "En": "18 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN184",
+        "SubRouteID": "184",
+        "SubRouteName": {
+            "Zh_tw": "18A往山外",
+            "En": "18 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43166833,
+            "PositionLat": 24.45124833,
+            "GeoHash": "wsk5ngpqc"
+        },
+        "Speed": 0,
+        "Azimuth": 193,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T19:32:26+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1823",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN1524",
+        "RouteID": "1524",
+        "RouteName": {
+            "Zh_tw": "15A往烈嶼 (后頭進/黃厝出)",
+            "En": "15A pass Liehyu bound to Jincheng"
+        },
+        "SubRouteUID": "KIN1524",
+        "SubRouteID": "1524",
+        "SubRouteName": {
+            "Zh_tw": "15A往烈嶼 (后頭進/黃厝出)",
+            "En": "15A pass Liehyu bound to Jincheng"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32175333,
+            "PositionLat": 24.43195833,
+            "GeoHash": "wsk4urxq2"
+        },
+        "Speed": 0,
+        "Azimuth": 25,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T21:54:57+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1825",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN53",
+        "RouteID": "53",
+        "RouteName": {
+            "Zh_tw": "5A往沙美",
+            "En": "5A Bound for Shamei"
+        },
+        "SubRouteUID": "KIN53",
+        "SubRouteID": "53",
+        "SubRouteName": {
+            "Zh_tw": "5A往沙美",
+            "En": "5A Bound for Shamei"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43154333,
+            "PositionLat": 24.45128667,
+            "GeoHash": "wsk5ngppn"
+        },
+        "Speed": 0,
+        "Azimuth": 186,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T16:59:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1826",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN122",
+        "RouteID": "122",
+        "RouteName": {
+            "Zh_tw": "12左繞",
+            "En": "12 Left Run"
+        },
+        "SubRouteUID": "KIN122",
+        "SubRouteID": "122",
+        "SubRouteName": {
+            "Zh_tw": "12左繞",
+            "En": "12 Left Run"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.3216,
+            "PositionLat": 24.432045,
+            "GeoHash": "wsk4urxnv"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T21:52:52+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1828",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN711",
+        "RouteID": "711",
+        "RouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "SubRouteUID": "KIN711",
+        "SubRouteID": "711",
+        "SubRouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32194333,
+            "PositionLat": 24.431885,
+            "GeoHash": "wsk4urxqj"
+        },
+        "Speed": 0,
+        "Azimuth": 318,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-01T11:56:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1829",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN182",
+        "RouteID": "182",
+        "RouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "SubRouteUID": "KIN182",
+        "SubRouteID": "182",
+        "SubRouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43186167,
+            "PositionLat": 24.45100833,
+            "GeoHash": "wsk5ngpmq"
+        },
+        "Speed": 0,
+        "Azimuth": 85,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T18:33:04+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1830",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN11",
+        "RouteID": "11",
+        "RouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN11",
+        "SubRouteID": "11",
+        "SubRouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43189667,
+            "PositionLat": 24.45106167,
+            "GeoHash": "wsk5ngpmz"
+        },
+        "Speed": 0,
+        "Azimuth": 230,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T19:18:48+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1831",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN231",
+        "RouteID": "231",
+        "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+        },
+        "SubRouteUID": "KIN231",
+        "SubRouteID": "231",
+        "SubRouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43149667,
+            "PositionLat": 24.45122667,
+            "GeoHash": "wsk5ngpnt"
+        },
+        "Speed": 0,
+        "Azimuth": 118,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T19:09:58+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1832",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN182",
+        "RouteID": "182",
+        "RouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "SubRouteUID": "KIN182",
+        "SubRouteID": "182",
+        "SubRouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43177167,
+            "PositionLat": 24.45094167,
+            "GeoHash": "wsk5ngpmh"
+        },
+        "Speed": 0,
+        "Azimuth": 269,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-01T19:27:28+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "KKB-0601",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN711",
+        "RouteID": "711",
+        "RouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "SubRouteUID": "KIN711",
+        "SubRouteID": "711",
+        "SubRouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32176333,
+            "PositionLat": 24.43236333,
+            "GeoHash": "wsk4urz2b"
+        },
+        "Speed": 0,
+        "Azimuth": 171,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T17:09:30+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "KKB-0602",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN12",
+        "RouteID": "12",
+        "RouteName": {
+            "Zh_tw": "紅1往金城",
+            "En": "Red 1 Bound for Jincheng"
+        },
+        "SubRouteUID": "KIN12",
+        "SubRouteID": "12",
+        "SubRouteName": {
+            "Zh_tw": "紅1往金城",
+            "En": "Red 1 Bound for Jincheng"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32183167,
+            "PositionLat": 24.43232333,
+            "GeoHash": "wsk4urz2d"
+        },
+        "Speed": 0,
+        "Azimuth": 14,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T21:19:24+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "KKB-0603",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN21",
+        "RouteID": "21",
+        "RouteName": {
+            "Zh_tw": "2往山外",
+            "En": "2 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN21",
+        "SubRouteID": "21",
+        "SubRouteName": {
+            "Zh_tw": "2往山外",
+            "En": "2 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.41389333,
+            "PositionLat": 24.44226,
+            "GeoHash": "wsk5n9d67"
+        },
+        "Speed": 0,
+        "Azimuth": 300,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T21:12:02+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "KKB-0606",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN191",
+        "RouteID": "191",
+        "RouteName": {
+            "Zh_tw": "19",
+            "En": "19"
+        },
+        "SubRouteUID": "KIN191",
+        "SubRouteID": "191",
+        "SubRouteName": {
+            "Zh_tw": "19",
+            "En": "19"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43137667,
+            "PositionLat": 24.45131,
+            "GeoHash": "wsk5ngpp5"
+        },
+        "Speed": 0,
+        "Azimuth": 299,
+        "DutyStatus": 1,
+        "GPSTime": "2025-08-31T12:36:35+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "KKB-0607",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN182",
+        "RouteID": "182",
+        "RouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "SubRouteUID": "KIN182",
+        "SubRouteID": "182",
+        "SubRouteName": {
+            "Zh_tw": "18往山外",
+            "En": "18 Bound for Shanwai skip Elderly People Recreation Center"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.41354833,
+            "PositionLat": 24.44223,
+            "GeoHash": "wsk5n9d47"
+        },
+        "Speed": 13,
+        "Azimuth": 194,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T14:34:23+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "KKB-0609",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN11",
+        "RouteID": "11",
+        "RouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "SubRouteUID": "KIN11",
+        "SubRouteID": "11",
+        "SubRouteName": {
+            "Zh_tw": "紅1往山外",
+            "En": "Red 1 Bound for Shanwai"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.32184833,
+            "PositionLat": 24.43223333,
+            "GeoHash": "wsk4urz24"
+        },
+        "Speed": 0,
+        "Azimuth": 120,
+        "DutyStatus": 1,
+        "GPSTime": "2025-08-29T06:54:51+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "KKZ-8291",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN2721",
+        "RouteID": "2721",
+        "RouteName": {
+            "Zh_tw": "27往山外幸福巴士繞民航站",
+            "En": "27 Lucky Bound for Shanwai extend CAAC Stop"
+        },
+        "SubRouteUID": "KIN2721",
+        "SubRouteID": "2721",
+        "SubRouteName": {
+            "Zh_tw": "27往山外幸福巴士繞民航站",
+            "En": "27 Lucky Bound for Shanwai extend CAAC Stop"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.41319667,
+            "PositionLat": 24.44215667,
+            "GeoHash": "wsk5n99cg"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T14:55:27+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "KKZ-8292",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN251",
+        "RouteID": "251",
+        "RouteName": {
+            "Zh_tw": "25幸福巴士",
+            "En": "25 Lucky"
+        },
+        "SubRouteUID": "KIN251",
+        "SubRouteID": "251",
+        "SubRouteName": {
+            "Zh_tw": "25幸福巴士",
+            "En": "25 Lucky"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43201,
+            "PositionLat": 24.45102167,
+            "GeoHash": "wsk5ngpt9"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T16:23:06+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "KKZ-8293",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN251",
+        "RouteID": "251",
+        "RouteName": {
+            "Zh_tw": "25幸福巴士",
+            "En": "25 Lucky"
+        },
+        "SubRouteUID": "KIN251",
+        "SubRouteID": "251",
+        "SubRouteName": {
+            "Zh_tw": "25幸福巴士",
+            "En": "25 Lucky"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.431905,
+            "PositionLat": 24.45093667,
+            "GeoHash": "wsk5ngpmp"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-01T16:25:50+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "KKZ-8295",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN3214",
+        "RouteID": "3214",
+        "RouteName": {
+            "Zh_tw": "32幸福巴士繞山后",
+            "En": "32 Lucky pass ShanHou"
+        },
+        "SubRouteUID": "KIN3214",
+        "SubRouteID": "3214",
+        "SubRouteName": {
+            "Zh_tw": "32幸福巴士繞山后",
+            "En": "32 Lucky pass ShanHou"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.41300167,
+            "PositionLat": 24.48890833,
+            "GeoHash": "wsk5qd1dn"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T19:31:40+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "KKZ-8296",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN331",
+        "RouteID": "331",
+        "RouteName": {
+            "Zh_tw": "33幸福巴士",
+            "En": "33 Lucky"
+        },
+        "SubRouteUID": "KIN331",
+        "SubRouteID": "331",
+        "SubRouteName": {
+            "Zh_tw": "33幸福巴士",
+            "En": "33 Lucky"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43211333,
+            "PositionLat": 24.45095667,
+            "GeoHash": "wsk5ngpth"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T16:26:28+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "TDA-0136",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN961",
+        "RouteID": "961",
+        "RouteName": {
+            "Zh_tw": "黃南路線順行",
+            "En": "Yellow South Road anterograde"
+        },
+        "SubRouteUID": "KIN961",
+        "SubRouteID": "961",
+        "SubRouteName": {
+            "Zh_tw": "黃南路線順行",
+            "En": "Yellow South Road anterograde"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.25704167,
+            "PositionLat": 24.42685667,
+            "GeoHash": "wsk4gnb0u"
+        },
+        "Speed": 1,
+        "Azimuth": 87,
+        "DutyStatus": 1,
+        "GPSTime": "2025-08-31T16:23:34+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "TDG-8137",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN961",
+        "RouteID": "961",
+        "RouteName": {
+            "Zh_tw": "黃南路線順行",
+            "En": "Yellow South Road anterograde"
+        },
+        "SubRouteUID": "KIN961",
+        "SubRouteID": "961",
+        "SubRouteName": {
+            "Zh_tw": "黃南路線順行",
+            "En": "Yellow South Road anterograde"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.257105,
+            "PositionLat": 24.42691333,
+            "GeoHash": "wsk4gnb1n"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-01T16:31:36+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "TDG-8150",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN961",
+        "RouteID": "961",
+        "RouteName": {
+            "Zh_tw": "黃南路線順行",
+            "En": "Yellow South Road anterograde"
+        },
+        "SubRouteUID": "KIN961",
+        "SubRouteID": "961",
+        "SubRouteName": {
+            "Zh_tw": "黃南路線順行",
+            "En": "Yellow South Road anterograde"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.24838167,
+            "PositionLat": 24.42780167,
+            "GeoHash": "wsk4fycy7"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T16:49:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "VU-118",
+        "OperatorID": "0001",
+        "OperatorNo": "0807",
+        "RouteUID": "KIN183",
+        "RouteID": "183",
+        "RouteName": {
+            "Zh_tw": "18A往沙美",
+            "En": "18A Bound for Shamei"
+        },
+        "SubRouteUID": "KIN183",
+        "SubRouteID": "183",
+        "SubRouteName": {
+            "Zh_tw": "18A往沙美",
+            "En": "18A Bound for Shamei"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 118.43202833,
+            "PositionLat": 24.451275,
+            "GeoHash": "wsk5ngpx4"
+        },
+        "Speed": 0,
+        "Azimuth": 191,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-01T08:57:22+08:00",
+        "SrcUpdateTime": "2025-09-02T22:17:32+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    }
+]

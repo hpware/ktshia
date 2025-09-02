@@ -1,0 +1,386 @@
+[
+    {
+        "PlateNumb": "KKB-8150",
+        "OperatorID": "129",
+        "OperatorNo": "1207",
+        "RouteUID": "PEN0167",
+        "RouteID": "0167",
+        "RouteName": {
+            "Zh_tw": "004",
+            "En": "004"
+        },
+        "SubRouteUID": "PEN016702",
+        "SubRouteID": "016702",
+        "SubRouteName": {
+            "Zh_tw": "004",
+            "En": "004"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 119.5737,
+            "PositionLat": 23.56752,
+            "GeoHash": "wsjn0fqfv"
+        },
+        "Speed": 52,
+        "Azimuth": 43,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:17:40+08:00",
+        "SrcRecTime": "2025-09-02T22:17:39+08:00",
+        "SrcTransTime": "2025-09-02T22:17:39+08:00",
+        "UpdateTime": "2025-09-02T22:17:42+08:00"
+    },
+    {
+        "PlateNumb": "987-FQ",
+        "OperatorID": "78",
+        "OperatorNo": "1501",
+        "RouteUID": "PEN0758",
+        "RouteID": "0758",
+        "RouteName": {
+            "Zh_tw": "21",
+            "En": "21"
+        },
+        "SubRouteUID": "PEN0758K1",
+        "SubRouteID": "0758K1",
+        "SubRouteName": {
+            "Zh_tw": "21K",
+            "En": "21K"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 119.536178333333,
+            "PositionLat": 23.6363,
+            "GeoHash": "wsjn2nge6"
+        },
+        "Speed": 32,
+        "Azimuth": 236,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:17:33+08:00",
+        "SrcRecTime": "2025-09-02T22:17:33+08:00",
+        "SrcTransTime": "2025-09-02T22:17:33+08:00",
+        "UpdateTime": "2025-09-02T22:17:37+08:00"
+    },
+    {
+        "PlateNumb": "001-V2",
+        "OperatorID": "78",
+        "OperatorNo": "1501",
+        "RouteUID": "PEN0777",
+        "RouteID": "0777",
+        "RouteName": {
+            "Zh_tw": "51",
+            "En": "51"
+        },
+        "SubRouteUID": "PEN0777K1",
+        "SubRouteID": "0777K1",
+        "SubRouteName": {
+            "Zh_tw": "51K",
+            "En": "51K"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 119.569405,
+            "PositionLat": 23.52512,
+            "GeoHash": "wsjjbfegc"
+        },
+        "Speed": 48,
+        "Azimuth": 293,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:17:29+08:00",
+        "SrcRecTime": "2025-09-02T22:17:29+08:00",
+        "SrcTransTime": "2025-09-02T22:17:29+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "998-FQ",
+        "OperatorID": "78",
+        "OperatorNo": "1501",
+        "RouteUID": "PEN0798",
+        "RouteID": "0798",
+        "RouteName": {
+            "Zh_tw": "25",
+            "En": "25"
+        },
+        "SubRouteUID": "PEN079802",
+        "SubRouteID": "079802",
+        "SubRouteName": {
+            "Zh_tw": "25",
+            "En": "25"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 119.599791666667,
+            "PositionLat": 23.6503366666667,
+            "GeoHash": "wsjn993vj"
+        },
+        "Speed": 52,
+        "Azimuth": 191,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:17:31+08:00",
+        "SrcRecTime": "2025-09-02T22:17:31+08:00",
+        "SrcTransTime": "2025-09-02T22:17:31+08:00",
+        "UpdateTime": "2025-09-02T22:17:32+08:00"
+    },
+    {
+        "PlateNumb": "988-FQ",
+        "OperatorID": "78",
+        "OperatorNo": "1501",
+        "RouteUID": "PEN0774",
+        "RouteID": "0774",
+        "RouteName": {
+            "Zh_tw": "31",
+            "En": "31"
+        },
+        "SubRouteUID": "PEN0774I1",
+        "SubRouteID": "0774I1",
+        "SubRouteName": {
+            "Zh_tw": "31I",
+            "En": "31I"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 119.594558333333,
+            "PositionLat": 23.5611966666667,
+            "GeoHash": "wsjn13njg"
+        },
+        "Speed": 39,
+        "Azimuth": 303,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:17:22+08:00",
+        "SrcRecTime": "2025-09-02T22:17:22+08:00",
+        "SrcTransTime": "2025-09-02T22:17:22+08:00",
+        "UpdateTime": "2025-09-02T22:17:27+08:00"
+    },
+    {
+        "PlateNumb": "011-V2",
+        "OperatorID": "78",
+        "OperatorNo": "1501",
+        "RouteUID": "PEN0767",
+        "RouteID": "0767",
+        "RouteName": {
+            "Zh_tw": "32",
+            "En": "32"
+        },
+        "SubRouteUID": "PEN0767J1",
+        "SubRouteID": "0767J1",
+        "SubRouteName": {
+            "Zh_tw": "32J",
+            "En": "32J"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 119.571936666667,
+            "PositionLat": 23.569865,
+            "GeoHash": "wsjn0fv8k"
+        },
+        "Speed": 17,
+        "Azimuth": 91,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:03:04+08:00",
+        "SrcRecTime": "2025-09-02T22:03:04+08:00",
+        "SrcTransTime": "2025-09-02T22:03:04+08:00",
+        "UpdateTime": "2025-09-02T22:03:07+08:00"
+    },
+    {
+        "PlateNumb": "010-V2",
+        "OperatorID": "78",
+        "OperatorNo": "1501",
+        "RouteUID": "PEN0777",
+        "RouteID": "0777",
+        "RouteName": {
+            "Zh_tw": "51",
+            "En": "51"
+        },
+        "SubRouteUID": "PEN0777J2",
+        "SubRouteID": "0777J2",
+        "SubRouteName": {
+            "Zh_tw": "51J",
+            "En": "51J"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 119.571208333333,
+            "PositionLat": 23.56993,
+            "GeoHash": "wsjn0fv0g"
+        },
+        "Speed": 0,
+        "Azimuth": 275,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:48:57+08:00",
+        "SrcRecTime": "2025-09-02T21:48:57+08:00",
+        "SrcTransTime": "2025-09-02T21:48:57+08:00",
+        "UpdateTime": "2025-09-02T21:49:02+08:00"
+    },
+    {
+        "PlateNumb": "995-FQ",
+        "OperatorID": "78",
+        "OperatorNo": "1501",
+        "RouteUID": "PEN0766",
+        "RouteID": "0766",
+        "RouteName": {
+            "Zh_tw": "23",
+            "En": "23"
+        },
+        "SubRouteUID": "PEN0766H2",
+        "SubRouteID": "0766H2",
+        "SubRouteName": {
+            "Zh_tw": "23H",
+            "En": "23H"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 119.573085,
+            "PositionLat": 23.5698783333333,
+            "GeoHash": "wsjn0fy2q"
+        },
+        "Speed": 22,
+        "Azimuth": 91,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:45:45+08:00",
+        "SrcRecTime": "2025-09-02T21:45:45+08:00",
+        "SrcTransTime": "2025-09-02T21:45:45+08:00",
+        "UpdateTime": "2025-09-02T21:45:47+08:00"
+    },
+    {
+        "PlateNumb": "983-FQ",
+        "OperatorID": "78",
+        "OperatorNo": "1501",
+        "RouteUID": "PEN0774",
+        "RouteID": "0774",
+        "RouteName": {
+            "Zh_tw": "31",
+            "En": "31"
+        },
+        "SubRouteUID": "PEN0774H1",
+        "SubRouteID": "0774H1",
+        "SubRouteName": {
+            "Zh_tw": "31H",
+            "En": "31H"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 119.571605,
+            "PositionLat": 23.5700466666667,
+            "GeoHash": "wsjn0fv3k"
+        },
+        "Speed": 16,
+        "Azimuth": 149,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:41:00+08:00",
+        "SrcRecTime": "2025-09-02T21:41:00+08:00",
+        "SrcTransTime": "2025-09-02T21:41:00+08:00",
+        "UpdateTime": "2025-09-02T21:41:02+08:00"
+    },
+    {
+        "PlateNumb": "KKB-8188",
+        "OperatorID": "129",
+        "OperatorNo": "1207",
+        "RouteUID": "PEN0167",
+        "RouteID": "0167",
+        "RouteName": {
+            "Zh_tw": "004",
+            "En": "004"
+        },
+        "SubRouteUID": "PEN016702",
+        "SubRouteID": "016702",
+        "SubRouteName": {
+            "Zh_tw": "004",
+            "En": "004"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 119.565173333333,
+            "PositionLat": 23.563385,
+            "GeoHash": "wsjn0c8dw"
+        },
+        "Speed": 19,
+        "Azimuth": 2,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:40:20+08:00",
+        "SrcRecTime": "2025-09-02T21:40:19+08:00",
+        "SrcTransTime": "2025-09-02T21:40:19+08:00",
+        "UpdateTime": "2025-09-02T21:40:22+08:00"
+    },
+    {
+        "PlateNumb": "980-FQ",
+        "OperatorID": "78",
+        "OperatorNo": "1501",
+        "RouteUID": "PEN0758",
+        "RouteID": "0758",
+        "RouteName": {
+            "Zh_tw": "21",
+            "En": "21"
+        },
+        "SubRouteUID": "PEN0758J2",
+        "SubRouteID": "0758J2",
+        "SubRouteName": {
+            "Zh_tw": "21J",
+            "En": "21J"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 119.571635,
+            "PositionLat": 23.5703333333333,
+            "GeoHash": "wsjn0fv7j"
+        },
+        "Speed": 4,
+        "Azimuth": 228,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:30:56+08:00",
+        "SrcRecTime": "2025-09-02T21:30:56+08:00",
+        "SrcTransTime": "2025-09-02T21:30:56+08:00",
+        "UpdateTime": "2025-09-02T21:30:57+08:00"
+    },
+    {
+        "PlateNumb": "955-FQ",
+        "OperatorID": "78",
+        "OperatorNo": "1501",
+        "RouteUID": "PEN0799",
+        "RouteID": "0799",
+        "RouteName": {
+            "Zh_tw": "0E",
+            "En": "0E"
+        },
+        "SubRouteUID": "PEN0799D1",
+        "SubRouteID": "0799D1",
+        "SubRouteName": {
+            "Zh_tw": "0ED",
+            "En": "0ED"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 119.564416666667,
+            "PositionLat": 23.5677,
+            "GeoHash": "wsjn0f25u"
+        },
+        "Speed": 14,
+        "Azimuth": 273,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:29:08+08:00",
+        "SrcRecTime": "2025-09-02T21:29:07+08:00",
+        "SrcTransTime": "2025-09-02T21:29:07+08:00",
+        "UpdateTime": "2025-09-02T21:29:12+08:00"
+    }
+]

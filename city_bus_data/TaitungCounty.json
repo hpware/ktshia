@@ -1,0 +1,98 @@
+[
+    {
+        "PlateNumb": "EAL-2663",
+        "OperatorID": "75",
+        "OperatorNo": "1202",
+        "RouteUID": "TTT0982",
+        "RouteID": "0982",
+        "RouteName": {
+            "Zh_tw": "陸海空線",
+            "En": "陸海空線"
+        },
+        "SubRouteUID": "TTT0982B2",
+        "SubRouteID": "0982B2",
+        "SubRouteName": {
+            "Zh_tw": "陸海空線B",
+            "En": "陸海空線B"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.12351,
+            "PositionLat": 22.7927466666667,
+            "GeoHash": "wsn1sjr3q"
+        },
+        "Speed": 16,
+        "Azimuth": 4,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:11:56+08:00",
+        "SrcRecTime": "2025-09-02T22:11:57+08:00",
+        "SrcTransTime": "2025-09-02T22:11:57+08:00",
+        "UpdateTime": "2025-09-02T22:12:02+08:00"
+    },
+    {
+        "PlateNumb": "KKB-8095",
+        "OperatorID": "75",
+        "OperatorNo": "1202",
+        "RouteUID": "TTT0981",
+        "RouteID": "0981",
+        "RouteName": {
+            "Zh_tw": "市區循環",
+            "En": "市區循環"
+        },
+        "SubRouteUID": "TTT098102",
+        "SubRouteID": "098102",
+        "SubRouteName": {
+            "Zh_tw": "市區循環",
+            "En": "市區循環"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.128306666667,
+            "PositionLat": 22.77485,
+            "GeoHash": "wsn1s64cn"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:14:02+08:00",
+        "SrcRecTime": "2025-09-02T21:14:00+08:00",
+        "SrcTransTime": "2025-09-02T21:14:01+08:00",
+        "UpdateTime": "2025-09-02T21:14:02+08:00"
+    },
+    {
+        "PlateNumb": "219-FX",
+        "OperatorID": "75",
+        "OperatorNo": "1202",
+        "RouteUID": "TTT0981",
+        "RouteID": "0981",
+        "RouteName": {
+            "Zh_tw": "市區循環",
+            "En": "市區循環"
+        },
+        "SubRouteUID": "TTT098102",
+        "SubRouteID": "098102",
+        "SubRouteName": {
+            "Zh_tw": "市區循環",
+            "En": "市區循環"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.1234,
+            "PositionLat": 22.79288,
+            "GeoHash": "wsn1sjr65"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:25:43+08:00",
+        "SrcRecTime": "2025-09-02T20:25:43+08:00",
+        "SrcTransTime": "2025-09-02T20:25:44+08:00",
+        "UpdateTime": "2025-09-02T20:25:47+08:00"
+    }
+]

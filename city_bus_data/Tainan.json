@@ -1,0 +1,2906 @@
+[
+    {
+        "PlateNumb": "051-U9",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1117",
+        "RouteID": "1117",
+        "RouteName": {
+            "Zh_tw": "綠17",
+            "En": "G17"
+        },
+        "SubRouteUID": "TNN111701",
+        "SubRouteID": "111701",
+        "SubRouteName": {
+            "Zh_tw": "綠17 安工區→大灣→新化",
+            "En": "G17 Anping Industrial Park→Sinhua Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.29049,
+            "PositionLat": 23.02482,
+            "GeoHash": "wsjdcr8c7"
+        },
+        "Speed": 50,
+        "Azimuth": 37,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:16+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "066-U9",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1400",
+        "RouteID": "1400",
+        "RouteName": {
+            "Zh_tw": "橘幹線",
+            "En": "Orange"
+        },
+        "SubRouteUID": "TNN140001",
+        "SubRouteID": "140001",
+        "SubRouteName": {
+            "Zh_tw": "橘幹線 佳里→玉井",
+            "En": "Orange Jiali Bus Station→Yujing Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.31349,
+            "PositionLat": 23.12865,
+            "GeoHash": "wsje9f3w5"
+        },
+        "Speed": 0,
+        "Azimuth": 107,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:05+08:00",
+        "TransTime": "2025-09-02T22:11:05+08:00",
+        "SrcRecTime": "2025-09-02T22:11:05+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "072-U9",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10161",
+        "RouteID": "10161",
+        "RouteName": {
+            "Zh_tw": "18",
+            "En": "18"
+        },
+        "SubRouteUID": "TNN101612",
+        "SubRouteID": "101612",
+        "SubRouteName": {
+            "Zh_tw": "18路 大成國中→和順轉運站",
+            "En": "18 Da-Cheng Junior High School→Heshun Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.23202,
+            "PositionLat": 23.05721,
+            "GeoHash": "wsj7pvqmc"
+        },
+        "Speed": 0,
+        "Azimuth": 109,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:07+08:00",
+        "TransTime": "2025-09-02T22:11:07+08:00",
+        "SrcRecTime": "2025-09-02T22:11:07+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "075-U9",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10163",
+        "RouteID": "10163",
+        "RouteName": {
+            "Zh_tw": "3",
+            "En": "3"
+        },
+        "SubRouteUID": "TNN101630",
+        "SubRouteID": "101630",
+        "SubRouteName": {
+            "Zh_tw": "3路 海東國小→德高國小",
+            "En": "3 Haidong Elementary School→Degao Elementary School"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.17506,
+            "PositionLat": 22.95931,
+            "GeoHash": "wsj6wesg9"
+        },
+        "Speed": 0,
+        "Azimuth": 276,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:04:53+08:00",
+        "TransTime": "2025-09-02T22:04:53+08:00",
+        "SrcRecTime": "2025-09-02T22:04:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "076-U9",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN2101",
+        "RouteID": "2101",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "TNN210104",
+        "SubRouteID": "210104",
+        "SubRouteName": {
+            "Zh_tw": "101路 崎漏電信局→府城汽車客運公司",
+            "En": "101 Cilou Telephone Exchange→Fucheng Bus Company"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.21818,
+            "PositionLat": 23.00106,
+            "GeoHash": "wsj6zehny"
+        },
+        "Speed": 6,
+        "Azimuth": 102,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:20+08:00",
+        "TransTime": "2025-09-02T22:11:20+08:00",
+        "SrcRecTime": "2025-09-02T22:11:20+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "083-U9",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1600",
+        "RouteID": "1600",
+        "RouteName": {
+            "Zh_tw": "紅幹線",
+            "En": "Red"
+        },
+        "SubRouteUID": "TNN160002",
+        "SubRouteID": "160002",
+        "SubRouteName": {
+            "Zh_tw": "紅幹線 關廟→仁德→安工區",
+            "En": "Red Guanmiao Bus Station→Anping Industrial Park"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.32442,
+            "PositionLat": 22.96069,
+            "GeoHash": "wsjdd5ced"
+        },
+        "Speed": 34,
+        "Azimuth": 281,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:22+08:00",
+        "TransTime": "2025-09-02T22:11:21+08:00",
+        "SrcRecTime": "2025-09-02T22:11:21+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "088-U9",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1600",
+        "RouteID": "1600",
+        "RouteName": {
+            "Zh_tw": "紅幹線",
+            "En": "Red"
+        },
+        "SubRouteUID": "TNN160011",
+        "SubRouteID": "160011",
+        "SubRouteName": {
+            "Zh_tw": "紅幹線 安工區→仁德→關廟→龍崎",
+            "En": "Red Anping Industrial Park→Longci"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.22252,
+            "PositionLat": 22.98558,
+            "GeoHash": "wsj6z8rke"
+        },
+        "Speed": 22,
+        "Azimuth": 108,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:20+08:00",
+        "TransTime": "2025-09-02T22:11:20+08:00",
+        "SrcRecTime": "2025-09-02T22:11:20+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "089-U9",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1600",
+        "RouteID": "1600",
+        "RouteName": {
+            "Zh_tw": "紅幹線",
+            "En": "Red"
+        },
+        "SubRouteUID": "TNN160001",
+        "SubRouteID": "160001",
+        "SubRouteName": {
+            "Zh_tw": "紅幹線 安工區→仁德→關廟",
+            "En": "Red Anping Industrial Park→Guanmiao Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.28918,
+            "PositionLat": 22.96731,
+            "GeoHash": "wsjd9jpfm"
+        },
+        "Speed": 42,
+        "Azimuth": 97,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:21+08:00",
+        "TransTime": "2025-09-02T22:11:21+08:00",
+        "SrcRecTime": "2025-09-02T22:11:21+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "097-U9",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN10265",
+        "RouteID": "10265",
+        "RouteName": {
+            "Zh_tw": "62",
+            "En": "62"
+        },
+        "SubRouteUID": "TNN102650",
+        "SubRouteID": "102650",
+        "SubRouteName": {
+            "Zh_tw": "奇美醫院→高鐵臺南站",
+            "En": "62 Chi Mei Medical Center→THSR Tainan Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.23364,
+            "PositionLat": 22.98868,
+            "GeoHash": "wsj6zbzqy"
+        },
+        "Speed": 0,
+        "Azimuth": 181,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:11+08:00",
+        "TransTime": "2025-09-02T22:11:11+08:00",
+        "SrcRecTime": "2025-09-02T22:11:11+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "368-U7",
+        "OperatorID": "16303",
+        "OperatorNo": "0504",
+        "RouteUID": "TNN10019",
+        "RouteID": "10019",
+        "RouteName": {
+            "Zh_tw": "19",
+            "En": "19"
+        },
+        "SubRouteUID": "TNN100190",
+        "SubRouteID": "100190",
+        "SubRouteName": {
+            "Zh_tw": "19路 安平→大灣",
+            "En": "19 AnPing→Dawan"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.26945,
+            "PositionLat": 23.00707,
+            "GeoHash": "wsjdbu39c"
+        },
+        "Speed": 18,
+        "Azimuth": 227,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:12+08:00",
+        "TransTime": "2025-09-02T22:11:12+08:00",
+        "SrcRecTime": "2025-09-02T22:11:12+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "382-U7",
+        "OperatorID": "16303",
+        "OperatorNo": "0504",
+        "RouteUID": "TNN1032",
+        "RouteID": "1032",
+        "RouteName": {
+            "Zh_tw": "32",
+            "En": "32"
+        },
+        "SubRouteUID": "TNN103202",
+        "SubRouteID": "103202",
+        "SubRouteName": {
+            "Zh_tw": "32路 高鐵台南站→原住民文化會館",
+            "En": "32 THSR Tainan Station→The Indigenous Culture Museum"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.18481,
+            "PositionLat": 22.95111,
+            "GeoHash": "wsj6wf5gv"
+        },
+        "Speed": 39,
+        "Azimuth": 15,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:03+08:00",
+        "TransTime": "2025-09-02T22:11:04+08:00",
+        "SrcRecTime": "2025-09-02T22:11:04+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "402-FX",
+        "OperatorID": "16233",
+        "OperatorNo": "1404",
+        "RouteUID": "TNN10262",
+        "RouteID": "10262",
+        "RouteName": {
+            "Zh_tw": "H31",
+            "En": "H31"
+        },
+        "SubRouteUID": "TNN102620",
+        "SubRouteID": "102620",
+        "SubRouteName": {
+            "Zh_tw": "臺南市政府→高鐵臺南站",
+            "En": "H31 Tainan City Government→THSR Tainan Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.22647,
+            "PositionLat": 22.91122,
+            "GeoHash": "wsj6rff5x"
+        },
+        "Speed": 50,
+        "Azimuth": 166,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:11+08:00",
+        "TransTime": "2025-09-02T22:11:11+08:00",
+        "SrcRecTime": "2025-09-02T22:11:11+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "403-U9",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN2101",
+        "RouteID": "2101",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "TNN210103",
+        "SubRouteID": "210103",
+        "SubRouteName": {
+            "Zh_tw": "101路 府城汽車客運公司→崎漏電信局",
+            "En": "101 Fucheng Bus Company→Cilou Telephone Exchange"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.18459,
+            "PositionLat": 22.89931,
+            "GeoHash": "wsj6qbewp"
+        },
+        "Speed": 41,
+        "Azimuth": 168,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:14+08:00",
+        "TransTime": "2025-09-02T22:11:14+08:00",
+        "SrcRecTime": "2025-09-02T22:11:14+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "405-U9",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10163",
+        "RouteID": "10163",
+        "RouteName": {
+            "Zh_tw": "3",
+            "En": "3"
+        },
+        "SubRouteUID": "TNN101633",
+        "SubRouteID": "101633",
+        "SubRouteName": {
+            "Zh_tw": "3路 復興國中→海東國小",
+            "En": "3 Fusing Junior High School→Haidong Elementary School"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.17495,
+            "PositionLat": 22.95976,
+            "GeoHash": "wsj6weswr"
+        },
+        "Speed": 0,
+        "Azimuth": 312,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:04+08:00",
+        "TransTime": "2025-09-02T22:11:04+08:00",
+        "SrcRecTime": "2025-09-02T22:11:04+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "407-U9",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10162",
+        "RouteID": "10162",
+        "RouteName": {
+            "Zh_tw": "2",
+            "En": "2"
+        },
+        "SubRouteUID": "TNN101624",
+        "SubRouteID": "101624",
+        "SubRouteName": {
+            "Zh_tw": "2路 白鷺灣社區→崑山科大",
+            "En": "2 Bailuwan Community→Kun Shan University"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.17488,
+            "PositionLat": 22.95929,
+            "GeoHash": "wsj6weset"
+        },
+        "Speed": 0,
+        "Azimuth": 304,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:07:57+08:00",
+        "TransTime": "2025-09-02T22:07:58+08:00",
+        "SrcRecTime": "2025-09-02T22:07:58+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "408-U9",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN2101",
+        "RouteID": "2101",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "TNN210104",
+        "SubRouteID": "210104",
+        "SubRouteName": {
+            "Zh_tw": "101路 崎漏電信局→府城汽車客運公司",
+            "En": "101 Cilou Telephone Exchange→Fucheng Bus Company"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.23196,
+            "PositionLat": 23.02597,
+            "GeoHash": "wsj6zzwpz"
+        },
+        "Speed": 0,
+        "Azimuth": 233,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:08:39+08:00",
+        "TransTime": "2025-09-02T22:08:39+08:00",
+        "SrcRecTime": "2025-09-02T22:08:39+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "418-U9",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1601",
+        "RouteID": "1601",
+        "RouteName": {
+            "Zh_tw": "紅1",
+            "En": "R1"
+        },
+        "SubRouteUID": "TNN160101",
+        "SubRouteID": "160101",
+        "SubRouteName": {
+            "Zh_tw": "紅1 台南→太子廟→關廟",
+            "En": "R1 Tainan Park(Gongyuan Rd.)→Guanmiao Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.23301,
+            "PositionLat": 22.98856,
+            "GeoHash": "wsj6zbzn0"
+        },
+        "Speed": 12,
+        "Azimuth": 95,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:05+08:00",
+        "TransTime": "2025-09-02T22:11:05+08:00",
+        "SrcRecTime": "2025-09-02T22:11:05+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "433-U9",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN2101",
+        "RouteID": "2101",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "TNN210101",
+        "SubRouteID": "210101",
+        "SubRouteName": {
+            "Zh_tw": "101路 東興里→崎漏電信局",
+            "En": "101 Dongsing Vil.→Cilou Telephone Exchange"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.23185,
+            "PositionLat": 23.02618,
+            "GeoHash": "wsj6zzy1j"
+        },
+        "Speed": 0,
+        "Azimuth": 128,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:05:44+08:00",
+        "TransTime": "2025-09-02T22:05:44+08:00",
+        "SrcRecTime": "2025-09-02T22:05:44+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "437-U9",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN2101",
+        "RouteID": "2101",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "TNN210103",
+        "SubRouteID": "210103",
+        "SubRouteName": {
+            "Zh_tw": "101路 府城汽車客運公司→崎漏電信局",
+            "En": "101 Fucheng Bus Company→Cilou Telephone Exchange"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.18886,
+            "PositionLat": 22.96104,
+            "GeoHash": "wsj6wgyvg"
+        },
+        "Speed": 0,
+        "Azimuth": 58,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:12+08:00",
+        "TransTime": "2025-09-02T22:11:12+08:00",
+        "SrcRecTime": "2025-09-02T22:11:12+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "439-U9",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10161",
+        "RouteID": "10161",
+        "RouteName": {
+            "Zh_tw": "18",
+            "En": "18"
+        },
+        "SubRouteUID": "TNN101612",
+        "SubRouteID": "101612",
+        "SubRouteName": {
+            "Zh_tw": "18路 大成國中→和順轉運站",
+            "En": "18 Da-Cheng Junior High School→Heshun Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.19858,
+            "PositionLat": 22.99261,
+            "GeoHash": "wsj6z1tvt"
+        },
+        "Speed": 0,
+        "Azimuth": 18,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:02+08:00",
+        "TransTime": "2025-09-02T22:11:02+08:00",
+        "SrcRecTime": "2025-09-02T22:11:02+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "522-U9",
+        "OperatorID": "10190",
+        "OperatorNo": "1306",
+        "RouteUID": "TNN1500",
+        "RouteID": "1500",
+        "RouteName": {
+            "Zh_tw": "黃幹線",
+            "En": "Yellow"
+        },
+        "SubRouteUID": "TNN150011",
+        "SubRouteID": "150011",
+        "SubRouteName": {
+            "Zh_tw": "黃幹線 白河→新營(區間)",
+            "En": "Yellow Baihe Bus Station→Sinying Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.36569,
+            "PositionLat": 23.33444,
+            "GeoHash": "wsjsdzzsg"
+        },
+        "Speed": 58,
+        "Azimuth": 244,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:03+08:00",
+        "TransTime": "2025-09-02T22:11:03+08:00",
+        "SrcRecTime": "2025-09-02T22:11:03+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "542-U9",
+        "OperatorID": "10190",
+        "OperatorNo": "1306",
+        "RouteUID": "TNN1305",
+        "RouteID": "1305",
+        "RouteName": {
+            "Zh_tw": "棕5",
+            "En": "BR5"
+        },
+        "SubRouteUID": "TNN130502",
+        "SubRouteID": "130502",
+        "SubRouteName": {
+            "Zh_tw": "棕5 好美里→鹽水→新營",
+            "En": "B5 Haomei Vil.→Yanshuei→Sinying Station"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.32167,
+            "PositionLat": 23.30905,
+            "GeoHash": "wsjs9gr94"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T21:56:24+08:00",
+        "TransTime": "2025-09-02T21:56:24+08:00",
+        "SrcRecTime": "2025-09-02T21:56:24+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "648-FS",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1202",
+        "RouteID": "1202",
+        "RouteName": {
+            "Zh_tw": "藍2",
+            "En": "B2"
+        },
+        "SubRouteUID": "TNN120211",
+        "SubRouteID": "120211",
+        "SubRouteName": {
+            "Zh_tw": "藍2 佳里→溪底寮→南鯤鯓(不經井仔腳)",
+            "En": "B2 Jiali Bus Station→Nankunshen Temple[Non-Via Jingzihjiao]"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.18341,
+            "PositionLat": 23.22629,
+            "GeoHash": "wsjknu4yu"
+        },
+        "Speed": 0,
+        "Azimuth": 348,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:07+08:00",
+        "TransTime": "2025-09-02T22:11:07+08:00",
+        "SrcRecTime": "2025-09-02T22:11:07+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "665-FS",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1117",
+        "RouteID": "1117",
+        "RouteName": {
+            "Zh_tw": "綠17",
+            "En": "G17"
+        },
+        "SubRouteUID": "TNN111701",
+        "SubRouteID": "111701",
+        "SubRouteName": {
+            "Zh_tw": "綠17 安工區→大灣→新化",
+            "En": "G17 Anping Industrial Park→Sinhua Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.25425,
+            "PositionLat": 22.99931,
+            "GeoHash": "wsjdb6ykx"
+        },
+        "Speed": 34,
+        "Azimuth": 78,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:15+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "672-FS",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1210",
+        "RouteID": "1210",
+        "RouteName": {
+            "Zh_tw": "藍10",
+            "En": "B10"
+        },
+        "SubRouteUID": "TNN121002",
+        "SubRouteID": "121002",
+        "SubRouteName": {
+            "Zh_tw": "藍10 將軍漁港→馬沙溝→佳里",
+            "En": "B10 Jiangjyun Fish Port→Jiali Bus Station"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.17277,
+            "PositionLat": 23.15008,
+            "GeoHash": "wsj7ww74u"
+        },
+        "Speed": 0,
+        "Azimuth": 261,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:04:26+08:00",
+        "TransTime": "2025-09-02T22:04:27+08:00",
+        "SrcRecTime": "2025-09-02T22:04:27+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "673-FS",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1210",
+        "RouteID": "1210",
+        "RouteName": {
+            "Zh_tw": "藍10",
+            "En": "B10"
+        },
+        "SubRouteUID": "TNN121001",
+        "SubRouteID": "121001",
+        "SubRouteName": {
+            "Zh_tw": "藍10 佳里→馬沙溝→將軍漁港",
+            "En": "B10 Jiali Bus Station→Jiangjyun Fish Port"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.16319,
+            "PositionLat": 23.21894,
+            "GeoHash": "wsjkn6uhj"
+        },
+        "Speed": 44,
+        "Azimuth": 268,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:16+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "675-FS",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1116",
+        "RouteID": "1116",
+        "RouteName": {
+            "Zh_tw": "綠16",
+            "En": "G16"
+        },
+        "SubRouteUID": "TNN111601",
+        "SubRouteID": "111601",
+        "SubRouteName": {
+            "Zh_tw": "綠16 新化→關廟",
+            "En": "G16 Sinhua Bus Station→Guanmiao Junior High School"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.30869,
+            "PositionLat": 22.99374,
+            "GeoHash": "wsjdc9yh5"
+        },
+        "Speed": 52,
+        "Azimuth": 171,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:03+08:00",
+        "TransTime": "2025-09-02T22:11:03+08:00",
+        "SrcRecTime": "2025-09-02T22:11:03+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "685-FS",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1600",
+        "RouteID": "1600",
+        "RouteName": {
+            "Zh_tw": "紅幹線",
+            "En": "Red"
+        },
+        "SubRouteUID": "TNN160001",
+        "SubRouteID": "160001",
+        "SubRouteName": {
+            "Zh_tw": "紅幹線 安工區→仁德→關廟",
+            "En": "Red Anping Industrial Park→Guanmiao Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.30845,
+            "PositionLat": 22.96431,
+            "GeoHash": "wsjd9stby"
+        },
+        "Speed": 0,
+        "Azimuth": 103,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:17+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "699-FS",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10021",
+        "RouteID": "10021",
+        "RouteName": {
+            "Zh_tw": "21",
+            "En": "21"
+        },
+        "SubRouteUID": "TNN100210",
+        "SubRouteID": "100210",
+        "SubRouteName": {
+            "Zh_tw": "21路 臺南火車站→永康工業區",
+            "En": "21 Tainan Train Station→Yongkang Industrial Park"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.23191,
+            "PositionLat": 23.02577,
+            "GeoHash": "wsj6zzwny"
+        },
+        "Speed": 0,
+        "Azimuth": 146,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:02:54+08:00",
+        "TransTime": "2025-09-02T22:02:53+08:00",
+        "SrcRecTime": "2025-09-02T22:02:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "815-FS",
+        "OperatorID": "10190",
+        "OperatorNo": "1306",
+        "RouteUID": "TNN1500",
+        "RouteID": "1500",
+        "RouteName": {
+            "Zh_tw": "黃幹線",
+            "En": "Yellow"
+        },
+        "SubRouteUID": "TNN150041",
+        "SubRouteID": "150041",
+        "SubRouteName": {
+            "Zh_tw": "黃幹線 新營→麻豆(區間)",
+            "En": "Yellow Sinying Bus Station→Madou Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.26567,
+            "PositionLat": 23.22444,
+            "GeoHash": "wsjs0eyu1"
+        },
+        "Speed": 39,
+        "Azimuth": 157,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:11+08:00",
+        "TransTime": "2025-09-02T22:11:11+08:00",
+        "SrcRecTime": "2025-09-02T22:11:11+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-728",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1070",
+        "RouteID": "1070",
+        "RouteName": {
+            "Zh_tw": "70",
+            "En": "70"
+        },
+        "SubRouteUID": "TNN107002",
+        "SubRouteID": "107002",
+        "SubRouteName": {
+            "Zh_tw": "70左 永華市政中心(府前路) → 永華市政中心(府前路)",
+            "En": "70L"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.18552,
+            "PositionLat": 23.00917,
+            "GeoHash": "wsj6yusqj"
+        },
+        "Speed": 40,
+        "Azimuth": 165,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:11+08:00",
+        "TransTime": "2025-09-02T22:11:11+08:00",
+        "SrcRecTime": "2025-09-02T22:11:11+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-736",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1070",
+        "RouteID": "1070",
+        "RouteName": {
+            "Zh_tw": "70",
+            "En": "70"
+        },
+        "SubRouteUID": "TNN107001",
+        "SubRouteID": "107001",
+        "SubRouteName": {
+            "Zh_tw": "70右 永華市政中心(府前路) → 永華市政中心(府前路)",
+            "En": "70R"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.18361,
+            "PositionLat": 22.99341,
+            "GeoHash": "wsj6ycg43"
+        },
+        "Speed": 17,
+        "Azimuth": 17,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:21+08:00",
+        "TransTime": "2025-09-02T22:11:20+08:00",
+        "SrcRecTime": "2025-09-02T22:11:20+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-738",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10163",
+        "RouteID": "10163",
+        "RouteName": {
+            "Zh_tw": "3",
+            "En": "3"
+        },
+        "SubRouteUID": "TNN101631",
+        "SubRouteID": "101631",
+        "SubRouteName": {
+            "Zh_tw": "3路 德高國小→海東國小",
+            "En": "Degao Elementary School→Haidong Elementary School"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.19018,
+            "PositionLat": 23.03199,
+            "GeoHash": "wsj7nbzg4"
+        },
+        "Speed": 54,
+        "Azimuth": 171,
+        "DutyStatus": 2,
+        "BusStatus": 99,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:13+08:00",
+        "TransTime": "2025-09-02T22:11:18+08:00",
+        "SrcRecTime": "2025-09-02T22:11:18+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-739",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10164",
+        "RouteID": "10164",
+        "RouteName": {
+            "Zh_tw": "5",
+            "En": "5"
+        },
+        "SubRouteUID": "TNN101741",
+        "SubRouteID": "101741",
+        "SubRouteName": {
+            "Zh_tw": "5路 大甲里→和順轉運站",
+            "En": "5 Dajia Vil.→Heshun Bus Station"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.21207,
+            "PositionLat": 22.91921,
+            "GeoHash": "wsj6rkrf0"
+        },
+        "Speed": 0,
+        "Azimuth": 116,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:05+08:00",
+        "TransTime": "2025-09-02T22:11:05+08:00",
+        "SrcRecTime": "2025-09-02T22:11:05+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-750",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10166",
+        "RouteID": "10166",
+        "RouteName": {
+            "Zh_tw": "7",
+            "En": "7"
+        },
+        "SubRouteUID": "TNN101660",
+        "SubRouteID": "101660",
+        "SubRouteName": {
+            "Zh_tw": "7路 公園北路→台糖安南學苑",
+            "En": "7 Gongyuan N. Rd.→Annan Institute"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.18458,
+            "PositionLat": 23.04708,
+            "GeoHash": "wsj7ngedz"
+        },
+        "Speed": 39,
+        "Azimuth": 284,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:10:59+08:00",
+        "TransTime": "2025-09-02T22:11:19+08:00",
+        "SrcRecTime": "2025-09-02T22:11:19+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-763",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10164",
+        "RouteID": "10164",
+        "RouteName": {
+            "Zh_tw": "5",
+            "En": "5"
+        },
+        "SubRouteUID": "TNN101640",
+        "SubRouteID": "101640",
+        "SubRouteName": {
+            "Zh_tw": "5路 和順轉運站→市立醫院",
+            "En": "5 Heshun Bus Station→Tainan Municipal Hospital"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.24524,
+            "PositionLat": 23.04635,
+            "GeoHash": "wsje05ryt"
+        },
+        "Speed": 0,
+        "Azimuth": 90,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:10+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-770",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1300",
+        "RouteID": "1300",
+        "RouteName": {
+            "Zh_tw": "棕幹線",
+            "En": "Brown"
+        },
+        "SubRouteUID": "TNN130001",
+        "SubRouteID": "130001",
+        "SubRouteName": {
+            "Zh_tw": "棕幹線 新營→鹽水→學甲→佳里",
+            "En": "Brown Sinying Bus Station→Jiali Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.17302,
+            "PositionLat": 23.15019,
+            "GeoHash": "wsj7ww77d"
+        },
+        "Speed": 0,
+        "Azimuth": 277,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:06:28+08:00",
+        "TransTime": "2025-09-02T22:06:28+08:00",
+        "SrcRecTime": "2025-09-02T22:06:28+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-773",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1400",
+        "RouteID": "1400",
+        "RouteName": {
+            "Zh_tw": "橘幹線",
+            "En": "Orange"
+        },
+        "SubRouteUID": "TNN140002",
+        "SubRouteID": "140002",
+        "SubRouteName": {
+            "Zh_tw": "橘幹線 玉井→佳里",
+            "En": "Orange Yujing Bus Station→Jiali Bus Station"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.29661,
+            "PositionLat": 23.13221,
+            "GeoHash": "wsje97j6f"
+        },
+        "Speed": 23,
+        "Azimuth": 260,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:14+08:00",
+        "TransTime": "2025-09-02T22:11:14+08:00",
+        "SrcRecTime": "2025-09-02T22:11:14+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-781",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN2902",
+        "RouteID": "2902",
+        "RouteName": {
+            "Zh_tw": "902",
+            "En": "902"
+        },
+        "SubRouteUID": "TNN290201",
+        "SubRouteID": "290201",
+        "SubRouteName": {
+            "Zh_tw": "902 府城汽車客運公司→大成路口",
+            "En": "902 Fucheng Bus Company→Dacheng Rd. ＆ Simen Rd."
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.17468,
+            "PositionLat": 22.95958,
+            "GeoHash": "wsj6west1"
+        },
+        "Speed": 0,
+        "Azimuth": 89,
+        "DutyStatus": 2,
+        "BusStatus": 99,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:19+08:00",
+        "TransTime": "2025-09-02T22:11:20+08:00",
+        "SrcRecTime": "2025-09-02T22:11:20+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-787",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN2902",
+        "RouteID": "2902",
+        "RouteName": {
+            "Zh_tw": "902",
+            "En": "902"
+        },
+        "SubRouteUID": "TNN290202",
+        "SubRouteID": "290202",
+        "SubRouteName": {
+            "Zh_tw": "902 大成路口→府城汽車客運公司",
+            "En": "902 Dacheng Rd. ＆ Simen Rd.→Fucheng Bus Company"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.23221,
+            "PositionLat": 23.02596,
+            "GeoHash": "wsj6zzwrv"
+        },
+        "Speed": 0,
+        "Azimuth": 235,
+        "DutyStatus": 2,
+        "BusStatus": 99,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T21:51:50+08:00",
+        "TransTime": "2025-09-02T21:51:51+08:00",
+        "SrcRecTime": "2025-09-02T21:51:51+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-790",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN2902",
+        "RouteID": "2902",
+        "RouteName": {
+            "Zh_tw": "902",
+            "En": "902"
+        },
+        "SubRouteUID": "TNN290202",
+        "SubRouteID": "290202",
+        "SubRouteName": {
+            "Zh_tw": "902 大成路口→府城汽車客運公司",
+            "En": "902 Dacheng Rd. ＆ Simen Rd.→Fucheng Bus Company"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.23701,
+            "PositionLat": 23.02184,
+            "GeoHash": "wsjdbnczv"
+        },
+        "Speed": 36,
+        "Azimuth": 344,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:21+08:00",
+        "TransTime": "2025-09-02T22:11:21+08:00",
+        "SrcRecTime": "2025-09-02T22:11:21+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-791",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10162",
+        "RouteID": "10162",
+        "RouteName": {
+            "Zh_tw": "2",
+            "En": "2"
+        },
+        "SubRouteUID": "TNN101627",
+        "SubRouteID": "101627",
+        "SubRouteName": {
+            "Zh_tw": "2路 四草→崑山科大",
+            "En": "2 Sihcao→Kun Shan University"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.14169,
+            "PositionLat": 22.99579,
+            "GeoHash": "wsj6vfk80"
+        },
+        "Speed": 28,
+        "Azimuth": 136,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:05+08:00",
+        "TransTime": "2025-09-02T22:11:06+08:00",
+        "SrcRecTime": "2025-09-02T22:11:06+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAA-800",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1200",
+        "RouteID": "1200",
+        "RouteName": {
+            "Zh_tw": "藍幹線",
+            "En": "Blue"
+        },
+        "SubRouteUID": "TNN120002",
+        "SubRouteID": "120002",
+        "SubRouteName": {
+            "Zh_tw": "藍幹線 佳里→安平工業區",
+            "En": "Blue Jiali Bus Station→Anping Industrial Park"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.20271,
+            "PositionLat": 22.99125,
+            "GeoHash": "wsj6z32vw"
+        },
+        "Speed": 27,
+        "Azimuth": 195,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:11+08:00",
+        "TransTime": "2025-09-02T22:11:11+08:00",
+        "SrcRecTime": "2025-09-02T22:11:11+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-0713",
+        "OperatorID": "10190",
+        "OperatorNo": "1306",
+        "RouteUID": "TNN1509",
+        "RouteID": "1509",
+        "RouteName": {
+            "Zh_tw": "黃9",
+            "En": "Y9"
+        },
+        "SubRouteUID": "TNN150912",
+        "SubRouteID": "150912",
+        "SubRouteName": {
+            "Zh_tw": "黃9 高鐵嘉義站→新營(不繞民治中心)",
+            "En": "Y9 THSR Chiayi Station→Sinying Terminal Station[Tainan City Hall Minzhi Center suspended]"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.32114,
+            "PositionLat": 23.30748,
+            "GeoHash": "wsjs9fzpv"
+        },
+        "Speed": 38,
+        "Azimuth": 90,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:21+08:00",
+        "TransTime": "2025-09-02T22:11:20+08:00",
+        "SrcRecTime": "2025-09-02T22:11:20+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-0732",
+        "OperatorID": "10190",
+        "OperatorNo": "1306",
+        "RouteUID": "TNN1501",
+        "RouteID": "1501",
+        "RouteName": {
+            "Zh_tw": "黃1",
+            "En": "Y1"
+        },
+        "SubRouteUID": "TNN150102",
+        "SubRouteID": "150102",
+        "SubRouteName": {
+            "Zh_tw": "黃1 六甲→柳營→新營",
+            "En": "Y1 Lioujia→Sinying Bus Station"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.31367,
+            "PositionLat": 23.27271,
+            "GeoHash": "wsjs3u9tr"
+        },
+        "Speed": 52,
+        "Azimuth": 356,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:15+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-0789",
+        "OperatorID": "16233",
+        "OperatorNo": "1404",
+        "RouteUID": "TNN1413",
+        "RouteID": "1413",
+        "RouteName": {
+            "Zh_tw": "橘13",
+            "En": "O13"
+        },
+        "SubRouteUID": "TNN141301",
+        "SubRouteID": "141301",
+        "SubRouteName": {
+            "Zh_tw": "橘13 臺南轉運站→麻豆轉運站",
+            "En": "O13 Tainan Bus Station→Madou Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.23081,
+            "PositionLat": 23.15646,
+            "GeoHash": "wsj7xzt2h"
+        },
+        "Speed": 89,
+        "Azimuth": 1,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:21+08:00",
+        "TransTime": "2025-09-02T22:11:20+08:00",
+        "SrcRecTime": "2025-09-02T22:11:20+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-2305",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1200",
+        "RouteID": "1200",
+        "RouteName": {
+            "Zh_tw": "藍幹線",
+            "En": "Blue"
+        },
+        "SubRouteUID": "TNN120002",
+        "SubRouteID": "120002",
+        "SubRouteName": {
+            "Zh_tw": "藍幹線 佳里→安平工業區",
+            "En": "Blue Jiali Bus Station→Anping Industrial Park"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.18606,
+            "PositionLat": 22.98261,
+            "GeoHash": "wsj6wzug6"
+        },
+        "Speed": 14,
+        "Azimuth": 187,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:05+08:00",
+        "TransTime": "2025-09-02T22:11:05+08:00",
+        "SrcRecTime": "2025-09-02T22:11:05+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-2306",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1200",
+        "RouteID": "1200",
+        "RouteName": {
+            "Zh_tw": "藍幹線",
+            "En": "Blue"
+        },
+        "SubRouteUID": "TNN120002",
+        "SubRouteID": "120002",
+        "SubRouteName": {
+            "Zh_tw": "藍幹線 佳里→安平工業區",
+            "En": "Blue Jiali Bus Station→Anping Industrial Park"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.20996,
+            "PositionLat": 23.00806,
+            "GeoHash": "wsj6zkqpx"
+        },
+        "Speed": 4,
+        "Azimuth": 198,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:02+08:00",
+        "TransTime": "2025-09-02T22:11:02+08:00",
+        "SrcRecTime": "2025-09-02T22:11:02+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-2315",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1200",
+        "RouteID": "1200",
+        "RouteName": {
+            "Zh_tw": "藍幹線",
+            "En": "Blue"
+        },
+        "SubRouteUID": "TNN120001",
+        "SubRouteID": "120001",
+        "SubRouteName": {
+            "Zh_tw": "藍幹線 安平工業區→佳里",
+            "En": "Blue Anping Industrial Park→Jiali Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.20666,
+            "PositionLat": 23.10474,
+            "GeoHash": "wsj7rq5ff"
+        },
+        "Speed": 64,
+        "Azimuth": 337,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:10+08:00",
+        "TransTime": "2025-09-02T22:11:09+08:00",
+        "SrcRecTime": "2025-09-02T22:11:09+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-2316",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1200",
+        "RouteID": "1200",
+        "RouteName": {
+            "Zh_tw": "藍幹線",
+            "En": "Blue"
+        },
+        "SubRouteUID": "TNN120001",
+        "SubRouteID": "120001",
+        "SubRouteName": {
+            "Zh_tw": "藍幹線 安平工業區→佳里",
+            "En": "Blue Anping Industrial Park→Jiali Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.19761,
+            "PositionLat": 22.98748,
+            "GeoHash": "wsj6z0tpz"
+        },
+        "Speed": 5,
+        "Azimuth": 91,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:16+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-2317",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1200",
+        "RouteID": "1200",
+        "RouteName": {
+            "Zh_tw": "藍幹線",
+            "En": "Blue"
+        },
+        "SubRouteUID": "TNN120001",
+        "SubRouteID": "120001",
+        "SubRouteName": {
+            "Zh_tw": "藍幹線 安平工業區→佳里",
+            "En": "Blue Anping Industrial Park→Jiali Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.21631,
+            "PositionLat": 23.06915,
+            "GeoHash": "wsj7pxdge"
+        },
+        "Speed": 10,
+        "Azimuth": 337,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:14+08:00",
+        "TransTime": "2025-09-02T22:11:14+08:00",
+        "SrcRecTime": "2025-09-02T22:11:14+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-2320",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1202",
+        "RouteID": "1202",
+        "RouteName": {
+            "Zh_tw": "藍2",
+            "En": "B2"
+        },
+        "SubRouteUID": "TNN120212",
+        "SubRouteID": "120212",
+        "SubRouteName": {
+            "Zh_tw": "藍2 南鯤鯓→溪底寮→佳里(不經井仔腳)",
+            "En": "B2 Nankunshen Temple→Jiali Bus Station[Non-Via Jingzihjiao]"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.16612,
+            "PositionLat": 23.24137,
+            "GeoHash": "wsjknqyqc"
+        },
+        "Speed": 52,
+        "Azimuth": 118,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:17+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-2327",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10162",
+        "RouteID": "10162",
+        "RouteName": {
+            "Zh_tw": "2",
+            "En": "2"
+        },
+        "SubRouteUID": "TNN101624",
+        "SubRouteID": "101624",
+        "SubRouteName": {
+            "Zh_tw": "2路 白鷺灣社區→崑山科大",
+            "En": "2 Bailuwan Community→Kun Shan University"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.17469,
+            "PositionLat": 22.95974,
+            "GeoHash": "wsj6wesw1"
+        },
+        "Speed": 0,
+        "Azimuth": 91,
+        "DutyStatus": 2,
+        "BusStatus": 99,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:03:31+08:00",
+        "TransTime": "2025-09-02T22:03:32+08:00",
+        "SrcRecTime": "2025-09-02T22:03:32+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-2329",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10162",
+        "RouteID": "10162",
+        "RouteName": {
+            "Zh_tw": "2",
+            "En": "2"
+        },
+        "SubRouteUID": "TNN101623",
+        "SubRouteID": "101623",
+        "SubRouteName": {
+            "Zh_tw": "2路 崑山科大→白鷺灣社區",
+            "En": "2 Kun Shan University→Bailuwan Community"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.16837,
+            "PositionLat": 22.99905,
+            "GeoHash": "wsj6y6zgj"
+        },
+        "Speed": 0,
+        "Azimuth": 290,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:10+08:00",
+        "TransTime": "2025-09-02T22:11:11+08:00",
+        "SrcRecTime": "2025-09-02T22:11:11+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-2330",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10162",
+        "RouteID": "10162",
+        "RouteName": {
+            "Zh_tw": "2",
+            "En": "2"
+        },
+        "SubRouteUID": "TNN101727",
+        "SubRouteID": "101727",
+        "SubRouteName": {
+            "Zh_tw": "2路 白鷺灣社區→崑山科大(經復華里)",
+            "En": "2 Bailuwan Community→Kun Shan University[Via Fuhua Vil.]"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.24673,
+            "PositionLat": 22.99881,
+            "GeoHash": "wsjdb6bcz"
+        },
+        "Speed": 12,
+        "Azimuth": 158,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:15+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7310",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1100",
+        "RouteID": "1100",
+        "RouteName": {
+            "Zh_tw": "綠幹線",
+            "En": "Green"
+        },
+        "SubRouteUID": "TNN110002",
+        "SubRouteID": "110002",
+        "SubRouteName": {
+            "Zh_tw": "綠幹線 玉井→台南",
+            "En": "Green Yujing Bus Station→Tainan Park"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.41084,
+            "PositionLat": 23.06036,
+            "GeoHash": "wsjehn02r"
+        },
+        "Speed": 54,
+        "Azimuth": 249,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:08+08:00",
+        "TransTime": "2025-09-02T22:11:08+08:00",
+        "SrcRecTime": "2025-09-02T22:11:08+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7326",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1600",
+        "RouteID": "1600",
+        "RouteName": {
+            "Zh_tw": "紅幹線",
+            "En": "Red"
+        },
+        "SubRouteUID": "TNN160001",
+        "SubRouteID": "160001",
+        "SubRouteName": {
+            "Zh_tw": "紅幹線 安工區→仁德→關廟",
+            "En": "Red Anping Industrial Park→Guanmiao Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.17419,
+            "PositionLat": 22.96894,
+            "GeoHash": "wsj6wtk5v"
+        },
+        "Speed": 0,
+        "Azimuth": 5,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:04+08:00",
+        "TransTime": "2025-09-02T22:11:03+08:00",
+        "SrcRecTime": "2025-09-02T22:11:03+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7337",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1100",
+        "RouteID": "1100",
+        "RouteName": {
+            "Zh_tw": "綠幹線",
+            "En": "Green"
+        },
+        "SubRouteUID": "TNN110001",
+        "SubRouteID": "110001",
+        "SubRouteName": {
+            "Zh_tw": "綠幹線 台南→玉井",
+            "En": "Green Tainan Park→Yujing Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.31048,
+            "PositionLat": 23.03782,
+            "GeoHash": "wsje19zmj"
+        },
+        "Speed": 23,
+        "Azimuth": 24,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:19+08:00",
+        "TransTime": "2025-09-02T22:11:19+08:00",
+        "SrcRecTime": "2025-09-02T22:11:19+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7339",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1100",
+        "RouteID": "1100",
+        "RouteName": {
+            "Zh_tw": "綠幹線",
+            "En": "Green"
+        },
+        "SubRouteUID": "TNN110001",
+        "SubRouteID": "110001",
+        "SubRouteName": {
+            "Zh_tw": "綠幹線 台南→玉井",
+            "En": "Green Tainan Park→Yujing Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.22041,
+            "PositionLat": 23.00745,
+            "GeoHash": "wsj6zsmu4"
+        },
+        "Speed": 33,
+        "Azimuth": 65,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:10+08:00",
+        "TransTime": "2025-09-02T22:11:09+08:00",
+        "SrcRecTime": "2025-09-02T22:11:09+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7356",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10169",
+        "RouteID": "10169",
+        "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+        },
+        "SubRouteUID": "TNN101693",
+        "SubRouteID": "101693",
+        "SubRouteName": {
+            "Zh_tw": "11路 城西里→火車站(北站) [區間]",
+            "En": "11 Chengsi Vil.→Tainan Train Station(North)"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.17765,
+            "PositionLat": 23.05104,
+            "GeoHash": "wsj7nsqdn"
+        },
+        "Speed": 46,
+        "Azimuth": 68,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:21+08:00",
+        "TransTime": "2025-09-02T22:11:21+08:00",
+        "SrcRecTime": "2025-09-02T22:11:21+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7359",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10169",
+        "RouteID": "10169",
+        "RouteName": {
+            "Zh_tw": "11",
+            "En": "11"
+        },
+        "SubRouteUID": "TNN101690",
+        "SubRouteID": "101690",
+        "SubRouteName": {
+            "Zh_tw": "11路 大成路口→城西里",
+            "En": "11 Dacheng Rd. ＆ Simen Rd.→Chengsi Vil."
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.18864,
+            "PositionLat": 23.04625,
+            "GeoHash": "wsj7ngqwn"
+        },
+        "Speed": 48,
+        "Azimuth": 284,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:20+08:00",
+        "TransTime": "2025-09-02T22:11:21+08:00",
+        "SrcRecTime": "2025-09-02T22:11:21+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7360",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN2101",
+        "RouteID": "2101",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "TNN210101",
+        "SubRouteID": "210101",
+        "SubRouteName": {
+            "Zh_tw": "101路 東興里→崎漏電信局",
+            "En": "101 Dongsing Vil.→Cilou Telephone Exchange"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.19763,
+            "PositionLat": 22.98191,
+            "GeoHash": "wsj6xptpr"
+        },
+        "Speed": 9,
+        "Azimuth": 193,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:19+08:00",
+        "TransTime": "2025-09-02T22:11:18+08:00",
+        "SrcRecTime": "2025-09-02T22:11:18+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7376",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1600",
+        "RouteID": "1600",
+        "RouteName": {
+            "Zh_tw": "紅幹線",
+            "En": "Red"
+        },
+        "SubRouteUID": "TNN160012",
+        "SubRouteID": "160012",
+        "SubRouteName": {
+            "Zh_tw": "紅幹線 龍崎→關廟→仁德→安工區",
+            "En": "Red Longci→Anping Industrial Park"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.24452,
+            "PositionLat": 22.97381,
+            "GeoHash": "wsjd8nr2h"
+        },
+        "Speed": 14,
+        "Azimuth": 287,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:06+08:00",
+        "TransTime": "2025-09-02T22:11:05+08:00",
+        "SrcRecTime": "2025-09-02T22:11:05+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7378",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1100",
+        "RouteID": "1100",
+        "RouteName": {
+            "Zh_tw": "綠幹線",
+            "En": "Green"
+        },
+        "SubRouteUID": "TNN110002",
+        "SubRouteID": "110002",
+        "SubRouteName": {
+            "Zh_tw": "綠幹線 玉井→台南",
+            "En": "Green Yujing Bus Station→Tainan Park"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.28851,
+            "PositionLat": 23.03475,
+            "GeoHash": "wsje11r7j"
+        },
+        "Speed": 41,
+        "Azimuth": 252,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:20+08:00",
+        "TransTime": "2025-09-02T22:11:20+08:00",
+        "SrcRecTime": "2025-09-02T22:11:20+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7381",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN10265",
+        "RouteID": "10265",
+        "RouteName": {
+            "Zh_tw": "62",
+            "En": "62"
+        },
+        "SubRouteUID": "TNN102651",
+        "SubRouteID": "102651",
+        "SubRouteName": {
+            "Zh_tw": "高鐵臺南站→奇美醫院",
+            "En": "62 THSR Tainan Station→Chi Mei Medical Center"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.27211,
+            "PositionLat": 22.96517,
+            "GeoHash": "wsjd8uemz"
+        },
+        "Speed": 55,
+        "Azimuth": 359,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:19+08:00",
+        "TransTime": "2025-09-02T22:11:19+08:00",
+        "SrcRecTime": "2025-09-02T22:11:19+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7382",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN10265",
+        "RouteID": "10265",
+        "RouteName": {
+            "Zh_tw": "62",
+            "En": "62"
+        },
+        "SubRouteUID": "TNN102650",
+        "SubRouteID": "102650",
+        "SubRouteName": {
+            "Zh_tw": "奇美醫院→高鐵臺南站",
+            "En": "62 Chi Mei Medical Center→THSR Tainan Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.28692,
+            "PositionLat": 22.92314,
+            "GeoHash": "wsjd3jn2b"
+        },
+        "Speed": 0,
+        "Azimuth": 152,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:19+08:00",
+        "TransTime": "2025-09-02T22:11:19+08:00",
+        "SrcRecTime": "2025-09-02T22:11:19+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7385",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN10265",
+        "RouteID": "10265",
+        "RouteName": {
+            "Zh_tw": "62",
+            "En": "62"
+        },
+        "SubRouteUID": "TNN102651",
+        "SubRouteID": "102651",
+        "SubRouteName": {
+            "Zh_tw": "高鐵臺南站→奇美醫院",
+            "En": "62 THSR Tainan Station→Chi Mei Medical Center"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.23111,
+            "PositionLat": 23.01325,
+            "GeoHash": "wsj6zvmtg"
+        },
+        "Speed": 0,
+        "Azimuth": 326,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:03+08:00",
+        "TransTime": "2025-09-02T22:11:03+08:00",
+        "SrcRecTime": "2025-09-02T22:11:03+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7577",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1403",
+        "RouteID": "1403",
+        "RouteName": {
+            "Zh_tw": "橘3",
+            "En": "O3"
+        },
+        "SubRouteUID": "TNN140312",
+        "SubRouteID": "140312",
+        "SubRouteName": {
+            "Zh_tw": "橘3 臺南轉運站→和順→中榮里→善化轉運站",
+            "En": "O3 Tainan Bus Station→Shanhua Bus Station"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.23588,
+            "PositionLat": 23.10369,
+            "GeoHash": "wsje2jche"
+        },
+        "Speed": 12,
+        "Azimuth": 359,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:21+08:00",
+        "TransTime": "2025-09-02T22:11:21+08:00",
+        "SrcRecTime": "2025-09-02T22:11:21+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7579",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1412",
+        "RouteID": "1412",
+        "RouteName": {
+            "Zh_tw": "橘12",
+            "En": "O12"
+        },
+        "SubRouteUID": "TNN141202",
+        "SubRouteID": "141202",
+        "SubRouteName": {
+            "Zh_tw": "橘12 臺南→善化→麻豆",
+            "En": "O12 Tainan Park(Gongyuan Rd.)→Madou Bus Station"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.29192,
+            "PositionLat": 23.07776,
+            "GeoHash": "wsje331vs"
+        },
+        "Speed": 0,
+        "Azimuth": 9,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:11+08:00",
+        "TransTime": "2025-09-02T22:11:11+08:00",
+        "SrcRecTime": "2025-09-02T22:11:11+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7585",
+        "OperatorID": "10160",
+        "OperatorNo": "1601",
+        "RouteUID": "TNN1404",
+        "RouteID": "1404",
+        "RouteName": {
+            "Zh_tw": "橘4",
+            "En": "O4"
+        },
+        "SubRouteUID": "TNN140402",
+        "SubRouteID": "140402",
+        "SubRouteName": {
+            "Zh_tw": "橘4 烏山頭水庫→南藝大→善化火車站",
+            "En": "O4 Wushantou Reservoir→Shanhua Bus Station"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.25331,
+            "PositionLat": 23.18804,
+            "GeoHash": "wsjebmmb1"
+        },
+        "Speed": 0,
+        "Azimuth": 316,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:02:33+08:00",
+        "TransTime": "2025-09-02T22:02:33+08:00",
+        "SrcRecTime": "2025-09-02T22:02:33+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7587",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN10163",
+        "RouteID": "10163",
+        "RouteName": {
+            "Zh_tw": "3",
+            "En": "3"
+        },
+        "SubRouteUID": "TNN101630",
+        "SubRouteID": "101630",
+        "SubRouteName": {
+            "Zh_tw": "3路 海東國小→德高國小",
+            "En": "3 Haidong Elementary School→Degao Elementary School"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.22993,
+            "PositionLat": 22.96174,
+            "GeoHash": "wsj6xuhcb"
+        },
+        "Speed": 20,
+        "Azimuth": 91,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:18+08:00",
+        "TransTime": "2025-09-02T22:11:18+08:00",
+        "SrcRecTime": "2025-09-02T22:11:18+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7592",
+        "OperatorID": "10001",
+        "OperatorNo": "0803",
+        "RouteUID": "TNN2101",
+        "RouteID": "2101",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "TNN210101",
+        "SubRouteID": "210101",
+        "SubRouteName": {
+            "Zh_tw": "101路 東興里→崎漏電信局",
+            "En": "101 Dongsing Vil.→Cilou Telephone Exchange"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.22094,
+            "PositionLat": 23.00091,
+            "GeoHash": "wsj6zennn"
+        },
+        "Speed": 37,
+        "Azimuth": 274,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:15+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7735",
+        "OperatorID": "10190",
+        "OperatorNo": "1306",
+        "RouteUID": "TNN1500",
+        "RouteID": "1500",
+        "RouteName": {
+            "Zh_tw": "黃幹線",
+            "En": "Yellow"
+        },
+        "SubRouteUID": "TNN150041",
+        "SubRouteID": "150041",
+        "SubRouteName": {
+            "Zh_tw": "黃幹線 新營→麻豆(區間)",
+            "En": "Yellow Sinying Bus Station→Madou Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.33422,
+            "PositionLat": 23.31757,
+            "GeoHash": "wsjsdkbdw"
+        },
+        "Speed": 0,
+        "Azimuth": 65535,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T21:56:11+08:00",
+        "TransTime": "2025-09-02T21:56:10+08:00",
+        "SrcRecTime": "2025-09-02T21:56:10+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7880",
+        "OperatorID": "16233",
+        "OperatorNo": "1404",
+        "RouteUID": "TNN10262",
+        "RouteID": "10262",
+        "RouteName": {
+            "Zh_tw": "H31",
+            "En": "H31"
+        },
+        "SubRouteUID": "TNN102620",
+        "SubRouteID": "102620",
+        "SubRouteName": {
+            "Zh_tw": "臺南市政府→高鐵臺南站",
+            "En": "H31 Tainan City Government→THSR Tainan Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.21577,
+            "PositionLat": 22.96776,
+            "GeoHash": "wsj6xt4ky"
+        },
+        "Speed": 0,
+        "Azimuth": 169,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:16+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-7882",
+        "OperatorID": "16233",
+        "OperatorNo": "1404",
+        "RouteUID": "TNN10262",
+        "RouteID": "10262",
+        "RouteName": {
+            "Zh_tw": "H31",
+            "En": "H31"
+        },
+        "SubRouteUID": "TNN102621",
+        "SubRouteID": "102621",
+        "SubRouteName": {
+            "Zh_tw": "高鐵臺南站→臺南市政府",
+            "En": "H31 THSR Tainan Station→Tainan City Government"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.21016,
+            "PositionLat": 22.98621,
+            "GeoHash": "wsj6z2w27"
+        },
+        "Speed": 5,
+        "Azimuth": 308,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:04+08:00",
+        "TransTime": "2025-09-02T22:11:05+08:00",
+        "SrcRecTime": "2025-09-02T22:11:05+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2397",
+        "OperatorID": "16201",
+        "OperatorNo": "1201",
+        "RouteUID": "TNN10165",
+        "RouteID": "10165",
+        "RouteName": {
+            "Zh_tw": "6",
+            "En": "6"
+        },
+        "SubRouteUID": "TNN101657",
+        "SubRouteID": "101657",
+        "SubRouteName": {
+            "Zh_tw": "6路 龍崗國小→仁德轉運站 [延統聯客運]",
+            "En": "6 LongGang Elementary School→Rende Bus Station[Via Ubus]"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.21132,
+            "PositionLat": 22.99662,
+            "GeoHash": "wsj6z6rjn"
+        },
+        "Speed": 24,
+        "Azimuth": 55,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:02+08:00",
+        "TransTime": "2025-09-02T22:11:02+08:00",
+        "SrcRecTime": "2025-09-02T22:11:02+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2500",
+        "OperatorID": "16201",
+        "OperatorNo": "1201",
+        "RouteUID": "TNN10450",
+        "RouteID": "10450",
+        "RouteName": {
+            "Zh_tw": "0左",
+            "En": "0L"
+        },
+        "SubRouteUID": "TNN104500",
+        "SubRouteID": "104500",
+        "SubRouteName": {
+            "Zh_tw": "0左 火車北站→火車北站",
+            "En": "0L"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.21281,
+            "PositionLat": 22.98123,
+            "GeoHash": "wsj6xx873"
+        },
+        "Speed": 35,
+        "Azimuth": 66,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:09+08:00",
+        "TransTime": "2025-09-02T22:11:09+08:00",
+        "SrcRecTime": "2025-09-02T22:11:09+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2503",
+        "OperatorID": "16201",
+        "OperatorNo": "1201",
+        "RouteUID": "TNN10451",
+        "RouteID": "10451",
+        "RouteName": {
+            "Zh_tw": "0右",
+            "En": "0R"
+        },
+        "SubRouteUID": "TNN104510",
+        "SubRouteID": "104510",
+        "SubRouteName": {
+            "Zh_tw": "0右 火車南站→火車南站",
+            "En": "0R"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.18738,
+            "PositionLat": 22.99263,
+            "GeoHash": "wsj6yctvb"
+        },
+        "Speed": 30,
+        "Azimuth": 98,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:21+08:00",
+        "TransTime": "2025-09-02T22:11:21+08:00",
+        "SrcRecTime": "2025-09-02T22:11:21+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2556",
+        "OperatorID": "16201",
+        "OperatorNo": "1201",
+        "RouteUID": "TNN1010",
+        "RouteID": "1010",
+        "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+        },
+        "SubRouteUID": "TNN101002",
+        "SubRouteID": "101002",
+        "SubRouteName": {
+            "Zh_tw": "10路 鹿耳門天后宮→臺南轉運站",
+            "En": "10 Luermen-Ma Temple→Tainan Bus Station"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.18779,
+            "PositionLat": 23.03941,
+            "GeoHash": "wsj7nfnn6"
+        },
+        "Speed": 47,
+        "Azimuth": 169,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:20+08:00",
+        "TransTime": "2025-09-02T22:11:20+08:00",
+        "SrcRecTime": "2025-09-02T22:11:20+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2557",
+        "OperatorID": "16201",
+        "OperatorNo": "1201",
+        "RouteUID": "TNN1010",
+        "RouteID": "1010",
+        "RouteName": {
+            "Zh_tw": "10",
+            "En": "10"
+        },
+        "SubRouteUID": "TNN101002",
+        "SubRouteID": "101002",
+        "SubRouteName": {
+            "Zh_tw": "10路 鹿耳門天后宮→臺南轉運站",
+            "En": "10 Luermen-Ma Temple→Tainan Bus Station"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.22014,
+            "PositionLat": 23.00317,
+            "GeoHash": "wsj6zeteh"
+        },
+        "Speed": 52,
+        "Azimuth": 99,
+        "DutyStatus": 2,
+        "BusStatus": 99,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:09+08:00",
+        "TransTime": "2025-09-02T22:11:09+08:00",
+        "SrcRecTime": "2025-09-02T22:11:09+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2592",
+        "OperatorID": "16201",
+        "OperatorNo": "1201",
+        "RouteUID": "TNN10165",
+        "RouteID": "10165",
+        "RouteName": {
+            "Zh_tw": "6",
+            "En": "6"
+        },
+        "SubRouteUID": "TNN101657",
+        "SubRouteID": "101657",
+        "SubRouteName": {
+            "Zh_tw": "6路 龍崗國小→仁德轉運站 [延統聯客運]",
+            "En": "6 LongGang Elementary School→Rende Bus Station[Via Ubus]"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.24184,
+            "PositionLat": 22.98253,
+            "GeoHash": "wsjd8pv6v"
+        },
+        "Speed": 0,
+        "Azimuth": 351,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:12+08:00",
+        "TransTime": "2025-09-02T22:11:12+08:00",
+        "SrcRecTime": "2025-09-02T22:11:12+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2593",
+        "OperatorID": "16201",
+        "OperatorNo": "1201",
+        "RouteUID": "TNN10165",
+        "RouteID": "10165",
+        "RouteName": {
+            "Zh_tw": "6",
+            "En": "6"
+        },
+        "SubRouteUID": "TNN101652",
+        "SubRouteID": "101652",
+        "SubRouteName": {
+            "Zh_tw": "6路 仁德轉運站→龍崗國小",
+            "En": "6 Rende Bus Station→LongGang Elementary School"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.18599,
+            "PositionLat": 22.96182,
+            "GeoHash": "wsj6wuhf2"
+        },
+        "Speed": 28,
+        "Azimuth": 268,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:15+08:00",
+        "TransTime": "2025-09-02T22:11:17+08:00",
+        "SrcRecTime": "2025-09-02T22:11:17+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKB-7505",
+        "OperatorID": "16233",
+        "OperatorNo": "1404",
+        "RouteUID": "TNN10262",
+        "RouteID": "10262",
+        "RouteName": {
+            "Zh_tw": "H31",
+            "En": "H31"
+        },
+        "SubRouteUID": "TNN102621",
+        "SubRouteID": "102621",
+        "SubRouteName": {
+            "Zh_tw": "高鐵臺南站→臺南市政府",
+            "En": "H31 THSR Tainan Station→Tainan City Government"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.19219,
+            "PositionLat": 22.98816,
+            "GeoHash": "wsj6z0c79"
+        },
+        "Speed": 5,
+        "Azimuth": 279,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:04+08:00",
+        "TransTime": "2025-09-02T22:11:05+08:00",
+        "SrcRecTime": "2025-09-02T22:11:05+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKB-7518",
+        "OperatorID": "16303",
+        "OperatorNo": "0504",
+        "RouteUID": "TNN10452",
+        "RouteID": "10452",
+        "RouteName": {
+            "Zh_tw": "15",
+            "En": "15"
+        },
+        "SubRouteUID": "TNN104525",
+        "SubRouteID": "104525",
+        "SubRouteName": {
+            "Zh_tw": "15路 大成路口→ 臺南市立圖書館",
+            "En": "15 Dacheng Rd. ＆ Simen Rd.→Tainan Public Library"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.23214,
+            "PositionLat": 23.02642,
+            "GeoHash": "wsj6zzy6e"
+        },
+        "Speed": 36,
+        "Azimuth": 59,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:10+08:00",
+        "TransTime": "2025-09-02T22:11:10+08:00",
+        "SrcRecTime": "2025-09-02T22:11:10+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKB-7533",
+        "OperatorID": "10190",
+        "OperatorNo": "1306",
+        "RouteUID": "TNN1300",
+        "RouteID": "1300",
+        "RouteName": {
+            "Zh_tw": "棕幹線",
+            "En": "Brown"
+        },
+        "SubRouteUID": "TNN130001",
+        "SubRouteID": "130001",
+        "SubRouteName": {
+            "Zh_tw": "棕幹線 新營→鹽水→學甲→佳里",
+            "En": "Brown Sinying Bus Station→Jiali Bus Station"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.21191,
+            "PositionLat": 23.26042,
+            "GeoHash": "wsjkr6rtu"
+        },
+        "Speed": 67,
+        "Azimuth": 249,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:12+08:00",
+        "TransTime": "2025-09-02T22:11:12+08:00",
+        "SrcRecTime": "2025-09-02T22:11:12+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "KKZ-8035",
+        "OperatorID": "16323",
+        "OperatorNo": "1201",
+        "RouteUID": "TNN1009",
+        "RouteID": "1009",
+        "RouteName": {
+            "Zh_tw": "9",
+            "En": "9"
+        },
+        "SubRouteUID": "TNN100914",
+        "SubRouteID": "100914",
+        "SubRouteName": {
+            "Zh_tw": "9路 9人小巴 東溪埔寮福安宮→臺南轉運站(繞公親里)",
+            "En": "9 Shuttle Taxi Dongsipuliao Fuan Temple→Tainan Bus Station(Via Gongcin Village)"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.21122,
+            "PositionLat": 23.00455,
+            "GeoHash": "wsj6z7z5h"
+        },
+        "Speed": 29,
+        "Azimuth": 333.96088,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:02:49+08:00",
+        "TransTime": "2025-09-02T22:02:51+08:00",
+        "SrcRecTime": "2025-09-02T22:02:51+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "TDY-8387",
+        "OperatorID": "16273",
+        "OperatorNo": "",
+        "RouteUID": "TNN10170",
+        "RouteID": "10170",
+        "RouteName": {
+            "Zh_tw": "14",
+            "En": "14"
+        },
+        "SubRouteUID": "TNN101702",
+        "SubRouteID": "101702",
+        "SubRouteName": {
+            "Zh_tw": "14路 9人小巴 火車南站→慈濟高中",
+            "En": "14 Shuttle Taxi Tainan Train Station(South)→Buddhist Tainan Tzu Chi Senior High School"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.17261,
+            "PositionLat": 22.98447,
+            "GeoHash": "wsj6y85n0"
+        },
+        "Speed": 18,
+        "Azimuth": 32.32176,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T21:54:28+08:00",
+        "TransTime": "2025-09-02T21:54:29+08:00",
+        "SrcRecTime": "2025-09-02T21:54:29+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    },
+    {
+        "PlateNumb": "TEA-8115",
+        "OperatorID": "16202",
+        "OperatorNo": "",
+        "RouteUID": "TNN1120",
+        "RouteID": "1120",
+        "RouteName": {
+            "Zh_tw": "綠20",
+            "En": "G20"
+        },
+        "SubRouteUID": "TNN112022",
+        "SubRouteID": "112022",
+        "SubRouteName": {
+            "Zh_tw": "綠20 小黃 永興吊橋→玉井",
+            "En": "G20 Shuttle Taxi Yongxing drawbridge→Yujing Bus Station"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.47957,
+            "PositionLat": 23.13825,
+            "GeoHash": "wsjets4w1"
+        },
+        "Speed": 76,
+        "Azimuth": 34.06518,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 2,
+        "GPSTime": "2025-09-02T22:11:03+08:00",
+        "TransTime": "2025-09-02T22:11:06+08:00",
+        "SrcRecTime": "2025-09-02T22:11:06+08:00",
+        "SrcUpdateTime": "2025-09-02T22:11:22+08:00",
+        "UpdateTime": "2025-09-02T22:11:22+08:00"
+    }
+]

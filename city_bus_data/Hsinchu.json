@@ -1,0 +1,834 @@
+[
+    {
+        "PlateNumb": "985-U7",
+        "OperatorID": "14",
+        "OperatorNo": "0911",
+        "RouteUID": "HSZ0739",
+        "RouteID": "0739",
+        "RouteName": {
+            "Zh_tw": "綠線",
+            "En": "綠線"
+        },
+        "SubRouteUID": "HSZ073901",
+        "SubRouteID": "073901",
+        "SubRouteName": {
+            "Zh_tw": "綠線",
+            "En": "綠線"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.986775,
+            "PositionLat": 24.8152666666667,
+            "GeoHash": "wsqj1j7zk"
+        },
+        "Speed": 37,
+        "Azimuth": 265,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:12:26+08:00",
+        "SrcRecTime": "2025-09-02T22:12:26+08:00",
+        "SrcTransTime": "2025-09-02T22:12:26+08:00",
+        "UpdateTime": "2025-09-02T22:12:27+08:00"
+    },
+    {
+        "PlateNumb": "EAL-5109",
+        "OperatorID": "45",
+        "OperatorNo": "1101",
+        "RouteUID": "HSZ0185",
+        "RouteID": "0185",
+        "RouteName": {
+            "Zh_tw": "先導公車",
+            "En": "先導公車"
+        },
+        "SubRouteUID": "HSZ018502",
+        "SubRouteID": "018502",
+        "SubRouteName": {
+            "Zh_tw": "先導公車",
+            "En": "先導公車"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.035421666667,
+            "PositionLat": 24.8075733333333,
+            "GeoHash": "wsqj4hp69"
+        },
+        "Speed": 0,
+        "Azimuth": 291,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:12:24+08:00",
+        "SrcRecTime": "2025-09-02T22:12:23+08:00",
+        "SrcTransTime": "2025-09-02T22:12:23+08:00",
+        "UpdateTime": "2025-09-02T22:12:27+08:00"
+    },
+    {
+        "PlateNumb": "FAD-220",
+        "OperatorID": "13",
+        "OperatorNo": "1303",
+        "RouteUID": "HSZ0010",
+        "RouteID": "0010",
+        "RouteName": {
+            "Zh_tw": "藍線1區",
+            "En": "藍線1區"
+        },
+        "SubRouteUID": "HSZ001001",
+        "SubRouteID": "001001",
+        "SubRouteName": {
+            "Zh_tw": "藍線1區",
+            "En": "藍線1區"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.997608333333,
+            "PositionLat": 24.7962616666667,
+            "GeoHash": "wsqj165b8"
+        },
+        "Speed": 0,
+        "Azimuth": 144,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:12:24+08:00",
+        "SrcRecTime": "2025-09-02T22:12:24+08:00",
+        "SrcTransTime": "2025-09-02T22:12:24+08:00",
+        "UpdateTime": "2025-09-02T22:12:27+08:00"
+    },
+    {
+        "PlateNumb": "FAD-233",
+        "OperatorID": "13",
+        "OperatorNo": "1303",
+        "RouteUID": "HSZ0113",
+        "RouteID": "0113",
+        "RouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+        },
+        "SubRouteUID": "HSZ011302",
+        "SubRouteID": "011302",
+        "SubRouteName": {
+            "Zh_tw": "11甲",
+            "En": "11甲"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.955281666667,
+            "PositionLat": 24.8048683333333,
+            "GeoHash": "wsqj07sfy"
+        },
+        "Speed": 0,
+        "Azimuth": 107,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:12:23+08:00",
+        "SrcRecTime": "2025-09-02T22:12:24+08:00",
+        "SrcTransTime": "2025-09-02T22:12:24+08:00",
+        "UpdateTime": "2025-09-02T22:12:27+08:00"
+    },
+    {
+        "PlateNumb": "FAD-317",
+        "OperatorID": "13",
+        "OperatorNo": "1303",
+        "RouteUID": "HSZ0010",
+        "RouteID": "0010",
+        "RouteName": {
+            "Zh_tw": "藍線1區",
+            "En": "藍線1區"
+        },
+        "SubRouteUID": "HSZ001001",
+        "SubRouteID": "001001",
+        "SubRouteName": {
+            "Zh_tw": "藍線1區",
+            "En": "藍線1區"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.986566666667,
+            "PositionLat": 24.7999233333333,
+            "GeoHash": "wsqj14ewp"
+        },
+        "Speed": 29,
+        "Azimuth": 200,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:12:23+08:00",
+        "SrcRecTime": "2025-09-02T22:12:23+08:00",
+        "SrcTransTime": "2025-09-02T22:12:24+08:00",
+        "UpdateTime": "2025-09-02T22:12:27+08:00"
+    },
+    {
+        "PlateNumb": "FAD-321",
+        "OperatorID": "13",
+        "OperatorNo": "1303",
+        "RouteUID": "HSZ0010",
+        "RouteID": "0010",
+        "RouteName": {
+            "Zh_tw": "藍線1區",
+            "En": "藍線1區"
+        },
+        "SubRouteUID": "HSZ001001",
+        "SubRouteID": "001001",
+        "SubRouteName": {
+            "Zh_tw": "藍線1區",
+            "En": "藍線1區"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.972041666667,
+            "PositionLat": 24.80369,
+            "GeoHash": "wsqj0g35u"
+        },
+        "Speed": 0,
+        "Azimuth": 62,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:12:25+08:00",
+        "SrcRecTime": "2025-09-02T22:12:26+08:00",
+        "SrcTransTime": "2025-09-02T22:12:26+08:00",
+        "UpdateTime": "2025-09-02T22:12:27+08:00"
+    },
+    {
+        "PlateNumb": "FAD-327",
+        "OperatorID": "13",
+        "OperatorNo": "1303",
+        "RouteUID": "HSZ0150",
+        "RouteID": "0150",
+        "RouteName": {
+            "Zh_tw": "藍15區",
+            "En": "藍15區"
+        },
+        "SubRouteUID": "HSZ015001",
+        "SubRouteID": "015001",
+        "SubRouteName": {
+            "Zh_tw": "藍15區",
+            "En": "藍15區"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.958923333333,
+            "PositionLat": 24.822515,
+            "GeoHash": "wsqj0qz9e"
+        },
+        "Speed": 46,
+        "Azimuth": 320,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:12:20+08:00",
+        "SrcRecTime": "2025-09-02T22:12:21+08:00",
+        "SrcTransTime": "2025-09-02T22:12:21+08:00",
+        "UpdateTime": "2025-09-02T22:12:22+08:00"
+    },
+    {
+        "PlateNumb": "986-U7",
+        "OperatorID": "14",
+        "OperatorNo": "0911",
+        "RouteUID": "HSZ0739",
+        "RouteID": "0739",
+        "RouteName": {
+            "Zh_tw": "綠線",
+            "En": "綠線"
+        },
+        "SubRouteUID": "HSZ073902",
+        "SubRouteID": "073902",
+        "SubRouteName": {
+            "Zh_tw": "綠線",
+            "En": "綠線"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.950396666667,
+            "PositionLat": 24.7581783333333,
+            "GeoHash": "wsqhb716u"
+        },
+        "Speed": 3,
+        "Azimuth": 21,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:12:08+08:00",
+        "SrcRecTime": "2025-09-02T22:12:08+08:00",
+        "SrcTransTime": "2025-09-02T22:12:08+08:00",
+        "UpdateTime": "2025-09-02T22:12:12+08:00"
+    },
+    {
+        "PlateNumb": "993-U7",
+        "OperatorID": "14",
+        "OperatorNo": "0911",
+        "RouteUID": "HSZ0739",
+        "RouteID": "0739",
+        "RouteName": {
+            "Zh_tw": "綠線",
+            "En": "綠線"
+        },
+        "SubRouteUID": "HSZ073901",
+        "SubRouteID": "073901",
+        "SubRouteName": {
+            "Zh_tw": "綠線",
+            "En": "綠線"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.95028,
+            "PositionLat": 24.7631183333333,
+            "GeoHash": "wsqhb7cr9"
+        },
+        "Speed": 24,
+        "Azimuth": 225,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:12:07+08:00",
+        "SrcRecTime": "2025-09-02T22:12:07+08:00",
+        "SrcTransTime": "2025-09-02T22:12:07+08:00",
+        "UpdateTime": "2025-09-02T22:12:12+08:00"
+    },
+    {
+        "PlateNumb": "FAD-378",
+        "OperatorID": "18",
+        "OperatorNo": "0909",
+        "RouteUID": "HSZ0007",
+        "RouteID": "0007",
+        "RouteName": {
+            "Zh_tw": "81",
+            "En": "81"
+        },
+        "SubRouteUID": "HSZ000702",
+        "SubRouteID": "000702",
+        "SubRouteName": {
+            "Zh_tw": "81",
+            "En": "81"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.98111,
+            "PositionLat": 24.7796983333333,
+            "GeoHash": "wsqhbzpb0"
+        },
+        "Speed": 16,
+        "Azimuth": 241,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:03:26+08:00",
+        "SrcRecTime": "2025-09-02T22:03:27+08:00",
+        "SrcTransTime": "2025-09-02T22:03:27+08:00",
+        "UpdateTime": "2025-09-02T22:03:32+08:00"
+    },
+    {
+        "PlateNumb": "FAD-003",
+        "OperatorID": "45",
+        "OperatorNo": "1101",
+        "RouteUID": "HSZ0182",
+        "RouteID": "0182",
+        "RouteName": {
+            "Zh_tw": "182",
+            "En": "182"
+        },
+        "SubRouteUID": "HSZ018202",
+        "SubRouteID": "018202",
+        "SubRouteName": {
+            "Zh_tw": "182",
+            "En": "182"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.968155,
+            "PositionLat": 24.80985,
+            "GeoHash": "wsqj0sqrf"
+        },
+        "Speed": 2,
+        "Azimuth": 58,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:03:05+08:00",
+        "SrcRecTime": "2025-09-02T22:03:05+08:00",
+        "SrcTransTime": "2025-09-02T22:03:05+08:00",
+        "UpdateTime": "2025-09-02T22:03:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3035",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSZ0520",
+        "RouteID": "0520",
+        "RouteName": {
+            "Zh_tw": "52",
+            "En": "52"
+        },
+        "SubRouteUID": "HSZ052001",
+        "SubRouteID": "052001",
+        "SubRouteName": {
+            "Zh_tw": "52",
+            "En": "52"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.021388333333,
+            "PositionLat": 24.78821,
+            "GeoHash": "wsqj1bt1f"
+        },
+        "Speed": 0,
+        "Azimuth": 261,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:02:45+08:00",
+        "SrcRecTime": "2025-09-02T22:02:45+08:00",
+        "SrcTransTime": "2025-09-02T22:02:45+08:00",
+        "UpdateTime": "2025-09-02T22:02:47+08:00"
+    },
+    {
+        "PlateNumb": "EAL-5107",
+        "OperatorID": "45",
+        "OperatorNo": "1101",
+        "RouteUID": "HSZ0185",
+        "RouteID": "0185",
+        "RouteName": {
+            "Zh_tw": "先導公車",
+            "En": "先導公車"
+        },
+        "SubRouteUID": "HSZ018502",
+        "SubRouteID": "018502",
+        "SubRouteName": {
+            "Zh_tw": "先導公車",
+            "En": "先導公車"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.968321666667,
+            "PositionLat": 24.8100316666667,
+            "GeoHash": "wsqj0sw2y"
+        },
+        "Speed": 14,
+        "Azimuth": 49,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:59:26+08:00",
+        "SrcRecTime": "2025-09-02T21:59:26+08:00",
+        "SrcTransTime": "2025-09-02T21:59:26+08:00",
+        "UpdateTime": "2025-09-02T21:59:27+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3052",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSZ0510",
+        "RouteID": "0510",
+        "RouteName": {
+            "Zh_tw": "51",
+            "En": "51"
+        },
+        "SubRouteUID": "HSZ0510A1",
+        "SubRouteID": "0510A1",
+        "SubRouteName": {
+            "Zh_tw": "51A",
+            "En": "51A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.93174,
+            "PositionLat": 24.7451683333333,
+            "GeoHash": "wsmuzbez1"
+        },
+        "Speed": 0,
+        "Azimuth": 83,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:59:17+08:00",
+        "SrcRecTime": "2025-09-02T21:59:17+08:00",
+        "SrcTransTime": "2025-09-02T21:59:17+08:00",
+        "UpdateTime": "2025-09-02T21:59:22+08:00"
+    },
+    {
+        "PlateNumb": "FAB-520",
+        "OperatorID": "45",
+        "OperatorNo": "1101",
+        "RouteUID": "HSZ0182",
+        "RouteID": "0182",
+        "RouteName": {
+            "Zh_tw": "182",
+            "En": "182"
+        },
+        "SubRouteUID": "HSZ018201",
+        "SubRouteID": "018201",
+        "SubRouteName": {
+            "Zh_tw": "182",
+            "En": "182"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.040383333333,
+            "PositionLat": 24.8073416666667,
+            "GeoHash": "wsqj4k4cj"
+        },
+        "Speed": 0,
+        "Azimuth": 187,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:57:14+08:00",
+        "SrcRecTime": "2025-09-02T21:57:14+08:00",
+        "SrcTransTime": "2025-09-02T21:57:14+08:00",
+        "UpdateTime": "2025-09-02T21:57:17+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3323",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSZ0520",
+        "RouteID": "0520",
+        "RouteName": {
+            "Zh_tw": "52",
+            "En": "52"
+        },
+        "SubRouteUID": "HSZ052001",
+        "SubRouteID": "052001",
+        "SubRouteName": {
+            "Zh_tw": "52",
+            "En": "52"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.021253333333,
+            "PositionLat": 24.7882666666667,
+            "GeoHash": "wsqj1bsfp"
+        },
+        "Speed": 0,
+        "Azimuth": 247,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:43:21+08:00",
+        "SrcRecTime": "2025-09-02T21:43:22+08:00",
+        "SrcTransTime": "2025-09-02T21:43:22+08:00",
+        "UpdateTime": "2025-09-02T21:43:27+08:00"
+    },
+    {
+        "PlateNumb": "FAD-239",
+        "OperatorID": "13",
+        "OperatorNo": "1303",
+        "RouteUID": "HSZ0160",
+        "RouteID": "0160",
+        "RouteName": {
+            "Zh_tw": "16",
+            "En": "16"
+        },
+        "SubRouteUID": "HSZ016002",
+        "SubRouteID": "016002",
+        "SubRouteName": {
+            "Zh_tw": "16",
+            "En": "16"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.948628333333,
+            "PositionLat": 24.8007566666667,
+            "GeoHash": "wsqj06b4g"
+        },
+        "Speed": 0,
+        "Azimuth": 191,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:23:19+08:00",
+        "SrcRecTime": "2025-09-02T21:23:19+08:00",
+        "SrcTransTime": "2025-09-02T21:23:19+08:00",
+        "UpdateTime": "2025-09-02T21:23:22+08:00"
+    },
+    {
+        "PlateNumb": "FAD-359",
+        "OperatorID": "18",
+        "OperatorNo": "0909",
+        "RouteUID": "HSZ0007",
+        "RouteID": "0007",
+        "RouteName": {
+            "Zh_tw": "81",
+            "En": "81"
+        },
+        "SubRouteUID": "HSZ000701",
+        "SubRouteID": "000701",
+        "SubRouteName": {
+            "Zh_tw": "81",
+            "En": "81"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.988133333333,
+            "PositionLat": 24.7698683333333,
+            "GeoHash": "wsqhcjhyg"
+        },
+        "Speed": 0,
+        "Azimuth": 176,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:21:27+08:00",
+        "SrcRecTime": "2025-09-02T21:21:27+08:00",
+        "SrcTransTime": "2025-09-02T21:21:27+08:00",
+        "UpdateTime": "2025-09-02T21:21:32+08:00"
+    },
+    {
+        "PlateNumb": "FAB-522",
+        "OperatorID": "45",
+        "OperatorNo": "1101",
+        "RouteUID": "HSZ0182",
+        "RouteID": "0182",
+        "RouteName": {
+            "Zh_tw": "182",
+            "En": "182"
+        },
+        "SubRouteUID": "HSZ018202",
+        "SubRouteID": "018202",
+        "SubRouteName": {
+            "Zh_tw": "182",
+            "En": "182"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.968231666667,
+            "PositionLat": 24.809895,
+            "GeoHash": "wsqj0sw2h"
+        },
+        "Speed": 2,
+        "Azimuth": 55,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:19:31+08:00",
+        "SrcRecTime": "2025-09-02T21:19:30+08:00",
+        "SrcTransTime": "2025-09-02T21:19:30+08:00",
+        "UpdateTime": "2025-09-02T21:19:32+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3367",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSZ0500",
+        "RouteID": "0500",
+        "RouteName": {
+            "Zh_tw": "50",
+            "En": "50"
+        },
+        "SubRouteUID": "HSZ0500A1",
+        "SubRouteID": "0500A1",
+        "SubRouteName": {
+            "Zh_tw": "50A",
+            "En": "50A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.94199,
+            "PositionLat": 24.7973183333333,
+            "GeoHash": "wsqj045qb"
+        },
+        "Speed": 3,
+        "Azimuth": 194,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:53:05+08:00",
+        "SrcRecTime": "2025-09-02T20:53:06+08:00",
+        "SrcTransTime": "2025-09-02T20:53:06+08:00",
+        "UpdateTime": "2025-09-02T20:53:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-228",
+        "OperatorID": "13",
+        "OperatorNo": "1303",
+        "RouteUID": "HSZ0573",
+        "RouteID": "0573",
+        "RouteName": {
+            "Zh_tw": "世博3號",
+            "En": "世博3號"
+        },
+        "SubRouteUID": "HSZ057301",
+        "SubRouteID": "057301",
+        "SubRouteName": {
+            "Zh_tw": "世博3號",
+            "En": "世博3號"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.98445,
+            "PositionLat": 24.807805,
+            "GeoHash": "wsqj1h45y"
+        },
+        "Speed": 0,
+        "Azimuth": 231,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:43:29+08:00",
+        "SrcRecTime": "2025-09-02T20:43:29+08:00",
+        "SrcTransTime": "2025-09-02T20:43:29+08:00",
+        "UpdateTime": "2025-09-02T20:43:32+08:00"
+    },
+    {
+        "PlateNumb": "FAD-397",
+        "OperatorID": "18",
+        "OperatorNo": "0909",
+        "RouteUID": "HSZ0008",
+        "RouteID": "0008",
+        "RouteName": {
+            "Zh_tw": "83",
+            "En": "83"
+        },
+        "SubRouteUID": "HSZ000801",
+        "SubRouteID": "000801",
+        "SubRouteName": {
+            "Zh_tw": "83",
+            "En": "83"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.98146,
+            "PositionLat": 24.8287,
+            "GeoHash": "wsqj1pbj8"
+        },
+        "Speed": 0,
+        "Azimuth": 306,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:32:36+08:00",
+        "SrcRecTime": "2025-09-02T20:32:36+08:00",
+        "SrcTransTime": "2025-09-02T20:32:36+08:00",
+        "UpdateTime": "2025-09-02T20:32:37+08:00"
+    },
+    {
+        "PlateNumb": "992-U7",
+        "OperatorID": "14",
+        "OperatorNo": "0911",
+        "RouteUID": "HSZ0739",
+        "RouteID": "0739",
+        "RouteName": {
+            "Zh_tw": "綠線",
+            "En": "綠線"
+        },
+        "SubRouteUID": "HSZ073901",
+        "SubRouteID": "073901",
+        "SubRouteName": {
+            "Zh_tw": "綠線",
+            "En": "綠線"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.993625,
+            "PositionLat": 24.8186733333333,
+            "GeoHash": "wsqj1q0g7"
+        },
+        "Speed": 0,
+        "Azimuth": 34,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:31:59+08:00",
+        "SrcRecTime": "2025-09-02T20:32:00+08:00",
+        "SrcTransTime": "2025-09-02T20:32:00+08:00",
+        "UpdateTime": "2025-09-02T20:32:02+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3011",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSZ0520",
+        "RouteID": "0520",
+        "RouteName": {
+            "Zh_tw": "52",
+            "En": "52"
+        },
+        "SubRouteUID": "HSZ052001",
+        "SubRouteID": "052001",
+        "SubRouteName": {
+            "Zh_tw": "52",
+            "En": "52"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.021108333333,
+            "PositionLat": 24.7879683333333,
+            "GeoHash": "wsqj1bsbk"
+        },
+        "Speed": 14,
+        "Azimuth": 78,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:29:00+08:00",
+        "SrcRecTime": "2025-09-02T20:29:00+08:00",
+        "SrcTransTime": "2025-09-02T20:29:00+08:00",
+        "UpdateTime": "2025-09-02T20:29:02+08:00"
+    },
+    {
+        "PlateNumb": "FAD-268",
+        "OperatorID": "18",
+        "OperatorNo": "0909",
+        "RouteUID": "HSZ0008",
+        "RouteID": "0008",
+        "RouteName": {
+            "Zh_tw": "83",
+            "En": "83"
+        },
+        "SubRouteUID": "HSZ000802",
+        "SubRouteID": "000802",
+        "SubRouteName": {
+            "Zh_tw": "83",
+            "En": "83"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.98126,
+            "PositionLat": 24.828395,
+            "GeoHash": "wsqj0zzgg"
+        },
+        "Speed": 0,
+        "Azimuth": 35,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:25:25+08:00",
+        "SrcRecTime": "2025-09-02T20:25:26+08:00",
+        "SrcTransTime": "2025-09-02T20:25:26+08:00",
+        "UpdateTime": "2025-09-02T20:25:27+08:00"
+    },
+    {
+        "PlateNumb": "EAL-5108",
+        "OperatorID": "45",
+        "OperatorNo": "1101",
+        "RouteUID": "HSZ0185",
+        "RouteID": "0185",
+        "RouteName": {
+            "Zh_tw": "先導公車",
+            "En": "先導公車"
+        },
+        "SubRouteUID": "HSZ018502",
+        "SubRouteID": "018502",
+        "SubRouteName": {
+            "Zh_tw": "先導公車",
+            "En": "先導公車"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.966966666667,
+            "PositionLat": 24.8089166666667,
+            "GeoHash": "wsqj0sm6q"
+        },
+        "Speed": 0,
+        "Azimuth": 324,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:17:28+08:00",
+        "SrcRecTime": "2025-09-02T20:17:28+08:00",
+        "SrcTransTime": "2025-09-02T20:17:28+08:00",
+        "UpdateTime": "2025-09-02T20:17:32+08:00"
+    }
+]

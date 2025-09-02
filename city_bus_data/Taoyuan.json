@@ -1,0 +1,4422 @@
+[
+    {
+        "PlateNumb": "028-FX",
+        "OperatorID": "2",
+        "OperatorNo": "0404",
+        "RouteUID": "TAO112",
+        "RouteID": "112",
+        "RouteName": {
+            "Zh_tw": "112N",
+            "En": "112N"
+        },
+        "SubRouteUID": "TAO112",
+        "SubRouteID": "112",
+        "SubRouteName": {
+            "Zh_tw": "112N",
+            "En": "112N"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.228623,
+            "PositionLat": 24.946818,
+            "GeoHash": "wsqjyt7vx"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "043-U8",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO715",
+        "RouteID": "715",
+        "RouteName": {
+            "Zh_tw": "715",
+            "En": "715"
+        },
+        "SubRouteUID": "TAO715",
+        "SubRouteID": "715",
+        "SubRouteName": {
+            "Zh_tw": "715",
+            "En": "715"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.419444,
+            "PositionLat": 24.955351,
+            "GeoHash": "wsqmfyyzq"
+        },
+        "Speed": 84,
+        "Azimuth": 38,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "049-FX",
+        "OperatorID": "2",
+        "OperatorNo": "0404",
+        "RouteUID": "TAO112",
+        "RouteID": "112",
+        "RouteName": {
+            "Zh_tw": "112N",
+            "En": "112N"
+        },
+        "SubRouteUID": "TAO112",
+        "SubRouteID": "112",
+        "SubRouteName": {
+            "Zh_tw": "112N",
+            "En": "112N"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.247941,
+            "PositionLat": 24.944983,
+            "GeoHash": "wsqjzj451"
+        },
+        "Speed": 0,
+        "Azimuth": 139,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:56+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "052-FX",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5087",
+        "RouteID": "5087",
+        "RouteName": {
+            "Zh_tw": "5087",
+            "En": "5087"
+        },
+        "SubRouteUID": "TAO5087",
+        "SubRouteID": "5087",
+        "SubRouteName": {
+            "Zh_tw": "5087",
+            "En": "5087"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.214311,
+            "PositionLat": 25.013081,
+            "GeoHash": "wsqnq33xf"
+        },
+        "Speed": 0,
+        "Azimuth": 99,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:57+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "060-FX",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5044",
+        "RouteID": "5044",
+        "RouteName": {
+            "Zh_tw": "5044",
+            "En": "5044"
+        },
+        "SubRouteUID": "TAO5044",
+        "SubRouteID": "5044",
+        "SubRouteName": {
+            "Zh_tw": "5044",
+            "En": "5044"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.297481,
+            "PositionLat": 24.938584,
+            "GeoHash": "wsqmb5yju"
+        },
+        "Speed": 16,
+        "Azimuth": 184,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:45+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "065-FX",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5009",
+        "RouteID": "5009",
+        "RouteName": {
+            "Zh_tw": "5009",
+            "En": "5009"
+        },
+        "SubRouteUID": "TAO5009",
+        "SubRouteID": "5009",
+        "SubRouteName": {
+            "Zh_tw": "5009",
+            "En": "5009"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.414034,
+            "PositionLat": 25.022981,
+            "GeoHash": "wsqq6g712"
+        },
+        "Speed": 0,
+        "Azimuth": 50,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:56+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "078-FX",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3030",
+        "RouteID": "3030",
+        "RouteName": {
+            "Zh_tw": "102",
+            "En": "102"
+        },
+        "SubRouteUID": "TAO3030",
+        "SubRouteID": "3030",
+        "SubRouteName": {
+            "Zh_tw": "102",
+            "En": "102"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.30252,
+            "PositionLat": 24.97603,
+            "GeoHash": "wsqq069zc"
+        },
+        "Speed": 20,
+        "Azimuth": 203,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "097-FX",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5063",
+        "RouteID": "5063",
+        "RouteName": {
+            "Zh_tw": "5063",
+            "En": "5063"
+        },
+        "SubRouteUID": "TAO5063",
+        "SubRouteID": "5063",
+        "SubRouteName": {
+            "Zh_tw": "5063",
+            "En": "5063"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.312676,
+            "PositionLat": 24.985491,
+            "GeoHash": "wsqq0s3pn"
+        },
+        "Speed": 22,
+        "Azimuth": 82,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "241-U7",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO5672",
+        "RouteID": "5672",
+        "RouteName": {
+            "Zh_tw": "5672",
+            "En": "5672"
+        },
+        "SubRouteUID": "TAO5672",
+        "SubRouteID": "5672",
+        "SubRouteName": {
+            "Zh_tw": "5672",
+            "En": "5672"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.228146,
+            "PositionLat": 24.923491,
+            "GeoHash": "wsqjy95tu"
+        },
+        "Speed": 0,
+        "Azimuth": 351,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "243-U7",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO5616",
+        "RouteID": "5616",
+        "RouteName": {
+            "Zh_tw": "5616",
+            "En": "5616"
+        },
+        "SubRouteUID": "TAO5616",
+        "SubRouteID": "5616",
+        "SubRouteName": {
+            "Zh_tw": "5616",
+            "En": "5616"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.21128,
+            "PositionLat": 24.901005,
+            "GeoHash": "wsqjwjp6g"
+        },
+        "Speed": 0,
+        "Azimuth": 198,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "265-U7",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO710",
+        "RouteID": "710",
+        "RouteName": {
+            "Zh_tw": "710",
+            "En": "710"
+        },
+        "SubRouteUID": "TAO710",
+        "SubRouteID": "710",
+        "SubRouteName": {
+            "Zh_tw": "710",
+            "En": "710"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.290954,
+            "PositionLat": 24.876446,
+            "GeoHash": "wsqm8097u"
+        },
+        "Speed": 0,
+        "Azimuth": 223,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "307-U7",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO7103",
+        "RouteID": "7103",
+        "RouteName": {
+            "Zh_tw": "710A",
+            "En": "710A"
+        },
+        "SubRouteUID": "TAO7103",
+        "SubRouteID": "7103",
+        "SubRouteName": {
+            "Zh_tw": "710A",
+            "En": "710A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.318579,
+            "PositionLat": 24.93646,
+            "GeoHash": "wsqmbet3r"
+        },
+        "Speed": 86,
+        "Azimuth": 52,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:58+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "338-U7",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO5616",
+        "RouteID": "5616",
+        "RouteName": {
+            "Zh_tw": "5616",
+            "En": "5616"
+        },
+        "SubRouteUID": "TAO5616",
+        "SubRouteID": "5616",
+        "SubRouteName": {
+            "Zh_tw": "5616",
+            "En": "5616"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.211893,
+            "PositionLat": 24.904125,
+            "GeoHash": "wsqjwjxv1"
+        },
+        "Speed": 0,
+        "Azimuth": 351,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:57+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "358-U7",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO5623",
+        "RouteID": "5623",
+        "RouteName": {
+            "Zh_tw": "5623",
+            "En": "5623"
+        },
+        "SubRouteUID": "TAO5623",
+        "SubRouteID": "5623",
+        "SubRouteName": {
+            "Zh_tw": "5623",
+            "En": "5623"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.218951,
+            "PositionLat": 24.951366,
+            "GeoHash": "wsqjyqkbn"
+        },
+        "Speed": 0,
+        "Azimuth": 236,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "365-U7",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO56231",
+        "RouteID": "56231",
+        "RouteName": {
+            "Zh_tw": "5623A",
+            "En": "5623A"
+        },
+        "SubRouteUID": "TAO56231",
+        "SubRouteID": "56231",
+        "SubRouteName": {
+            "Zh_tw": "5623A",
+            "En": "5623A"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.148291,
+            "PositionLat": 24.91371,
+            "GeoHash": "wsqjsz3kz"
+        },
+        "Speed": 0,
+        "Azimuth": 358,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:07:18+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "381-FZ",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO168",
+        "RouteID": "168",
+        "RouteName": {
+            "Zh_tw": "168",
+            "En": "168"
+        },
+        "SubRouteUID": "TAO168",
+        "SubRouteID": "168",
+        "SubRouteName": {
+            "Zh_tw": "168",
+            "En": "168"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.312621,
+            "PositionLat": 25.015876,
+            "GeoHash": "wsqq2d10h"
+        },
+        "Speed": 0,
+        "Azimuth": 85,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:52+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "401-U7",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO302",
+        "RouteID": "302",
+        "RouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "SubRouteUID": "TAO302",
+        "SubRouteID": "302",
+        "SubRouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.325671,
+            "PositionLat": 24.999735,
+            "GeoHash": "wsqq0z4dj"
+        },
+        "Speed": 0,
+        "Azimuth": 127,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:49+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "413-U7",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3165",
+        "RouteID": "3165",
+        "RouteName": {
+            "Zh_tw": "206D",
+            "En": "206D"
+        },
+        "SubRouteUID": "TAO3165",
+        "SubRouteID": "3165",
+        "SubRouteName": {
+            "Zh_tw": "206D",
+            "En": "206D"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.282646,
+            "PositionLat": 25.009821,
+            "GeoHash": "wsqnrbgkf"
+        },
+        "Speed": 56,
+        "Azimuth": 106,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:44+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "415-U7",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO607",
+        "RouteID": "607",
+        "RouteName": {
+            "Zh_tw": "GR",
+            "En": "GR"
+        },
+        "SubRouteUID": "TAO607",
+        "SubRouteID": "607",
+        "SubRouteName": {
+            "Zh_tw": "GR",
+            "En": "GR"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.298366,
+            "PositionLat": 25.016086,
+            "GeoHash": "wsqq24nc2"
+        },
+        "Speed": 16,
+        "Azimuth": 164,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:43+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "416-FT",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5063",
+        "RouteID": "5063",
+        "RouteName": {
+            "Zh_tw": "5063",
+            "En": "5063"
+        },
+        "SubRouteUID": "TAO5063",
+        "SubRouteID": "5063",
+        "SubRouteName": {
+            "Zh_tw": "5063",
+            "En": "5063"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.365871,
+            "PositionLat": 25.05855,
+            "GeoHash": "wsqq99zbt"
+        },
+        "Speed": 0,
+        "Azimuth": 138,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:56+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "428-FT",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5073",
+        "RouteID": "5073",
+        "RouteName": {
+            "Zh_tw": "5073",
+            "En": "5073"
+        },
+        "SubRouteUID": "TAO5073",
+        "SubRouteID": "5073",
+        "SubRouteName": {
+            "Zh_tw": "5073",
+            "En": "5073"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.286576,
+            "PositionLat": 25.085476,
+            "GeoHash": "wsqnxywjq"
+        },
+        "Speed": 11,
+        "Azimuth": 114,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "436-FT",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO7011",
+        "RouteID": "7011",
+        "RouteName": {
+            "Zh_tw": "701A",
+            "En": "701A"
+        },
+        "SubRouteUID": "TAO7011",
+        "SubRouteID": "7011",
+        "SubRouteName": {
+            "Zh_tw": "701A",
+            "En": "701A"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.232513,
+            "PositionLat": 24.873574,
+            "GeoHash": "wsqjw8ng4"
+        },
+        "Speed": 0,
+        "Azimuth": 72,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:57+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "459-FT",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO7071",
+        "RouteID": "7071",
+        "RouteName": {
+            "Zh_tw": "707",
+            "En": "707"
+        },
+        "SubRouteUID": "TAO7071",
+        "SubRouteID": "7071",
+        "SubRouteName": {
+            "Zh_tw": "707",
+            "En": "707"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.213693,
+            "PositionLat": 25.013501,
+            "GeoHash": "wsqnq3945"
+        },
+        "Speed": 21,
+        "Azimuth": 217,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "462-FT",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO6070",
+        "RouteID": "6070",
+        "RouteName": {
+            "Zh_tw": "GR2",
+            "En": "GR2"
+        },
+        "SubRouteUID": "TAO6070",
+        "SubRouteID": "6070",
+        "SubRouteName": {
+            "Zh_tw": "GR2",
+            "En": "GR2"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.312673,
+            "PositionLat": 24.990241,
+            "GeoHash": "wsqq0t34w"
+        },
+        "Speed": 0,
+        "Azimuth": 299,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "485-FT",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO22100",
+        "RouteID": "22100",
+        "RouteName": {
+            "Zh_tw": "221",
+            "En": "221"
+        },
+        "SubRouteUID": "TAO22100",
+        "SubRouteID": "22100",
+        "SubRouteName": {
+            "Zh_tw": "221",
+            "En": "221"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.293391,
+            "PositionLat": 25.007741,
+            "GeoHash": "wsqq20e0s"
+        },
+        "Speed": 36,
+        "Azimuth": 49,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "535-U7",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO8050",
+        "RouteID": "8050",
+        "RouteName": {
+            "Zh_tw": "L110",
+            "En": "L110"
+        },
+        "SubRouteUID": "TAO8050",
+        "SubRouteID": "8050",
+        "SubRouteName": {
+            "Zh_tw": "L110",
+            "En": "L110"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.274198,
+            "PositionLat": 25.012241,
+            "GeoHash": "wsqnr9m4v"
+        },
+        "Speed": 16,
+        "Azimuth": 22,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:56+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "536-U7",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO22100",
+        "RouteID": "22100",
+        "RouteName": {
+            "Zh_tw": "221",
+            "En": "221"
+        },
+        "SubRouteUID": "TAO22100",
+        "SubRouteID": "22100",
+        "SubRouteName": {
+            "Zh_tw": "221",
+            "En": "221"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.303561,
+            "PositionLat": 24.992341,
+            "GeoHash": "wsqq0mdwc"
+        },
+        "Speed": 0,
+        "Azimuth": 176,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:54+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "552-FY",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO1371",
+        "RouteID": "1371",
+        "RouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "SubRouteUID": "TAO1371",
+        "SubRouteID": "1371",
+        "SubRouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.293456,
+            "PositionLat": 25.045216,
+            "GeoHash": "wsqq2p74y"
+        },
+        "Speed": 0,
+        "Azimuth": 169,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:54+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "581-FY",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO607",
+        "RouteID": "607",
+        "RouteName": {
+            "Zh_tw": "GR",
+            "En": "GR"
+        },
+        "SubRouteUID": "TAO607",
+        "SubRouteID": "607",
+        "SubRouteName": {
+            "Zh_tw": "GR",
+            "En": "GR"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.295651,
+            "PositionLat": 25.022386,
+            "GeoHash": "wsqq25hvc"
+        },
+        "Speed": 0,
+        "Azimuth": 337,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:52+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "582-FY",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3165",
+        "RouteID": "3165",
+        "RouteName": {
+            "Zh_tw": "206D",
+            "En": "206D"
+        },
+        "SubRouteUID": "TAO3165",
+        "SubRouteID": "3165",
+        "SubRouteName": {
+            "Zh_tw": "206D",
+            "En": "206D"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.308541,
+            "PositionLat": 24.993293,
+            "GeoHash": "wsqq0myhm"
+        },
+        "Speed": 0,
+        "Azimuth": 151,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:44+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "583-FY",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3400",
+        "RouteID": "3400",
+        "RouteName": {
+            "Zh_tw": "117",
+            "En": "117"
+        },
+        "SubRouteUID": "TAO3400",
+        "SubRouteID": "3400",
+        "SubRouteName": {
+            "Zh_tw": "117",
+            "En": "117"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.306296,
+            "PositionLat": 24.997068,
+            "GeoHash": "wsqq0qsd3"
+        },
+        "Speed": 29,
+        "Azimuth": 210,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:48+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "586-U7",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO189",
+        "RouteID": "189",
+        "RouteName": {
+            "Zh_tw": "189",
+            "En": "189"
+        },
+        "SubRouteUID": "TAO189",
+        "SubRouteID": "189",
+        "SubRouteName": {
+            "Zh_tw": "189",
+            "En": "189"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.280156,
+            "PositionLat": 24.989236,
+            "GeoHash": "wsqnpv1sb"
+        },
+        "Speed": 5,
+        "Azimuth": 171,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:54+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "589-U7",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.305866,
+            "PositionLat": 24.992609,
+            "GeoHash": "wsqq0mu0r"
+        },
+        "Speed": 25,
+        "Azimuth": 257,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "592-FY",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3180",
+        "RouteID": "3180",
+        "RouteName": {
+            "Zh_tw": "113",
+            "En": "113"
+        },
+        "SubRouteUID": "TAO3180",
+        "SubRouteID": "3180",
+        "SubRouteName": {
+            "Zh_tw": "113",
+            "En": "113"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.326416,
+            "PositionLat": 24.986893,
+            "GeoHash": "wsqq0uepn"
+        },
+        "Speed": 30,
+        "Azimuth": 137,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:50+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "593-FY",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO22000",
+        "RouteID": "22000",
+        "RouteName": {
+            "Zh_tw": "220",
+            "En": "220"
+        },
+        "SubRouteUID": "TAO22000",
+        "SubRouteID": "22000",
+        "SubRouteName": {
+            "Zh_tw": "220",
+            "En": "220"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.302451,
+            "PositionLat": 25.0239,
+            "GeoHash": "wsqq273wz"
+        },
+        "Speed": 10,
+        "Azimuth": 333,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:47+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "597-FY",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3160",
+        "RouteID": "3160",
+        "RouteName": {
+            "Zh_tw": "206",
+            "En": "206"
+        },
+        "SubRouteUID": "TAO3160",
+        "SubRouteID": "3160",
+        "SubRouteName": {
+            "Zh_tw": "206",
+            "En": "206"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.214271,
+            "PositionLat": 25.013016,
+            "GeoHash": "wsqnq33x3"
+        },
+        "Speed": 0,
+        "Azimuth": 74,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:47+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "598-U7",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.270396,
+            "PositionLat": 24.977934,
+            "GeoHash": "wsqnpe47j"
+        },
+        "Speed": 0,
+        "Azimuth": 243,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:46+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "599-FY",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5042",
+        "RouteID": "5042",
+        "RouteName": {
+            "Zh_tw": "5042",
+            "En": "5042"
+        },
+        "SubRouteUID": "TAO5042",
+        "SubRouteID": "5042",
+        "SubRouteName": {
+            "Zh_tw": "5042",
+            "En": "5042"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.135526,
+            "PositionLat": 25.013176,
+            "GeoHash": "wsqnk980q"
+        },
+        "Speed": 33,
+        "Azimuth": 299,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:49+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "599-U7",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.280006,
+            "PositionLat": 24.984911,
+            "GeoHash": "wsqnpu37s"
+        },
+        "Speed": 28,
+        "Azimuth": 47,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:48+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "600-FY",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3166",
+        "RouteID": "3166",
+        "RouteName": {
+            "Zh_tw": "206E",
+            "En": "206E"
+        },
+        "SubRouteUID": "TAO3166",
+        "SubRouteID": "3166",
+        "SubRouteName": {
+            "Zh_tw": "206E",
+            "En": "206E"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.309386,
+            "PositionLat": 24.997546,
+            "GeoHash": "wsqq0qwv3"
+        },
+        "Speed": 0,
+        "Azimuth": 347,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:58+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "700-U7",
+        "OperatorID": "2",
+        "OperatorNo": "0404",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.198948,
+            "PositionLat": 24.954531,
+            "GeoHash": "wsqjvyy6s"
+        },
+        "Speed": 0,
+        "Azimuth": 240,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:49+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "896-FP",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO302",
+        "RouteID": "302",
+        "RouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "SubRouteUID": "TAO302",
+        "SubRouteID": "302",
+        "SubRouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.301391,
+            "PositionLat": 25.026286,
+            "GeoHash": "wsqq27bux"
+        },
+        "Speed": 33,
+        "Azimuth": 338,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "897-FP",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO1371",
+        "RouteID": "1371",
+        "RouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "SubRouteUID": "TAO1371",
+        "SubRouteID": "1371",
+        "SubRouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.280453,
+            "PositionLat": 24.929083,
+            "GeoHash": "wsqjzf1wr"
+        },
+        "Speed": 0,
+        "Azimuth": 91,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:58+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "916-U5",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO715",
+        "RouteID": "715",
+        "RouteName": {
+            "Zh_tw": "715",
+            "En": "715"
+        },
+        "SubRouteUID": "TAO715",
+        "SubRouteID": "715",
+        "SubRouteName": {
+            "Zh_tw": "715",
+            "En": "715"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.297581,
+            "PositionLat": 24.938658,
+            "GeoHash": "wsqmb5ynn"
+        },
+        "Speed": 0,
+        "Azimuth": 3,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:56+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "917-U5",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO208",
+        "RouteID": "208",
+        "RouteName": {
+            "Zh_tw": "208",
+            "En": "208"
+        },
+        "SubRouteUID": "TAO208",
+        "SubRouteID": "208",
+        "SubRouteName": {
+            "Zh_tw": "208",
+            "En": "208"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.250001,
+            "PositionLat": 24.980236,
+            "GeoHash": "wsqnp5e83"
+        },
+        "Speed": 0,
+        "Azimuth": 155,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:01+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "920-U5",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO715",
+        "RouteID": "715",
+        "RouteName": {
+            "Zh_tw": "715",
+            "En": "715"
+        },
+        "SubRouteUID": "TAO715",
+        "SubRouteID": "715",
+        "SubRouteName": {
+            "Zh_tw": "715",
+            "En": "715"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.297506,
+            "PositionLat": 24.947034,
+            "GeoHash": "wsqmbjqph"
+        },
+        "Speed": 39,
+        "Azimuth": 186,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "939-FP",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO2250",
+        "RouteID": "2250",
+        "RouteName": {
+            "Zh_tw": "225",
+            "En": "225"
+        },
+        "SubRouteUID": "TAO2250",
+        "SubRouteID": "2250",
+        "SubRouteName": {
+            "Zh_tw": "225",
+            "En": "225"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.312798,
+            "PositionLat": 24.981526,
+            "GeoHash": "wsqq0e9rc"
+        },
+        "Speed": 27,
+        "Azimuth": 96,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:44+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "983-FP",
+        "OperatorID": "2",
+        "OperatorNo": "0404",
+        "RouteUID": "TAO602",
+        "RouteID": "602",
+        "RouteName": {
+            "Zh_tw": "BR",
+            "En": "BR"
+        },
+        "SubRouteUID": "TAO602",
+        "SubRouteID": "602",
+        "SubRouteName": {
+            "Zh_tw": "BR",
+            "En": "BR"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.325691,
+            "PositionLat": 24.99294,
+            "GeoHash": "wsqq0vfdm"
+        },
+        "Speed": 0,
+        "Azimuth": 261,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:44+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "991-FP-C",
+        "OperatorID": "2",
+        "OperatorNo": "0404",
+        "RouteUID": "TAO112",
+        "RouteID": "112",
+        "RouteName": {
+            "Zh_tw": "112N",
+            "En": "112N"
+        },
+        "SubRouteUID": "TAO112",
+        "SubRouteID": "112",
+        "SubRouteName": {
+            "Zh_tw": "112N",
+            "En": "112N"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.216196,
+            "PositionLat": 24.955636,
+            "GeoHash": "wsqjyr4cn"
+        },
+        "Speed": 0,
+        "Azimuth": 281,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "EAL-0568",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3260",
+        "RouteID": "3260",
+        "RouteName": {
+            "Zh_tw": "112S",
+            "En": "112S"
+        },
+        "SubRouteUID": "TAO3260",
+        "SubRouteID": "3260",
+        "SubRouteName": {
+            "Zh_tw": "112S",
+            "En": "112S"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.22395,
+            "PositionLat": 24.954103,
+            "GeoHash": "wsqjywb84"
+        },
+        "Speed": 0,
+        "Azimuth": 24,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1286",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO168",
+        "RouteID": "168",
+        "RouteName": {
+            "Zh_tw": "168",
+            "En": "168"
+        },
+        "SubRouteUID": "TAO168",
+        "SubRouteID": "168",
+        "SubRouteName": {
+            "Zh_tw": "168",
+            "En": "168"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.251109,
+            "PositionLat": 24.975435,
+            "GeoHash": "wsqnp4sk7"
+        },
+        "Speed": 0,
+        "Azimuth": 171,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:56+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "EAL-1288",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO168",
+        "RouteID": "168",
+        "RouteName": {
+            "Zh_tw": "168",
+            "En": "168"
+        },
+        "SubRouteUID": "TAO168",
+        "SubRouteID": "168",
+        "SubRouteName": {
+            "Zh_tw": "168",
+            "En": "168"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.287491,
+            "PositionLat": 25.00046,
+            "GeoHash": "wsqnpzny5"
+        },
+        "Speed": 34,
+        "Azimuth": 161,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:58+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAB-867",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO708",
+        "RouteID": "708",
+        "RouteName": {
+            "Zh_tw": "708",
+            "En": "708"
+        },
+        "SubRouteUID": "TAO708",
+        "SubRouteID": "708",
+        "SubRouteName": {
+            "Zh_tw": "708",
+            "En": "708"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.364,
+            "PositionLat": 25.064203,
+            "GeoHash": "wsqq9dy9d"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:47+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAB-869",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO7081",
+        "RouteID": "7081",
+        "RouteName": {
+            "Zh_tw": "708A",
+            "En": "708A"
+        },
+        "SubRouteUID": "TAO7081",
+        "SubRouteID": "7081",
+        "SubRouteName": {
+            "Zh_tw": "708A",
+            "En": "708A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.37457,
+            "PositionLat": 25.052536,
+            "GeoHash": "wsqq9bwm8"
+        },
+        "Speed": 0,
+        "Azimuth": 229,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAB-870",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO708",
+        "RouteID": "708",
+        "RouteName": {
+            "Zh_tw": "708",
+            "En": "708"
+        },
+        "SubRouteUID": "TAO708",
+        "SubRouteID": "708",
+        "SubRouteName": {
+            "Zh_tw": "708",
+            "En": "708"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.350303,
+            "PositionLat": 25.065398,
+            "GeoHash": "wsqq97h8e"
+        },
+        "Speed": 74,
+        "Azimuth": 93,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAB-880",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO7081",
+        "RouteID": "7081",
+        "RouteName": {
+            "Zh_tw": "708A",
+            "En": "708A"
+        },
+        "SubRouteUID": "TAO7081",
+        "SubRouteID": "7081",
+        "SubRouteName": {
+            "Zh_tw": "708A",
+            "En": "708A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.374331,
+            "PositionLat": 25.052828,
+            "GeoHash": "wsqq9bwp6"
+        },
+        "Speed": 0,
+        "Azimuth": 319,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:52+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAB-881",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO6060",
+        "RouteID": "6060",
+        "RouteName": {
+            "Zh_tw": "606",
+            "En": "606"
+        },
+        "SubRouteUID": "TAO6060",
+        "SubRouteID": "6060",
+        "SubRouteName": {
+            "Zh_tw": "606",
+            "En": "606"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.37435,
+            "PositionLat": 25.052753,
+            "GeoHash": "wsqq9bwng"
+        },
+        "Speed": 0,
+        "Azimuth": 125,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:50+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAB-882",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO708",
+        "RouteID": "708",
+        "RouteName": {
+            "Zh_tw": "708",
+            "En": "708"
+        },
+        "SubRouteUID": "TAO708",
+        "SubRouteID": "708",
+        "SubRouteName": {
+            "Zh_tw": "708",
+            "En": "708"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.444909,
+            "PositionLat": 25.06277,
+            "GeoHash": "wsqqed93p"
+        },
+        "Speed": 0,
+        "Azimuth": 53,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:49+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAB-883",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO6060",
+        "RouteID": "6060",
+        "RouteName": {
+            "Zh_tw": "606",
+            "En": "606"
+        },
+        "SubRouteUID": "TAO6060",
+        "SubRouteID": "6060",
+        "SubRouteName": {
+            "Zh_tw": "606",
+            "En": "606"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.374516,
+            "PositionLat": 25.052423,
+            "GeoHash": "wsqq9bwhz"
+        },
+        "Speed": 0,
+        "Azimuth": 150,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:56+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAB-885",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO7081",
+        "RouteID": "7081",
+        "RouteName": {
+            "Zh_tw": "708A",
+            "En": "708A"
+        },
+        "SubRouteUID": "TAO7081",
+        "SubRouteID": "7081",
+        "SubRouteName": {
+            "Zh_tw": "708A",
+            "En": "708A"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.374461,
+            "PositionLat": 25.052559,
+            "GeoHash": "wsqq9bwjt"
+        },
+        "Speed": 0,
+        "Azimuth": 39,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:49+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-565",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.247691,
+            "PositionLat": 24.968181,
+            "GeoHash": "wsqnp13f5"
+        },
+        "Speed": 4,
+        "Azimuth": 68,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:57+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-568",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3220",
+        "RouteID": "3220",
+        "RouteName": {
+            "Zh_tw": "132",
+            "En": "132"
+        },
+        "SubRouteUID": "TAO3220",
+        "SubRouteID": "3220",
+        "SubRouteName": {
+            "Zh_tw": "132",
+            "En": "132"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.19455,
+            "PositionLat": 24.95764,
+            "GeoHash": "wsqjvz7hv"
+        },
+        "Speed": 19,
+        "Azimuth": 216,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:42+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-576",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO606",
+        "RouteID": "606",
+        "RouteName": {
+            "Zh_tw": "601",
+            "En": "601"
+        },
+        "SubRouteUID": "TAO606",
+        "SubRouteID": "606",
+        "SubRouteName": {
+            "Zh_tw": "601",
+            "En": "601"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.337681,
+            "PositionLat": 24.995293,
+            "GeoHash": "wsqq1n72h"
+        },
+        "Speed": 6,
+        "Azimuth": 246,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:51+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-577",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO602",
+        "RouteID": "602",
+        "RouteName": {
+            "Zh_tw": "BR",
+            "En": "BR"
+        },
+        "SubRouteUID": "TAO602",
+        "SubRouteID": "602",
+        "SubRouteName": {
+            "Zh_tw": "BR",
+            "En": "BR"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.344419,
+            "PositionLat": 24.998033,
+            "GeoHash": "wsqq1qb21"
+        },
+        "Speed": 32,
+        "Azimuth": 53,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:01+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-581",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.325031,
+            "PositionLat": 24.993461,
+            "GeoHash": "wsqq0vfjq"
+        },
+        "Speed": 0,
+        "Azimuth": 161,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-637",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5022",
+        "RouteID": "5022",
+        "RouteName": {
+            "Zh_tw": "5022",
+            "En": "5022"
+        },
+        "SubRouteUID": "TAO5022",
+        "SubRouteID": "5022",
+        "SubRouteName": {
+            "Zh_tw": "5022",
+            "En": "5022"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.257106,
+            "PositionLat": 25.079091,
+            "GeoHash": "wsqnxm88r"
+        },
+        "Speed": 37,
+        "Azimuth": 326,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:58+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-650",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5014",
+        "RouteID": "5014",
+        "RouteName": {
+            "Zh_tw": "5014",
+            "En": "5014"
+        },
+        "SubRouteUID": "TAO5014",
+        "SubRouteID": "5014",
+        "SubRouteName": {
+            "Zh_tw": "5014",
+            "En": "5014"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.294629,
+            "PositionLat": 25.054186,
+            "GeoHash": "wsqq80up1"
+        },
+        "Speed": 0,
+        "Azimuth": 338,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:46+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-651",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5053",
+        "RouteID": "5053",
+        "RouteName": {
+            "Zh_tw": "5053",
+            "En": "5053"
+        },
+        "SubRouteUID": "TAO5053",
+        "SubRouteID": "5053",
+        "SubRouteName": {
+            "Zh_tw": "5053",
+            "En": "5053"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.217338,
+            "PositionLat": 24.867731,
+            "GeoHash": "wsqjqr5c0"
+        },
+        "Speed": 0,
+        "Azimuth": 55,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:48+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-653",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO302",
+        "RouteID": "302",
+        "RouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "SubRouteUID": "TAO302",
+        "SubRouteID": "302",
+        "SubRouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.288771,
+            "PositionLat": 25.039486,
+            "GeoHash": "wsqnryrc9"
+        },
+        "Speed": 0,
+        "Azimuth": 114,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:01+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-673",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5086",
+        "RouteID": "5086",
+        "RouteName": {
+            "Zh_tw": "5086",
+            "En": "5086"
+        },
+        "SubRouteUID": "TAO5086",
+        "SubRouteID": "5086",
+        "SubRouteName": {
+            "Zh_tw": "5086",
+            "En": "5086"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.241271,
+            "PositionLat": 25.021785,
+            "GeoHash": "wsqnqgj4q"
+        },
+        "Speed": 41,
+        "Azimuth": 250,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-681",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5035",
+        "RouteID": "5035",
+        "RouteName": {
+            "Zh_tw": "5035",
+            "En": "5035"
+        },
+        "SubRouteUID": "TAO5035",
+        "SubRouteID": "5035",
+        "SubRouteName": {
+            "Zh_tw": "5035",
+            "En": "5035"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.102501,
+            "PositionLat": 24.972486,
+            "GeoHash": "wsqn5f05k"
+        },
+        "Speed": 0,
+        "Azimuth": 183,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:47+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "FAD-686",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5098",
+        "RouteID": "5098",
+        "RouteName": {
+            "Zh_tw": "5098",
+            "En": "5098"
+        },
+        "SubRouteUID": "TAO5098",
+        "SubRouteID": "5098",
+        "SubRouteName": {
+            "Zh_tw": "5098",
+            "En": "5098"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.287931,
+            "PositionLat": 24.881093,
+            "GeoHash": "wsqjxcrnv"
+        },
+        "Speed": 0,
+        "Azimuth": 266,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:48+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-1250",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO7092",
+        "RouteID": "7092",
+        "RouteName": {
+            "Zh_tw": "709B",
+            "En": "709B"
+        },
+        "SubRouteUID": "TAO7092",
+        "SubRouteID": "7092",
+        "SubRouteName": {
+            "Zh_tw": "709B",
+            "En": "709B"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.206223,
+            "PositionLat": 24.913361,
+            "GeoHash": "wsqjwp7dv"
+        },
+        "Speed": 0,
+        "Azimuth": 82,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-1251",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO713",
+        "RouteID": "713",
+        "RouteName": {
+            "Zh_tw": "713",
+            "En": "713"
+        },
+        "SubRouteUID": "TAO713",
+        "SubRouteID": "713",
+        "SubRouteName": {
+            "Zh_tw": "713",
+            "En": "713"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.318206,
+            "PositionLat": 24.96068,
+            "GeoHash": "wsqmbxvnr"
+        },
+        "Speed": 6,
+        "Azimuth": 109,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:44+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-1252",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO7092",
+        "RouteID": "7092",
+        "RouteName": {
+            "Zh_tw": "709B",
+            "En": "709B"
+        },
+        "SubRouteUID": "TAO7092",
+        "SubRouteID": "7092",
+        "SubRouteName": {
+            "Zh_tw": "709B",
+            "En": "709B"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.335351,
+            "PositionLat": 24.938331,
+            "GeoHash": "wsqmc5csq"
+        },
+        "Speed": 85,
+        "Azimuth": 109,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:01+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-1255",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO713",
+        "RouteID": "713",
+        "RouteName": {
+            "Zh_tw": "713",
+            "En": "713"
+        },
+        "SubRouteUID": "TAO713",
+        "SubRouteID": "713",
+        "SubRouteName": {
+            "Zh_tw": "713",
+            "En": "713"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.353986,
+            "PositionLat": 24.9356,
+            "GeoHash": "wsqmc7rk2"
+        },
+        "Speed": 93,
+        "Azimuth": 250,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:57+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-1265",
+        "OperatorID": "3",
+        "OperatorNo": "0907",
+        "RouteUID": "TAO7092",
+        "RouteID": "7092",
+        "RouteName": {
+            "Zh_tw": "709B",
+            "En": "709B"
+        },
+        "SubRouteUID": "TAO7092",
+        "SubRouteID": "7092",
+        "SubRouteName": {
+            "Zh_tw": "709B",
+            "En": "709B"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.399001,
+            "PositionLat": 24.972383,
+            "GeoHash": "wsqq4d049"
+        },
+        "Speed": 0,
+        "Azimuth": 246,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:43+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3221",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO7061",
+        "RouteID": "7061",
+        "RouteName": {
+            "Zh_tw": "706A",
+            "En": "706A"
+        },
+        "SubRouteUID": "TAO7061",
+        "SubRouteID": "7061",
+        "SubRouteName": {
+            "Zh_tw": "706A",
+            "En": "706A"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.236334,
+            "PositionLat": 25.081244,
+            "GeoHash": "wsqnwvcsg"
+        },
+        "Speed": 0,
+        "Azimuth": 195,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3221.",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO717",
+        "RouteID": "717",
+        "RouteName": {
+            "Zh_tw": "717",
+            "En": "717"
+        },
+        "SubRouteUID": "TAO717",
+        "SubRouteID": "717",
+        "SubRouteName": {
+            "Zh_tw": "717",
+            "En": "717"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.236333,
+            "PositionLat": 25.081278,
+            "GeoHash": "wsqnwvct5"
+        },
+        "Speed": 0,
+        "Azimuth": 322,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:51+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3222",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO715",
+        "RouteID": "715",
+        "RouteName": {
+            "Zh_tw": "715",
+            "En": "715"
+        },
+        "SubRouteUID": "TAO715",
+        "SubRouteID": "715",
+        "SubRouteName": {
+            "Zh_tw": "715",
+            "En": "715"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.282021,
+            "PositionLat": 24.925361,
+            "GeoHash": "wsqjzcdbg"
+        },
+        "Speed": 0,
+        "Azimuth": 263,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:45+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3223",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO709",
+        "RouteID": "709",
+        "RouteName": {
+            "Zh_tw": "709",
+            "En": "709"
+        },
+        "SubRouteUID": "TAO709",
+        "SubRouteID": "709",
+        "SubRouteName": {
+            "Zh_tw": "709",
+            "En": "709"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.206811,
+            "PositionLat": 24.913476,
+            "GeoHash": "wsqjwpk5e"
+        },
+        "Speed": 11,
+        "Azimuth": 263,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:51+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3513",
+        "OperatorID": "2",
+        "OperatorNo": "0404",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.222118,
+            "PositionLat": 24.953904,
+            "GeoHash": "wsqjyqxr0"
+        },
+        "Speed": 0,
+        "Azimuth": 31,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:47+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3667",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO710",
+        "RouteID": "710",
+        "RouteName": {
+            "Zh_tw": "710",
+            "En": "710"
+        },
+        "SubRouteUID": "TAO710",
+        "SubRouteID": "710",
+        "SubRouteName": {
+            "Zh_tw": "710",
+            "En": "710"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.271206,
+            "PositionLat": 24.890191,
+            "GeoHash": "wsqjxe4gz"
+        },
+        "Speed": 26,
+        "Azimuth": 54,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:57+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3680",
+        "OperatorID": "2",
+        "OperatorNo": "0404",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.199269,
+            "PositionLat": 24.95472,
+            "GeoHash": "wsqjvyyeg"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:44+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3703",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5022",
+        "RouteID": "5022",
+        "RouteName": {
+            "Zh_tw": "5022",
+            "En": "5022"
+        },
+        "SubRouteUID": "TAO5022",
+        "SubRouteID": "5022",
+        "SubRouteName": {
+            "Zh_tw": "5022",
+            "En": "5022"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.306466,
+            "PositionLat": 25.025146,
+            "GeoHash": "wsqq27swj"
+        },
+        "Speed": 28,
+        "Azimuth": 340,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3709",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO50501",
+        "RouteID": "50501",
+        "RouteName": {
+            "Zh_tw": "5050A",
+            "En": "5050A"
+        },
+        "SubRouteUID": "TAO50501",
+        "SubRouteID": "50501",
+        "SubRouteName": {
+            "Zh_tw": "5050A",
+            "En": "5050A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.240716,
+            "PositionLat": 24.840018,
+            "GeoHash": "wsqjqcuz9"
+        },
+        "Speed": 56,
+        "Azimuth": 5,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:58+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3710",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3192",
+        "RouteID": "3192",
+        "RouteName": {
+            "Zh_tw": "152",
+            "En": "152"
+        },
+        "SubRouteUID": "TAO3192",
+        "SubRouteID": "3192",
+        "SubRouteName": {
+            "Zh_tw": "152",
+            "En": "152"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.304079,
+            "PositionLat": 25.005776,
+            "GeoHash": "wsqq224vj"
+        },
+        "Speed": 24,
+        "Azimuth": 327,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:45+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3711",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3191",
+        "RouteID": "3191",
+        "RouteName": {
+            "Zh_tw": "151",
+            "En": "151"
+        },
+        "SubRouteUID": "TAO3191",
+        "SubRouteID": "3191",
+        "SubRouteName": {
+            "Zh_tw": "151",
+            "En": "151"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.302408,
+            "PositionLat": 25.017513,
+            "GeoHash": "wsqq2639w"
+        },
+        "Speed": 24,
+        "Azimuth": 149,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:44+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3715",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.212819,
+            "PositionLat": 24.950524,
+            "GeoHash": "wsqjyq07r"
+        },
+        "Speed": 30,
+        "Azimuth": 124,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:56+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3721",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3030",
+        "RouteID": "3030",
+        "RouteName": {
+            "Zh_tw": "102",
+            "En": "102"
+        },
+        "SubRouteUID": "TAO3030",
+        "SubRouteID": "3030",
+        "SubRouteName": {
+            "Zh_tw": "102",
+            "En": "102"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.30391,
+            "PositionLat": 24.978464,
+            "GeoHash": "wsqq074y1"
+        },
+        "Speed": 0,
+        "Azimuth": 24,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:49+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3725",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3440",
+        "RouteID": "3440",
+        "RouteName": {
+            "Zh_tw": "157",
+            "En": "157"
+        },
+        "SubRouteUID": "TAO3440",
+        "SubRouteID": "3440",
+        "SubRouteName": {
+            "Zh_tw": "157",
+            "En": "157"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.297561,
+            "PositionLat": 24.942336,
+            "GeoHash": "wsqmbhw5w"
+        },
+        "Speed": 37,
+        "Azimuth": 358,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:56+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3728",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3110",
+        "RouteID": "3110",
+        "RouteName": {
+            "Zh_tw": "137",
+            "En": "137"
+        },
+        "SubRouteUID": "TAO3110",
+        "SubRouteID": "3110",
+        "SubRouteName": {
+            "Zh_tw": "137",
+            "En": "137"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.334964,
+            "PositionLat": 24.991689,
+            "GeoHash": "wsqq1j97j"
+        },
+        "Speed": 16,
+        "Azimuth": 221,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:50+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3730",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO607",
+        "RouteID": "607",
+        "RouteName": {
+            "Zh_tw": "GR",
+            "En": "GR"
+        },
+        "SubRouteUID": "TAO607",
+        "SubRouteID": "607",
+        "SubRouteName": {
+            "Zh_tw": "GR",
+            "En": "GR"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.313794,
+            "PositionLat": 24.986478,
+            "GeoHash": "wsqq0sdhb"
+        },
+        "Speed": 0,
+        "Azimuth": 81,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:47+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3731",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5098",
+        "RouteID": "5098",
+        "RouteName": {
+            "Zh_tw": "5098",
+            "En": "5098"
+        },
+        "SubRouteUID": "TAO5098",
+        "SubRouteID": "5098",
+        "SubRouteName": {
+            "Zh_tw": "5098",
+            "En": "5098"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.23241,
+            "PositionLat": 24.937323,
+            "GeoHash": "wsqjyewwr"
+        },
+        "Speed": 29,
+        "Azimuth": 144,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3739",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO2120",
+        "RouteID": "2120",
+        "RouteName": {
+            "Zh_tw": "212",
+            "En": "212"
+        },
+        "SubRouteUID": "TAO2120",
+        "SubRouteID": "2120",
+        "SubRouteName": {
+            "Zh_tw": "212",
+            "En": "212"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.215271,
+            "PositionLat": 24.868641,
+            "GeoHash": "wsqjqr4q2"
+        },
+        "Speed": 0,
+        "Azimuth": 243,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:52+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3756",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.312219,
+            "PositionLat": 24.985866,
+            "GeoHash": "wsqq0s8c5"
+        },
+        "Speed": 0,
+        "Azimuth": 245,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:02+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3760",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO50861",
+        "RouteID": "50861",
+        "RouteName": {
+            "Zh_tw": "5086A",
+            "En": "5086A"
+        },
+        "SubRouteUID": "TAO50861",
+        "SubRouteID": "50861",
+        "SubRouteName": {
+            "Zh_tw": "5086A",
+            "En": "5086A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.236741,
+            "PositionLat": 25.020876,
+            "GeoHash": "wsqnqfcvh"
+        },
+        "Speed": 43,
+        "Azimuth": 75,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3769",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO50431",
+        "RouteID": "50431",
+        "RouteName": {
+            "Zh_tw": "5043A",
+            "En": "5043A"
+        },
+        "SubRouteUID": "TAO50431",
+        "SubRouteID": "50431",
+        "SubRouteName": {
+            "Zh_tw": "5043A",
+            "En": "5043A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.120486,
+            "PositionLat": 25.060646,
+            "GeoHash": "wsqns4jhz"
+        },
+        "Speed": 51,
+        "Azimuth": 246,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3772",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO189",
+        "RouteID": "189",
+        "RouteName": {
+            "Zh_tw": "189",
+            "En": "189"
+        },
+        "SubRouteUID": "TAO189",
+        "SubRouteID": "189",
+        "SubRouteName": {
+            "Zh_tw": "189",
+            "En": "189"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.310266,
+            "PositionLat": 24.989266,
+            "GeoHash": "wsqq0mpmn"
+        },
+        "Speed": 0,
+        "Azimuth": 335,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:56+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3780",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5063",
+        "RouteID": "5063",
+        "RouteName": {
+            "Zh_tw": "5063",
+            "En": "5063"
+        },
+        "SubRouteUID": "TAO5063",
+        "SubRouteID": "5063",
+        "SubRouteName": {
+            "Zh_tw": "5063",
+            "En": "5063"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.342866,
+            "PositionLat": 25.004809,
+            "GeoHash": "wsqq1pzpt"
+        },
+        "Speed": 0,
+        "Azimuth": 209,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:45+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3781",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5104",
+        "RouteID": "5104",
+        "RouteName": {
+            "Zh_tw": "5104",
+            "En": "5104"
+        },
+        "SubRouteUID": "TAO5104",
+        "SubRouteID": "5104",
+        "SubRouteName": {
+            "Zh_tw": "5104",
+            "En": "5104"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.355311,
+            "PositionLat": 24.807681,
+            "GeoHash": "wsqm1s05p"
+        },
+        "Speed": 36,
+        "Azimuth": 276,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:49+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3787",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5022",
+        "RouteID": "5022",
+        "RouteName": {
+            "Zh_tw": "5022",
+            "En": "5022"
+        },
+        "SubRouteUID": "TAO5022",
+        "SubRouteID": "5022",
+        "SubRouteName": {
+            "Zh_tw": "5022",
+            "En": "5022"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.236276,
+            "PositionLat": 25.11091,
+            "GeoHash": "wsqnyg399"
+        },
+        "Speed": 0,
+        "Azimuth": 278,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:07:14+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3788",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.224011,
+            "PositionLat": 24.94084,
+            "GeoHash": "wsqjys2du"
+        },
+        "Speed": 0,
+        "Azimuth": 166,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:52+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3790",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5096",
+        "RouteID": "5096",
+        "RouteName": {
+            "Zh_tw": "5096",
+            "En": "5096"
+        },
+        "SubRouteUID": "TAO5096",
+        "SubRouteID": "5096",
+        "SubRouteName": {
+            "Zh_tw": "5096",
+            "En": "5096"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.302323,
+            "PositionLat": 24.975455,
+            "GeoHash": "wsqq069ss"
+        },
+        "Speed": 0,
+        "Azimuth": 175,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:01+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3793",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5035",
+        "RouteID": "5035",
+        "RouteName": {
+            "Zh_tw": "5035",
+            "En": "5035"
+        },
+        "SubRouteUID": "TAO5035",
+        "SubRouteID": "5035",
+        "SubRouteName": {
+            "Zh_tw": "5035",
+            "En": "5035"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.144541,
+            "PositionLat": 24.962675,
+            "GeoHash": "wsqnh8qf0"
+        },
+        "Speed": 0,
+        "Azimuth": 268,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3796",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3281",
+        "RouteID": "3281",
+        "RouteName": {
+            "Zh_tw": "156",
+            "En": "156"
+        },
+        "SubRouteUID": "TAO3281",
+        "SubRouteID": "3281",
+        "SubRouteName": {
+            "Zh_tw": "156",
+            "En": "156"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.260373,
+            "PositionLat": 24.97371,
+            "GeoHash": "wsqnp6747"
+        },
+        "Speed": 25,
+        "Azimuth": 251,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3822",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO6070",
+        "RouteID": "6070",
+        "RouteName": {
+            "Zh_tw": "GR2",
+            "En": "GR2"
+        },
+        "SubRouteUID": "TAO6070",
+        "SubRouteID": "6070",
+        "SubRouteName": {
+            "Zh_tw": "GR2",
+            "En": "GR2"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.297506,
+            "PositionLat": 24.944868,
+            "GeoHash": "wsqmbjn4k"
+        },
+        "Speed": 54,
+        "Azimuth": 359,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3826",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3165",
+        "RouteID": "3165",
+        "RouteName": {
+            "Zh_tw": "206D",
+            "En": "206D"
+        },
+        "SubRouteUID": "TAO3165",
+        "SubRouteID": "3165",
+        "SubRouteName": {
+            "Zh_tw": "206D",
+            "En": "206D"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.213731,
+            "PositionLat": 25.012686,
+            "GeoHash": "wsqnq33jk"
+        },
+        "Speed": 9,
+        "Azimuth": 78,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:50+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3877",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3420",
+        "RouteID": "3420",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "TAO3420",
+        "SubRouteID": "3420",
+        "SubRouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.268926,
+            "PositionLat": 24.991649,
+            "GeoHash": "wsqnpt96f"
+        },
+        "Speed": 37,
+        "Azimuth": 75,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3901",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO703",
+        "RouteID": "703",
+        "RouteName": {
+            "Zh_tw": "703",
+            "En": "703"
+        },
+        "SubRouteUID": "TAO703",
+        "SubRouteID": "703",
+        "SubRouteName": {
+            "Zh_tw": "703",
+            "En": "703"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.224146,
+            "PositionLat": 24.957068,
+            "GeoHash": "wsqjyx29r"
+        },
+        "Speed": 13,
+        "Azimuth": 115,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:48+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3916",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.239106,
+            "PositionLat": 24.965363,
+            "GeoHash": "wsqnnbg9g"
+        },
+        "Speed": 21,
+        "Azimuth": 249,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3927",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO7010",
+        "RouteID": "7010",
+        "RouteName": {
+            "Zh_tw": "701",
+            "En": "701"
+        },
+        "SubRouteUID": "TAO7010",
+        "SubRouteID": "7010",
+        "SubRouteName": {
+            "Zh_tw": "701",
+            "En": "701"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.210121,
+            "PositionLat": 24.867056,
+            "GeoHash": "wsqjqnyt0"
+        },
+        "Speed": 0,
+        "Azimuth": 30,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:52+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3953",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO710",
+        "RouteID": "710",
+        "RouteName": {
+            "Zh_tw": "710",
+            "En": "710"
+        },
+        "SubRouteUID": "TAO710",
+        "SubRouteID": "710",
+        "SubRouteName": {
+            "Zh_tw": "710",
+            "En": "710"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.279198,
+            "PositionLat": 24.891815,
+            "GeoHash": "wsqjxg2v6"
+        },
+        "Speed": 0,
+        "Azimuth": 307,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3957",
+        "OperatorID": "2",
+        "OperatorNo": "0404",
+        "RouteUID": "TAO3010",
+        "RouteID": "3010",
+        "RouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "SubRouteUID": "TAO3010",
+        "SubRouteID": "3010",
+        "SubRouteName": {
+            "Zh_tw": "1",
+            "En": "1"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.324539,
+            "PositionLat": 24.99359,
+            "GeoHash": "wsqq0vcy4"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:46+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3962.",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3110",
+        "RouteID": "3110",
+        "RouteName": {
+            "Zh_tw": "137",
+            "En": "137"
+        },
+        "SubRouteUID": "TAO3110",
+        "SubRouteID": "3110",
+        "SubRouteName": {
+            "Zh_tw": "137",
+            "En": "137"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.329189,
+            "PositionLat": 24.983246,
+            "GeoHash": "wsqq0uj1z"
+        },
+        "Speed": 0,
+        "Azimuth": 151,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:44+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3976",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO703",
+        "RouteID": "703",
+        "RouteName": {
+            "Zh_tw": "703",
+            "En": "703"
+        },
+        "SubRouteUID": "TAO703",
+        "SubRouteID": "703",
+        "SubRouteName": {
+            "Zh_tw": "703",
+            "En": "703"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.260816,
+            "PositionLat": 25.071016,
+            "GeoHash": "wsqnxk53m"
+        },
+        "Speed": 47,
+        "Azimuth": 342,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3989",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5059",
+        "RouteID": "5059",
+        "RouteName": {
+            "Zh_tw": "5059",
+            "En": "5059"
+        },
+        "SubRouteUID": "TAO5059",
+        "SubRouteID": "5059",
+        "SubRouteName": {
+            "Zh_tw": "5059",
+            "En": "5059"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.253226,
+            "PositionLat": 25.088783,
+            "GeoHash": "wsqnxpmbu"
+        },
+        "Speed": 0,
+        "Azimuth": 330,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:50+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-8060",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO6030",
+        "RouteID": "6030",
+        "RouteName": {
+            "Zh_tw": "603",
+            "En": "603"
+        },
+        "SubRouteUID": "TAO6030",
+        "SubRouteID": "6030",
+        "SubRouteName": {
+            "Zh_tw": "603",
+            "En": "603"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.391706,
+            "PositionLat": 25.039401,
+            "GeoHash": "wsqq6q69p"
+        },
+        "Speed": 30,
+        "Azimuth": 90,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:47+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKA-8066",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO6052",
+        "RouteID": "6052",
+        "RouteName": {
+            "Zh_tw": "607",
+            "En": "605B"
+        },
+        "SubRouteUID": "TAO6052",
+        "SubRouteID": "6052",
+        "SubRouteName": {
+            "Zh_tw": "607",
+            "En": "605B"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.374651,
+            "PositionLat": 25.052668,
+            "GeoHash": "wsqq9bwq6"
+        },
+        "Speed": 0,
+        "Azimuth": 65535,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-0232",
+        "OperatorID": "3",
+        "OperatorNo": "0907",
+        "RouteUID": "TAO709",
+        "RouteID": "709",
+        "RouteName": {
+            "Zh_tw": "709",
+            "En": "709"
+        },
+        "SubRouteUID": "TAO709",
+        "SubRouteID": "709",
+        "SubRouteName": {
+            "Zh_tw": "709",
+            "En": "709"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.222409,
+            "PositionLat": 24.866146,
+            "GeoHash": "wsqjqqxry"
+        },
+        "Speed": 15,
+        "Azimuth": 343,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-0235",
+        "OperatorID": "3",
+        "OperatorNo": "0907",
+        "RouteUID": "TAO7092",
+        "RouteID": "7092",
+        "RouteName": {
+            "Zh_tw": "709B",
+            "En": "709B"
+        },
+        "SubRouteUID": "TAO7092",
+        "SubRouteID": "7092",
+        "SubRouteName": {
+            "Zh_tw": "709B",
+            "En": "709B"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.373131,
+            "PositionLat": 24.949218,
+            "GeoHash": "wsqmcvv5w"
+        },
+        "Speed": 91,
+        "Azimuth": 243,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:47+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-0237",
+        "OperatorID": "3",
+        "OperatorNo": "0907",
+        "RouteUID": "TAO709",
+        "RouteID": "709",
+        "RouteName": {
+            "Zh_tw": "709",
+            "En": "709"
+        },
+        "SubRouteUID": "TAO709",
+        "SubRouteID": "709",
+        "SubRouteName": {
+            "Zh_tw": "709",
+            "En": "709"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.318321,
+            "PositionLat": 24.977513,
+            "GeoHash": "wsqq0ej29"
+        },
+        "Speed": 0,
+        "Azimuth": 167,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:52+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-1719",
+        "OperatorID": "3",
+        "OperatorNo": "0907",
+        "RouteUID": "TAO1060",
+        "RouteID": "1060",
+        "RouteName": {
+            "Zh_tw": "106",
+            "En": "106"
+        },
+        "SubRouteUID": "TAO1060",
+        "SubRouteID": "1060",
+        "SubRouteName": {
+            "Zh_tw": "106",
+            "En": "106"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.308556,
+            "PositionLat": 25.00671,
+            "GeoHash": "wsqq22q4w"
+        },
+        "Speed": 7,
+        "Azimuth": 166,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2211",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO708",
+        "RouteID": "708",
+        "RouteName": {
+            "Zh_tw": "708",
+            "En": "708"
+        },
+        "SubRouteUID": "TAO708",
+        "SubRouteID": "708",
+        "SubRouteName": {
+            "Zh_tw": "708",
+            "En": "708"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.374358,
+            "PositionLat": 25.052413,
+            "GeoHash": "wsqq9bwhg"
+        },
+        "Speed": 0,
+        "Azimuth": 211,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:58+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2267",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO208",
+        "RouteID": "208",
+        "RouteName": {
+            "Zh_tw": "208",
+            "En": "208"
+        },
+        "SubRouteUID": "TAO208",
+        "SubRouteID": "208",
+        "SubRouteName": {
+            "Zh_tw": "208",
+            "En": "208"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.216915,
+            "PositionLat": 25.023841,
+            "GeoHash": "wsqnq77qq"
+        },
+        "Speed": 12,
+        "Azimuth": 312,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2289",
+        "OperatorID": "9",
+        "OperatorNo": "0301",
+        "RouteUID": "TAO6030",
+        "RouteID": "6030",
+        "RouteName": {
+            "Zh_tw": "603",
+            "En": "603"
+        },
+        "SubRouteUID": "TAO6030",
+        "SubRouteID": "6030",
+        "SubRouteName": {
+            "Zh_tw": "603",
+            "En": "603"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.374738,
+            "PositionLat": 25.052569,
+            "GeoHash": "wsqq9bwmu"
+        },
+        "Speed": 0,
+        "Azimuth": 146,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:58+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2303",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO717",
+        "RouteID": "717",
+        "RouteName": {
+            "Zh_tw": "717",
+            "En": "717"
+        },
+        "SubRouteUID": "TAO717",
+        "SubRouteID": "717",
+        "SubRouteName": {
+            "Zh_tw": "717",
+            "En": "717"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.434775,
+            "PositionLat": 24.965958,
+            "GeoHash": "wsqq52fj5"
+        },
+        "Speed": 0,
+        "Azimuth": 245,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:01+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2307",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO717",
+        "RouteID": "717",
+        "RouteName": {
+            "Zh_tw": "717",
+            "En": "717"
+        },
+        "SubRouteUID": "TAO717",
+        "SubRouteID": "717",
+        "SubRouteName": {
+            "Zh_tw": "717",
+            "En": "717"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.271156,
+            "PositionLat": 24.958528,
+            "GeoHash": "wsqjzxdcy"
+        },
+        "Speed": 0,
+        "Azimuth": 255,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2507",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO713",
+        "RouteID": "713",
+        "RouteName": {
+            "Zh_tw": "713",
+            "En": "713"
+        },
+        "SubRouteUID": "TAO713",
+        "SubRouteID": "713",
+        "SubRouteName": {
+            "Zh_tw": "713",
+            "En": "713"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.281981,
+            "PositionLat": 24.925426,
+            "GeoHash": "wsqjzcdc4"
+        },
+        "Speed": 0,
+        "Azimuth": 38,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:54+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-2586",
+        "OperatorID": "4",
+        "OperatorNo": "1201",
+        "RouteUID": "TAO7061",
+        "RouteID": "7061",
+        "RouteName": {
+            "Zh_tw": "706A",
+            "En": "706A"
+        },
+        "SubRouteUID": "TAO7061",
+        "SubRouteID": "7061",
+        "SubRouteName": {
+            "Zh_tw": "706A",
+            "En": "706A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.288354,
+            "PositionLat": 24.992771,
+            "GeoHash": "wsqnpvz3r"
+        },
+        "Speed": 0,
+        "Azimuth": 355,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3019",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5010",
+        "RouteID": "5010",
+        "RouteName": {
+            "Zh_tw": "5010",
+            "En": "5010"
+        },
+        "SubRouteUID": "TAO5010",
+        "SubRouteID": "5010",
+        "SubRouteName": {
+            "Zh_tw": "5010",
+            "En": "5010"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.28315,
+            "PositionLat": 24.930505,
+            "GeoHash": "wsqjzf7ww"
+        },
+        "Speed": 19,
+        "Azimuth": 285,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3036",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5053",
+        "RouteID": "5053",
+        "RouteName": {
+            "Zh_tw": "5053",
+            "En": "5053"
+        },
+        "SubRouteUID": "TAO5053",
+        "SubRouteID": "5053",
+        "SubRouteName": {
+            "Zh_tw": "5053",
+            "En": "5053"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.220506,
+            "PositionLat": 24.869385,
+            "GeoHash": "wsqjqrq4d"
+        },
+        "Speed": 0,
+        "Azimuth": 73,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:52+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3037",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5053",
+        "RouteID": "5053",
+        "RouteName": {
+            "Zh_tw": "5053",
+            "En": "5053"
+        },
+        "SubRouteUID": "TAO5053",
+        "SubRouteID": "5053",
+        "SubRouteName": {
+            "Zh_tw": "5053",
+            "En": "5053"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.299291,
+            "PositionLat": 24.957361,
+            "GeoHash": "wsqmbpr7n"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3050",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO607",
+        "RouteID": "607",
+        "RouteName": {
+            "Zh_tw": "GR",
+            "En": "GR"
+        },
+        "SubRouteUID": "TAO607",
+        "SubRouteID": "607",
+        "SubRouteName": {
+            "Zh_tw": "GR",
+            "En": "GR"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.266204,
+            "PositionLat": 25.062926,
+            "GeoHash": "wsqnx6x65"
+        },
+        "Speed": 0,
+        "Azimuth": 105,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3051",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5022",
+        "RouteID": "5022",
+        "RouteName": {
+            "Zh_tw": "5022",
+            "En": "5022"
+        },
+        "SubRouteUID": "TAO5022",
+        "SubRouteID": "5022",
+        "SubRouteName": {
+            "Zh_tw": "5022",
+            "En": "5022"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.308951,
+            "PositionLat": 25.016281,
+            "GeoHash": "wsqq26n6r"
+        },
+        "Speed": 32,
+        "Azimuth": 173,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:59+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3052",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5020",
+        "RouteID": "5020",
+        "RouteName": {
+            "Zh_tw": "5020",
+            "En": "5020"
+        },
+        "SubRouteUID": "TAO5020",
+        "SubRouteID": "5020",
+        "SubRouteName": {
+            "Zh_tw": "5020",
+            "En": "5020"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.310659,
+            "PositionLat": 25.000009,
+            "GeoHash": "wsqq0rpex"
+        },
+        "Speed": 0,
+        "Azimuth": 247,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:53+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3053",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5042",
+        "RouteID": "5042",
+        "RouteName": {
+            "Zh_tw": "5042",
+            "En": "5042"
+        },
+        "SubRouteUID": "TAO5042",
+        "SubRouteID": "5042",
+        "SubRouteName": {
+            "Zh_tw": "5042",
+            "En": "5042"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.081081,
+            "PositionLat": 25.038046,
+            "GeoHash": "wsqn7q091"
+        },
+        "Speed": 0,
+        "Azimuth": 258,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:42+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3055",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO50431",
+        "RouteID": "50431",
+        "RouteName": {
+            "Zh_tw": "5043A",
+            "En": "5043A"
+        },
+        "SubRouteUID": "TAO50431",
+        "SubRouteID": "50431",
+        "SubRouteName": {
+            "Zh_tw": "5043A",
+            "En": "5043A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.174234,
+            "PositionLat": 24.991683,
+            "GeoHash": "wsqnjms7h"
+        },
+        "Speed": 42,
+        "Azimuth": 292,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:50+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3103",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO50961",
+        "RouteID": "50961",
+        "RouteName": {
+            "Zh_tw": "5096A",
+            "En": "5096A"
+        },
+        "SubRouteUID": "TAO50961",
+        "SubRouteID": "50961",
+        "SubRouteName": {
+            "Zh_tw": "5096A",
+            "En": "5096A"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.297536,
+            "PositionLat": 24.944961,
+            "GeoHash": "wsqmbjn4v"
+        },
+        "Speed": 45,
+        "Azimuth": 360,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:57+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3105",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5073",
+        "RouteID": "5073",
+        "RouteName": {
+            "Zh_tw": "5073",
+            "En": "5073"
+        },
+        "SubRouteUID": "TAO5073",
+        "SubRouteID": "5073",
+        "SubRouteName": {
+            "Zh_tw": "5073",
+            "En": "5073"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.309011,
+            "PositionLat": 25.011806,
+            "GeoHash": "wsqq23q82"
+        },
+        "Speed": 0,
+        "Azimuth": 248,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:49+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3106",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO50271",
+        "RouteID": "50271",
+        "RouteName": {
+            "Zh_tw": "5027A",
+            "En": "5027A"
+        },
+        "SubRouteUID": "TAO50271",
+        "SubRouteID": "50271",
+        "SubRouteName": {
+            "Zh_tw": "5027A",
+            "En": "5027A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.164016,
+            "PositionLat": 24.959836,
+            "GeoHash": "wsqjvpucw"
+        },
+        "Speed": 0,
+        "Azimuth": 259,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:48+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3107",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO5035",
+        "RouteID": "5035",
+        "RouteName": {
+            "Zh_tw": "5035",
+            "En": "5035"
+        },
+        "SubRouteUID": "TAO5035",
+        "SubRouteID": "5035",
+        "SubRouteName": {
+            "Zh_tw": "5035",
+            "En": "5035"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.182031,
+            "PositionLat": 24.958853,
+            "GeoHash": "wsqjvxd5c"
+        },
+        "Speed": 0,
+        "Azimuth": 72,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:49+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3109",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3260",
+        "RouteID": "3260",
+        "RouteName": {
+            "Zh_tw": "112S",
+            "En": "112S"
+        },
+        "SubRouteUID": "TAO3260",
+        "SubRouteID": "3260",
+        "SubRouteName": {
+            "Zh_tw": "112S",
+            "En": "112S"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.233525,
+            "PositionLat": 24.935886,
+            "GeoHash": "wsqjyerw1"
+        },
+        "Speed": 12,
+        "Azimuth": 146,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:46+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3110",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO606",
+        "RouteID": "606",
+        "RouteName": {
+            "Zh_tw": "601",
+            "En": "601"
+        },
+        "SubRouteUID": "TAO606",
+        "SubRouteID": "606",
+        "SubRouteName": {
+            "Zh_tw": "601",
+            "En": "601"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.254261,
+            "PositionLat": 24.971109,
+            "GeoHash": "wsqnp1yem"
+        },
+        "Speed": 0,
+        "Azimuth": 59,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:10:00+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3117",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3192",
+        "RouteID": "3192",
+        "RouteName": {
+            "Zh_tw": "152",
+            "En": "152"
+        },
+        "SubRouteUID": "TAO3192",
+        "SubRouteID": "3192",
+        "SubRouteName": {
+            "Zh_tw": "152",
+            "En": "152"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.313609,
+            "PositionLat": 24.986718,
+            "GeoHash": "wsqq0s9y5"
+        },
+        "Speed": 0,
+        "Azimuth": 13,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:09:58+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3118",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3400",
+        "RouteID": "3400",
+        "RouteName": {
+            "Zh_tw": "117",
+            "En": "117"
+        },
+        "SubRouteUID": "TAO3400",
+        "SubRouteID": "3400",
+        "SubRouteName": {
+            "Zh_tw": "117",
+            "En": "117"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.312236,
+            "PositionLat": 24.991296,
+            "GeoHash": "wsqq0t8bg"
+        },
+        "Speed": 0,
+        "Azimuth": 212,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:55+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3119",
+        "OperatorID": "1",
+        "OperatorNo": "1002",
+        "RouteUID": "TAO3282",
+        "RouteID": "3282",
+        "RouteName": {
+            "Zh_tw": "155",
+            "En": "155"
+        },
+        "SubRouteUID": "TAO3282",
+        "SubRouteID": "3282",
+        "SubRouteName": {
+            "Zh_tw": "155",
+            "En": "155"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.235971,
+            "PositionLat": 24.955736,
+            "GeoHash": "wsqjyz13d"
+        },
+        "Speed": 4,
+        "Azimuth": 234,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:57+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-3127",
+        "OperatorID": "6",
+        "OperatorNo": "0702",
+        "RouteUID": "TAO5654",
+        "RouteID": "5654",
+        "RouteName": {
+            "Zh_tw": "5654",
+            "En": "5654"
+        },
+        "SubRouteUID": "TAO5654",
+        "SubRouteID": "5654",
+        "SubRouteName": {
+            "Zh_tw": "5654",
+            "En": "5654"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.108521,
+            "PositionLat": 24.971053,
+            "GeoHash": "wsqn5cudc"
+        },
+        "Speed": 0,
+        "Azimuth": 330,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T22:09:52+08:00",
+        "SrcUpdateTime": "2025-09-02T22:10:02+08:00",
+        "UpdateTime": "2025-09-02T22:10:07+08:00"
+    }
+]

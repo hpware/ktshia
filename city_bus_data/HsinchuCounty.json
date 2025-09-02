@@ -1,0 +1,482 @@
+[
+    {
+        "PlateNumb": "KKA-3010",
+        "OperatorID": "73",
+        "OperatorNo": "0603",
+        "RouteUID": "HSQ0023",
+        "RouteID": "0023",
+        "RouteName": {
+            "Zh_tw": "107",
+            "En": "107"
+        },
+        "SubRouteUID": "HSQ002302",
+        "SubRouteID": "002302",
+        "SubRouteName": {
+            "Zh_tw": "107",
+            "En": "107"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.3128,
+            "PositionLat": 24.57222,
+            "GeoHash": "wsq7b91r9"
+        },
+        "Speed": 0,
+        "Azimuth": 113,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:11:12+08:00",
+        "SrcRecTime": "2025-09-02T22:11:13+08:00",
+        "SrcTransTime": "2025-09-02T22:11:13+08:00",
+        "UpdateTime": "2025-09-02T22:11:17+08:00"
+    },
+    {
+        "PlateNumb": "FAD-076",
+        "OperatorID": "130",
+        "OperatorNo": "1111",
+        "RouteUID": "HSQ0805",
+        "RouteID": "0805",
+        "RouteName": {
+            "Zh_tw": "快捷9號",
+            "En": "快捷9號"
+        },
+        "SubRouteUID": "HSQ080502",
+        "SubRouteID": "080502",
+        "SubRouteName": {
+            "Zh_tw": "快捷9號",
+            "En": "快捷9號"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.031778333333,
+            "PositionLat": 24.82478,
+            "GeoHash": "wsqj4phwu"
+        },
+        "Speed": 0,
+        "Azimuth": 51,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:00:10+08:00",
+        "SrcRecTime": "2025-09-02T22:00:09+08:00",
+        "SrcTransTime": "2025-09-02T22:00:09+08:00",
+        "UpdateTime": "2025-09-02T22:00:12+08:00"
+    },
+    {
+        "PlateNumb": "599-FT",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSQ0061",
+        "RouteID": "0061",
+        "RouteName": {
+            "Zh_tw": "快捷1號",
+            "En": "快捷1號"
+        },
+        "SubRouteUID": "HSQ006102",
+        "SubRouteID": "006102",
+        "SubRouteName": {
+            "Zh_tw": "快捷1號",
+            "En": "快捷1號"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.008801666667,
+            "PositionLat": 24.8279033333333,
+            "GeoHash": "wsqj1xgcj"
+        },
+        "Speed": 0,
+        "Azimuth": 210,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:54:17+08:00",
+        "SrcRecTime": "2025-09-02T21:54:18+08:00",
+        "SrcTransTime": "2025-09-02T21:54:18+08:00",
+        "UpdateTime": "2025-09-02T21:54:22+08:00"
+    },
+    {
+        "PlateNumb": "FAD-293",
+        "OperatorID": "18",
+        "OperatorNo": "0909",
+        "RouteUID": "HSQ0065",
+        "RouteID": "0065",
+        "RouteName": {
+            "Zh_tw": "快捷5號",
+            "En": "快捷5號"
+        },
+        "SubRouteUID": "HSQ006501",
+        "SubRouteID": "006501",
+        "SubRouteName": {
+            "Zh_tw": "快捷5號",
+            "En": "快捷5號"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.014101666667,
+            "PositionLat": 24.85797,
+            "GeoHash": "wsqj3trb0"
+        },
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:45:27+08:00",
+        "SrcRecTime": "2025-09-02T21:45:27+08:00",
+        "SrcTransTime": "2025-09-02T21:45:27+08:00",
+        "UpdateTime": "2025-09-02T21:45:32+08:00"
+    },
+    {
+        "PlateNumb": "FAD-295",
+        "OperatorID": "18",
+        "OperatorNo": "0909",
+        "RouteUID": "HSQ0065",
+        "RouteID": "0065",
+        "RouteName": {
+            "Zh_tw": "快捷5號",
+            "En": "快捷5號"
+        },
+        "SubRouteUID": "HSQ006501",
+        "SubRouteID": "006501",
+        "SubRouteName": {
+            "Zh_tw": "快捷5號",
+            "En": "快捷5號"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.014201666667,
+            "PositionLat": 24.85792,
+            "GeoHash": "wsqj3tpzg"
+        },
+        "Speed": 0,
+        "Azimuth": 21,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:35:40+08:00",
+        "SrcRecTime": "2025-09-02T21:35:41+08:00",
+        "SrcTransTime": "2025-09-02T21:35:41+08:00",
+        "UpdateTime": "2025-09-02T21:35:42+08:00"
+    },
+    {
+        "PlateNumb": "501-FT",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSQ0061",
+        "RouteID": "0061",
+        "RouteName": {
+            "Zh_tw": "快捷1號",
+            "En": "快捷1號"
+        },
+        "SubRouteUID": "HSQ006101",
+        "SubRouteID": "006101",
+        "SubRouteName": {
+            "Zh_tw": "快捷1號",
+            "En": "快捷1號"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.008883333333,
+            "PositionLat": 24.827875,
+            "GeoHash": "wsqj1xgbz"
+        },
+        "Speed": 0,
+        "Azimuth": 212,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:23:55+08:00",
+        "SrcRecTime": "2025-09-02T21:23:56+08:00",
+        "SrcTransTime": "2025-09-02T21:23:56+08:00",
+        "UpdateTime": "2025-09-02T21:23:57+08:00"
+    },
+    {
+        "PlateNumb": "591-FT",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSQ0061",
+        "RouteID": "0061",
+        "RouteName": {
+            "Zh_tw": "快捷1號",
+            "En": "快捷1號"
+        },
+        "SubRouteUID": "HSQ006101",
+        "SubRouteID": "006101",
+        "SubRouteName": {
+            "Zh_tw": "快捷1號",
+            "En": "快捷1號"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.101206666667,
+            "PositionLat": 24.763675,
+            "GeoHash": "wsqhgsp4y"
+        },
+        "Speed": 0,
+        "Azimuth": 242,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:20:11+08:00",
+        "SrcRecTime": "2025-09-02T21:20:11+08:00",
+        "SrcTransTime": "2025-09-02T21:20:11+08:00",
+        "UpdateTime": "2025-09-02T21:20:12+08:00"
+    },
+    {
+        "PlateNumb": "FAD-383",
+        "OperatorID": "18",
+        "OperatorNo": "0909",
+        "RouteUID": "HSQ0006",
+        "RouteID": "0006",
+        "RouteName": {
+            "Zh_tw": "快捷7號",
+            "En": "快捷7號"
+        },
+        "SubRouteUID": "HSQ000601",
+        "SubRouteID": "000601",
+        "SubRouteName": {
+            "Zh_tw": "快捷7號",
+            "En": "快捷7號"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.0029,
+            "PositionLat": 24.8318333333333,
+            "GeoHash": "wsqj32rxg"
+        },
+        "Speed": 0,
+        "Azimuth": 225,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:09:24+08:00",
+        "SrcRecTime": "2025-09-02T21:09:25+08:00",
+        "SrcTransTime": "2025-09-02T21:09:25+08:00",
+        "UpdateTime": "2025-09-02T21:09:27+08:00"
+    },
+    {
+        "PlateNumb": "FAD-379",
+        "OperatorID": "18",
+        "OperatorNo": "0909",
+        "RouteUID": "HSQ0006",
+        "RouteID": "0006",
+        "RouteName": {
+            "Zh_tw": "快捷7號",
+            "En": "快捷7號"
+        },
+        "SubRouteUID": "HSQ000602",
+        "SubRouteID": "000602",
+        "SubRouteName": {
+            "Zh_tw": "快捷7號",
+            "En": "快捷7號"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.00407,
+            "PositionLat": 24.8396233333333,
+            "GeoHash": "wsqj39bmr"
+        },
+        "Speed": 12,
+        "Azimuth": 286,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:55:09+08:00",
+        "SrcRecTime": "2025-09-02T20:55:07+08:00",
+        "SrcTransTime": "2025-09-02T20:55:07+08:00",
+        "UpdateTime": "2025-09-02T20:55:12+08:00"
+    },
+    {
+        "PlateNumb": "596-FT",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSQ0747",
+        "RouteID": "0747",
+        "RouteName": {
+            "Zh_tw": "快捷8號",
+            "En": "快捷8號"
+        },
+        "SubRouteUID": "HSQ074701",
+        "SubRouteID": "074701",
+        "SubRouteName": {
+            "Zh_tw": "快捷8號",
+            "En": "快捷8號"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.094608333333,
+            "PositionLat": 24.7187466666667,
+            "GeoHash": "wsqheefmh"
+        },
+        "Speed": 0,
+        "Azimuth": 67,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:47:45+08:00",
+        "SrcRecTime": "2025-09-02T20:47:45+08:00",
+        "SrcTransTime": "2025-09-02T20:47:46+08:00",
+        "UpdateTime": "2025-09-02T20:47:47+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3068",
+        "OperatorID": "130",
+        "OperatorNo": "1111",
+        "RouteUID": "HSQ0557",
+        "RouteID": "0557",
+        "RouteName": {
+            "Zh_tw": "0557",
+            "En": "0557"
+        },
+        "SubRouteUID": "HSQ055702",
+        "SubRouteID": "055702",
+        "SubRouteName": {
+            "Zh_tw": "0557",
+            "En": "0557"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.074846666667,
+            "PositionLat": 24.827105,
+            "GeoHash": "wsqj5psh2"
+        },
+        "Speed": 18,
+        "Azimuth": 102,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:43:10+08:00",
+        "SrcRecTime": "2025-09-02T20:43:09+08:00",
+        "SrcTransTime": "2025-09-02T20:43:09+08:00",
+        "UpdateTime": "2025-09-02T20:43:12+08:00"
+    },
+    {
+        "PlateNumb": "600-FT",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSQ0061",
+        "RouteID": "0061",
+        "RouteName": {
+            "Zh_tw": "快捷1號",
+            "En": "快捷1號"
+        },
+        "SubRouteUID": "HSQ006101",
+        "SubRouteID": "006101",
+        "SubRouteName": {
+            "Zh_tw": "快捷1號",
+            "En": "快捷1號"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.008921666667,
+            "PositionLat": 24.8278366666667,
+            "GeoHash": "wsqj1xu08"
+        },
+        "Speed": 0,
+        "Azimuth": 217,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:33:13+08:00",
+        "SrcRecTime": "2025-09-02T20:33:13+08:00",
+        "SrcTransTime": "2025-09-02T20:33:13+08:00",
+        "UpdateTime": "2025-09-02T20:33:17+08:00"
+    },
+    {
+        "PlateNumb": "525-FT",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSQ0748",
+        "RouteID": "0748",
+        "RouteName": {
+            "Zh_tw": "快捷8號支",
+            "En": "快捷8號支"
+        },
+        "SubRouteUID": "HSQ074802",
+        "SubRouteID": "074802",
+        "SubRouteName": {
+            "Zh_tw": "快捷8號支",
+            "En": "快捷8號支"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.10316,
+            "PositionLat": 24.7191366666667,
+            "GeoHash": "wsqhegbxk"
+        },
+        "Speed": 0,
+        "Azimuth": 150,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:29:51+08:00",
+        "SrcRecTime": "2025-09-02T20:29:52+08:00",
+        "SrcTransTime": "2025-09-02T20:29:52+08:00",
+        "UpdateTime": "2025-09-02T20:29:57+08:00"
+    },
+    {
+        "PlateNumb": "528-FT",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "HSQ0748",
+        "RouteID": "0748",
+        "RouteName": {
+            "Zh_tw": "快捷8號支",
+            "En": "快捷8號支"
+        },
+        "SubRouteUID": "HSQ074802",
+        "SubRouteID": "074802",
+        "SubRouteName": {
+            "Zh_tw": "快捷8號支",
+            "En": "快捷8號支"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.970481666667,
+            "PositionLat": 24.8681716666667,
+            "GeoHash": "wsqj2z058"
+        },
+        "Speed": 0,
+        "Azimuth": 111,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:29:08+08:00",
+        "SrcRecTime": "2025-09-02T20:29:09+08:00",
+        "SrcTransTime": "2025-09-02T20:29:09+08:00",
+        "UpdateTime": "2025-09-02T20:29:12+08:00"
+    },
+    {
+        "PlateNumb": "FAD-388",
+        "OperatorID": "18",
+        "OperatorNo": "0909",
+        "RouteUID": "HSQ0081",
+        "RouteID": "0081",
+        "RouteName": {
+            "Zh_tw": "61",
+            "En": "61"
+        },
+        "SubRouteUID": "HSQ0081A1",
+        "SubRouteID": "0081A1",
+        "SubRouteName": {
+            "Zh_tw": "61支線A",
+            "En": "61支線A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.008815,
+            "PositionLat": 24.8279783333333,
+            "GeoHash": "wsqj1xgcm"
+        },
+        "Speed": 5,
+        "Azimuth": 96,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:15:33+08:00",
+        "SrcRecTime": "2025-09-02T20:15:34+08:00",
+        "SrcTransTime": "2025-09-02T20:15:34+08:00",
+        "UpdateTime": "2025-09-02T20:15:37+08:00"
+    }
+]

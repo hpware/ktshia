@@ -1,0 +1,40 @@
+name: Pull City Bus Data
+
+on:
+  schedule:
+    - cron: "0 3 * * 0" # weekly
+  workflow_dispatch:
+
+jobs:
+  pull_city_bus_data:
+    name: Pull City Bus Data
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+
+      - name: Install dependencies and pull data
+        run: |
+          cd pull_city_bus_data
+          bun install
+          bun start
+        env:
+          TDX_CLIENT_ID: ${{ secrets.TDX_CLIENT_ID }}
+          TDX_CLIENT_SECRET: ${{ secrets.TDX_CLIENT_SECRET }}
+
+      - name: Commit Changes
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --staged --quiet || git commit -m "[UPDATEDATA] Update City Bus Data"
+
+      - name: Push changes
+        if: steps.commit.outcome == 'success'
+        run: git push

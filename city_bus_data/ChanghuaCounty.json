@@ -1,0 +1,162 @@
+[
+    {
+        "PlateNumb": "EAL-2758",
+        "OperatorID": "60",
+        "OperatorNo": "1403",
+        "RouteUID": "CHA0717",
+        "RouteID": "0717",
+        "RouteName": {
+            "Zh_tw": "7路",
+            "En": "7路"
+        },
+        "SubRouteUID": "CHA071701",
+        "SubRouteID": "071701",
+        "SubRouteName": {
+            "Zh_tw": "7路",
+            "En": "7路"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.575263333333,
+            "PositionLat": 23.8751916666667,
+            "GeoHash": "wsjxzf25p"
+        },
+        "Speed": 28,
+        "Azimuth": 147,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:13:18+08:00",
+        "SrcRecTime": "2025-09-02T22:13:18+08:00",
+        "SrcTransTime": "2025-09-02T22:13:18+08:00",
+        "UpdateTime": "2025-09-02T22:13:22+08:00"
+    },
+    {
+        "PlateNumb": "EAL-2760",
+        "OperatorID": "60",
+        "OperatorNo": "1403",
+        "RouteUID": "CHA0717",
+        "RouteID": "0717",
+        "RouteName": {
+            "Zh_tw": "7路",
+            "En": "7路"
+        },
+        "SubRouteUID": "CHA071702",
+        "SubRouteID": "071702",
+        "SubRouteName": {
+            "Zh_tw": "7路",
+            "En": "7路"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.56895,
+            "PositionLat": 23.9628316666667,
+            "GeoHash": "wsm8rd79s"
+        },
+        "Speed": 0,
+        "Azimuth": 64,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:11:46+08:00",
+        "SrcRecTime": "2025-09-02T22:11:45+08:00",
+        "SrcTransTime": "2025-09-02T22:11:46+08:00",
+        "UpdateTime": "2025-09-02T22:11:47+08:00"
+    },
+    {
+        "PlateNumb": "EAL-2205",
+        "OperatorID": "61",
+        "OperatorNo": "1001",
+        "RouteUID": "CHA0502",
+        "RouteID": "0502",
+        "RouteName": {
+            "Zh_tw": "20路",
+            "En": "20路"
+        },
+        "SubRouteUID": "CHA0502A2",
+        "SubRouteID": "0502A2",
+        "SubRouteName": {
+            "Zh_tw": "20路A",
+            "En": "20路A"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.571176666667,
+            "PositionLat": 23.9614433333333,
+            "GeoHash": "wsm8rdj38"
+        },
+        "Speed": 6,
+        "Azimuth": 77,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:06:56+08:00",
+        "SrcRecTime": "2025-09-02T22:06:55+08:00",
+        "SrcTransTime": "2025-09-02T22:06:55+08:00",
+        "UpdateTime": "2025-09-02T22:06:57+08:00"
+    },
+    {
+        "PlateNumb": "KKA-5810",
+        "OperatorID": "55",
+        "OperatorNo": "0402",
+        "RouteUID": "CHA0016",
+        "RouteID": "0016",
+        "RouteName": {
+            "Zh_tw": "16路",
+            "En": "16路"
+        },
+        "SubRouteUID": "CHA001602",
+        "SubRouteID": "001602",
+        "SubRouteName": {
+            "Zh_tw": "16路",
+            "En": "16路"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.538883333333,
+            "PositionLat": 24.0814483333333,
+            "GeoHash": "wsm8yzvsx"
+        },
+        "Speed": 0,
+        "Azimuth": 213,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T21:31:47+08:00",
+        "SrcRecTime": "2025-09-02T21:31:52+08:00",
+        "SrcTransTime": "2025-09-02T21:31:52+08:00",
+        "UpdateTime": "2025-09-02T21:31:57+08:00"
+    },
+    {
+        "PlateNumb": "FAE-660",
+        "OperatorID": "61",
+        "OperatorNo": "1001",
+        "RouteUID": "CHA0502",
+        "RouteID": "0502",
+        "RouteName": {
+            "Zh_tw": "20路",
+            "En": "20路"
+        },
+        "SubRouteUID": "CHA050202",
+        "SubRouteID": "050202",
+        "SubRouteName": {
+            "Zh_tw": "20路",
+            "En": "20路"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.571096666667,
+            "PositionLat": 23.9614833333333,
+            "GeoHash": "wsm8rdj1y"
+        },
+        "Speed": 0,
+        "Azimuth": 78,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T20:44:59+08:00",
+        "SrcRecTime": "2025-09-02T20:44:59+08:00",
+        "SrcTransTime": "2025-09-02T20:44:59+08:00",
+        "UpdateTime": "2025-09-02T20:45:02+08:00"
+    }
+]

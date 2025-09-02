@@ -153,6 +153,7 @@ async function pullVersion(
     } catch (error) {
       console.error("Error writing version file:", error);
     }
+    return res.VersionID;
   } catch (error) {
     console.error(`Error in pullVersion for ${city}:`, error);
   }
@@ -160,9 +161,6 @@ async function pullVersion(
 
 async function pullCityBusData(city: string, token: string): Promise<boolean> {
   try {
-    console.log(
-      `Fetching bus data for ${city} with token: ${token.substring(0, 10)}...`,
-    );
     const req = await fetch(
       `https://tdx.transportdata.tw/api/basic/v2/Bus/RealTimeByFrequency/City/${city}?%24format=JSON`,
       {
