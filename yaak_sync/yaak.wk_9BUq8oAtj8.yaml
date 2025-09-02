@@ -1,0 +1,14 @@
+type: workspace
+model: workspace
+id: wk_9BUq8oAtj8
+createdAt: 2025-09-02T12:31:39.886310
+updatedAt: 2025-09-02T12:31:39.886311
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: Ktshia
+encryptionKeyChallenge: null
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0

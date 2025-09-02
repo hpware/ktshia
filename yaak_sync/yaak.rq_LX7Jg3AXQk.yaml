@@ -1,0 +1,22 @@
+type: http_request
+model: http_request
+id: rq_LX7Jg3AXQk
+createdAt: 2025-09-02T12:32:55.772674
+updatedAt: 2025-09-02T12:36:41.769887
+workspaceId: wk_9BUq8oAtj8
+folderId: null
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: Authorization
+  value: Bearer test
+  id: kbi6MQzTSt
+method: GET
+name: Get Alerts
+sortPriority: -1756816375770.0
+url: http://localhost:4403/api/bus/alerts
+urlParameters: []

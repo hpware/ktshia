@@ -15,8 +15,15 @@ if (!tdxClientId) {
   console.error("Missing TDX_CLIENT_ID env value.");
   process.exit(1);
 }
-if (!tdxClientSecret || !/^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(tdxClientSecret)) {
-  console.error("Missing or invalid TDX_CLIENT_SECRET env value (must be a valid UUID).");
+if (
+  !tdxClientSecret ||
+  !/^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(
+    tdxClientSecret,
+  )
+) {
+  console.error(
+    "Missing or invalid TDX_CLIENT_SECRET env value (must be a valid UUID).",
+  );
   process.exit(1);
 }
 
@@ -29,8 +36,7 @@ Bun.serve({
     const url = new URL(req.url);
     if (enableLogTraffic) {
       console.log(
-        `[${new Date().toISOString()}] IP: ${server.requestIP(req)?.address || "IP_NOT_FOUND"} ${req.method} ${url.pathname}`,
-        `[${new Date().toISOString()}] ${server.requestIP(req).address} ${req.method} ${url.pathname}`,
+        `[${new Date().toISOString()} ${server.requestIP(req)?.address || "IP_NOT_FOUND"} ${req.method} ${url.pathname}`,
       );
     }
 
@@ -39,26 +45,29 @@ Bun.serve({
     }
 
     if (req.headers.get("Authorization") !== `Bearer ${authkey}`) {
-      return new Response(JSON.stringify({
-        error: `The endpoint you are trying to access ${url.pathname} requires a bearer token.`,
-        status: 401,
-      }), { status: 401, headers: { "Content-Type": "application/json" } });
+      return new Response(
+        JSON.stringify({
+          error: `The endpoint you are trying to access ${url.pathname} requires a bearer token.`,
+          status: 401,
+        }),
+        { status: 401, headers: { "Content-Type": "application/json" } },
+      );
     }
 
     if (url.pathname.startsWith("/api/bus/")) {
-        if (url.pathname === "/api/bus/stops") {
-          return new Response(`Bus stops ${url.pathname}` );
-        }
-        if (url.pathname.startsWith("/api/bus/routes/")) {
-          const routeId = url.pathname.split("/").pop();
-          return new Response(`Bus route ${routeId}`);
-        }
-        if (url.pathname === "/api/bus/alerts") {
-          const alerts = await tdx.getAlerts();
-          return new Response(JSON.stringify(alerts), {
-            headers: { "Content-Type": "application/json" },
-          });
-        }
+      if (url.pathname === "/api/bus/stops") {
+        return new Response(`Bus stops ${url.pathname}`);
+      }
+      if (url.pathname.startsWith("/api/bus/routes/")) {
+        const routeId = url.pathname.split("/").pop();
+        return new Response(`Bus route ${routeId}`);
+      }
+      if (url.pathname === "/api/bus/alerts") {
+        const alerts = await tdx.getAlerts();
+        return new Response(JSON.stringify(alerts), {
+          headers: { "Content-Type": "application/json" },
+        });
+      }
     }
     return new Response(
       JSON.stringify({
@@ -69,4 +78,3 @@ Bun.serve({
     );
   },
 });
-
