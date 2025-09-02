@@ -17,137 +17,16 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.392759,
-            "PositionLat": 22.62122,
-            "GeoHash": "wsj8ew564"
+            "PositionLon": 120.36216,
+            "PositionLat": 22.603043,
+            "GeoHash": "wsj8dfv03"
         },
-        "Speed": 28,
-        "Azimuth": 239,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "017-FT",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH214",
-        "RouteID": "214",
-        "RouteName": {
-            "Zh_tw": "214",
-            "En": "214"
-        },
-        "SubRouteUID": "KHH214",
-        "SubRouteID": "214",
-        "SubRouteName": {
-            "Zh_tw": "214",
-            "En": "214"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.295929,
-            "PositionLat": 22.618621,
-            "GeoHash": "wsj89msg4"
-        },
-        "Speed": 10,
-        "Azimuth": 158,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:49+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "023-FT",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH362",
-        "RouteID": "362",
-        "RouteName": {
-            "Zh_tw": "紅8A",
-            "En": "Red8A"
-        },
-        "SubRouteUID": "KHH362",
-        "SubRouteID": "362",
-        "SubRouteName": {
-            "Zh_tw": "紅8A",
-            "En": "Red8A"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.340749,
-            "PositionLat": 22.565358,
-            "GeoHash": "wsj867vkw"
-        },
-        "Speed": 7,
-        "Azimuth": 275,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:15+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "026-FT",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH179",
-        "RouteID": "179",
-        "RouteName": {
-            "Zh_tw": "紅2",
-            "En": "Red2"
-        },
-        "SubRouteUID": "KHH179",
-        "SubRouteID": "179",
-        "SubRouteName": {
-            "Zh_tw": "紅2",
-            "En": "Red2"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.377234,
-            "PositionLat": 22.545123,
-            "GeoHash": "wsj8720nb"
-        },
-        "Speed": 19,
-        "Azimuth": 50,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:50+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "039-FT",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH123",
-        "RouteID": "123",
-        "RouteName": {
-            "Zh_tw": "12",
-            "En": "12"
-        },
-        "SubRouteUID": "KHH123",
-        "SubRouteID": "123",
-        "SubRouteName": {
-            "Zh_tw": "12",
-            "En": "12"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.3092,
-            "PositionLat": 22.604386,
-            "GeoHash": "wsj89en2p"
-        },
-        "Speed": 25,
-        "Azimuth": 144,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:02:00+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "039-V3",
@@ -165,19 +44,19 @@
             "Zh_tw": "100百貨幹線",
             "En": "100 Baihuo Main Line"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.301226,
-            "PositionLat": 22.670946,
-            "GeoHash": "wsj8cx0ev"
+            "PositionLon": 120.33208,
+            "PositionLat": 22.618493,
+            "GeoHash": "wsj8djx4k"
         },
         "Speed": 0,
         "Azimuth": 0,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:51+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:51+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "041-FT",
@@ -195,79 +74,19 @@
             "Zh_tw": "紅1",
             "En": "Red1"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.366596,
-            "PositionLat": 22.565521,
-            "GeoHash": "wsj875bm8"
-        },
-        "Speed": 0,
-        "Azimuth": 356,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:09:54+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "051-V3",
-        "OperatorID": "10270",
-        "OperatorNo": "1201",
-        "RouteUID": "KHH25",
-        "RouteID": "25",
-        "RouteName": {
-            "Zh_tw": "25",
-            "En": "25 "
-        },
-        "SubRouteUID": "KHH25",
-        "SubRouteID": "25",
-        "SubRouteName": {
-            "Zh_tw": "25",
-            "En": "25 "
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.314548,
-            "PositionLat": 22.59766,
-            "GeoHash": "wsj89cf2u"
-        },
-        "Speed": 20,
-        "Azimuth": 133,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "058-V3",
-        "OperatorID": "10270",
-        "OperatorNo": "1201",
-        "RouteUID": "KHH83",
-        "RouteID": "83",
-        "RouteName": {
-            "Zh_tw": "83",
-            "En": "83 "
-        },
-        "SubRouteUID": "KHH83",
-        "SubRouteID": "83",
-        "SubRouteName": {
-            "Zh_tw": "83",
-            "En": "83 "
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.304206,
-            "PositionLat": 22.613806,
-            "GeoHash": "wsj89sdyg"
+            "PositionLon": 120.352016,
+            "PositionLat": 22.563649,
+            "GeoHash": "wsj86etdv"
         },
         "Speed": 0,
-        "Azimuth": 69,
+        "Azimuth": 225,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:49+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:44+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "061-FT",
@@ -287,17 +106,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.343416,
-            "PositionLat": 22.751129,
-            "GeoHash": "wsj96mxqu"
+            "PositionLon": 120.288804,
+            "PositionLat": 22.683319,
+            "GeoHash": "wsj911reu"
         },
-        "Speed": 16,
-        "Azimuth": 142,
+        "Speed": 7,
+        "Azimuth": 201,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:08:38+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:02+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "062-FT",
@@ -315,49 +134,19 @@
             "Zh_tw": "6",
             "En": "6"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.30252,
-            "PositionLat": 22.704198,
-            "GeoHash": "wsj91t1te"
-        },
-        "Speed": 21,
-        "Azimuth": 358,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "063-V3",
-        "OperatorID": "10270",
-        "OperatorNo": "1201",
-        "RouteUID": "KHH100",
-        "RouteID": "100",
-        "RouteName": {
-            "Zh_tw": "100百貨幹線",
-            "En": "100 Baihuo Main Line"
-        },
-        "SubRouteUID": "KHH100",
-        "SubRouteID": "100",
-        "SubRouteName": {
-            "Zh_tw": "100百貨幹線",
-            "En": "100 Baihuo Main Line"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.297558,
-            "PositionLat": 22.614689,
-            "GeoHash": "wsj89kyh0"
+            "PositionLon": 120.32841,
+            "PositionLat": 22.731173,
+            "GeoHash": "wsj964h6x"
         },
-        "Speed": 55,
-        "Azimuth": 160,
+        "Speed": 9,
+        "Azimuth": 261,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:54+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "065-V3",
@@ -377,76 +166,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.338466,
-            "PositionLat": 22.606086,
-            "GeoHash": "wsj8d77cc"
+            "PositionLon": 120.300219,
+            "PositionLat": 22.650661,
+            "GeoHash": "wsj8c7rvw"
         },
-        "Speed": 13,
-        "Azimuth": 266,
+        "Speed": 23,
+        "Azimuth": 5,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "066-FT",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH806",
-        "RouteID": "806",
-        "RouteName": {
-            "Zh_tw": "紅6",
-            "En": "Red6"
-        },
-        "SubRouteUID": "KHH806",
-        "SubRouteID": "806",
-        "SubRouteName": {
-            "Zh_tw": "紅6",
-            "En": "Red6"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.333526,
-            "PositionLat": 22.565351,
-            "GeoHash": "wsj867bhw"
-        },
-        "Speed": 13,
-        "Azimuth": 334,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:54+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "072-V3",
-        "OperatorID": "10250",
-        "OperatorNo": "0804",
-        "RouteUID": "KHH160",
-        "RouteID": "160",
-        "RouteName": {
-            "Zh_tw": "橘7A(延駛中興北路一)",
-            "En": "Orange7A(Via Jhongsing N. Rd.1)"
-        },
-        "SubRouteUID": "KHH160",
-        "SubRouteID": "160",
-        "SubRouteName": {
-            "Zh_tw": "橘7A(延駛中興北路一)",
-            "En": "Orange7A(Via Jhongsing N. Rd.1)"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.35384,
-            "PositionLat": 22.615656,
-            "GeoHash": "wsj8dtncx"
-        },
-        "Speed": 0,
-        "Azimuth": 0,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:42+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:47+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "078-FT",
@@ -464,19 +194,19 @@
             "Zh_tw": "紅2",
             "En": "Red2"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.361718,
-            "PositionLat": 22.567671,
-            "GeoHash": "wsj86ukdp"
+            "PositionLon": 120.366174,
+            "PositionLat": 22.536621,
+            "GeoHash": "wsj84yxvr"
         },
-        "Speed": 13,
-        "Azimuth": 65,
+        "Speed": 11,
+        "Azimuth": 53,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:27+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "081-V3",
@@ -496,47 +226,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.306719,
-            "PositionLat": 22.625064,
-            "GeoHash": "wsj89wu8t"
+            "PositionLon": 120.35344,
+            "PositionLat": 22.56687,
+            "GeoHash": "wsj86sntw"
         },
-        "Speed": 13,
-        "Azimuth": 70,
+        "Speed": 12,
+        "Azimuth": 257,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:02+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "083-V3",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH217",
-        "RouteID": "217",
-        "RouteName": {
-            "Zh_tw": "217A新昌幹線",
-            "En": "217A"
-        },
-        "SubRouteUID": "KHH217",
-        "SubRouteID": "217",
-        "SubRouteName": {
-            "Zh_tw": "217A新昌幹線",
-            "En": "217A"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.288624,
-            "PositionLat": 22.697381,
-            "GeoHash": "wsj915ztb"
-        },
-        "Speed": 5,
-        "Azimuth": 102,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:08:32+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:00:43+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "091-V3",
@@ -556,17 +256,16 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.328964,
-            "PositionLat": 22.659966,
-            "GeoHash": "wsj8fjhgu"
+            "PositionLon": 120.285676,
+            "PositionLat": 22.671206,
+            "GeoHash": "wsj8cpjm7"
         },
         "Speed": 0,
-        "Azimuth": 266,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:01+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Azimuth": 285,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:02:01+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "095-V3",
@@ -584,19 +283,18 @@
             "Zh_tw": "28",
             "En": "28 "
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.316083,
-            "PositionLat": 22.661361,
-            "GeoHash": "wsj8cv77z"
+            "PositionLon": 120.310688,
+            "PositionLat": 22.719878,
+            "GeoHash": "wsj938p8f"
         },
-        "Speed": 20,
-        "Azimuth": 7,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 65,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:01:57+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "096-V3",
@@ -616,16 +314,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.299283,
-            "PositionLat": 22.719203,
-            "GeoHash": "wsj91rzkb"
+            "PositionLon": 120.292405,
+            "PositionLat": 22.691355,
+            "GeoHash": "wsj916f68"
         },
-        "Speed": 0,
-        "Azimuth": 346,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 36,
+        "Azimuth": 182,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T23:01:59+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "098-V3",
@@ -645,77 +344,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.28636,
-            "PositionLat": 22.680926,
-            "GeoHash": "wsj910vvg"
-        },
-        "Speed": 26,
-        "Azimuth": 97,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "111-V3",
-        "OperatorID": "10270",
-        "OperatorNo": "1201",
-        "RouteUID": "KHH100",
-        "RouteID": "100",
-        "RouteName": {
-            "Zh_tw": "100百貨幹線",
-            "En": "100 Baihuo Main Line"
-        },
-        "SubRouteUID": "KHH100",
-        "SubRouteID": "100",
-        "SubRouteName": {
-            "Zh_tw": "100百貨幹線",
-            "En": "100 Baihuo Main Line"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.332639,
-            "PositionLat": 22.613406,
-            "GeoHash": "wsj8dhxs9"
-        },
-        "Speed": 41,
-        "Azimuth": 174,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "113-V2",
-        "OperatorID": "10330",
-        "OperatorNo": "1307",
-        "RouteUID": "KHH8501",
-        "RouteID": "8501",
-        "RouteName": {
-            "Zh_tw": "8501(部分繞駛義守大學)",
-            "En": "8501"
-        },
-        "SubRouteUID": "KHH8501",
-        "SubRouteID": "8501",
-        "SubRouteName": {
-            "Zh_tw": "8501(部分繞駛義守大學)",
-            "En": "8501"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.306411,
-            "PositionLat": 22.685313,
-            "GeoHash": "wsj919srw"
+            "PositionLon": 120.356921,
+            "PositionLat": 22.636288,
+            "GeoHash": "wsj8fbc1z"
         },
         "Speed": 0,
-        "Azimuth": 234,
+        "Azimuth": 109,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:37+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:48+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "117-V3",
@@ -733,139 +372,19 @@
             "Zh_tw": "25",
             "En": "25 "
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.310093,
-            "PositionLat": 22.626249,
-            "GeoHash": "wsj89wzpk"
-        },
-        "Speed": 30,
-        "Azimuth": 250,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "118-V3",
-        "OperatorID": "10270",
-        "OperatorNo": "1201",
-        "RouteUID": "KHH11",
-        "RouteID": "11",
-        "RouteName": {
-            "Zh_tw": "11",
-            "En": "11 "
-        },
-        "SubRouteUID": "KHH11",
-        "SubRouteID": "11",
-        "SubRouteName": {
-            "Zh_tw": "11",
-            "En": "11 "
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.339541,
-            "PositionLat": 22.612866,
-            "GeoHash": "wsj8dks96"
+            "PositionLon": 120.32764,
+            "PositionLat": 22.592833,
+            "GeoHash": "wsj8d0guv"
         },
-        "Speed": 0,
-        "Azimuth": 270,
+        "Speed": 19,
+        "Azimuth": 51,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:49+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "122-V3",
-        "OperatorID": "10270",
-        "OperatorNo": "1201",
-        "RouteUID": "KHH26",
-        "RouteID": "26",
-        "RouteName": {
-            "Zh_tw": "26A",
-            "En": "26A"
-        },
-        "SubRouteUID": "KHH26",
-        "SubRouteID": "26",
-        "SubRouteName": {
-            "Zh_tw": "26A",
-            "En": "26A"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.317773,
-            "PositionLat": 22.612976,
-            "GeoHash": "wsj89usdp"
-        },
-        "Speed": 0,
-        "Azimuth": 0,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "127-FT",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH291",
-        "RouteID": "291",
-        "RouteName": {
-            "Zh_tw": "29",
-            "En": "29"
-        },
-        "SubRouteUID": "KHH291",
-        "SubRouteID": "291",
-        "SubRouteName": {
-            "Zh_tw": "29",
-            "En": "29"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.331959,
-            "PositionLat": 22.742625,
-            "GeoHash": "wsj96hpj3"
-        },
-        "Speed": 22,
-        "Azimuth": 119,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "129-FT",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH731",
-        "RouteID": "731",
-        "RouteName": {
-            "Zh_tw": "7C",
-            "En": "7C"
-        },
-        "SubRouteUID": "KHH731",
-        "SubRouteID": "731",
-        "SubRouteName": {
-            "Zh_tw": "7C",
-            "En": "7C"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.323404,
-            "PositionLat": 22.739194,
-            "GeoHash": "wsj9658c6"
-        },
-        "Speed": 0,
-        "Azimuth": 324,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:08:42+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:58+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "130-FT",
@@ -883,79 +402,19 @@
             "Zh_tw": "7A",
             "En": "7A"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.403118,
-            "PositionLat": 22.772863,
-            "GeoHash": "wsj9ecdve"
-        },
-        "Speed": 0,
-        "Azimuth": 65,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:45+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "136-V3",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH12",
-        "RouteID": "12",
-        "RouteName": {
-            "Zh_tw": "12(延駛飛機路)",
-            "En": "12(Extend)"
-        },
-        "SubRouteUID": "KHH12",
-        "SubRouteID": "12",
-        "SubRouteName": {
-            "Zh_tw": "12(延駛飛機路)",
-            "En": "12(Extend)"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.345431,
-            "PositionLat": 22.565639,
-            "GeoHash": "wsj86eby7"
+            "PositionLon": 120.329236,
+            "PositionLat": 22.726376,
+            "GeoHash": "wsj961jnd"
         },
-        "Speed": 0,
-        "Azimuth": 105,
+        "Speed": 16,
+        "Azimuth": 165,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "140-FT",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH6311",
-        "RouteID": "6311",
-        "RouteName": {
-            "Zh_tw": "63南",
-            "En": "63 South"
-        },
-        "SubRouteUID": "KHH6311",
-        "SubRouteID": "6311",
-        "SubRouteName": {
-            "Zh_tw": "63南",
-            "En": "63 South"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.366519,
-            "PositionLat": 22.572914,
-            "GeoHash": "wsj87j20z"
-        },
-        "Speed": 7,
-        "Azimuth": 276,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:56+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "150-V3",
@@ -973,78 +432,19 @@
             "Zh_tw": "217B新昌幹線",
             "En": "217B"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.35814,
-            "PositionLat": 22.65052,
-            "GeoHash": "wsj8fg6hg"
-        },
-        "Speed": 22,
-        "Azimuth": 106,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:57+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "171-FT",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH253",
-        "RouteID": "253",
-        "RouteName": {
-            "Zh_tw": "紅70A",
-            "En": "Red70A"
-        },
-        "SubRouteUID": "KHH253",
-        "SubRouteID": "253",
-        "SubRouteName": {
-            "Zh_tw": "紅70A",
-            "En": "Red70A"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.300398,
-            "PositionLat": 22.781005,
-            "GeoHash": "wsj99e0hf"
+            "PositionLon": 120.302694,
+            "PositionLat": 22.670556,
+            "GeoHash": "wsj8cx19x"
         },
-        "Speed": 7,
-        "Azimuth": 337,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:08:33+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "172-FT",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH219",
-        "RouteID": "219",
-        "RouteName": {
-            "Zh_tw": "219A",
-            "En": "219A"
-        },
-        "SubRouteUID": "KHH219",
-        "SubRouteID": "219",
-        "SubRouteName": {
-            "Zh_tw": "219A",
-            "En": "219A"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.277008,
-            "PositionLat": 22.661159,
-            "GeoHash": "wsj8bvr4c"
-        },
-        "Speed": 26,
-        "Azimuth": 39,
+        "Speed": 21,
+        "Azimuth": 283,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:54+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "182-FT",
@@ -1062,137 +462,48 @@
             "Zh_tw": "83",
             "En": "83 "
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.305149,
-            "PositionLat": 22.613811,
-            "GeoHash": "wsj89sewc"
+            "PositionLon": 120.304733,
+            "PositionLat": 22.613856,
+            "GeoHash": "wsj89sepr"
         },
-        "Speed": 0,
-        "Azimuth": 302,
+        "Speed": 22,
+        "Azimuth": 103,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:43+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:52+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
-        "PlateNumb": "210-FT",
-        "OperatorID": "10250",
-        "OperatorNo": "0804",
-        "RouteUID": "KHH9201",
-        "RouteID": "9201",
+        "PlateNumb": "731-V2",
+        "OperatorID": "10320",
+        "OperatorNo": "1003",
+        "RouteUID": "KHH8010",
+        "RouteID": "8010",
         "RouteName": {
-            "Zh_tw": "橘20B",
-            "En": "Orange20B"
+            "Zh_tw": "8010",
+            "En": "8010 "
         },
-        "SubRouteUID": "KHH9201",
-        "SubRouteID": "9201",
+        "SubRouteUID": "KHH8010",
+        "SubRouteID": "8010",
         "SubRouteName": {
-            "Zh_tw": "橘20B",
-            "En": "Orange20B"
+            "Zh_tw": "8010",
+            "En": "8010 "
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.367306,
-            "PositionLat": 22.621933,
-            "GeoHash": "wsj8en0y3"
+            "PositionLon": 120.483693,
+            "PositionLat": 22.895759,
+            "GeoHash": "wsjdm8j93"
         },
         "Speed": 0,
         "Azimuth": 0,
         "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:11:01+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "770-V2",
-        "OperatorID": "10320",
-        "OperatorNo": "1003",
-        "RouteUID": "KHH24",
-        "RouteID": "24",
-        "RouteName": {
-            "Zh_tw": "24(假日停駛)",
-            "En": "24"
-        },
-        "SubRouteUID": "KHH24",
-        "SubRouteID": "24",
-        "SubRouteName": {
-            "Zh_tw": "24(假日停駛)",
-            "En": "24"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.380226,
-            "PositionLat": 22.660226,
-            "GeoHash": "wsj8gm4jq"
-        },
-        "Speed": 20,
-        "Azimuth": 210,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:54+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "793-V2",
-        "OperatorID": "10320",
-        "OperatorNo": "1003",
-        "RouteUID": "KHH8025",
-        "RouteID": "8025",
-        "RouteName": {
-            "Zh_tw": "E25高旗六龜快線(部分不經高鐵左營站)",
-            "En": "E25 Liouguei Express "
-        },
-        "SubRouteUID": "KHH8025",
-        "SubRouteID": "8025",
-        "SubRouteName": {
-            "Zh_tw": "E25高旗六龜快線(部分不經高鐵左營站)",
-            "En": "E25 Liouguei Express "
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.620746,
-            "PositionLat": 22.88651,
-            "GeoHash": "wsjf0y37e"
-        },
-        "Speed": 51,
-        "Azimuth": 33,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "799-V2",
-        "OperatorID": "10320",
-        "OperatorNo": "1003",
-        "RouteUID": "KHH8032",
-        "RouteID": "8032",
-        "RouteName": {
-            "Zh_tw": "E32高旗甲仙快線",
-            "En": "E32 Jiasian Express"
-        },
-        "SubRouteUID": "KHH8032",
-        "SubRouteID": "8032",
-        "SubRouteName": {
-            "Zh_tw": "E32高旗甲仙快線",
-            "En": "E32 Jiasian Express"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.518466,
-            "PositionLat": 22.960889,
-            "GeoHash": "wsjdw7yug"
-        },
-        "Speed": 50,
-        "Azimuth": 86,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T20:59:50+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "825-V2",
@@ -1210,19 +521,19 @@
             "Zh_tw": "紅76",
             "En": "Red76"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.294386,
-            "PositionLat": 22.757703,
-            "GeoHash": "wsj93qgtn"
+            "PositionLon": 120.235133,
+            "PositionLat": 22.83069,
+            "GeoHash": "wsj9bh0w3"
         },
-        "Speed": 37,
-        "Azimuth": 290,
+        "Speed": 31,
+        "Azimuth": 167,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:49+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "850-V2",
@@ -1240,19 +551,19 @@
             "Zh_tw": "紅53梓官幹線-主",
             "En": "Red53-Cardinal"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.302546,
-            "PositionLat": 22.701021,
-            "GeoHash": "wsj91s9eh"
+            "PositionLon": 120.3037,
+            "PositionLat": 22.688813,
+            "GeoHash": "wsj91d67z"
         },
-        "Speed": 0,
-        "Azimuth": 347,
+        "Speed": 14,
+        "Azimuth": 99,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:56+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "852-V2",
@@ -1270,19 +581,19 @@
             "Zh_tw": "紅53梓官幹線-主",
             "En": "Red53-Cardinal"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.28292,
-            "PositionLat": 22.716999,
-            "GeoHash": "wsj91pe25"
+            "PositionLon": 120.265133,
+            "PositionLat": 22.738196,
+            "GeoHash": "wsj92eq7s"
         },
-        "Speed": 29,
-        "Azimuth": 239,
+        "Speed": 0,
+        "Azimuth": 0,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:52+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "856-V2",
@@ -1300,19 +611,19 @@
             "Zh_tw": "紅60A",
             "En": "Red60A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.352741,
-            "PositionLat": 22.712721,
-            "GeoHash": "wsj94wwpn"
+            "PositionLon": 120.351086,
+            "PositionLat": 22.731351,
+            "GeoHash": "wsj96dhgx"
         },
-        "Speed": 36,
-        "Azimuth": 347,
+        "Speed": 8,
+        "Azimuth": 179,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:58+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "859-V2",
@@ -1330,19 +641,18 @@
             "Zh_tw": "紅53梓官幹線-主",
             "En": "Red53-Cardinal"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.283261,
-            "PositionLat": 22.716176,
-            "GeoHash": "wsj91p7e7"
+            "PositionLon": 120.307081,
+            "PositionLat": 22.688126,
+            "GeoHash": "wsj91dhzy"
         },
-        "Speed": 31,
-        "Azimuth": 330,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:57+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 211,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:01:51+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "860-V2",
@@ -1360,19 +670,19 @@
             "Zh_tw": "紅60A",
             "En": "Red60A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.308516,
-            "PositionLat": 22.685974,
-            "GeoHash": "wsj919vgr"
+            "PositionLon": 120.299646,
+            "PositionLat": 22.716173,
+            "GeoHash": "wsj91rre2"
         },
         "Speed": 0,
-        "Azimuth": 139,
+        "Azimuth": 154,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:51+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:51+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "862-V2",
@@ -1392,76 +702,47 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.299658,
-            "PositionLat": 22.716266,
-            "GeoHash": "wsj91rrec"
+            "PositionLon": 120.323026,
+            "PositionLat": 22.699768,
+            "GeoHash": "wsj94h2e9"
         },
-        "Speed": 0,
-        "Azimuth": 162,
+        "Speed": 36,
+        "Azimuth": 190,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:59+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "863-V2",
         "OperatorID": "10310",
         "OperatorNo": "0901",
-        "RouteUID": "KHH8532",
-        "RouteID": "8532",
+        "RouteUID": "KHH8531",
+        "RouteID": "8531",
         "RouteName": {
-            "Zh_tw": "紅53梓官幹線-區間",
-            "En": "Red53-Interval"
+            "Zh_tw": "紅53梓官幹線-主",
+            "En": "Red53-Cardinal"
         },
-        "SubRouteUID": "KHH8532",
-        "SubRouteID": "8532",
+        "SubRouteUID": "KHH8531",
+        "SubRouteID": "8531",
         "SubRouteName": {
-            "Zh_tw": "紅53梓官幹線-區間",
-            "En": "Red53-Interval"
+            "Zh_tw": "紅53梓官幹線-主",
+            "En": "Red53-Cardinal"
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.307464,
-            "PositionLat": 22.687924,
-            "GeoHash": "wsj91djnx"
+            "PositionLon": 120.285066,
+            "PositionLat": 22.713176,
+            "GeoHash": "wsj91nucv"
         },
-        "Speed": 0,
-        "Azimuth": 115,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "901-V2",
-        "OperatorID": "10320",
-        "OperatorNo": "1003",
-        "RouteUID": "KHH876",
-        "RouteID": "876",
-        "RouteName": {
-            "Zh_tw": "紅76",
-            "En": "Red76"
-        },
-        "SubRouteUID": "KHH876",
-        "SubRouteID": "876",
-        "SubRouteName": {
-            "Zh_tw": "紅76",
-            "En": "Red76"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.243186,
-            "PositionLat": 22.808219,
-            "GeoHash": "wsj9b0n7t"
-        },
-        "Speed": 23,
-        "Azimuth": 179,
+        "Speed": 32,
+        "Azimuth": 146,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:59+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "910-V2",
@@ -1479,19 +760,19 @@
             "Zh_tw": "301",
             "En": "301"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.286998,
-            "PositionLat": 22.672236,
-            "GeoHash": "wsj8cpq76"
+            "PositionLon": 120.302289,
+            "PositionLat": 22.676666,
+            "GeoHash": "wsj9181mn"
         },
-        "Speed": 0,
-        "Azimuth": 66,
+        "Speed": 31,
+        "Azimuth": 296,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:48+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:59+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "911-V2",
@@ -1509,19 +790,19 @@
             "Zh_tw": "紅58B",
             "En": "Red58B"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.330571,
-            "PositionLat": 22.743606,
-            "GeoHash": "wsj96hq51"
+            "PositionLon": 120.325488,
+            "PositionLat": 22.727376,
+            "GeoHash": "wsj9616ke"
         },
-        "Speed": 30,
-        "Azimuth": 208,
+        "Speed": 19,
+        "Azimuth": 35,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:59+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "912-V2",
@@ -1539,19 +820,19 @@
             "Zh_tw": "紅60B",
             "En": "Red60B"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.349996,
-            "PositionLat": 22.684194,
-            "GeoHash": "wsj949s1n"
+            "PositionLon": 120.34829,
+            "PositionLat": 22.727706,
+            "GeoHash": "wsj9696yq"
         },
-        "Speed": 15,
-        "Azimuth": 66,
+        "Speed": 27,
+        "Azimuth": 169,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:50+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "915-V2",
@@ -1571,17 +852,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.293426,
-            "PositionLat": 22.661233,
-            "GeoHash": "wsj8cm6gr"
+            "PositionLon": 120.319793,
+            "PositionLat": 22.667728,
+            "GeoHash": "wsj8cyw1n"
         },
-        "Speed": 22,
-        "Azimuth": 274,
+        "Speed": 0,
+        "Azimuth": 214,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:50+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:50+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "916-V2",
@@ -1601,17 +882,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.297701,
-            "PositionLat": 22.72322,
-            "GeoHash": "wsj932wh7"
+            "PositionLon": 120.286556,
+            "PositionLat": 22.728093,
+            "GeoHash": "wsj931tbx"
         },
-        "Speed": 0,
-        "Azimuth": 70,
+        "Speed": 39,
+        "Azimuth": 96,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:45+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:49+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "919-V2",
@@ -1631,17 +912,16 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.350283,
-            "PositionLat": 22.691126,
-            "GeoHash": "wsj94du3k"
+            "PositionLon": 120.317688,
+            "PositionLat": 22.689216,
+            "GeoHash": "wsj91fkwm"
         },
-        "Speed": 47,
-        "Azimuth": 155,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:42+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 34,
+        "Azimuth": 286,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:01:51+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "920-V2",
@@ -1659,52 +939,21 @@
             "Zh_tw": "紅58B",
             "En": "Red58B"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.360015,
-            "PositionLat": 22.760745,
-            "GeoHash": "wsj96z7qz"
+            "PositionLon": 120.320271,
+            "PositionLat": 22.731116,
+            "GeoHash": "wsj93fnd3"
         },
-        "Speed": 12,
-        "Azimuth": 353,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 164,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:01:52+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "922-V2",
-        "OperatorID": "10310",
-        "OperatorNo": "0901",
-        "RouteUID": "KHH8601",
-        "RouteID": "8601",
-        "RouteName": {
-            "Zh_tw": "紅60B",
-            "En": "Red60B"
-        },
-        "SubRouteUID": "KHH8601",
-        "SubRouteID": "8601",
-        "SubRouteName": {
-            "Zh_tw": "紅60B",
-            "En": "Red60B"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.329571,
-            "PositionLat": 22.687211,
-            "GeoHash": "wsj944j6d"
-        },
-        "Speed": 32,
-        "Azimuth": 14,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "925-V2",
         "OperatorID": "10310",
         "OperatorNo": "0901",
         "RouteUID": "KHH860",
@@ -1719,18 +968,49 @@
             "Zh_tw": "紅60A",
             "En": "Red60A"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.309626,
-            "PositionLat": 22.687943,
-            "GeoHash": "wsj91dnyc"
+            "PositionLon": 120.331273,
+            "PositionLat": 22.690891,
+            "GeoHash": "wsj944y81"
         },
         "Speed": 0,
-        "Azimuth": 228,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:48+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Azimuth": 221,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T23:01:59+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
+    },
+    {
+        "PlateNumb": "925-V2",
+        "OperatorID": "10310",
+        "OperatorNo": "0901",
+        "RouteUID": "KHH8601",
+        "RouteID": "8601",
+        "RouteName": {
+            "Zh_tw": "紅60B",
+            "En": "Red60B"
+        },
+        "SubRouteUID": "KHH8601",
+        "SubRouteID": "8601",
+        "SubRouteName": {
+            "Zh_tw": "紅60B",
+            "En": "Red60B"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.350641,
+            "PositionLat": 22.719476,
+            "GeoHash": "wsj94xuwt"
+        },
+        "Speed": 48,
+        "Azimuth": 343,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T23:01:48+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "927-V2",
@@ -1748,49 +1028,19 @@
             "Zh_tw": "紅53梓官幹線-主",
             "En": "Red53-Cardinal"
         },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.249583,
-            "PositionLat": 22.733918,
-            "GeoHash": "wsj926e4d"
-        },
-        "Speed": 33,
-        "Azimuth": 333,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:50+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAA-906",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH50",
-        "RouteID": "50",
-        "RouteName": {
-            "Zh_tw": "50五福幹線",
-            "En": "50 Wufu Main Line"
-        },
-        "SubRouteUID": "KHH50",
-        "SubRouteID": "50",
-        "SubRouteName": {
-            "Zh_tw": "50五福幹線",
-            "En": "50 Wufu Main Line"
-        },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.274555,
-            "PositionLat": 22.622569,
-            "GeoHash": "wsj88ym60"
+            "PositionLon": 120.305236,
+            "PositionLat": 22.689211,
+            "GeoHash": "wsj91d7w5"
         },
-        "Speed": 17,
-        "Azimuth": 211,
+        "Speed": 0,
+        "Azimuth": 13,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:02:00+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-0157",
@@ -1810,16 +1060,16 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.321571,
-            "PositionLat": 22.694774,
-            "GeoHash": "wsj91grqx"
+            "PositionLon": 120.321584,
+            "PositionLat": 22.694696,
+            "GeoHash": "wsj91grw0"
         },
         "Speed": 0,
-        "Azimuth": 317,
+        "Azimuth": 105,
         "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:42+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:42+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-0159",
@@ -1839,16 +1089,16 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.321583,
-            "PositionLat": 22.69472,
-            "GeoHash": "wsj91grw2"
+            "PositionLon": 120.32168,
+            "PositionLat": 22.694694,
+            "GeoHash": "wsj91grw4"
         },
         "Speed": 0,
-        "Azimuth": 179,
+        "Azimuth": 292,
         "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:46+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:46+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-0163",
@@ -1875,9 +1125,9 @@
         "Speed": 0,
         "Azimuth": 275,
         "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:47+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-0165",
@@ -1897,17 +1147,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.321506,
-            "PositionLat": 22.69443,
-            "GeoHash": "wsj91grkw"
+            "PositionLon": 120.321359,
+            "PositionLat": 22.69441,
+            "GeoHash": "wsj91grkd"
         },
         "Speed": 0,
         "Azimuth": 0,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:56+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-0197",
@@ -1925,78 +1175,19 @@
             "Zh_tw": "90民族幹線",
             "En": "90 Minzu Main Line"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.314391,
-            "PositionLat": 22.645586,
-            "GeoHash": "wsj8cfd20"
-        },
-        "Speed": 29,
-        "Azimuth": 189,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-0928",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH532",
-        "RouteID": "532",
-        "RouteName": {
-            "Zh_tw": "53",
-            "En": "53"
-        },
-        "SubRouteUID": "KHH532",
-        "SubRouteID": "532",
-        "SubRouteName": {
-            "Zh_tw": "53",
-            "En": "53"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.323808,
-            "PositionLat": 22.649646,
-            "GeoHash": "wsj8f51pg"
+            "PositionLon": 120.310185,
+            "PositionLat": 22.688389,
+            "GeoHash": "wsj91dr1q"
         },
-        "Speed": 0,
-        "Azimuth": 73,
+        "Speed": 27,
+        "Azimuth": 220,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:09:45+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-0931",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH214",
-        "RouteID": "214",
-        "RouteName": {
-            "Zh_tw": "214",
-            "En": "214"
-        },
-        "SubRouteUID": "KHH214",
-        "SubRouteID": "214",
-        "SubRouteName": {
-            "Zh_tw": "214",
-            "En": "214"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.34045,
-            "PositionLat": 22.565921,
-            "GeoHash": "wsj86kj0p"
-        },
-        "Speed": 0,
-        "Azimuth": 60,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:08:05+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:56+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-0953",
@@ -2016,47 +1207,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.315524,
-            "PositionLat": 22.627996,
-            "GeoHash": "wsj89z71d"
+            "PositionLon": 120.27391,
+            "PositionLat": 22.621549,
+            "GeoHash": "wsj88yhu1"
         },
-        "Speed": 0,
-        "Azimuth": 69,
+        "Speed": 15,
+        "Azimuth": 34,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:11+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-0959",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH908",
-        "RouteID": "908",
-        "RouteName": {
-            "Zh_tw": "橘8",
-            "En": "Orange8 "
-        },
-        "SubRouteUID": "KHH908",
-        "SubRouteID": "908",
-        "SubRouteName": {
-            "Zh_tw": "橘8",
-            "En": "Orange8 "
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.357308,
-            "PositionLat": 22.629138,
-            "GeoHash": "wsj8dz982"
-        },
-        "Speed": 12,
-        "Azimuth": 283,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:08:42+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-0972",
@@ -2074,49 +1235,19 @@
             "Zh_tw": "黃2A(部分繞駛圓山飯店)",
             "En": "Yellow2A"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.333618,
-            "PositionLat": 22.605563,
-            "GeoHash": "wsj8d70qb"
-        },
-        "Speed": 0,
-        "Azimuth": 3,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:09:12+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-0981",
-        "OperatorID": "10350",
-        "OperatorNo": "1404",
-        "RouteUID": "KHH601",
-        "RouteID": "601",
-        "RouteName": {
-            "Zh_tw": "黃1",
-            "En": "Yellow1"
-        },
-        "SubRouteUID": "KHH601",
-        "SubRouteID": "601",
-        "SubRouteName": {
-            "Zh_tw": "黃1",
-            "En": "Yellow1"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.301878,
-            "PositionLat": 22.612999,
-            "GeoHash": "wsj89s94k"
+            "PositionLon": 120.34224,
+            "PositionLat": 22.62518,
+            "GeoHash": "wsj8dqy91"
         },
-        "Speed": 0,
-        "Azimuth": 79,
+        "Speed": 7,
+        "Azimuth": 175,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:00:36+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-0987",
@@ -2134,19 +1265,19 @@
             "Zh_tw": "黃1",
             "En": "Yellow1"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.313253,
-            "PositionLat": 22.619838,
-            "GeoHash": "wsj89vc6j"
+            "PositionLon": 120.348044,
+            "PositionLat": 22.649433,
+            "GeoHash": "wsj8fe4y8"
         },
-        "Speed": 40,
-        "Azimuth": 161,
+        "Speed": 33,
+        "Azimuth": 22,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:45+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-0992",
@@ -2164,49 +1295,19 @@
             "Zh_tw": "黃2C",
             "En": "Yellow2C"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.345744,
-            "PositionLat": 22.641303,
-            "GeoHash": "wsj8f99p5"
-        },
-        "Speed": 23,
-        "Azimuth": 12,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:01+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-0996",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH6022",
-        "RouteID": "6022",
-        "RouteName": {
-            "Zh_tw": "黃2C",
-            "En": "Yellow2C"
-        },
-        "SubRouteUID": "KHH6022",
-        "SubRouteID": "6022",
-        "SubRouteName": {
-            "Zh_tw": "黃2C",
-            "En": "Yellow2C"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.334861,
-            "PositionLat": 22.563401,
-            "GeoHash": "wsj86791m"
+            "PositionLon": 120.322919,
+            "PositionLat": 22.580783,
+            "GeoHash": "wsj86n8qx"
         },
         "Speed": 11,
-        "Azimuth": 131,
+        "Azimuth": 189,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:51+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-0999",
@@ -2224,49 +1325,19 @@
             "Zh_tw": "紅31",
             "En": "Red31"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.332173,
-            "PositionLat": 22.648096,
-            "GeoHash": "wsj8f4znw"
-        },
-        "Speed": 0,
-        "Azimuth": 251,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:50+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-1000",
-        "OperatorID": "10350",
-        "OperatorNo": "1404",
-        "RouteUID": "KHH831",
-        "RouteID": "831",
-        "RouteName": {
-            "Zh_tw": "紅31",
-            "En": "Red31"
-        },
-        "SubRouteUID": "KHH831",
-        "SubRouteID": "831",
-        "SubRouteName": {
-            "Zh_tw": "紅31",
-            "En": "Red31"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.304373,
-            "PositionLat": 22.650195,
-            "GeoHash": "wsj8ce6fz"
+            "PositionLon": 120.302841,
+            "PositionLat": 22.647619,
+            "GeoHash": "wsj8cdcgg"
         },
         "Speed": 0,
-        "Azimuth": 77,
+        "Azimuth": 97,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:45+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:51+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2651",
@@ -2284,138 +1355,19 @@
             "Zh_tw": "90民族幹線",
             "En": "90 Minzu Main Line"
         },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.309711,
-            "PositionLat": 22.688006,
-            "GeoHash": "wsj91dnz5"
-        },
-        "Speed": 0,
-        "Azimuth": 218,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:42+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2652",
-        "OperatorID": "10310",
-        "OperatorNo": "0901",
-        "RouteUID": "KHH90",
-        "RouteID": "90",
-        "RouteName": {
-            "Zh_tw": "90民族幹線",
-            "En": "90 Minzu Main Line"
-        },
-        "SubRouteUID": "KHH90",
-        "SubRouteID": "90",
-        "SubRouteName": {
-            "Zh_tw": "90民族幹線",
-            "En": "90 Minzu Main Line"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.314463,
-            "PositionLat": 22.643068,
-            "GeoHash": "wsj8cf436"
-        },
-        "Speed": 44,
-        "Azimuth": 5,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2655",
-        "OperatorID": "10310",
-        "OperatorNo": "0901",
-        "RouteUID": "KHH161",
-        "RouteID": "161",
-        "RouteName": {
-            "Zh_tw": "16A繞(經文信路)",
-            "En": "16A(Via Wenshin Rd.)"
-        },
-        "SubRouteUID": "KHH161",
-        "SubRouteID": "161",
-        "SubRouteName": {
-            "Zh_tw": "16A繞(經文信路)",
-            "En": "16A(Via Wenshin Rd.)"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.311526,
-            "PositionLat": 22.685768,
-            "GeoHash": "wsj91cb4j"
-        },
-        "Speed": 35,
-        "Azimuth": 50,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2656",
-        "OperatorID": "10310",
-        "OperatorNo": "0901",
-        "RouteUID": "KHH161",
-        "RouteID": "161",
-        "RouteName": {
-            "Zh_tw": "16A繞(經文信路)",
-            "En": "16A(Via Wenshin Rd.)"
-        },
-        "SubRouteUID": "KHH161",
-        "SubRouteID": "161",
-        "SubRouteName": {
-            "Zh_tw": "16A繞(經文信路)",
-            "En": "16A(Via Wenshin Rd.)"
-        },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.306586,
-            "PositionLat": 22.664481,
-            "GeoHash": "wsj8ctuw4"
+            "PositionLon": 120.316306,
+            "PositionLat": 22.621746,
+            "GeoHash": "wsj89y5tj"
         },
         "Speed": 0,
-        "Azimuth": 91,
+        "Azimuth": 155,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:51+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2660",
-        "OperatorID": "10310",
-        "OperatorNo": "0901",
-        "RouteUID": "KHH31",
-        "RouteID": "31",
-        "RouteName": {
-            "Zh_tw": "3繞(17時以後改道文信路)",
-            "En": "3(Via Wenshin Rd.)"
-        },
-        "SubRouteUID": "KHH31",
-        "SubRouteID": "31",
-        "SubRouteName": {
-            "Zh_tw": "3繞(17時以後改道文信路)",
-            "En": "3(Via Wenshin Rd.)"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.315556,
-            "PositionLat": 22.688181,
-            "GeoHash": "wsj91f705"
-        },
-        "Speed": 23,
-        "Azimuth": 139,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:42+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2673",
@@ -2433,19 +1385,19 @@
             "Zh_tw": "90民族幹線",
             "En": "90 Minzu Main Line"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.308371,
-            "PositionLat": 22.686129,
-            "GeoHash": "wsj919vuk"
+            "PositionLon": 120.314166,
+            "PositionLat": 22.640221,
+            "GeoHash": "wsj8ccd0g"
         },
-        "Speed": 9,
-        "Azimuth": 137,
+        "Speed": 0,
+        "Azimuth": 1,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:50+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:50+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2676",
@@ -2465,17 +1417,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.306546,
-            "PositionLat": 22.614518,
-            "GeoHash": "wsj89sue1"
+            "PositionLon": 120.309278,
+            "PositionLat": 22.687518,
+            "GeoHash": "wsj91dns3"
         },
         "Speed": 0,
-        "Azimuth": 59,
+        "Azimuth": 237,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:49+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:50+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2679",
@@ -2493,48 +1445,19 @@
             "Zh_tw": "90民族幹線",
             "En": "90 Minzu Main Line"
         },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.319911,
-            "PositionLat": 22.682896,
-            "GeoHash": "wsj91cq33"
-        },
-        "Speed": 0,
-        "Azimuth": 9,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:51+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2683",
-        "OperatorID": "10320",
-        "OperatorNo": "1003",
-        "RouteUID": "KHH60",
-        "RouteID": "60",
-        "RouteName": {
-            "Zh_tw": "60覺民幹線",
-            "En": "60"
-        },
-        "SubRouteUID": "KHH60",
-        "SubRouteID": "60",
-        "SubRouteName": {
-            "Zh_tw": "60覺民幹線",
-            "En": "60"
-        },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.363969,
-            "PositionLat": 22.632328,
-            "GeoHash": "wsj8fbn6g"
+            "PositionLon": 120.317019,
+            "PositionLat": 22.668516,
+            "GeoHash": "wsj8cysjt"
         },
-        "Speed": 2,
-        "Azimuth": 38,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:48+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 185,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T23:01:51+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2687",
@@ -2554,17 +1477,16 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.298903,
-            "PositionLat": 22.631779,
-            "GeoHash": "wsj89ryzx"
+            "PositionLon": 120.364095,
+            "PositionLat": 22.642088,
+            "GeoHash": "wsj8fcy7w"
         },
         "Speed": 0,
-        "Azimuth": 353,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Azimuth": 193,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2688",
@@ -2582,77 +1504,18 @@
             "Zh_tw": "60覺民幹線",
             "En": "60"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.343613,
-            "PositionLat": 22.64216,
-            "GeoHash": "wsj8f3zs1"
-        },
-        "Speed": 0,
-        "Azimuth": 101,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:54+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2689",
-        "OperatorID": "10320",
-        "OperatorNo": "1003",
-        "RouteUID": "KHH6001",
-        "RouteID": "6001",
-        "RouteName": {
-            "Zh_tw": "60覺民幹線區間車",
-            "En": "60 Interval"
-        },
-        "SubRouteUID": "KHH6001",
-        "SubRouteID": "6001",
-        "SubRouteName": {
-            "Zh_tw": "60覺民幹線區間車",
-            "En": "60 Interval"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.363908,
-            "PositionLat": 22.632263,
-            "GeoHash": "wsj8fbn66"
-        },
-        "Speed": 0,
-        "Azimuth": 32,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:08:50+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2696",
-        "OperatorID": "10320",
-        "OperatorNo": "1003",
-        "RouteUID": "KHH60",
-        "RouteID": "60",
-        "RouteName": {
-            "Zh_tw": "60覺民幹線",
-            "En": "60"
-        },
-        "SubRouteUID": "KHH60",
-        "SubRouteID": "60",
-        "SubRouteName": {
-            "Zh_tw": "60覺民幹線",
-            "En": "60"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.303006,
-            "PositionLat": 22.613458,
-            "GeoHash": "wsj89s9uz"
+            "PositionLon": 120.363879,
+            "PositionLat": 22.632083,
+            "GeoHash": "wsj8fbn33"
         },
-        "Speed": 24,
-        "Azimuth": 72,
+        "Speed": 0,
+        "Azimuth": 55,
         "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:54+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2702",
@@ -2670,19 +1533,18 @@
             "Zh_tw": "橘12(白天延駛澄清湖)",
             "En": "Orange12"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.35661,
-            "PositionLat": 22.651113,
-            "GeoHash": "wsj8fg902"
+            "PositionLon": 120.348061,
+            "PositionLat": 22.607866,
+            "GeoHash": "wsj8dedu3"
         },
         "Speed": 0,
-        "Azimuth": 285,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:44+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Azimuth": 34,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:01:44+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2715",
@@ -2700,19 +1562,18 @@
             "Zh_tw": "橘11A區間車",
             "En": "Orange11A Interval"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.371543,
-            "PositionLat": 22.624378,
-            "GeoHash": "wsj8eneus"
+            "PositionLon": 120.388421,
+            "PositionLat": 22.501919,
+            "GeoHash": "wsj85825j"
         },
-        "Speed": 6,
-        "Azimuth": 61,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 295,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:01:59+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2805",
@@ -2730,19 +1591,19 @@
             "Zh_tw": "紅35",
             "En": "Red35"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.294168,
-            "PositionLat": 22.658223,
-            "GeoHash": "wsj8ckg99"
+            "PositionLon": 120.321906,
+            "PositionLat": 22.66606,
+            "GeoHash": "wsj8cypxr"
         },
-        "Speed": 33,
-        "Azimuth": 4,
+        "Speed": 0,
+        "Azimuth": 191,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:45+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:45+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2811",
@@ -2760,19 +1621,19 @@
             "Zh_tw": "69A小港幹線",
             "En": "69A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.329703,
-            "PositionLat": 22.580896,
-            "GeoHash": "wsj86ntrm"
+            "PositionLon": 120.32173,
+            "PositionLat": 22.588893,
+            "GeoHash": "wsj89bptg"
         },
-        "Speed": 19,
-        "Azimuth": 229,
+        "Speed": 0,
+        "Azimuth": 136,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:57+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2812",
@@ -2790,19 +1651,19 @@
             "Zh_tw": "紅3林園幹線",
             "En": "Red3"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.375386,
-            "PositionLat": 22.504318,
-            "GeoHash": "wsj850y9j"
+            "PositionLon": 120.340609,
+            "PositionLat": 22.565798,
+            "GeoHash": "wsj867vr7"
         },
-        "Speed": 33,
-        "Azimuth": 101,
-        "DutyStatus": 0,
+        "Speed": 0,
+        "Azimuth": 91,
+        "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:48+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2813",
@@ -2820,19 +1681,19 @@
             "Zh_tw": "214",
             "En": "214"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.321205,
-            "PositionLat": 22.583738,
-            "GeoHash": "wsj83zppz"
+            "PositionLon": 120.306696,
+            "PositionLat": 22.59213,
+            "GeoHash": "wsj898u8t"
         },
-        "Speed": 10,
-        "Azimuth": 250,
+        "Speed": 0,
+        "Azimuth": 240,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:54+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:53+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2818",
@@ -2850,49 +1711,19 @@
             "Zh_tw": "88建國幹線",
             "En": "88"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.285153,
-            "PositionLat": 22.625463,
-            "GeoHash": "wsj89nufz"
+            "PositionLon": 120.343043,
+            "PositionLat": 22.625714,
+            "GeoHash": "wsj8dqzhk"
         },
         "Speed": 0,
-        "Azimuth": 296,
-        "DutyStatus": 0,
+        "Azimuth": 8,
+        "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2819",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH122",
-        "RouteID": "122",
-        "RouteName": {
-            "Zh_tw": "88建國幹線",
-            "En": "88"
-        },
-        "SubRouteUID": "KHH122",
-        "SubRouteID": "122",
-        "SubRouteName": {
-            "Zh_tw": "88建國幹線",
-            "En": "88"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.323558,
-            "PositionLat": 22.63305,
-            "GeoHash": "wsj8f00zn"
-        },
-        "Speed": 24,
-        "Azimuth": 102,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:00+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2820",
@@ -2912,17 +1743,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.303251,
-            "PositionLat": 22.600256,
-            "GeoHash": "wsj89d60h"
+            "PositionLon": 120.294571,
+            "PositionLat": 22.712205,
+            "GeoHash": "wsj91qeu4"
         },
-        "Speed": 28,
-        "Azimuth": 340,
+        "Speed": 0,
+        "Azimuth": 324,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2821",
@@ -2942,17 +1773,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.287559,
-            "PositionLat": 22.680454,
-            "GeoHash": "wsj910yep"
+            "PositionLon": 120.299731,
+            "PositionLat": 22.718354,
+            "GeoHash": "wsj91rz84"
         },
-        "Speed": 41,
-        "Azimuth": 7,
-        "DutyStatus": 0,
+        "Speed": 0,
+        "Azimuth": 74,
+        "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:42+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2822",
@@ -2972,17 +1803,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.295034,
-            "PositionLat": 22.693619,
-            "GeoHash": "wsj917hpv"
+            "PositionLon": 120.302835,
+            "PositionLat": 22.637821,
+            "GeoHash": "wsj8c91fg"
         },
-        "Speed": 0,
-        "Azimuth": 90,
+        "Speed": 18,
+        "Azimuth": 272,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:58+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2823",
@@ -3002,17 +1833,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.299535,
-            "PositionLat": 22.718438,
+            "PositionLon": 120.299554,
+            "PositionLat": 22.718426,
             "GeoHash": "wsj91rz2q"
         },
         "Speed": 0,
-        "Azimuth": 224,
+        "Azimuth": 46,
         "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:02:00+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2825",
@@ -3030,19 +1861,19 @@
             "Zh_tw": "218A內惟幹線",
             "En": "218A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.303134,
-            "PositionLat": 22.623788,
-            "GeoHash": "wsj89wd14"
+            "PositionLon": 120.297116,
+            "PositionLat": 22.718299,
+            "GeoHash": "wsj91rtxt"
         },
         "Speed": 0,
-        "Azimuth": 65,
+        "Azimuth": 340,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:52+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2826",
@@ -3060,19 +1891,19 @@
             "Zh_tw": "219A",
             "En": "219A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.305323,
-            "PositionLat": 22.708085,
-            "GeoHash": "wsj91tgsj"
+            "PositionLon": 120.282854,
+            "PositionLat": 22.634031,
+            "GeoHash": "wsj8c07kc"
         },
-        "Speed": 32,
-        "Azimuth": 267,
+        "Speed": 0,
+        "Azimuth": 343,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:50+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2827",
@@ -3090,109 +1921,19 @@
             "Zh_tw": "205中華幹線",
             "En": "205 Jhonghua Main Line"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.302028,
-            "PositionLat": 22.634896,
-            "GeoHash": "wsj8c893b"
-        },
-        "Speed": 2,
-        "Azimuth": 183,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2831",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH122",
-        "RouteID": "122",
-        "RouteName": {
-            "Zh_tw": "88建國幹線",
-            "En": "88"
-        },
-        "SubRouteUID": "KHH122",
-        "SubRouteID": "122",
-        "SubRouteName": {
-            "Zh_tw": "88建國幹線",
-            "En": "88"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.347388,
-            "PositionLat": 22.62534,
-            "GeoHash": "wsj8dwf61"
-        },
-        "Speed": 31,
-        "Azimuth": 82,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2832",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH821",
-        "RouteID": "821",
-        "RouteName": {
-            "Zh_tw": "紅21",
-            "En": "Red21"
-        },
-        "SubRouteUID": "KHH821",
-        "SubRouteID": "821",
-        "SubRouteName": {
-            "Zh_tw": "紅21",
-            "En": "Red21"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.317968,
-            "PositionLat": 22.622005,
-            "GeoHash": "wsj89yhye"
+            "PositionLon": 120.291753,
+            "PositionLat": 22.641798,
+            "GeoHash": "wsj8c3cf1"
         },
         "Speed": 0,
-        "Azimuth": 69,
+        "Azimuth": 355,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:41+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2835",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH821",
-        "RouteID": "821",
-        "RouteName": {
-            "Zh_tw": "紅21",
-            "En": "Red21"
-        },
-        "SubRouteUID": "KHH821",
-        "SubRouteID": "821",
-        "SubRouteName": {
-            "Zh_tw": "紅21",
-            "En": "Red21"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.317521,
-            "PositionLat": 22.631498,
-            "GeoHash": "wsj89zuw1"
-        },
-        "Speed": 0,
-        "Azimuth": 172,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:48+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:46+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2836",
@@ -3210,19 +1951,19 @@
             "Zh_tw": "69A小港幹線",
             "En": "69A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.350746,
-            "PositionLat": 22.565396,
-            "GeoHash": "wsj86eusz"
+            "PositionLon": 120.301649,
+            "PositionLat": 22.629416,
+            "GeoHash": "wsj89x8cz"
         },
-        "Speed": 18,
-        "Azimuth": 93,
+        "Speed": 0,
+        "Azimuth": 183,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:50+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:50+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2852",
@@ -3240,49 +1981,19 @@
             "Zh_tw": "72",
             "En": "72"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.318306,
-            "PositionLat": 22.615973,
-            "GeoHash": "wsj89vj5e"
-        },
-        "Speed": 41,
-        "Azimuth": 184,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:50+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2853",
-        "OperatorID": "10350",
-        "OperatorNo": "1404",
-        "RouteUID": "KHH72",
-        "RouteID": "72",
-        "RouteName": {
-            "Zh_tw": "72",
-            "En": "72"
-        },
-        "SubRouteUID": "KHH72",
-        "SubRouteID": "72",
-        "SubRouteName": {
-            "Zh_tw": "72",
-            "En": "72"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.316021,
-            "PositionLat": 22.661771,
-            "GeoHash": "wsj8cv7qq"
+            "PositionLon": 120.31582,
+            "PositionLat": 22.659476,
+            "GeoHash": "wsj8cv531"
         },
-        "Speed": 34,
-        "Azimuth": 3,
+        "Speed": 0,
+        "Azimuth": 359,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:57+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:50+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2858",
@@ -3300,19 +2011,19 @@
             "Zh_tw": "217A新昌幹線",
             "En": "217A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.319445,
-            "PositionLat": 22.667531,
-            "GeoHash": "wsj8cymzy"
+            "PositionLon": 120.345044,
+            "PositionLat": 22.639265,
+            "GeoHash": "wsj8f92e6"
         },
-        "Speed": 0,
-        "Azimuth": 96,
+        "Speed": 18,
+        "Azimuth": 195,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2859",
@@ -3330,19 +2041,19 @@
             "Zh_tw": "52A",
             "En": "52A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.322803,
-            "PositionLat": 22.627076,
-            "GeoHash": "wsj8dp0kk"
+            "PositionLon": 120.342113,
+            "PositionLat": 22.624638,
+            "GeoHash": "wsj8dqwqn"
         },
-        "Speed": 31,
-        "Azimuth": 340,
+        "Speed": 0,
+        "Azimuth": 78,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:01+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:42+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2865",
@@ -3362,17 +2073,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.287643,
-            "PositionLat": 22.680438,
-            "GeoHash": "wsj910yg1"
+            "PositionLon": 120.299426,
+            "PositionLat": 22.718353,
+            "GeoHash": "wsj91rxrg"
         },
-        "Speed": 37,
-        "Azimuth": 7,
-        "DutyStatus": 0,
+        "Speed": 0,
+        "Azimuth": 172,
+        "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:54+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:51+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2866",
@@ -3392,47 +2103,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.367919,
-            "PositionLat": 22.585055,
-            "GeoHash": "wsj87p3pr"
-        },
-        "Speed": 24,
-        "Azimuth": 86,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2868",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH218",
-        "RouteID": "218",
-        "RouteName": {
-            "Zh_tw": "218A內惟幹線",
-            "En": "218A"
-        },
-        "SubRouteUID": "KHH218",
-        "SubRouteID": "218",
-        "SubRouteName": {
-            "Zh_tw": "218A內惟幹線",
-            "En": "218A"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.299504,
-            "PositionLat": 22.718289,
-            "GeoHash": "wsj91rxrt"
+            "PositionLon": 120.34063,
+            "PositionLat": 22.565608,
+            "GeoHash": "wsj867vq5"
         },
         "Speed": 0,
-        "Azimuth": 246,
+        "Azimuth": 53,
         "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:58+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2869",
@@ -3452,47 +2133,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.363209,
-            "PositionLat": 22.553641,
-            "GeoHash": "wsj86cvb6"
+            "PositionLon": 120.340598,
+            "PositionLat": 22.565738,
+            "GeoHash": "wsj867vqg"
         },
         "Speed": 0,
-        "Azimuth": 323,
-        "DutyStatus": 0,
+        "Azimuth": 74,
+        "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2870",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH52",
-        "RouteID": "52",
-        "RouteName": {
-            "Zh_tw": "52A",
-            "En": "52A"
-        },
-        "SubRouteUID": "KHH52",
-        "SubRouteID": "52",
-        "SubRouteName": {
-            "Zh_tw": "52A",
-            "En": "52A"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.307318,
-            "PositionLat": 22.625133,
-            "GeoHash": "wsj89wv0g"
-        },
-        "Speed": 0,
-        "Azimuth": 71,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:53+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2871",
@@ -3510,19 +2161,19 @@
             "Zh_tw": "88建國幹線",
             "En": "88"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.330048,
-            "PositionLat": 22.632623,
-            "GeoHash": "wsj8f0jst"
+            "PositionLon": 120.326944,
+            "PositionLat": 22.632934,
+            "GeoHash": "wsj8f05qm"
         },
-        "Speed": 29,
-        "Azimuth": 289,
+        "Speed": 30,
+        "Azimuth": 86,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:59+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2872",
@@ -3540,19 +2191,19 @@
             "Zh_tw": "88建國幹線",
             "En": "88"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.363174,
-            "PositionLat": 22.62619,
-            "GeoHash": "wsj8dyvz1"
+            "PositionLon": 120.284176,
+            "PositionLat": 22.623356,
+            "GeoHash": "wsj89nkq8"
         },
-        "Speed": 0,
-        "Azimuth": 283,
-        "DutyStatus": 1,
+        "Speed": 34,
+        "Azimuth": 118,
+        "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:49+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2875",
@@ -3572,17 +2223,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.299451,
-            "PositionLat": 22.71833,
-            "GeoHash": "wsj91rxru"
+            "PositionLon": 120.299416,
+            "PositionLat": 22.718316,
+            "GeoHash": "wsj91rxrg"
         },
         "Speed": 0,
-        "Azimuth": 5,
+        "Azimuth": 271,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:46+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2878",
@@ -3600,19 +2251,19 @@
             "Zh_tw": "53",
             "En": "53"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.342546,
-            "PositionLat": 22.644931,
-            "GeoHash": "wsj8f6qu2"
+            "PositionLon": 120.328011,
+            "PositionLat": 22.659003,
+            "GeoHash": "wsj8fhunm"
         },
-        "Speed": 12,
-        "Azimuth": 14,
+        "Speed": 18,
+        "Azimuth": 91,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:51+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2880",
@@ -3630,19 +2281,19 @@
             "Zh_tw": "205中華幹線",
             "En": "205 Jhonghua Main Line"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.296488,
-            "PositionLat": 22.690496,
-            "GeoHash": "wsj916tjx"
+            "PositionLon": 120.300524,
+            "PositionLat": 22.617571,
+            "GeoHash": "wsj89t2hv"
         },
-        "Speed": 32,
-        "Azimuth": 237,
+        "Speed": 0,
+        "Azimuth": 342,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:47+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2881",
@@ -3662,17 +2313,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.331953,
-            "PositionLat": 22.64908,
-            "GeoHash": "wsj8f5ph3"
+            "PositionLon": 120.299411,
+            "PositionLat": 22.718589,
+            "GeoHash": "wsj91rz37"
         },
-        "Speed": 36,
-        "Azimuth": 355,
-        "DutyStatus": 0,
+        "Speed": 12,
+        "Azimuth": 249,
+        "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:57+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:58+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2882",
@@ -3690,49 +2341,48 @@
             "Zh_tw": "69A小港幹線",
             "En": "69A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.301985,
-            "PositionLat": 22.630983,
-            "GeoHash": "wsj89xc5p"
+            "PositionLon": 120.368606,
+            "PositionLat": 22.584544,
+            "GeoHash": "wsj87p3sx"
         },
-        "Speed": 34,
-        "Azimuth": 5,
+        "Speed": 30,
+        "Azimuth": 144,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:45+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:59+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
-        "PlateNumb": "EAL-2883",
+        "PlateNumb": "EAL-2886",
         "OperatorID": "10350",
         "OperatorNo": "1404",
-        "RouteUID": "KHH210",
-        "RouteID": "210",
+        "RouteUID": "KHH72",
+        "RouteID": "72",
         "RouteName": {
-            "Zh_tw": "紅35",
-            "En": "Red35"
+            "Zh_tw": "72",
+            "En": "72"
         },
-        "SubRouteUID": "KHH210",
-        "SubRouteID": "210",
+        "SubRouteUID": "KHH72",
+        "SubRouteID": "72",
         "SubRouteName": {
-            "Zh_tw": "紅35",
-            "En": "Red35"
+            "Zh_tw": "72",
+            "En": "72"
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.300176,
-            "PositionLat": 22.678006,
-            "GeoHash": "wsj912ruv"
+            "PositionLon": 120.321273,
+            "PositionLat": 22.665724,
+            "GeoHash": "wsj8cypm2"
         },
-        "Speed": 18,
-        "Azimuth": 119,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 1,
+        "Azimuth": 8,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:00:08+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2888",
@@ -3750,19 +2400,19 @@
             "Zh_tw": "69A小港幹線",
             "En": "69A"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.346531,
-            "PositionLat": 22.565608,
-            "GeoHash": "wsj86ecwj"
+            "PositionLon": 120.317186,
+            "PositionLat": 22.594811,
+            "GeoHash": "wsj89ck23"
         },
-        "Speed": 7,
-        "Azimuth": 267,
+        "Speed": 10,
+        "Azimuth": 319,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:54+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2889",
@@ -3780,19 +2430,19 @@
             "Zh_tw": "50五福幹線",
             "En": "50 Wufu Main Line"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.324741,
-            "PositionLat": 22.629956,
-            "GeoHash": "wsj8dp9v1"
+            "PositionLon": 120.342543,
+            "PositionLat": 22.625286,
+            "GeoHash": "wsj8dqycb"
         },
-        "Speed": 12,
-        "Azimuth": 274,
+        "Speed": 8,
+        "Azimuth": 92,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:48+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:48+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2892",
@@ -3810,19 +2460,19 @@
             "Zh_tw": "12(延駛飛機路)",
             "En": "12(Extend)"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.322855,
-            "PositionLat": 22.580076,
-            "GeoHash": "wsj86n86m"
+            "PositionLon": 120.321496,
+            "PositionLat": 22.583806,
+            "GeoHash": "wsj83zr2n"
         },
-        "Speed": 26,
-        "Azimuth": 22,
+        "Speed": 27,
+        "Azimuth": 69,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:42+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2893",
@@ -3840,49 +2490,19 @@
             "Zh_tw": "紅3林園幹線延駛",
             "En": "Red3(Extend)"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.358024,
-            "PositionLat": 22.569911,
-            "GeoHash": "wsj86udp3"
-        },
-        "Speed": 0,
-        "Azimuth": 90,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2895",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH211",
-        "RouteID": "211",
-        "RouteName": {
-            "Zh_tw": "紅3林園幹線",
-            "En": "Red3"
-        },
-        "SubRouteUID": "KHH211",
-        "SubRouteID": "211",
-        "SubRouteName": {
-            "Zh_tw": "紅3林園幹線",
-            "En": "Red3"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.361888,
-            "PositionLat": 22.512763,
-            "GeoHash": "wsj84fkf7"
+            "PositionLon": 120.372411,
+            "PositionLat": 22.534343,
+            "GeoHash": "wsj85nk80"
         },
-        "Speed": 0,
-        "Azimuth": 291,
+        "Speed": 52,
+        "Azimuth": 27,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:56+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2896",
@@ -3900,19 +2520,19 @@
             "Zh_tw": "紅3林園幹線",
             "En": "Red3"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.340235,
-            "PositionLat": 22.565706,
-            "GeoHash": "wsj867vnf"
+            "PositionLon": 120.397488,
+            "PositionLat": 22.500706,
+            "GeoHash": "wsj858nu0"
         },
-        "Speed": 0,
-        "Azimuth": 158,
+        "Speed": 36,
+        "Azimuth": 84,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:49+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:54+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2898",
@@ -3932,17 +2552,16 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.314226,
-            "PositionLat": 22.640425,
-            "GeoHash": "wsj8ccd4h"
+            "PositionLon": 120.32137,
+            "PositionLat": 22.665745,
+            "GeoHash": "wsj8cypme"
         },
-        "Speed": 37,
-        "Azimuth": 5,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:54+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 15,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:01:25+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2899",
@@ -3960,49 +2579,19 @@
             "Zh_tw": "黃1",
             "En": "Yellow1"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.349083,
-            "PositionLat": 22.652059,
-            "GeoHash": "wsj8feetb"
-        },
-        "Speed": 20,
-        "Azimuth": 231,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:01+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2901",
-        "OperatorID": "10350",
-        "OperatorNo": "1404",
-        "RouteUID": "KHH862",
-        "RouteID": "862",
-        "RouteName": {
-            "Zh_tw": "紅62A",
-            "En": "Red62A"
-        },
-        "SubRouteUID": "KHH862",
-        "SubRouteID": "862",
-        "SubRouteName": {
-            "Zh_tw": "紅62A",
-            "En": "Red62A"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.350475,
-            "PositionLat": 22.699823,
-            "GeoHash": "wsj94sks1"
+            "PositionLon": 120.305729,
+            "PositionLat": 22.614318,
+            "GeoHash": "wsj89sgcy"
         },
-        "Speed": 24,
-        "Azimuth": 251,
+        "Speed": 27,
+        "Azimuth": 68,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:54+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:58+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2906",
@@ -4020,19 +2609,19 @@
             "Zh_tw": "紅62A",
             "En": "Red62A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.30903,
-            "PositionLat": 22.679728,
-            "GeoHash": "wsj918wqg"
+            "PositionLon": 120.340246,
+            "PositionLat": 22.681464,
+            "GeoHash": "wsj943j14"
         },
-        "Speed": 23,
-        "Azimuth": 46,
+        "Speed": 0,
+        "Azimuth": 257,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:01+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:02:01+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2909",
@@ -4052,47 +2641,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.287173,
-            "PositionLat": 22.650843,
-            "GeoHash": "wsj8c5qqw"
+            "PositionLon": 120.321506,
+            "PositionLat": 22.665388,
+            "GeoHash": "wsj8cyp7q"
         },
-        "Speed": 35,
-        "Azimuth": 77,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:45+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2910",
-        "OperatorID": "10350",
-        "OperatorNo": "1404",
-        "RouteUID": "KHH2071",
-        "RouteID": "2071",
-        "RouteName": {
-            "Zh_tw": "168環東",
-            "En": "168E Main Line"
-        },
-        "SubRouteUID": "KHH2071",
-        "SubRouteID": "2071",
-        "SubRouteName": {
-            "Zh_tw": "168環東",
-            "En": "168E Main Line"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.321178,
-            "PositionLat": 22.66571,
-            "GeoHash": "wsj8cypjq"
-        },
-        "Speed": 2,
-        "Azimuth": 65535,
+        "Speed": 0,
+        "Azimuth": 168,
         "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:46+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2911",
@@ -4110,19 +2669,19 @@
             "Zh_tw": "77昌福幹線",
             "En": "77"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.299321,
-            "PositionLat": 22.622691,
-            "GeoHash": "wsj89qr69"
+            "PositionLon": 120.324179,
+            "PositionLat": 22.671938,
+            "GeoHash": "wsj8fp33s"
         },
         "Speed": 0,
-        "Azimuth": 250,
+        "Azimuth": 231,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:02:00+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2913",
@@ -4140,49 +2699,19 @@
             "Zh_tw": "168環東",
             "En": "168E Main Line"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.311321,
-            "PositionLat": 22.61984,
-            "GeoHash": "wsj89vb40"
+            "PositionLon": 120.31055,
+            "PositionLat": 22.668473,
+            "GeoHash": "wsj8cwxmr"
         },
-        "Speed": 0,
-        "Azimuth": 239,
+        "Speed": 42,
+        "Azimuth": 103,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2920",
-        "OperatorID": "10350",
-        "OperatorNo": "1404",
-        "RouteUID": "KHH2071",
-        "RouteID": "2071",
-        "RouteName": {
-            "Zh_tw": "168環東",
-            "En": "168E Main Line"
-        },
-        "SubRouteUID": "KHH2071",
-        "SubRouteID": "2071",
-        "SubRouteName": {
-            "Zh_tw": "168環東",
-            "En": "168E Main Line"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.321671,
-            "PositionLat": 22.665621,
-            "GeoHash": "wsj8cypsf"
-        },
-        "Speed": 5,
-        "Azimuth": 186,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:46+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:58+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2921",
@@ -4200,49 +2729,19 @@
             "Zh_tw": "168環東",
             "En": "168E Main Line"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.327466,
-            "PositionLat": 22.640519,
-            "GeoHash": "wsj8f1ef9"
+            "PositionLon": 120.28555,
+            "PositionLat": 22.649901,
+            "GeoHash": "wsj8c5m30"
         },
-        "Speed": 39,
-        "Azimuth": 161,
+        "Speed": 38,
+        "Azimuth": 46,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:01+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2926",
-        "OperatorID": "10350",
-        "OperatorNo": "1404",
-        "RouteUID": "KHH77",
-        "RouteID": "77",
-        "RouteName": {
-            "Zh_tw": "77昌福幹線",
-            "En": "77"
-        },
-        "SubRouteUID": "KHH77",
-        "SubRouteID": "77",
-        "SubRouteName": {
-            "Zh_tw": "77昌福幹線",
-            "En": "77"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.321546,
-            "PositionLat": 22.665608,
-            "GeoHash": "wsj8cypkx"
-        },
-        "Speed": 0,
-        "Azimuth": 188,
-        "DutyStatus": 1,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:42+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:58+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2928",
@@ -4260,79 +2759,19 @@
             "Zh_tw": "77昌福幹線",
             "En": "77"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.317726,
-            "PositionLat": 22.628756,
-            "GeoHash": "wsj89zkwn"
-        },
-        "Speed": 0,
-        "Azimuth": 250,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:43+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2932",
-        "OperatorID": "10350",
-        "OperatorNo": "1404",
-        "RouteUID": "KHH2061",
-        "RouteID": "2061",
-        "RouteName": {
-            "Zh_tw": "168環西",
-            "En": "168W Main Line"
-        },
-        "SubRouteUID": "KHH2061",
-        "SubRouteID": "2061",
-        "SubRouteName": {
-            "Zh_tw": "168環西",
-            "En": "168W Main Line"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.309235,
-            "PositionLat": 22.656698,
-            "GeoHash": "wsj8csw8b"
+            "PositionLon": 120.325421,
+            "PositionLat": 22.632836,
+            "GeoHash": "wsj8f04mc"
         },
-        "Speed": 0,
-        "Azimuth": 279,
+        "Speed": 1,
+        "Azimuth": 87,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2939",
-        "OperatorID": "10350",
-        "OperatorNo": "1404",
-        "RouteUID": "KHH77",
-        "RouteID": "77",
-        "RouteName": {
-            "Zh_tw": "77昌福幹線",
-            "En": "77"
-        },
-        "SubRouteUID": "KHH77",
-        "SubRouteID": "77",
-        "SubRouteName": {
-            "Zh_tw": "77昌福幹線",
-            "En": "77"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.327839,
-            "PositionLat": 22.638504,
-            "GeoHash": "wsj8f1hnc"
-        },
-        "Speed": 46,
-        "Azimuth": 21,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:45+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2953",
@@ -4350,19 +2789,19 @@
             "Zh_tw": "92自由幹線",
             "En": "92 Zihyou Main Line"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.311488,
-            "PositionLat": 22.689095,
-            "GeoHash": "wsj91f2js"
+            "PositionLon": 120.321521,
+            "PositionLat": 22.665453,
+            "GeoHash": "wsj8cyp7y"
         },
-        "Speed": 15,
-        "Azimuth": 137,
-        "DutyStatus": 0,
+        "Speed": 0,
+        "Azimuth": 65535,
+        "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:48+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2958",
@@ -4380,19 +2819,19 @@
             "Zh_tw": "168環西",
             "En": "168W Main Line"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.302993,
-            "PositionLat": 22.657379,
-            "GeoHash": "wsj8cs9uy"
+            "PositionLon": 120.318299,
+            "PositionLat": 22.629558,
+            "GeoHash": "wsj89zt4e"
         },
-        "Speed": 28,
-        "Azimuth": 175,
+        "Speed": 0,
+        "Azimuth": 347,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:02:01+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2959",
@@ -4412,17 +2851,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.303574,
-            "PositionLat": 22.639601,
-            "GeoHash": "wsj8c96mh"
+            "PositionLon": 120.321528,
+            "PositionLat": 22.665438,
+            "GeoHash": "wsj8cyp7w"
         },
-        "Speed": 22,
-        "Azimuth": 0,
-        "DutyStatus": 0,
+        "Speed": 0,
+        "Azimuth": 195,
+        "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:45+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:45+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2962",
@@ -4442,47 +2881,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.290571,
-            "PositionLat": 22.623348,
-            "GeoHash": "wsj89q2yt"
-        },
-        "Speed": 36,
-        "Azimuth": 161,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:53+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2965",
-        "OperatorID": "10350",
-        "OperatorNo": "1404",
-        "RouteUID": "KHH92",
-        "RouteID": "92",
-        "RouteName": {
-            "Zh_tw": "92自由幹線",
-            "En": "92 Zihyou Main Line"
-        },
-        "SubRouteUID": "KHH92",
-        "SubRouteID": "92",
-        "SubRouteName": {
-            "Zh_tw": "92自由幹線",
-            "En": "92 Zihyou Main Line"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.321486,
-            "PositionLat": 22.665463,
-            "GeoHash": "wsj8cyp7v"
+            "PositionLon": 120.303529,
+            "PositionLat": 22.670001,
+            "GeoHash": "wsj8cwfq7"
         },
         "Speed": 0,
-        "Azimuth": 189,
-        "DutyStatus": 1,
+        "Azimuth": 2,
+        "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:54+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2966",
@@ -4500,19 +2909,19 @@
             "Zh_tw": "77昌福幹線",
             "En": "77"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.324815,
-            "PositionLat": 22.669309,
-            "GeoHash": "wsj8fncf7"
+            "PositionLon": 120.283313,
+            "PositionLat": 22.62618,
+            "GeoHash": "wsj89ngxh"
         },
-        "Speed": 38,
-        "Azimuth": 63,
+        "Speed": 31,
+        "Azimuth": 299,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2970",
@@ -4532,17 +2941,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.299531,
-            "PositionLat": 22.718571,
-            "GeoHash": "wsj91rz3q"
+            "PositionLon": 120.299521,
+            "PositionLat": 22.718553,
+            "GeoHash": "wsj91rz3n"
         },
         "Speed": 0,
-        "Azimuth": 33,
+        "Azimuth": 90,
         "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:46+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2975",
@@ -4560,19 +2969,18 @@
             "Zh_tw": "橘1",
             "En": "Orange1"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.271848,
-            "PositionLat": 22.623049,
-            "GeoHash": "wsj88y7kc"
+            "PositionLon": 120.293048,
+            "PositionLat": 22.70849,
+            "GeoHash": "wsj91mfwx"
         },
-        "Speed": 30,
-        "Azimuth": 301,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 13,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:01:58+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2977",
@@ -4592,17 +3000,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.305935,
-            "PositionLat": 22.591004,
-            "GeoHash": "wsj898s45"
+            "PositionLon": 120.268311,
+            "PositionLat": 22.614516,
+            "GeoHash": "wsj88uben"
         },
-        "Speed": 0,
-        "Azimuth": 154,
-        "DutyStatus": 1,
+        "Speed": 25,
+        "Azimuth": 294,
+        "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:51+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:56+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2979",
@@ -4620,19 +3028,19 @@
             "Zh_tw": "紅9A旗津幹線",
             "En": "Red9A Cijin Main Line"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.32523,
-            "PositionLat": 22.577821,
-            "GeoHash": "wsj86n4jm"
+            "PositionLon": 120.315933,
+            "PositionLat": 22.581836,
+            "GeoHash": "wsj83ygks"
         },
-        "Speed": 30,
-        "Azimuth": 231,
+        "Speed": 31,
+        "Azimuth": 248,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:56+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2980",
@@ -4652,17 +3060,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.269261,
-            "PositionLat": 22.614251,
-            "GeoHash": "wsj88uc3s"
+            "PositionLon": 120.305975,
+            "PositionLat": 22.591055,
+            "GeoHash": "wsj898s4k"
         },
         "Speed": 0,
-        "Azimuth": 293,
-        "DutyStatus": 0,
+        "Azimuth": 147,
+        "DutyStatus": 1,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:59+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "EAL-2982",
@@ -4680,79 +3088,19 @@
             "Zh_tw": "36",
             "En": "36"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.308801,
-            "PositionLat": 22.60525,
-            "GeoHash": "wsj89enjn"
-        },
-        "Speed": 0,
-        "Azimuth": 140,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:46+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2983",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH36",
-        "RouteID": "36",
-        "RouteName": {
-            "Zh_tw": "36",
-            "En": "36"
-        },
-        "SubRouteUID": "KHH36",
-        "SubRouteID": "36",
-        "SubRouteName": {
-            "Zh_tw": "36",
-            "En": "36"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.305793,
-            "PositionLat": 22.590975,
-            "GeoHash": "wsj898s1b"
+            "PositionLon": 120.307408,
+            "PositionLat": 22.606943,
+            "GeoHash": "wsj89emnv"
         },
-        "Speed": 0,
-        "Azimuth": 255,
-        "DutyStatus": 1,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:44+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2985",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH116",
-        "RouteID": "116",
-        "RouteName": {
-            "Zh_tw": "紅9A旗津幹線",
-            "En": "Red9A Cijin Main Line"
-        },
-        "SubRouteUID": "KHH116",
-        "SubRouteID": "116",
-        "SubRouteName": {
-            "Zh_tw": "紅9A旗津幹線",
-            "En": "Red9A Cijin Main Line"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.3058,
-            "PositionLat": 22.561158,
-            "GeoHash": "wsj83ehh2"
-        },
-        "Speed": 0,
-        "Azimuth": 61,
+        "Speed": 23,
+        "Azimuth": 318,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:57+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:45+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-8708",
@@ -4770,19 +3118,19 @@
             "Zh_tw": "8501(部分繞駛義守大學)",
             "En": "8501"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.378596,
-            "PositionLat": 22.700721,
-            "GeoHash": "wsj95k912"
+            "PositionLon": 120.40809,
+            "PositionLat": 22.730418,
+            "GeoHash": "wsj97cyqr"
         },
-        "Speed": 16,
-        "Azimuth": 265,
+        "Speed": 20,
+        "Azimuth": 64,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T22:59:48+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-8719",
@@ -4802,17 +3150,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.409846,
-            "PositionLat": 22.730343,
-            "GeoHash": "wsj97czvb"
+            "PositionLon": 120.328526,
+            "PositionLat": 22.593596,
+            "GeoHash": "wsj8d1h91"
         },
         "Speed": 0,
-        "Azimuth": 33,
+        "Azimuth": 236,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:59+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:59+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-8725",
@@ -4832,17 +3180,16 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.300893,
-            "PositionLat": 22.780003,
-            "GeoHash": "wsj99dbrj"
+            "PositionLon": 120.299881,
+            "PositionLat": 22.792933,
+            "GeoHash": "wsj99mrdq"
         },
-        "Speed": 19,
-        "Azimuth": 336,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:46+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 348,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:01:10+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-8728",
@@ -4860,78 +3207,49 @@
             "Zh_tw": "E03B燕巢快線",
             "En": "E03B Yanchao Express"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.364363,
-            "PositionLat": 22.764823,
-            "GeoHash": "wsj9dbnws"
+            "PositionLon": 120.320781,
+            "PositionLat": 22.688341,
+            "GeoHash": "wsj91fqcj"
         },
         "Speed": 0,
-        "Azimuth": 77,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:53+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "KKA-8732",
-        "OperatorID": "10330",
-        "OperatorNo": "1307",
-        "RouteUID": "KHH8505",
-        "RouteID": "8505",
-        "RouteName": {
-            "Zh_tw": "8505",
-            "En": "8505"
-        },
-        "SubRouteUID": "KHH8505",
-        "SubRouteID": "8505",
-        "SubRouteName": {
-            "Zh_tw": "8505",
-            "En": "8505"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.335521,
-            "PositionLat": 22.630825,
-            "GeoHash": "wsj8drcdh"
-        },
-        "Speed": 5,
-        "Azimuth": 106,
+        "Azimuth": 190,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:45+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:54+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
-        "PlateNumb": "KKA-8733",
+        "PlateNumb": "KKA-8729",
         "OperatorID": "10330",
         "OperatorNo": "1307",
-        "RouteUID": "KHH8506",
-        "RouteID": "8506",
+        "RouteUID": "KHH8502",
+        "RouteID": "8502",
         "RouteName": {
-            "Zh_tw": "8506",
-            "En": "8506"
+            "Zh_tw": "8502",
+            "En": "8502"
         },
-        "SubRouteUID": "KHH8506",
-        "SubRouteID": "8506",
+        "SubRouteUID": "KHH8502",
+        "SubRouteID": "8502",
         "SubRouteName": {
-            "Zh_tw": "8506",
-            "En": "8506"
+            "Zh_tw": "8502",
+            "En": "8502"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.350925,
-            "PositionLat": 22.731586,
-            "GeoHash": "wsj96dhv5"
+            "PositionLon": 120.312446,
+            "PositionLat": 22.66037,
+            "GeoHash": "wsj8cv0y5"
         },
-        "Speed": 7,
-        "Azimuth": 103,
+        "Speed": 28,
+        "Azimuth": 286,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:57+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:02:01+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-8736",
@@ -4949,19 +3267,19 @@
             "Zh_tw": "8506",
             "En": "8506"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.407988,
-            "PositionLat": 22.730058,
-            "GeoHash": "wsj97cykj"
+            "PositionLon": 120.336411,
+            "PositionLat": 22.731203,
+            "GeoHash": "wsj96646c"
         },
         "Speed": 0,
-        "Azimuth": 55,
+        "Azimuth": 262,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:50+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-8739",
@@ -4981,17 +3299,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.408416,
-            "PositionLat": 22.729536,
-            "GeoHash": "wsj97cy9p"
+            "PositionLon": 120.308456,
+            "PositionLat": 22.682331,
+            "GeoHash": "wsj919jyn"
         },
-        "Speed": 0,
-        "Azimuth": 342,
+        "Speed": 18,
+        "Azimuth": 137,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:47+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:56+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9136",
@@ -5011,17 +3329,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.285631,
-            "PositionLat": 22.662636,
-            "GeoHash": "wsj8cjt76"
+            "PositionLon": 120.319831,
+            "PositionLat": 22.667831,
+            "GeoHash": "wsj8cyw1x"
         },
         "Speed": 0,
-        "Azimuth": 300,
+        "Azimuth": 191,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:48+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:48+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9137",
@@ -5039,19 +3357,19 @@
             "Zh_tw": "301",
             "En": "301"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.299634,
-            "PositionLat": 22.693671,
-            "GeoHash": "wsj917r80"
+            "PositionLon": 120.298368,
+            "PositionLat": 22.722956,
+            "GeoHash": "wsj932wdg"
         },
-        "Speed": 0,
-        "Azimuth": 266,
+        "Speed": 15,
+        "Azimuth": 337,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:50+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:51+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9138",
@@ -5071,16 +3389,16 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.303529,
-            "PositionLat": 22.648151,
-            "GeoHash": "wsj8cdfr5"
+            "PositionLon": 120.303426,
+            "PositionLat": 22.648103,
+            "GeoHash": "wsj8cdfqc"
         },
         "Speed": 0,
-        "Azimuth": 217,
+        "Azimuth": 0,
         "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:02:00+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9151",
@@ -5100,17 +3418,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.298791,
-            "PositionLat": 22.720166,
-            "GeoHash": "wsj932nft"
+            "PositionLon": 120.303996,
+            "PositionLat": 22.675568,
+            "GeoHash": "wsj8cxfwy"
         },
-        "Speed": 24,
-        "Azimuth": 72,
+        "Speed": 39,
+        "Azimuth": 121,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:51+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9153",
@@ -5130,16 +3448,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.299191,
-            "PositionLat": 22.719011,
-            "GeoHash": "wsj91rz5y"
+            "PositionLon": 120.324168,
+            "PositionLat": 22.725693,
+            "GeoHash": "wsj96116u"
         },
         "Speed": 0,
-        "Azimuth": 341,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:11:00+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Azimuth": 208,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T23:02:00+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9156",
@@ -5159,17 +3478,16 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.282021,
-            "PositionLat": 22.651676,
-            "GeoHash": "wsj8c5dew"
+            "PositionLon": 120.321391,
+            "PositionLat": 22.694871,
+            "GeoHash": "wsj91grr5"
         },
-        "Speed": 19,
-        "Azimuth": 272,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:49+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 89,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:59:44+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9157",
@@ -5187,19 +3505,19 @@
             "Zh_tw": "紅33明誠幹線",
             "En": "Red33 Mingcheng Main Line"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.300106,
-            "PositionLat": 22.655591,
-            "GeoHash": "wsj8ckrf7"
+            "PositionLon": 120.303318,
+            "PositionLat": 22.658311,
+            "GeoHash": "wsj8csf4n"
         },
-        "Speed": 34,
-        "Azimuth": 180,
+        "Speed": 13,
+        "Azimuth": 270,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:53+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9160",
@@ -5219,17 +3537,16 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.2994,
-            "PositionLat": 22.725163,
-            "GeoHash": "wsj932zre"
+            "PositionLon": 120.305893,
+            "PositionLat": 22.718846,
+            "GeoHash": "wsj91xu4f"
         },
-        "Speed": 27,
-        "Azimuth": 241,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:11:02+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 0,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T23:02:02+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9162",
@@ -5249,17 +3566,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.309444,
-            "PositionLat": 22.727781,
-            "GeoHash": "wsj939qwv"
+            "PositionLon": 120.310559,
+            "PositionLat": 22.727433,
+            "GeoHash": "wsj939rkz"
         },
-        "Speed": 0,
-        "Azimuth": 70,
+        "Speed": 17,
+        "Azimuth": 235,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:53+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:53+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9168",
@@ -5277,49 +3594,19 @@
             "Zh_tw": "70A三多幹線(部分延駛澄清湖)",
             "En": "70A"
         },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.305083,
-            "PositionLat": 22.614181,
-            "GeoHash": "wsj89sg3p"
-        },
-        "Speed": 0,
-        "Azimuth": 259,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:09:55+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "KKA-9170",
-        "OperatorID": "10250",
-        "OperatorNo": "0804",
-        "RouteUID": "KHH812",
-        "RouteID": "812",
-        "RouteName": {
-            "Zh_tw": "紅12A",
-            "En": "Red12A"
-        },
-        "SubRouteUID": "KHH812",
-        "SubRouteID": "812",
-        "SubRouteName": {
-            "Zh_tw": "紅12A",
-            "En": "Red12A"
-        },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.316173,
-            "PositionLat": 22.596479,
-            "GeoHash": "wsj89ced4"
+            "PositionLon": 120.345015,
+            "PositionLat": 22.638366,
+            "GeoHash": "wsj8f90w4"
         },
         "Speed": 0,
-        "Azimuth": 0,
+        "Azimuth": 8,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:58+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:32+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9172",
@@ -5337,19 +3624,19 @@
             "Zh_tw": "70A三多幹線(部分延駛澄清湖)",
             "En": "70A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.314054,
-            "PositionLat": 22.617139,
-            "GeoHash": "wsj89v642"
+            "PositionLon": 120.327318,
+            "PositionLat": 22.621504,
+            "GeoHash": "wsj8dn5ev"
         },
-        "Speed": 0,
-        "Azimuth": 64,
+        "Speed": 23,
+        "Azimuth": 250,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:11+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:56+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9175",
@@ -5367,109 +3654,19 @@
             "Zh_tw": "70D三多幹線(延駛仁美)",
             "En": "70D"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.344543,
-            "PositionLat": 22.635601,
-            "GeoHash": "wsj8f88jz"
-        },
-        "Speed": 20,
-        "Azimuth": 1,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:50+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "KKA-9177",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH70",
-        "RouteID": "70",
-        "RouteName": {
-            "Zh_tw": "70A三多幹線(部分延駛澄清湖)",
-            "En": "70A"
-        },
-        "SubRouteUID": "KHH70",
-        "SubRouteID": "70",
-        "SubRouteName": {
-            "Zh_tw": "70A三多幹線(部分延駛澄清湖)",
-            "En": "70A"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.34296,
-            "PositionLat": 22.624828,
-            "GeoHash": "wsj8dqxp4"
+            "PositionLon": 120.338915,
+            "PositionLat": 22.624308,
+            "GeoHash": "wsj8dqsh5"
         },
-        "Speed": 11,
+        "Speed": 21,
         "Azimuth": 262,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:09:41+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "KKA-9178",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH114",
-        "RouteID": "114",
-        "RouteName": {
-            "Zh_tw": "205中華幹線",
-            "En": "205 Jhonghua Main Line"
-        },
-        "SubRouteUID": "KHH114",
-        "SubRouteID": "114",
-        "SubRouteName": {
-            "Zh_tw": "205中華幹線",
-            "En": "205 Jhonghua Main Line"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.302518,
-            "PositionLat": 22.705181,
-            "GeoHash": "wsj91t3e7"
-        },
-        "Speed": 24,
-        "Azimuth": 0,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:08:42+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "KKA-9186",
-        "OperatorID": "10360",
-        "OperatorNo": "1203",
-        "RouteUID": "KHH114",
-        "RouteID": "114",
-        "RouteName": {
-            "Zh_tw": "205中華幹線",
-            "En": "205 Jhonghua Main Line"
-        },
-        "SubRouteUID": "KHH114",
-        "SubRouteID": "114",
-        "SubRouteName": {
-            "Zh_tw": "205中華幹線",
-            "En": "205 Jhonghua Main Line"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.292599,
-            "PositionLat": 22.66431,
-            "GeoHash": "wsj8cmfmh"
-        },
-        "Speed": 29,
-        "Azimuth": 353,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:54+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9189",
@@ -5489,17 +3686,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.292384,
-            "PositionLat": 22.695936,
-            "GeoHash": "wsj917djr"
+            "PositionLon": 120.347113,
+            "PositionLat": 22.647186,
+            "GeoHash": "wsj8fdf16"
         },
-        "Speed": 19,
-        "Azimuth": 180,
+        "Speed": 0,
+        "Azimuth": 15,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:09:11+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:25+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKA-9198",
@@ -5517,19 +3714,19 @@
             "Zh_tw": "紅36裕誠幹線(17時以後改道文信路)",
             "En": "Red36(17:08-23:30 detourWenxin Rd.)"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.287176,
-            "PositionLat": 22.680859,
-            "GeoHash": "wsj910ymw"
+            "PositionLon": 120.291541,
+            "PositionLat": 22.661296,
+            "GeoHash": "wsj8cm3es"
         },
         "Speed": 19,
-        "Azimuth": 98,
+        "Azimuth": 272,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:49+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:57+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKB-8026",
@@ -5549,17 +3746,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.31824,
-            "PositionLat": 22.693763,
-            "GeoHash": "wsj91gm0f"
+            "PositionLon": 120.510959,
+            "PositionLat": 22.892166,
+            "GeoHash": "wsjdnr3ks"
         },
-        "Speed": 9,
-        "Azimuth": 315,
+        "Speed": 55,
+        "Azimuth": 61,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:42+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:42+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKB-8075",
@@ -5577,19 +3774,19 @@
             "Zh_tw": "橘16A",
             "En": "Orange16A"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.363613,
-            "PositionLat": 22.64039,
-            "GeoHash": "wsj8fcw1g"
+            "PositionLon": 120.36476,
+            "PositionLat": 22.654189,
+            "GeoHash": "wsj8funfn"
         },
         "Speed": 0,
         "Azimuth": 0,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:45+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:45+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKB-8099",
@@ -5607,19 +3804,19 @@
             "Zh_tw": "28",
             "En": "28 "
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.320824,
-            "PositionLat": 22.681903,
-            "GeoHash": "wsj91cngw"
+            "PositionLon": 120.316226,
+            "PositionLat": 22.663401,
+            "GeoHash": "wsj8cvexg"
         },
-        "Speed": 26,
-        "Azimuth": 98,
+        "Speed": 0,
+        "Azimuth": 23,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:57+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKB-8101",
@@ -5637,19 +3834,19 @@
             "Zh_tw": "紅33明誠幹線",
             "En": "Red33 Mingcheng Main Line"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.351188,
-            "PositionLat": 22.640226,
-            "GeoHash": "wsj8f9t0c"
+            "PositionLon": 120.281796,
+            "PositionLat": 22.662404,
+            "GeoHash": "wsj8cjdd0"
         },
-        "Speed": 30,
-        "Azimuth": 188,
+        "Speed": 0,
+        "Azimuth": 28,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:46+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:46+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKB-8102",
@@ -5667,19 +3864,19 @@
             "Zh_tw": "301區間車",
             "En": "301Interval"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.299469,
-            "PositionLat": 22.693686,
-            "GeoHash": "wsj917r2k"
+            "PositionLon": 120.315161,
+            "PositionLat": 22.721896,
+            "GeoHash": "wsj93b6ud"
         },
         "Speed": 0,
-        "Azimuth": 278,
+        "Azimuth": 240,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:51+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:51+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKB-8103",
@@ -5697,49 +3894,19 @@
             "Zh_tw": "301區間車",
             "En": "301Interval"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.299988,
-            "PositionLat": 22.693478,
-            "GeoHash": "wsj917pz0"
-        },
-        "Speed": 16,
-        "Azimuth": 108,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:54+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "KKB-8105",
-        "OperatorID": "10310",
-        "OperatorNo": "0901",
-        "RouteUID": "KHH28",
-        "RouteID": "28",
-        "RouteName": {
-            "Zh_tw": "28",
-            "En": "28 "
-        },
-        "SubRouteUID": "KHH28",
-        "SubRouteID": "28",
-        "SubRouteName": {
-            "Zh_tw": "28",
-            "En": "28 "
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.329991,
-            "PositionLat": 22.724261,
-            "GeoHash": "wsj960vdk"
+            "PositionLon": 120.292415,
+            "PositionLat": 22.690461,
+            "GeoHash": "wsj916dm8"
         },
-        "Speed": 0,
-        "Azimuth": 173,
+        "Speed": 10,
+        "Azimuth": 342,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:56+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:54+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKB-8107",
@@ -5759,17 +3926,17 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.297613,
-            "PositionLat": 22.718623,
-            "GeoHash": "wsj91ry19"
+            "PositionLon": 120.300653,
+            "PositionLat": 22.637883,
+            "GeoHash": "wsj8c9070"
         },
-        "Speed": 10,
-        "Azimuth": 256,
+        "Speed": 31,
+        "Azimuth": 95,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:46+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKB-8108",
@@ -5789,17 +3956,17 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.304766,
-            "PositionLat": 22.634368,
-            "GeoHash": "wsj8c87qb"
+            "PositionLon": 120.327844,
+            "PositionLat": 22.722831,
+            "GeoHash": "wsj960s41"
         },
-        "Speed": 0,
-        "Azimuth": 84,
+        "Speed": 33,
+        "Azimuth": 240,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:45+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:46+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKB-8113",
@@ -5817,18 +3984,19 @@
             "Zh_tw": "紅33明誠幹線",
             "En": "Red33 Mingcheng Main Line"
         },
-        "Direction": 1,
+        "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.28331,
-            "PositionLat": 22.681211,
-            "GeoHash": "wsj910gxs"
+            "PositionLon": 120.315016,
+            "PositionLat": 22.659751,
+            "GeoHash": "wsj8cv4dx"
         },
-        "Speed": 0,
-        "Azimuth": 90,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:53+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 44,
+        "Azimuth": 91,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T23:01:58+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "KKB-8161",
@@ -5846,78 +4014,79 @@
             "Zh_tw": "E28高旗美濃快線",
             "En": "E28 Meinong Express"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.430973,
-            "PositionLat": 22.791433,
-            "GeoHash": "wsj9smp1t"
-        },
-        "Speed": 87,
-        "Azimuth": 43,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:42+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
-    },
-    {
-        "PlateNumb": "KKB-8179",
-        "OperatorID": "10320",
-        "OperatorNo": "1003",
-        "RouteUID": "KHH97",
-        "RouteID": "97",
-        "RouteName": {
-            "Zh_tw": "97",
-            "En": "97"
-        },
-        "SubRouteUID": "KHH97",
-        "SubRouteID": "97",
-        "SubRouteName": {
-            "Zh_tw": "97",
-            "En": "97"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.3186,
-            "PositionLat": 22.693586,
-            "GeoHash": "wsj91gjrd"
+            "PositionLon": 120.541679,
+            "PositionLat": 22.901996,
+            "GeoHash": "wsjdqcpvb"
         },
         "Speed": 0,
         "Azimuth": 0,
-        "DutyStatus": 1,
-        "GPSTime": "2025-09-02T22:10:02+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T23:01:42+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "TDK-1361",
         "OperatorID": "20010",
         "OperatorNo": "0415",
-        "RouteUID": "KHH15117",
-        "RouteID": "15117",
+        "RouteUID": "KHH15105",
+        "RouteID": "15105",
         "RouteName": {
-            "Zh_tw": "82公車式小黃",
-            "En": "82(DRTS)"
+            "Zh_tw": "紅6公車式小黃",
+            "En": "Red6(DRTS)"
         },
-        "SubRouteUID": "KHH15117",
-        "SubRouteID": "15117",
+        "SubRouteUID": "KHH15105",
+        "SubRouteID": "15105",
         "SubRouteName": {
-            "Zh_tw": "82公車式小黃",
-            "En": "82(DRTS)"
+            "Zh_tw": "紅6公車式小黃",
+            "En": "Red6(DRTS)"
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 120.315818,
-            "PositionLat": 22.633739,
-            "GeoHash": "wsj8cb771"
+            "PositionLon": 120.331408,
+            "PositionLat": 22.576834,
+            "GeoHash": "wsj86jyxt"
         },
-        "Speed": 13,
-        "Azimuth": 283,
+        "Speed": 10,
+        "Azimuth": 141,
         "DutyStatus": 0,
         "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:46+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "GPSTime": "2025-09-02T23:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
+    },
+    {
+        "PlateNumb": "TDK-1361",
+        "OperatorID": "20010",
+        "OperatorNo": "0415",
+        "RouteUID": "KHH15105",
+        "RouteID": "15105",
+        "RouteName": {
+            "Zh_tw": "紅6公車式小黃",
+            "En": "Red6(DRTS)"
+        },
+        "SubRouteUID": "KHH15105",
+        "SubRouteID": "15105",
+        "SubRouteName": {
+            "Zh_tw": "紅6公車式小黃",
+            "En": "Red6(DRTS)"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.331408,
+            "PositionLat": 22.576834,
+            "GeoHash": "wsj86jyxt"
+        },
+        "Speed": 10,
+        "Azimuth": 141,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "GPSTime": "2025-09-02T23:01:55+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "TDK-7533",
@@ -5935,18 +4104,17 @@
             "Zh_tw": "紅7B(經紅毛港)",
             "En": "Red7B(Extend Hongmaogang)"
         },
-        "Direction": 0,
+        "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.337008,
-            "PositionLat": 22.584816,
-            "GeoHash": "wsj86r6wp"
+            "PositionLon": 120.321983,
+            "PositionLat": 22.573063,
+            "GeoHash": "wsj83vrc9"
         },
-        "Speed": 15,
-        "Azimuth": 359,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "GPSTime": "2025-09-02T22:10:52+08:00",
-        "SrcUpdateTime": "2025-09-02T22:11:02+08:00",
-        "UpdateTime": "2025-09-02T22:11:12+08:00"
+        "Speed": 0,
+        "Azimuth": 51,
+        "DutyStatus": 1,
+        "GPSTime": "2025-09-02T22:59:05+08:00",
+        "SrcUpdateTime": "2025-09-02T23:02:02+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     }
 ]

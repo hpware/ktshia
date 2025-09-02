@@ -1,102 +1,70 @@
 [
     {
-        "PlateNumb": "125-U6",
+        "PlateNumb": "133-U6",
         "OperatorID": "109",
         "OperatorNo": "1107",
-        "RouteUID": "KEE0358",
-        "RouteID": "0358",
+        "RouteUID": "KEE0212",
+        "RouteID": "0212",
         "RouteName": {
-            "Zh_tw": "104",
-            "En": "104"
+            "Zh_tw": "202",
+            "En": "202"
         },
-        "SubRouteUID": "KEE035801",
-        "SubRouteID": "035801",
+        "SubRouteUID": "KEE021201",
+        "SubRouteID": "021201",
         "SubRouteName": {
-            "Zh_tw": "104",
-            "En": "104"
+            "Zh_tw": "202",
+            "En": "202"
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.788036666667,
-            "PositionLat": 25.1367116666667,
-            "GeoHash": "wsqwgrgrf"
+            "PositionLon": 121.778923333333,
+            "PositionLat": 25.13656,
+            "GeoHash": "wsqwgpuxn"
         },
-        "Speed": 22,
-        "Azimuth": 217,
+        "Speed": 14,
+        "Azimuth": 134,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:24+08:00",
-        "SrcRecTime": "2025-09-02T22:12:25+08:00",
-        "SrcTransTime": "2025-09-02T22:12:25+08:00",
-        "UpdateTime": "2025-09-02T22:12:27+08:00"
+        "GPSTime": "2025-09-02T23:02:20+08:00",
+        "SrcRecTime": "2025-09-02T23:02:21+08:00",
+        "SrcTransTime": "2025-09-02T23:02:21+08:00",
+        "UpdateTime": "2025-09-02T23:02:22+08:00"
     },
     {
-        "PlateNumb": "210-U6",
+        "PlateNumb": "265-U6",
         "OperatorID": "109",
         "OperatorNo": "1107",
-        "RouteUID": "KEE0395",
-        "RouteID": "0395",
+        "RouteUID": "KEE0211",
+        "RouteID": "0211",
         "RouteName": {
-            "Zh_tw": "303",
-            "En": "303"
+            "Zh_tw": "201",
+            "En": "201"
         },
-        "SubRouteUID": "KEE039501",
-        "SubRouteID": "039501",
+        "SubRouteUID": "KEE021101",
+        "SubRouteID": "021101",
         "SubRouteName": {
-            "Zh_tw": "303",
-            "En": "303"
+            "Zh_tw": "201",
+            "En": "201"
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.73961,
-            "PositionLat": 25.1280183333333,
-            "GeoHash": "wsqwfq2j6"
+            "PositionLon": 121.756496666667,
+            "PositionLat": 25.1280466666667,
+            "GeoHash": "wsqwfwkmk"
         },
-        "Speed": 0,
-        "Azimuth": 126,
+        "Speed": 25,
+        "Azimuth": 94,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:24+08:00",
-        "SrcRecTime": "2025-09-02T22:12:24+08:00",
-        "SrcTransTime": "2025-09-02T22:12:25+08:00",
-        "UpdateTime": "2025-09-02T22:12:27+08:00"
+        "GPSTime": "2025-09-02T23:02:20+08:00",
+        "SrcRecTime": "2025-09-02T23:02:21+08:00",
+        "SrcTransTime": "2025-09-02T23:02:21+08:00",
+        "UpdateTime": "2025-09-02T23:02:22+08:00"
     },
     {
-        "PlateNumb": "262-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0353",
-        "RouteID": "0353",
-        "RouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "SubRouteUID": "KEE035301",
-        "SubRouteID": "035301",
-        "SubRouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.745283333333,
-            "PositionLat": 25.1323,
-            "GeoHash": "wsqwfrhnq"
-        },
-        "Speed": 0,
-        "Azimuth": 39,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:25+08:00",
-        "SrcRecTime": "2025-09-02T22:12:25+08:00",
-        "SrcTransTime": "2025-09-02T22:12:25+08:00",
-        "UpdateTime": "2025-09-02T22:12:27+08:00"
-    },
-    {
-        "PlateNumb": "276-U6",
+        "PlateNumb": "283-U6",
         "OperatorID": "109",
         "OperatorNo": "1107",
         "RouteUID": "KEE0393",
@@ -113,51 +81,19 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.725726666667,
-            "PositionLat": 25.148225,
-            "GeoHash": "wsqx1fjgp"
+            "PositionLon": 121.741563333333,
+            "PositionLat": 25.1443066666667,
+            "GeoHash": "wsqx433s0"
         },
-        "Speed": 0,
-        "Azimuth": 357,
+        "Speed": 44,
+        "Azimuth": 322,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:23+08:00",
-        "SrcRecTime": "2025-09-02T22:12:24+08:00",
-        "SrcTransTime": "2025-09-02T22:12:24+08:00",
-        "UpdateTime": "2025-09-02T22:12:27+08:00"
-    },
-    {
-        "PlateNumb": "286-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0448",
-        "RouteID": "0448",
-        "RouteName": {
-            "Zh_tw": "501",
-            "En": "501"
-        },
-        "SubRouteUID": "KEE044801",
-        "SubRouteID": "044801",
-        "SubRouteName": {
-            "Zh_tw": "501",
-            "En": "501"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.735305,
-            "PositionLat": 25.1293133333333,
-            "GeoHash": "wsqwfnsuy"
-        },
-        "Speed": 22,
-        "Azimuth": 77,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:26+08:00",
-        "SrcRecTime": "2025-09-02T22:12:26+08:00",
-        "SrcTransTime": "2025-09-02T22:12:27+08:00",
-        "UpdateTime": "2025-09-02T22:12:27+08:00"
+        "GPSTime": "2025-09-02T23:02:21+08:00",
+        "SrcRecTime": "2025-09-02T23:02:21+08:00",
+        "SrcTransTime": "2025-09-02T23:02:22+08:00",
+        "UpdateTime": "2025-09-02T23:02:22+08:00"
     },
     {
         "PlateNumb": "519-FW",
@@ -177,310 +113,54 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.782668333333,
-            "PositionLat": 25.1489383333333,
-            "GeoHash": "wsqx54prj"
-        },
-        "Speed": 37,
-        "Azimuth": 332,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:21+08:00",
-        "SrcRecTime": "2025-09-02T22:12:23+08:00",
-        "SrcTransTime": "2025-09-02T22:12:23+08:00",
-        "UpdateTime": "2025-09-02T22:12:27+08:00"
-    },
-    {
-        "PlateNumb": "FAC-161",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0932",
-        "RouteID": "0932",
-        "RouteName": {
-            "Zh_tw": "505",
-            "En": "505"
-        },
-        "SubRouteUID": "KEE093201",
-        "SubRouteID": "093201",
-        "SubRouteName": {
-            "Zh_tw": "505",
-            "En": "505"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.735148333333,
-            "PositionLat": 25.131755,
-            "GeoHash": "wsqwfphg4"
-        },
-        "Speed": 22,
-        "Azimuth": 290,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:22+08:00",
-        "SrcRecTime": "2025-09-02T22:12:22+08:00",
-        "SrcTransTime": "2025-09-02T22:12:22+08:00",
-        "UpdateTime": "2025-09-02T22:12:27+08:00"
-    },
-    {
-        "PlateNumb": "KKB-8792",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0352",
-        "RouteID": "0352",
-        "RouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "SubRouteUID": "KEE035201",
-        "SubRouteID": "035201",
-        "SubRouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.76424,
-            "PositionLat": 25.1561683333333,
-            "GeoHash": "wsqx4gd12"
-        },
-        "Speed": 3,
-        "Azimuth": 189,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:22+08:00",
-        "SrcRecTime": "2025-09-02T22:12:22+08:00",
-        "SrcTransTime": "2025-09-02T22:12:22+08:00",
-        "UpdateTime": "2025-09-02T22:12:27+08:00"
-    },
-    {
-        "PlateNumb": "KKB-8797",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0474",
-        "RouteID": "0474",
-        "RouteName": {
-            "Zh_tw": "6021",
-            "En": "6021"
-        },
-        "SubRouteUID": "KEE047401",
-        "SubRouteID": "047401",
-        "SubRouteName": {
-            "Zh_tw": "6021",
-            "En": "6021"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.738896666667,
-            "PositionLat": 25.0932133333333,
-            "GeoHash": "wsqwf0pd9"
-        },
-        "Speed": 9,
-        "Azimuth": 45,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:23+08:00",
-        "SrcRecTime": "2025-09-02T22:12:23+08:00",
-        "SrcTransTime": "2025-09-02T22:12:23+08:00",
-        "UpdateTime": "2025-09-02T22:12:27+08:00"
-    },
-    {
-        "PlateNumb": "130-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0449",
-        "RouteID": "0449",
-        "RouteName": {
-            "Zh_tw": "502",
-            "En": "502"
-        },
-        "SubRouteUID": "KEE044901",
-        "SubRouteID": "044901",
-        "SubRouteName": {
-            "Zh_tw": "502",
-            "En": "502"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.742488333333,
-            "PositionLat": 25.1300566666667,
-            "GeoHash": "wsqwfqf1j"
+            "PositionLon": 121.783088333333,
+            "PositionLat": 25.135185,
+            "GeoHash": "wsqwgpxxp"
         },
         "Speed": 0,
-        "Azimuth": 301,
+        "Azimuth": 265,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:17+08:00",
-        "SrcRecTime": "2025-09-02T22:12:18+08:00",
-        "SrcTransTime": "2025-09-02T22:12:18+08:00",
-        "UpdateTime": "2025-09-02T22:12:22+08:00"
+        "GPSTime": "2025-09-02T23:02:21+08:00",
+        "SrcRecTime": "2025-09-02T23:02:21+08:00",
+        "SrcTransTime": "2025-09-02T23:02:21+08:00",
+        "UpdateTime": "2025-09-02T23:02:22+08:00"
     },
     {
-        "PlateNumb": "138-U6",
+        "PlateNumb": "608-FZ",
         "OperatorID": "109",
         "OperatorNo": "1107",
-        "RouteUID": "KEE0443",
-        "RouteID": "0443",
+        "RouteUID": "KEE0355",
+        "RouteID": "0355",
         "RouteName": {
-            "Zh_tw": "406",
-            "En": "406"
+            "Zh_tw": "103",
+            "En": "103"
         },
-        "SubRouteUID": "KEE044301",
-        "SubRouteID": "044301",
+        "SubRouteUID": "KEE035501",
+        "SubRouteID": "035501",
         "SubRouteName": {
-            "Zh_tw": "406",
-            "En": "406"
+            "Zh_tw": "103",
+            "En": "103"
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.743146666667,
-            "PositionLat": 25.1293966666667,
-            "GeoHash": "wsqwfqdtk"
+            "PositionLon": 121.759666666667,
+            "PositionLat": 25.1405916666667,
+            "GeoHash": "wsqx48wwt"
         },
-        "Speed": 0,
-        "Azimuth": 21,
+        "Speed": 40,
+        "Azimuth": 74,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:16+08:00",
-        "SrcRecTime": "2025-09-02T22:12:17+08:00",
-        "SrcTransTime": "2025-09-02T22:12:17+08:00",
-        "UpdateTime": "2025-09-02T22:12:22+08:00"
+        "GPSTime": "2025-09-02T23:02:19+08:00",
+        "SrcRecTime": "2025-09-02T23:02:19+08:00",
+        "SrcTransTime": "2025-09-02T23:02:19+08:00",
+        "UpdateTime": "2025-09-02T23:02:22+08:00"
     },
     {
-        "PlateNumb": "269-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0437",
-        "RouteID": "0437",
-        "RouteName": {
-            "Zh_tw": "402",
-            "En": "402"
-        },
-        "SubRouteUID": "KEE043701",
-        "SubRouteID": "043701",
-        "SubRouteName": {
-            "Zh_tw": "402",
-            "En": "402"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.697116666667,
-            "PositionLat": 25.0904666666667,
-            "GeoHash": "wsqw9r94s"
-        },
-        "Speed": 0,
-        "Azimuth": 216,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:19+08:00",
-        "SrcRecTime": "2025-09-02T22:12:19+08:00",
-        "SrcTransTime": "2025-09-02T22:12:19+08:00",
-        "UpdateTime": "2025-09-02T22:12:22+08:00"
-    },
-    {
-        "PlateNumb": "273-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0352",
-        "RouteID": "0352",
-        "RouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "SubRouteUID": "KEE035201",
-        "SubRouteID": "035201",
-        "SubRouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.769426666667,
-            "PositionLat": 25.1523,
-            "GeoHash": "wsqx4fvfc"
-        },
-        "Speed": 24,
-        "Azimuth": 290,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:18+08:00",
-        "SrcRecTime": "2025-09-02T22:12:19+08:00",
-        "SrcTransTime": "2025-09-02T22:12:19+08:00",
-        "UpdateTime": "2025-09-02T22:12:22+08:00"
-    },
-    {
-        "PlateNumb": "281-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0211",
-        "RouteID": "0211",
-        "RouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "SubRouteUID": "KEE021101",
-        "SubRouteID": "021101",
-        "SubRouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.745011666667,
-            "PositionLat": 25.130455,
-            "GeoHash": "wsqwfqu58"
-        },
-        "Speed": 29,
-        "Azimuth": 300,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:21+08:00",
-        "SrcRecTime": "2025-09-02T22:12:21+08:00",
-        "SrcTransTime": "2025-09-02T22:12:21+08:00",
-        "UpdateTime": "2025-09-02T22:12:22+08:00"
-    },
-    {
-        "PlateNumb": "516-FW",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0477",
-        "RouteID": "0477",
-        "RouteName": {
-            "Zh_tw": "605",
-            "En": "605"
-        },
-        "SubRouteUID": "KEE047701",
-        "SubRouteID": "047701",
-        "SubRouteName": {
-            "Zh_tw": "605",
-            "En": "605"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.742535,
-            "PositionLat": 25.1302566666667,
-            "GeoHash": "wsqwfqf4q"
-        },
-        "Speed": 0,
-        "Azimuth": 300,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:18+08:00",
-        "SrcRecTime": "2025-09-02T22:12:18+08:00",
-        "SrcTransTime": "2025-09-02T22:12:18+08:00",
-        "UpdateTime": "2025-09-02T22:12:22+08:00"
-    },
-    {
-        "PlateNumb": "FAC-052",
+        "PlateNumb": "208-U6",
         "OperatorID": "109",
         "OperatorNo": "1107",
         "RouteUID": "KEE0212",
@@ -497,179 +177,19 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.777938333333,
-            "PositionLat": 25.1280466666667,
-            "GeoHash": "wsqwgn7vr"
+            "PositionLon": 121.744153333333,
+            "PositionLat": 25.1304983333333,
+            "GeoHash": "wsqwfqg7u"
         },
-        "Speed": 1,
-        "Azimuth": 261,
+        "Speed": 16,
+        "Azimuth": 41,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:17+08:00",
-        "SrcRecTime": "2025-09-02T22:12:17+08:00",
-        "SrcTransTime": "2025-09-02T22:12:17+08:00",
-        "UpdateTime": "2025-09-02T22:12:22+08:00"
-    },
-    {
-        "PlateNumb": "FAC-053",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0232",
-        "RouteID": "0232",
-        "RouteName": {
-            "Zh_tw": "203",
-            "En": "203"
-        },
-        "SubRouteUID": "KEE023201",
-        "SubRouteID": "023201",
-        "SubRouteName": {
-            "Zh_tw": "203",
-            "En": "203"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.74411,
-            "PositionLat": 25.1307,
-            "GeoHash": "wsqwfqgkg"
-        },
-        "Speed": 0,
-        "Azimuth": 209,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:19+08:00",
-        "SrcRecTime": "2025-09-02T22:12:19+08:00",
-        "SrcTransTime": "2025-09-02T22:12:19+08:00",
-        "UpdateTime": "2025-09-02T22:12:22+08:00"
-    },
-    {
-        "PlateNumb": "FAC-156",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0211",
-        "RouteID": "0211",
-        "RouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "SubRouteUID": "KEE021101",
-        "SubRouteID": "021101",
-        "SubRouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.77807,
-            "PositionLat": 25.1360283333333,
-            "GeoHash": "wsqwgpu5f"
-        },
-        "Speed": 1,
-        "Azimuth": 209,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:17+08:00",
-        "SrcRecTime": "2025-09-02T22:12:18+08:00",
-        "SrcTransTime": "2025-09-02T22:12:18+08:00",
-        "UpdateTime": "2025-09-02T22:12:22+08:00"
-    },
-    {
-        "PlateNumb": "133-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0212",
-        "RouteID": "0212",
-        "RouteName": {
-            "Zh_tw": "202",
-            "En": "202"
-        },
-        "SubRouteUID": "KEE021201",
-        "SubRouteID": "021201",
-        "SubRouteName": {
-            "Zh_tw": "202",
-            "En": "202"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.760258333333,
-            "PositionLat": 25.127905,
-            "GeoHash": "wsqwfwrhe"
-        },
-        "Speed": 9,
-        "Azimuth": 159,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:12+08:00",
-        "SrcRecTime": "2025-09-02T22:12:13+08:00",
-        "SrcTransTime": "2025-09-02T22:12:13+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
-    },
-    {
-        "PlateNumb": "209-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0393",
-        "RouteID": "0393",
-        "RouteName": {
-            "Zh_tw": "302",
-            "En": "302"
-        },
-        "SubRouteUID": "KEE039301",
-        "SubRouteID": "039301",
-        "SubRouteName": {
-            "Zh_tw": "302",
-            "En": "302"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.739755,
-            "PositionLat": 25.128065,
-            "GeoHash": "wsqwfq2jt"
-        },
-        "Speed": 5,
-        "Azimuth": 123,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:14+08:00",
-        "SrcRecTime": "2025-09-02T22:12:15+08:00",
-        "SrcTransTime": "2025-09-02T22:12:15+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
-    },
-    {
-        "PlateNumb": "270-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0448",
-        "RouteID": "0448",
-        "RouteName": {
-            "Zh_tw": "501",
-            "En": "501"
-        },
-        "SubRouteUID": "KEE044801",
-        "SubRouteID": "044801",
-        "SubRouteName": {
-            "Zh_tw": "501",
-            "En": "501"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.713796666667,
-            "PositionLat": 25.12759,
-            "GeoHash": "wsqwcwm6c"
-        },
-        "Speed": 5,
-        "Azimuth": 165,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:14+08:00",
-        "SrcRecTime": "2025-09-02T22:12:15+08:00",
-        "SrcTransTime": "2025-09-02T22:12:15+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
+        "GPSTime": "2025-09-02T23:02:13+08:00",
+        "SrcRecTime": "2025-09-02T23:02:14+08:00",
+        "SrcTransTime": "2025-09-02T23:02:14+08:00",
+        "UpdateTime": "2025-09-02T23:02:17+08:00"
     },
     {
         "PlateNumb": "279-U6",
@@ -689,86 +209,54 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.736476666667,
-            "PositionLat": 25.1040016666667,
-            "GeoHash": "wsqwf4jc3"
+            "PositionLon": 121.74016,
+            "PositionLat": 25.1024516666667,
+            "GeoHash": "wsqwf3b2r"
         },
         "Speed": 0,
-        "Azimuth": 221,
+        "Azimuth": 41,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:14+08:00",
-        "SrcRecTime": "2025-09-02T22:12:15+08:00",
-        "SrcTransTime": "2025-09-02T22:12:15+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
+        "GPSTime": "2025-09-02T23:02:14+08:00",
+        "SrcRecTime": "2025-09-02T23:02:14+08:00",
+        "SrcTransTime": "2025-09-02T23:02:14+08:00",
+        "UpdateTime": "2025-09-02T23:02:17+08:00"
     },
     {
-        "PlateNumb": "598-FW",
+        "PlateNumb": "289-U6",
         "OperatorID": "109",
         "OperatorNo": "1107",
-        "RouteUID": "KEE0438",
-        "RouteID": "0438",
+        "RouteUID": "KEE0932",
+        "RouteID": "0932",
         "RouteName": {
-            "Zh_tw": "403",
-            "En": "403"
+            "Zh_tw": "505",
+            "En": "505"
         },
-        "SubRouteUID": "KEE043801",
-        "SubRouteID": "043801",
+        "SubRouteUID": "KEE093201",
+        "SubRouteID": "093201",
         "SubRouteName": {
-            "Zh_tw": "403",
-            "En": "403"
+            "Zh_tw": "505",
+            "En": "505"
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.732881666667,
-            "PositionLat": 25.1098533333333,
-            "GeoHash": "wsqwf555m"
+            "PositionLon": 121.738628333333,
+            "PositionLat": 25.1286,
+            "GeoHash": "wsqwfnx2e"
         },
-        "Speed": 44,
-        "Azimuth": 238,
+        "Speed": 24,
+        "Azimuth": 115,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:16+08:00",
-        "SrcRecTime": "2025-09-02T22:12:16+08:00",
-        "SrcTransTime": "2025-09-02T22:12:16+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
+        "GPSTime": "2025-09-02T23:02:14+08:00",
+        "SrcRecTime": "2025-09-02T23:02:14+08:00",
+        "SrcTransTime": "2025-09-02T23:02:14+08:00",
+        "UpdateTime": "2025-09-02T23:02:17+08:00"
     },
     {
-        "PlateNumb": "609-FZ",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0359",
-        "RouteID": "0359",
-        "RouteName": {
-            "Zh_tw": "104",
-            "En": "104"
-        },
-        "SubRouteUID": "KEE035901",
-        "SubRouteID": "035901",
-        "SubRouteName": {
-            "Zh_tw": "104",
-            "En": "104"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.74491,
-            "PositionLat": 25.1319766666667,
-            "GeoHash": "wsqwfr5uq"
-        },
-        "Speed": 14,
-        "Azimuth": 38,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:13+08:00",
-        "SrcRecTime": "2025-09-02T22:12:14+08:00",
-        "SrcTransTime": "2025-09-02T22:12:14+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
-    },
-    {
-        "PlateNumb": "FAC-060",
+        "PlateNumb": "290-U6",
         "OperatorID": "109",
         "OperatorNo": "1107",
         "RouteUID": "KEE0473",
@@ -785,83 +273,115 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.742926666667,
-            "PositionLat": 25.1234633333333,
-            "GeoHash": "wsqwfmd6z"
+            "PositionLon": 121.734451666667,
+            "PositionLat": 25.1106816666667,
+            "GeoHash": "wsqwf5k26"
         },
-        "Speed": 14,
-        "Azimuth": 173,
+        "Speed": 31,
+        "Azimuth": 63,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:12+08:00",
-        "SrcRecTime": "2025-09-02T22:12:12+08:00",
-        "SrcTransTime": "2025-09-02T22:12:12+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
+        "GPSTime": "2025-09-02T23:02:15+08:00",
+        "SrcRecTime": "2025-09-02T23:02:15+08:00",
+        "SrcTransTime": "2025-09-02T23:02:16+08:00",
+        "UpdateTime": "2025-09-02T23:02:17+08:00"
     },
     {
-        "PlateNumb": "FAC-099",
+        "PlateNumb": "626-FZ",
         "OperatorID": "109",
         "OperatorNo": "1107",
-        "RouteUID": "KEE0376",
-        "RouteID": "0376",
+        "RouteUID": "KEE0437",
+        "RouteID": "0437",
         "RouteName": {
-            "Zh_tw": "702",
-            "En": "702"
+            "Zh_tw": "402",
+            "En": "402"
         },
-        "SubRouteUID": "KEE037601",
-        "SubRouteID": "037601",
+        "SubRouteUID": "KEE043701",
+        "SubRouteID": "043701",
         "SubRouteName": {
-            "Zh_tw": "702",
-            "En": "702"
+            "Zh_tw": "402",
+            "En": "402"
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.666303333333,
-            "PositionLat": 25.099265,
-            "GeoHash": "wsqwb94ty"
+            "PositionLon": 121.742786666667,
+            "PositionLat": 25.125635,
+            "GeoHash": "wsqwfmfrk"
         },
-        "Speed": 48,
-        "Azimuth": 182,
+        "Speed": 29,
+        "Azimuth": 341,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:15+08:00",
-        "SrcRecTime": "2025-09-02T22:12:15+08:00",
-        "SrcTransTime": "2025-09-02T22:12:15+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
+        "GPSTime": "2025-09-02T23:02:15+08:00",
+        "SrcRecTime": "2025-09-02T23:02:15+08:00",
+        "SrcTransTime": "2025-09-02T23:02:15+08:00",
+        "UpdateTime": "2025-09-02T23:02:17+08:00"
     },
     {
-        "PlateNumb": "FAC-152",
+        "PlateNumb": "FAC-056",
         "OperatorID": "109",
         "OperatorNo": "1107",
-        "RouteUID": "KEE0245",
-        "RouteID": "0245",
+        "RouteUID": "KEE0395",
+        "RouteID": "0395",
         "RouteName": {
-            "Zh_tw": "204",
-            "En": "204"
+            "Zh_tw": "303",
+            "En": "303"
         },
-        "SubRouteUID": "KEE0245A1",
-        "SubRouteID": "0245A1",
+        "SubRouteUID": "KEE039501",
+        "SubRouteID": "039501",
         "SubRouteName": {
-            "Zh_tw": "204A",
-            "En": "204A"
+            "Zh_tw": "303",
+            "En": "303"
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.758486666667,
-            "PositionLat": 25.1287633333333,
-            "GeoHash": "wsqwfwtcd"
+            "PositionLon": 121.739531666667,
+            "PositionLat": 25.12882,
+            "GeoHash": "wsqwfq81b"
         },
-        "Speed": 38,
-        "Azimuth": 270,
+        "Speed": 27,
+        "Azimuth": 212,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:11+08:00",
-        "SrcRecTime": "2025-09-02T22:12:12+08:00",
-        "SrcTransTime": "2025-09-02T22:12:12+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
+        "GPSTime": "2025-09-02T23:02:11+08:00",
+        "SrcRecTime": "2025-09-02T23:02:12+08:00",
+        "SrcTransTime": "2025-09-02T23:02:12+08:00",
+        "UpdateTime": "2025-09-02T23:02:17+08:00"
+    },
+    {
+        "PlateNumb": "FAC-098",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0381",
+        "RouteID": "0381",
+        "RouteName": {
+            "Zh_tw": "301",
+            "En": "301"
+        },
+        "SubRouteUID": "KEE038101",
+        "SubRouteID": "038101",
+        "SubRouteName": {
+            "Zh_tw": "301",
+            "En": "301"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.741046666667,
+            "PositionLat": 25.1361733333333,
+            "GeoHash": "wsqwfrchg"
+        },
+        "Speed": 25,
+        "Azimuth": 30,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:02:13+08:00",
+        "SrcRecTime": "2025-09-02T23:02:14+08:00",
+        "SrcTransTime": "2025-09-02T23:02:14+08:00",
+        "UpdateTime": "2025-09-02T23:02:17+08:00"
     },
     {
         "PlateNumb": "FAC-189",
@@ -881,22 +401,54 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.765795,
-            "PositionLat": 25.1319033333333,
-            "GeoHash": "wsqwfz55u"
+            "PositionLon": 121.741491666667,
+            "PositionLat": 25.1305,
+            "GeoHash": "wsqwfqc7y"
         },
-        "Speed": 12,
-        "Azimuth": 24,
+        "Speed": 0,
+        "Azimuth": 126,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:15+08:00",
-        "SrcRecTime": "2025-09-02T22:12:15+08:00",
-        "SrcTransTime": "2025-09-02T22:12:15+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
+        "GPSTime": "2025-09-02T23:02:15+08:00",
+        "SrcRecTime": "2025-09-02T23:02:15+08:00",
+        "SrcTransTime": "2025-09-02T23:02:15+08:00",
+        "UpdateTime": "2025-09-02T23:02:17+08:00"
     },
     {
-        "PlateNumb": "KKB-8795",
+        "PlateNumb": "125-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0359",
+        "RouteID": "0359",
+        "RouteName": {
+            "Zh_tw": "104",
+            "En": "104"
+        },
+        "SubRouteUID": "KEE035901",
+        "SubRouteID": "035901",
+        "SubRouteName": {
+            "Zh_tw": "104",
+            "En": "104"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.760808333333,
+            "PositionLat": 25.14176,
+            "GeoHash": "wsqx48zt2"
+        },
+        "Speed": 0,
+        "Azimuth": 282,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:02:10+08:00",
+        "SrcRecTime": "2025-09-02T23:02:10+08:00",
+        "SrcTransTime": "2025-09-02T23:02:10+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
+    },
+    {
+        "PlateNumb": "129-U6",
         "OperatorID": "109",
         "OperatorNo": "1107",
         "RouteUID": "KEE0473",
@@ -913,211 +465,51 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.734221666667,
-            "PositionLat": 25.1105866666667,
-            "GeoHash": "wsqwf5hpu"
-        },
-        "Speed": 0,
-        "Azimuth": 54,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:12+08:00",
-        "SrcRecTime": "2025-09-02T22:12:12+08:00",
-        "SrcTransTime": "2025-09-02T22:12:12+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
-    },
-    {
-        "PlateNumb": "KKB-8796",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0355",
-        "RouteID": "0355",
-        "RouteName": {
-            "Zh_tw": "103",
-            "En": "103"
-        },
-        "SubRouteUID": "KEE035501",
-        "SubRouteID": "035501",
-        "SubRouteName": {
-            "Zh_tw": "103",
-            "En": "103"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.745145,
-            "PositionLat": 25.13223,
-            "GeoHash": "wsqwfrhjg"
+            "PositionLon": 121.749165,
+            "PositionLat": 25.098245,
+            "GeoHash": "wsqwf2zpc"
         },
         "Speed": 7,
-        "Azimuth": 205,
+        "Azimuth": 106,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:12+08:00",
-        "SrcRecTime": "2025-09-02T22:12:13+08:00",
-        "SrcTransTime": "2025-09-02T22:12:13+08:00",
-        "UpdateTime": "2025-09-02T22:12:17+08:00"
+        "GPSTime": "2025-09-02T23:02:08+08:00",
+        "SrcRecTime": "2025-09-02T23:02:09+08:00",
+        "SrcTransTime": "2025-09-02T23:02:09+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
-        "PlateNumb": "121-U6",
+        "PlateNumb": "212-U6",
         "OperatorID": "109",
         "OperatorNo": "1107",
-        "RouteUID": "KEE0474",
-        "RouteID": "0474",
+        "RouteUID": "KEE0448",
+        "RouteID": "0448",
         "RouteName": {
-            "Zh_tw": "6021",
-            "En": "6021"
+            "Zh_tw": "501",
+            "En": "501"
         },
-        "SubRouteUID": "KEE047401",
-        "SubRouteID": "047401",
+        "SubRouteUID": "KEE044801",
+        "SubRouteID": "044801",
         "SubRouteName": {
-            "Zh_tw": "6021",
-            "En": "6021"
+            "Zh_tw": "501",
+            "En": "501"
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.736368333333,
-            "PositionLat": 25.103885,
-            "GeoHash": "wsqwf4j8w"
+            "PositionLon": 121.71907,
+            "PositionLat": 25.1288366666667,
+            "GeoHash": "wsqwcy945"
         },
-        "Speed": 0,
-        "Azimuth": 19,
+        "Speed": 37,
+        "Azimuth": 126,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:06+08:00",
-        "SrcRecTime": "2025-09-02T22:12:07+08:00",
-        "SrcTransTime": "2025-09-02T22:12:07+08:00",
-        "UpdateTime": "2025-09-02T22:12:12+08:00"
-    },
-    {
-        "PlateNumb": "288-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0470",
-        "RouteID": "0470",
-        "RouteName": {
-            "Zh_tw": "R82",
-            "En": "R82"
-        },
-        "SubRouteUID": "KEE047002",
-        "SubRouteID": "047002",
-        "SubRouteName": {
-            "Zh_tw": "R82",
-            "En": "R82"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 121.714145,
-            "PositionLat": 25.127885,
-            "GeoHash": "wsqwcwms9"
-        },
-        "Speed": 0,
-        "Azimuth": 242,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:08+08:00",
-        "SrcRecTime": "2025-09-02T22:12:09+08:00",
-        "SrcTransTime": "2025-09-02T22:12:09+08:00",
-        "UpdateTime": "2025-09-02T22:12:12+08:00"
-    },
-    {
-        "PlateNumb": "540-FU",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0381",
-        "RouteID": "0381",
-        "RouteName": {
-            "Zh_tw": "301",
-            "En": "301"
-        },
-        "SubRouteUID": "KEE038101",
-        "SubRouteID": "038101",
-        "SubRouteName": {
-            "Zh_tw": "301",
-            "En": "301"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.740355,
-            "PositionLat": 25.13851,
-            "GeoHash": "wsqx422d7"
-        },
-        "Speed": 11,
-        "Azimuth": 158,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:10+08:00",
-        "SrcRecTime": "2025-09-02T22:12:10+08:00",
-        "SrcTransTime": "2025-09-02T22:12:10+08:00",
-        "UpdateTime": "2025-09-02T22:12:12+08:00"
-    },
-    {
-        "PlateNumb": "589-FU",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0932",
-        "RouteID": "0932",
-        "RouteName": {
-            "Zh_tw": "505",
-            "En": "505"
-        },
-        "SubRouteUID": "KEE093201",
-        "SubRouteID": "093201",
-        "SubRouteName": {
-            "Zh_tw": "505",
-            "En": "505"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.728353333333,
-            "PositionLat": 25.1343416666667,
-            "GeoHash": "wsqwczxfh"
-        },
-        "Speed": 24,
-        "Azimuth": 85,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:06+08:00",
-        "SrcRecTime": "2025-09-02T22:12:07+08:00",
-        "SrcTransTime": "2025-09-02T22:12:07+08:00",
-        "UpdateTime": "2025-09-02T22:12:12+08:00"
-    },
-    {
-        "PlateNumb": "607-FZ",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0356",
-        "RouteID": "0356",
-        "RouteName": {
-            "Zh_tw": "103",
-            "En": "103"
-        },
-        "SubRouteUID": "KEE035601",
-        "SubRouteID": "035601",
-        "SubRouteName": {
-            "Zh_tw": "103",
-            "En": "103"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.792361666667,
-            "PositionLat": 25.141085,
-            "GeoHash": "wsqx52y3r"
-        },
-        "Speed": 38,
-        "Azimuth": 337,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:07+08:00",
-        "SrcRecTime": "2025-09-02T22:12:07+08:00",
-        "SrcTransTime": "2025-09-02T22:12:07+08:00",
-        "UpdateTime": "2025-09-02T22:12:12+08:00"
+        "GPSTime": "2025-09-02T23:02:06+08:00",
+        "SrcRecTime": "2025-09-02T23:02:07+08:00",
+        "SrcTransTime": "2025-09-02T23:02:07+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
         "PlateNumb": "FAC-126",
@@ -1137,54 +529,86 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.710306666667,
-            "PositionLat": 25.0973483333333,
-            "GeoHash": "wsqwc8fdx"
+            "PositionLon": 121.688403333333,
+            "PositionLat": 25.1112833333333,
+            "GeoHash": "wsqwc56gc"
         },
-        "Speed": 0,
-        "Azimuth": 41,
+        "Speed": 11,
+        "Azimuth": 123,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:07+08:00",
-        "SrcRecTime": "2025-09-02T22:12:08+08:00",
-        "SrcTransTime": "2025-09-02T22:12:08+08:00",
-        "UpdateTime": "2025-09-02T22:12:12+08:00"
+        "GPSTime": "2025-09-02T23:02:07+08:00",
+        "SrcRecTime": "2025-09-02T23:02:07+08:00",
+        "SrcTransTime": "2025-09-02T23:02:07+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
-        "PlateNumb": "FAC-151",
+        "PlateNumb": "FAC-156",
         "OperatorID": "109",
         "OperatorNo": "1107",
-        "RouteUID": "KEE0476",
-        "RouteID": "0476",
+        "RouteUID": "KEE0211",
+        "RouteID": "0211",
         "RouteName": {
-            "Zh_tw": "6032",
-            "En": "6032"
+            "Zh_tw": "201",
+            "En": "201"
         },
-        "SubRouteUID": "KEE047601",
-        "SubRouteID": "047601",
+        "SubRouteUID": "KEE021101",
+        "SubRouteID": "021101",
         "SubRouteName": {
-            "Zh_tw": "6032",
-            "En": "6032"
+            "Zh_tw": "201",
+            "En": "201"
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.740063333333,
-            "PositionLat": 25.1297766666667,
-            "GeoHash": "wsqwfq8rt"
+            "PositionLon": 121.766385,
+            "PositionLat": 25.127645,
+            "GeoHash": "wsqwfy7e4"
         },
-        "Speed": 18,
-        "Azimuth": 214,
+        "Speed": 16,
+        "Azimuth": 281,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:08+08:00",
-        "SrcRecTime": "2025-09-02T22:12:09+08:00",
-        "SrcTransTime": "2025-09-02T22:12:09+08:00",
-        "UpdateTime": "2025-09-02T22:12:12+08:00"
+        "GPSTime": "2025-09-02T23:02:09+08:00",
+        "SrcRecTime": "2025-09-02T23:02:10+08:00",
+        "SrcTransTime": "2025-09-02T23:02:10+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
     },
     {
-        "PlateNumb": "FAC-160",
+        "PlateNumb": "FAC-158",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0353",
+        "RouteID": "0353",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "KEE035301",
+        "SubRouteID": "035301",
+        "SubRouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.748895,
+            "PositionLat": 25.1374033333333,
+            "GeoHash": "wsqx42ngf"
+        },
+        "Speed": 31,
+        "Azimuth": 57,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:02:08+08:00",
+        "SrcRecTime": "2025-09-02T23:02:09+08:00",
+        "SrcTransTime": "2025-09-02T23:02:09+08:00",
+        "UpdateTime": "2025-09-02T23:02:12+08:00"
+    },
+    {
+        "PlateNumb": "121-U6",
         "OperatorID": "109",
         "OperatorNo": "1107",
         "RouteUID": "KEE0474",
@@ -1201,19 +625,211 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.742671666667,
-            "PositionLat": 25.1258983333333,
-            "GeoHash": "wsqwfq42c"
+            "PositionLon": 121.740355,
+            "PositionLat": 25.10358,
+            "GeoHash": "wsqwf3bwg"
         },
-        "Speed": 0,
-        "Azimuth": 346,
+        "Speed": 22,
+        "Azimuth": 183,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:07+08:00",
-        "SrcRecTime": "2025-09-02T22:12:08+08:00",
-        "SrcTransTime": "2025-09-02T22:12:08+08:00",
-        "UpdateTime": "2025-09-02T22:12:12+08:00"
+        "GPSTime": "2025-09-02T23:02:06+08:00",
+        "SrcRecTime": "2025-09-02T23:02:06+08:00",
+        "SrcTransTime": "2025-09-02T23:02:06+08:00",
+        "UpdateTime": "2025-09-02T23:02:07+08:00"
+    },
+    {
+        "PlateNumb": "128-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0393",
+        "RouteID": "0393",
+        "RouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "SubRouteUID": "KEE039301",
+        "SubRouteID": "039301",
+        "SubRouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.73891,
+            "PositionLat": 25.1446616666667,
+            "GeoHash": "wsqx41rw6"
+        },
+        "Speed": 9,
+        "Azimuth": 165,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:02:03+08:00",
+        "SrcRecTime": "2025-09-02T23:02:04+08:00",
+        "SrcTransTime": "2025-09-02T23:02:04+08:00",
+        "UpdateTime": "2025-09-02T23:02:07+08:00"
+    },
+    {
+        "PlateNumb": "207-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0358",
+        "RouteID": "0358",
+        "RouteName": {
+            "Zh_tw": "104",
+            "En": "104"
+        },
+        "SubRouteUID": "KEE035801",
+        "SubRouteID": "035801",
+        "SubRouteName": {
+            "Zh_tw": "104",
+            "En": "104"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.766743333333,
+            "PositionLat": 25.1510516666667,
+            "GeoHash": "wsqx4feg6"
+        },
+        "Speed": 29,
+        "Azimuth": 69,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:02:04+08:00",
+        "SrcRecTime": "2025-09-02T23:02:05+08:00",
+        "SrcTransTime": "2025-09-02T23:02:05+08:00",
+        "UpdateTime": "2025-09-02T23:02:07+08:00"
+    },
+    {
+        "PlateNumb": "266-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0235",
+        "RouteID": "0235",
+        "RouteName": {
+            "Zh_tw": "203",
+            "En": "203"
+        },
+        "SubRouteUID": "KEE023501",
+        "SubRouteID": "023501",
+        "SubRouteName": {
+            "Zh_tw": "203",
+            "En": "203"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.777523333333,
+            "PositionLat": 25.1292366666667,
+            "GeoHash": "wsqwgnesm"
+        },
+        "Speed": 29,
+        "Azimuth": 315,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:02:04+08:00",
+        "SrcRecTime": "2025-09-02T23:02:05+08:00",
+        "SrcTransTime": "2025-09-02T23:02:05+08:00",
+        "UpdateTime": "2025-09-02T23:02:07+08:00"
+    },
+    {
+        "PlateNumb": "280-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0359",
+        "RouteID": "0359",
+        "RouteName": {
+            "Zh_tw": "104",
+            "En": "104"
+        },
+        "SubRouteUID": "KEE035901",
+        "SubRouteID": "035901",
+        "SubRouteName": {
+            "Zh_tw": "104",
+            "En": "104"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.748363333333,
+            "PositionLat": 25.1370583333333,
+            "GeoHash": "wsqx42n3y"
+        },
+        "Speed": 31,
+        "Azimuth": 38,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:02:03+08:00",
+        "SrcRecTime": "2025-09-02T23:02:04+08:00",
+        "SrcTransTime": "2025-09-02T23:02:04+08:00",
+        "UpdateTime": "2025-09-02T23:02:07+08:00"
+    },
+    {
+        "PlateNumb": "282-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0393",
+        "RouteID": "0393",
+        "RouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "SubRouteUID": "KEE039301",
+        "SubRouteID": "039301",
+        "SubRouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.731203333333,
+            "PositionLat": 25.1379483333333,
+            "GeoHash": "wsqx401zn"
+        },
+        "Speed": 35,
+        "Azimuth": 304,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:02:05+08:00",
+        "SrcRecTime": "2025-09-02T23:02:06+08:00",
+        "SrcTransTime": "2025-09-02T23:02:06+08:00",
+        "UpdateTime": "2025-09-02T23:02:07+08:00"
+    },
+    {
+        "PlateNumb": "512-FW",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0352",
+        "RouteID": "0352",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "KEE035201",
+        "SubRouteID": "035201",
+        "SubRouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.768948333333,
+            "PositionLat": 25.1537783333333,
+            "GeoHash": "wsqx4gj7q"
+        },
+        "Speed": 25,
+        "Azimuth": 153,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:02:06+08:00",
+        "SrcRecTime": "2025-09-02T23:02:06+08:00",
+        "SrcTransTime": "2025-09-02T23:02:06+08:00",
+        "UpdateTime": "2025-09-02T23:02:07+08:00"
     },
     {
         "PlateNumb": "FAC-057",
@@ -1233,19 +849,1139 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.69226,
-            "PositionLat": 25.0846383333333,
-            "GeoHash": "wsqw9nt8e"
+            "PositionLon": 121.714701666667,
+            "PositionLat": 25.0980016666667,
+            "GeoHash": "wsqwc8vyq"
         },
-        "Speed": 40,
-        "Azimuth": 68,
+        "Speed": 22,
+        "Azimuth": 247,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:12:06+08:00",
-        "SrcRecTime": "2025-09-02T22:12:06+08:00",
-        "SrcTransTime": "2025-09-02T22:12:06+08:00",
-        "UpdateTime": "2025-09-02T22:12:07+08:00"
+        "GPSTime": "2025-09-02T23:02:06+08:00",
+        "SrcRecTime": "2025-09-02T23:02:06+08:00",
+        "SrcTransTime": "2025-09-02T23:02:06+08:00",
+        "UpdateTime": "2025-09-02T23:02:07+08:00"
+    },
+    {
+        "PlateNumb": "FAC-157",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0356",
+        "RouteID": "0356",
+        "RouteName": {
+            "Zh_tw": "103",
+            "En": "103"
+        },
+        "SubRouteUID": "KEE035601",
+        "SubRouteID": "035601",
+        "SubRouteName": {
+            "Zh_tw": "103",
+            "En": "103"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.761073333333,
+            "PositionLat": 25.1416166666667,
+            "GeoHash": "wsqx48zsw"
+        },
+        "Speed": 12,
+        "Azimuth": 287,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:02:05+08:00",
+        "SrcRecTime": "2025-09-02T23:02:06+08:00",
+        "SrcTransTime": "2025-09-02T23:02:06+08:00",
+        "UpdateTime": "2025-09-02T23:02:07+08:00"
+    },
+    {
+        "PlateNumb": "FAC-052",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0212",
+        "RouteID": "0212",
+        "RouteName": {
+            "Zh_tw": "202",
+            "En": "202"
+        },
+        "SubRouteUID": "KEE021201",
+        "SubRouteID": "021201",
+        "SubRouteName": {
+            "Zh_tw": "202",
+            "En": "202"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.778898333333,
+            "PositionLat": 25.1367466666667,
+            "GeoHash": "wsqx50h8n"
+        },
+        "Speed": 7,
+        "Azimuth": 286,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:01:37+08:00",
+        "SrcRecTime": "2025-09-02T23:01:37+08:00",
+        "SrcTransTime": "2025-09-02T23:01:37+08:00",
+        "UpdateTime": "2025-09-02T23:01:42+08:00"
+    },
+    {
+        "PlateNumb": "603-FZ",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0480",
+        "RouteID": "0480",
+        "RouteName": {
+            "Zh_tw": "605",
+            "En": "605"
+        },
+        "SubRouteUID": "KEE048001",
+        "SubRouteID": "048001",
+        "SubRouteName": {
+            "Zh_tw": "605",
+            "En": "605"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.75433,
+            "PositionLat": 25.09147,
+            "GeoHash": "wsqwdxfb3"
+        },
+        "Speed": 27,
+        "Azimuth": 176,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:00:55+08:00",
+        "SrcRecTime": "2025-09-02T23:00:55+08:00",
+        "SrcTransTime": "2025-09-02T23:00:55+08:00",
+        "UpdateTime": "2025-09-02T23:00:57+08:00"
+    },
+    {
+        "PlateNumb": "138-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0443",
+        "RouteID": "0443",
+        "RouteName": {
+            "Zh_tw": "406",
+            "En": "406"
+        },
+        "SubRouteUID": "KEE044301",
+        "SubRouteID": "044301",
+        "SubRouteName": {
+            "Zh_tw": "406",
+            "En": "406"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.69571,
+            "PositionLat": 25.0752416666667,
+            "GeoHash": "wsqw9kb1g"
+        },
+        "Speed": 27,
+        "Azimuth": 115,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:59:22+08:00",
+        "SrcRecTime": "2025-09-02T22:59:22+08:00",
+        "SrcTransTime": "2025-09-02T22:59:22+08:00",
+        "UpdateTime": "2025-09-02T22:59:27+08:00"
+    },
+    {
+        "PlateNumb": "589-FU",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0932",
+        "RouteID": "0932",
+        "RouteName": {
+            "Zh_tw": "505",
+            "En": "505"
+        },
+        "SubRouteUID": "KEE093201",
+        "SubRouteID": "093201",
+        "SubRouteName": {
+            "Zh_tw": "505",
+            "En": "505"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.6955,
+            "PositionLat": 25.1557233333333,
+            "GeoHash": "wsqx15ryw"
+        },
+        "Speed": 0,
+        "Azimuth": 88,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:58:25+08:00",
+        "SrcRecTime": "2025-09-02T22:58:26+08:00",
+        "SrcTransTime": "2025-09-02T22:58:26+08:00",
+        "UpdateTime": "2025-09-02T22:58:27+08:00"
+    },
+    {
+        "PlateNumb": "607-FZ",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0355",
+        "RouteID": "0355",
+        "RouteName": {
+            "Zh_tw": "103",
+            "En": "103"
+        },
+        "SubRouteUID": "KEE035501",
+        "SubRouteID": "035501",
+        "SubRouteName": {
+            "Zh_tw": "103",
+            "En": "103"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.79316,
+            "PositionLat": 25.140685,
+            "GeoHash": "wsqx52xp4"
+        },
+        "Speed": 42,
+        "Azimuth": 321,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:56:26+08:00",
+        "SrcRecTime": "2025-09-02T22:56:27+08:00",
+        "SrcTransTime": "2025-09-02T22:56:27+08:00",
+        "UpdateTime": "2025-09-02T22:56:32+08:00"
+    },
+    {
+        "PlateNumb": "273-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0352",
+        "RouteID": "0352",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "KEE035201",
+        "SubRouteID": "035201",
+        "SubRouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.771383333333,
+            "PositionLat": 25.1569433333333,
+            "GeoHash": "wsqx4gxjy"
+        },
+        "Speed": 0,
+        "Azimuth": 226,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:56:19+08:00",
+        "SrcRecTime": "2025-09-02T22:56:19+08:00",
+        "SrcTransTime": "2025-09-02T22:56:19+08:00",
+        "UpdateTime": "2025-09-02T22:56:22+08:00"
+    },
+    {
+        "PlateNumb": "FAC-053",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0232",
+        "RouteID": "0232",
+        "RouteName": {
+            "Zh_tw": "203",
+            "En": "203"
+        },
+        "SubRouteUID": "KEE023201",
+        "SubRouteID": "023201",
+        "SubRouteName": {
+            "Zh_tw": "203",
+            "En": "203"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.793051666667,
+            "PositionLat": 25.1409316666667,
+            "GeoHash": "wsqx52ybx"
+        },
+        "Speed": 38,
+        "Azimuth": 322,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:55:58+08:00",
+        "SrcRecTime": "2025-09-02T22:56:02+08:00",
+        "SrcTransTime": "2025-09-02T22:56:02+08:00",
+        "UpdateTime": "2025-09-02T22:56:07+08:00"
+    },
+    {
+        "PlateNumb": "KKB-8796",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0355",
+        "RouteID": "0355",
+        "RouteName": {
+            "Zh_tw": "103",
+            "En": "103"
+        },
+        "SubRouteUID": "KEE035501",
+        "SubRouteID": "035501",
+        "SubRouteName": {
+            "Zh_tw": "103",
+            "En": "103"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.801785,
+            "PositionLat": 25.136765,
+            "GeoHash": "wsqx58j27"
+        },
+        "Speed": 18,
+        "Azimuth": 195,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:51:52+08:00",
+        "SrcRecTime": "2025-09-02T22:51:53+08:00",
+        "SrcTransTime": "2025-09-02T22:51:53+08:00",
+        "UpdateTime": "2025-09-02T22:51:57+08:00"
+    },
+    {
+        "PlateNumb": "FAC-152",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0245",
+        "RouteID": "0245",
+        "RouteName": {
+            "Zh_tw": "204",
+            "En": "204"
+        },
+        "SubRouteUID": "KEE0245A1",
+        "SubRouteID": "0245A1",
+        "SubRouteName": {
+            "Zh_tw": "204A",
+            "En": "204A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.776741666667,
+            "PositionLat": 25.1371716666667,
+            "GeoHash": "wsqx5054e"
+        },
+        "Speed": 20,
+        "Azimuth": 101,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:51:10+08:00",
+        "SrcRecTime": "2025-09-02T22:51:10+08:00",
+        "SrcTransTime": "2025-09-02T22:51:11+08:00",
+        "UpdateTime": "2025-09-02T22:51:12+08:00"
+    },
+    {
+        "PlateNumb": "210-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0395",
+        "RouteID": "0395",
+        "RouteName": {
+            "Zh_tw": "303",
+            "En": "303"
+        },
+        "SubRouteUID": "KEE039501",
+        "SubRouteID": "039501",
+        "SubRouteName": {
+            "Zh_tw": "303",
+            "En": "303"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.736146666667,
+            "PositionLat": 25.1526633333333,
+            "GeoHash": "wsqx44vsc"
+        },
+        "Speed": 0,
+        "Azimuth": 293,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:48:43+08:00",
+        "SrcRecTime": "2025-09-02T22:48:44+08:00",
+        "SrcTransTime": "2025-09-02T22:48:44+08:00",
+        "UpdateTime": "2025-09-02T22:48:47+08:00"
+    },
+    {
+        "PlateNumb": "KKB-8795",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0473",
+        "RouteID": "0473",
+        "RouteName": {
+            "Zh_tw": "6011",
+            "En": "6011"
+        },
+        "SubRouteUID": "KEE047301",
+        "SubRouteID": "047301",
+        "SubRouteName": {
+            "Zh_tw": "6011",
+            "En": "6011"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.75998,
+            "PositionLat": 25.0994183333333,
+            "GeoHash": "wsqwf9nyt"
+        },
+        "Speed": 40,
+        "Azimuth": 108,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:47:52+08:00",
+        "SrcRecTime": "2025-09-02T22:47:52+08:00",
+        "SrcTransTime": "2025-09-02T22:47:52+08:00",
+        "UpdateTime": "2025-09-02T22:47:57+08:00"
+    },
+    {
+        "PlateNumb": "209-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0393",
+        "RouteID": "0393",
+        "RouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "SubRouteUID": "KEE039301",
+        "SubRouteID": "039301",
+        "SubRouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.743546666667,
+            "PositionLat": 25.1515683333333,
+            "GeoHash": "wsqx46dyw"
+        },
+        "Speed": 29,
+        "Azimuth": 22,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:47:14+08:00",
+        "SrcRecTime": "2025-09-02T22:47:15+08:00",
+        "SrcTransTime": "2025-09-02T22:47:15+08:00",
+        "UpdateTime": "2025-09-02T22:47:17+08:00"
+    },
+    {
+        "PlateNumb": "281-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0211",
+        "RouteID": "0211",
+        "RouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "SubRouteUID": "KEE021101",
+        "SubRouteID": "021101",
+        "SubRouteName": {
+            "Zh_tw": "201",
+            "En": "201"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.778516666667,
+            "PositionLat": 25.1363216666667,
+            "GeoHash": "wsqwgpumt"
+        },
+        "Speed": 14,
+        "Azimuth": 205,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:44:01+08:00",
+        "SrcRecTime": "2025-09-02T22:44:02+08:00",
+        "SrcTransTime": "2025-09-02T22:44:02+08:00",
+        "UpdateTime": "2025-09-02T22:44:07+08:00"
+    },
+    {
+        "PlateNumb": "130-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0449",
+        "RouteID": "0449",
+        "RouteName": {
+            "Zh_tw": "502",
+            "En": "502"
+        },
+        "SubRouteUID": "KEE044901",
+        "SubRouteID": "044901",
+        "SubRouteName": {
+            "Zh_tw": "502",
+            "En": "502"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.713216666667,
+            "PositionLat": 25.1294366666667,
+            "GeoHash": "wsqwcwsve"
+        },
+        "Speed": 0,
+        "Azimuth": 165,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:43:37+08:00",
+        "SrcRecTime": "2025-09-02T22:43:37+08:00",
+        "SrcTransTime": "2025-09-02T22:43:37+08:00",
+        "UpdateTime": "2025-09-02T22:43:42+08:00"
+    },
+    {
+        "PlateNumb": "FAC-160",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0474",
+        "RouteID": "0474",
+        "RouteName": {
+            "Zh_tw": "6021",
+            "En": "6021"
+        },
+        "SubRouteUID": "KEE047401",
+        "SubRouteID": "047401",
+        "SubRouteName": {
+            "Zh_tw": "6021",
+            "En": "6021"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.737231666667,
+            "PositionLat": 25.103375,
+            "GeoHash": "wsqwf1ymg"
+        },
+        "Speed": 20,
+        "Azimuth": 310,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:43:27+08:00",
+        "SrcRecTime": "2025-09-02T22:43:27+08:00",
+        "SrcTransTime": "2025-09-02T22:43:27+08:00",
+        "UpdateTime": "2025-09-02T22:43:32+08:00"
+    },
+    {
+        "PlateNumb": "FAC-159",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0449",
+        "RouteID": "0449",
+        "RouteName": {
+            "Zh_tw": "502",
+            "En": "502"
+        },
+        "SubRouteUID": "KEE044901",
+        "SubRouteID": "044901",
+        "SubRouteName": {
+            "Zh_tw": "502",
+            "En": "502"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.723273333333,
+            "PositionLat": 25.1258266666667,
+            "GeoHash": "wsqwcyh0t"
+        },
+        "Speed": 25,
+        "Azimuth": 222,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:42:33+08:00",
+        "SrcRecTime": "2025-09-02T22:42:34+08:00",
+        "SrcTransTime": "2025-09-02T22:42:34+08:00",
+        "UpdateTime": "2025-09-02T22:42:37+08:00"
+    },
+    {
+        "PlateNumb": "KKB-8792",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0354",
+        "RouteID": "0354",
+        "RouteName": {
+            "Zh_tw": "102",
+            "En": "102"
+        },
+        "SubRouteUID": "KEE035401",
+        "SubRouteID": "035401",
+        "SubRouteName": {
+            "Zh_tw": "102",
+            "En": "102"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.771833333333,
+            "PositionLat": 25.15702,
+            "GeoHash": "wsqx4gxw3"
+        },
+        "Speed": 0,
+        "Azimuth": 193,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:41:59+08:00",
+        "SrcRecTime": "2025-09-02T22:42:00+08:00",
+        "SrcTransTime": "2025-09-02T22:42:00+08:00",
+        "UpdateTime": "2025-09-02T22:42:02+08:00"
+    },
+    {
+        "PlateNumb": "286-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0448",
+        "RouteID": "0448",
+        "RouteName": {
+            "Zh_tw": "501",
+            "En": "501"
+        },
+        "SubRouteUID": "KEE044801",
+        "SubRouteID": "044801",
+        "SubRouteName": {
+            "Zh_tw": "501",
+            "En": "501"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.713326666667,
+            "PositionLat": 25.129545,
+            "GeoHash": "wsqwcwsyn"
+        },
+        "Speed": 0,
+        "Azimuth": 345,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:41:46+08:00",
+        "SrcRecTime": "2025-09-02T22:41:47+08:00",
+        "SrcTransTime": "2025-09-02T22:41:47+08:00",
+        "UpdateTime": "2025-09-02T22:41:52+08:00"
+    },
+    {
+        "PlateNumb": "540-FU",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0381",
+        "RouteID": "0381",
+        "RouteName": {
+            "Zh_tw": "301",
+            "En": "301"
+        },
+        "SubRouteUID": "KEE038101",
+        "SubRouteID": "038101",
+        "SubRouteName": {
+            "Zh_tw": "301",
+            "En": "301"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.744538333333,
+            "PositionLat": 25.1523816666667,
+            "GeoHash": "wsqx46gej"
+        },
+        "Speed": 33,
+        "Azimuth": 52,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:41:50+08:00",
+        "SrcRecTime": "2025-09-02T22:41:50+08:00",
+        "SrcTransTime": "2025-09-02T22:41:50+08:00",
+        "UpdateTime": "2025-09-02T22:41:52+08:00"
+    },
+    {
+        "PlateNumb": "543-FU",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0473",
+        "RouteID": "0473",
+        "RouteName": {
+            "Zh_tw": "6011",
+            "En": "6011"
+        },
+        "SubRouteUID": "KEE047301",
+        "SubRouteID": "047301",
+        "SubRouteName": {
+            "Zh_tw": "6011",
+            "En": "6011"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.762861666667,
+            "PositionLat": 25.098665,
+            "GeoHash": "wsqwfc142"
+        },
+        "Speed": 0,
+        "Azimuth": 276,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:40:36+08:00",
+        "SrcRecTime": "2025-09-02T22:40:37+08:00",
+        "SrcTransTime": "2025-09-02T22:40:37+08:00",
+        "UpdateTime": "2025-09-02T22:40:42+08:00"
+    },
+    {
+        "PlateNumb": "516-FW",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0477",
+        "RouteID": "0477",
+        "RouteName": {
+            "Zh_tw": "605",
+            "En": "605"
+        },
+        "SubRouteUID": "KEE047701",
+        "SubRouteID": "047701",
+        "SubRouteName": {
+            "Zh_tw": "605",
+            "En": "605"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.754483333333,
+            "PositionLat": 25.0912716666667,
+            "GeoHash": "wsqwdxdzm"
+        },
+        "Speed": 16,
+        "Azimuth": 167,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:36:58+08:00",
+        "SrcRecTime": "2025-09-02T22:36:58+08:00",
+        "SrcTransTime": "2025-09-02T22:36:58+08:00",
+        "UpdateTime": "2025-09-02T22:37:02+08:00"
+    },
+    {
+        "PlateNumb": "FAC-151",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0476",
+        "RouteID": "0476",
+        "RouteName": {
+            "Zh_tw": "6032",
+            "En": "6032"
+        },
+        "SubRouteUID": "KEE047601",
+        "SubRouteID": "047601",
+        "SubRouteName": {
+            "Zh_tw": "6032",
+            "En": "6032"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.754585,
+            "PositionLat": 25.0775633333333,
+            "GeoHash": "wsqwdt4zr"
+        },
+        "Speed": 0,
+        "Azimuth": 297,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:36:28+08:00",
+        "SrcRecTime": "2025-09-02T22:36:29+08:00",
+        "SrcTransTime": "2025-09-02T22:36:29+08:00",
+        "UpdateTime": "2025-09-02T22:36:32+08:00"
+    },
+    {
+        "PlateNumb": "FAC-161",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0932",
+        "RouteID": "0932",
+        "RouteName": {
+            "Zh_tw": "505",
+            "En": "505"
+        },
+        "SubRouteUID": "KEE093201",
+        "SubRouteID": "093201",
+        "SubRouteName": {
+            "Zh_tw": "505",
+            "En": "505"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.695525,
+            "PositionLat": 25.1557733333333,
+            "GeoHash": "wsqx15rzp"
+        },
+        "Speed": 0,
+        "Azimuth": 108,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:33:21+08:00",
+        "SrcRecTime": "2025-09-02T22:33:22+08:00",
+        "SrcTransTime": "2025-09-02T22:33:22+08:00",
+        "UpdateTime": "2025-09-02T22:33:27+08:00"
+    },
+    {
+        "PlateNumb": "609-FZ",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0359",
+        "RouteID": "0359",
+        "RouteName": {
+            "Zh_tw": "104",
+            "En": "104"
+        },
+        "SubRouteUID": "KEE035901",
+        "SubRouteID": "035901",
+        "SubRouteName": {
+            "Zh_tw": "104",
+            "En": "104"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.778721666667,
+            "PositionLat": 25.1366383333333,
+            "GeoHash": "wsqwgpux9"
+        },
+        "Speed": 24,
+        "Azimuth": 219,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:33:13+08:00",
+        "SrcRecTime": "2025-09-02T22:33:13+08:00",
+        "SrcTransTime": "2025-09-02T22:33:13+08:00",
+        "UpdateTime": "2025-09-02T22:33:17+08:00"
+    },
+    {
+        "PlateNumb": "FAC-060",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0473",
+        "RouteID": "0473",
+        "RouteName": {
+            "Zh_tw": "6011",
+            "En": "6011"
+        },
+        "SubRouteUID": "KEE047301",
+        "SubRouteID": "047301",
+        "SubRouteName": {
+            "Zh_tw": "6011",
+            "En": "6011"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.760861666667,
+            "PositionLat": 25.0991266666667,
+            "GeoHash": "wsqwf9pt1"
+        },
+        "Speed": 9,
+        "Azimuth": 112,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:32:52+08:00",
+        "SrcRecTime": "2025-09-02T22:32:52+08:00",
+        "SrcTransTime": "2025-09-02T22:32:52+08:00",
+        "UpdateTime": "2025-09-02T22:32:57+08:00"
+    },
+    {
+        "PlateNumb": "FAC-058",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0448",
+        "RouteID": "0448",
+        "RouteName": {
+            "Zh_tw": "501",
+            "En": "501"
+        },
+        "SubRouteUID": "KEE044801",
+        "SubRouteID": "044801",
+        "SubRouteName": {
+            "Zh_tw": "501",
+            "En": "501"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.712801666667,
+            "PositionLat": 25.1270033333333,
+            "GeoHash": "wsqwcwhx3"
+        },
+        "Speed": 11,
+        "Azimuth": 192,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:32:00+08:00",
+        "SrcRecTime": "2025-09-02T22:32:01+08:00",
+        "SrcTransTime": "2025-09-02T22:32:01+08:00",
+        "UpdateTime": "2025-09-02T22:32:02+08:00"
+    },
+    {
+        "PlateNumb": "262-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0353",
+        "RouteID": "0353",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "KEE035301",
+        "SubRouteID": "035301",
+        "SubRouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.769758333333,
+            "PositionLat": 25.1554966666667,
+            "GeoHash": "wsqx4gqj3"
+        },
+        "Speed": 25,
+        "Azimuth": 42,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:31:25+08:00",
+        "SrcRecTime": "2025-09-02T22:31:25+08:00",
+        "SrcTransTime": "2025-09-02T22:31:25+08:00",
+        "UpdateTime": "2025-09-02T22:31:27+08:00"
+    },
+    {
+        "PlateNumb": "FAC-099",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0376",
+        "RouteID": "0376",
+        "RouteName": {
+            "Zh_tw": "702",
+            "En": "702"
+        },
+        "SubRouteUID": "KEE037601",
+        "SubRouteID": "037601",
+        "SubRouteName": {
+            "Zh_tw": "702",
+            "En": "702"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.712443333333,
+            "PositionLat": 25.097095,
+            "GeoHash": "wsqwc8u31"
+        },
+        "Speed": 0,
+        "Azimuth": 73,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:26:35+08:00",
+        "SrcRecTime": "2025-09-02T22:26:35+08:00",
+        "SrcTransTime": "2025-09-02T22:26:35+08:00",
+        "UpdateTime": "2025-09-02T22:26:37+08:00"
+    },
+    {
+        "PlateNumb": "276-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0393",
+        "RouteID": "0393",
+        "RouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "SubRouteUID": "KEE039301",
+        "SubRouteID": "039301",
+        "SubRouteName": {
+            "Zh_tw": "302",
+            "En": "302"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.744206666667,
+            "PositionLat": 25.152155,
+            "GeoHash": "wsqx46g3v"
+        },
+        "Speed": 38,
+        "Azimuth": 53,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:23:24+08:00",
+        "SrcRecTime": "2025-09-02T22:23:24+08:00",
+        "SrcTransTime": "2025-09-02T22:23:24+08:00",
+        "UpdateTime": "2025-09-02T22:23:27+08:00"
+    },
+    {
+        "PlateNumb": "269-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0437",
+        "RouteID": "0437",
+        "RouteName": {
+            "Zh_tw": "402",
+            "En": "402"
+        },
+        "SubRouteUID": "KEE043701",
+        "SubRouteID": "043701",
+        "SubRouteName": {
+            "Zh_tw": "402",
+            "En": "402"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.686573333333,
+            "PositionLat": 25.082545,
+            "GeoHash": "wsqw9n1kq"
+        },
+        "Speed": 59,
+        "Azimuth": 263,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:22:38+08:00",
+        "SrcRecTime": "2025-09-02T22:22:39+08:00",
+        "SrcTransTime": "2025-09-02T22:22:39+08:00",
+        "UpdateTime": "2025-09-02T22:22:42+08:00"
+    },
+    {
+        "PlateNumb": "288-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0448",
+        "RouteID": "0448",
+        "RouteName": {
+            "Zh_tw": "501",
+            "En": "501"
+        },
+        "SubRouteUID": "KEE044801",
+        "SubRouteID": "044801",
+        "SubRouteName": {
+            "Zh_tw": "501",
+            "En": "501"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.713343333333,
+            "PositionLat": 25.12953,
+            "GeoHash": "wsqwcwsyn"
+        },
+        "Speed": 0,
+        "Azimuth": 156,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:22:08+08:00",
+        "SrcRecTime": "2025-09-02T22:22:09+08:00",
+        "SrcTransTime": "2025-09-02T22:22:09+08:00",
+        "UpdateTime": "2025-09-02T22:22:12+08:00"
+    },
+    {
+        "PlateNumb": "598-FW",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0438",
+        "RouteID": "0438",
+        "RouteName": {
+            "Zh_tw": "403",
+            "En": "403"
+        },
+        "SubRouteUID": "KEE043801",
+        "SubRouteID": "043801",
+        "SubRouteName": {
+            "Zh_tw": "403",
+            "En": "403"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.720703333333,
+            "PositionLat": 25.094985,
+            "GeoHash": "wsqwcb6kc"
+        },
+        "Speed": 22,
+        "Azimuth": 85,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:21:55+08:00",
+        "SrcRecTime": "2025-09-02T22:21:56+08:00",
+        "SrcTransTime": "2025-09-02T22:21:56+08:00",
+        "UpdateTime": "2025-09-02T22:21:57+08:00"
+    },
+    {
+        "PlateNumb": "KKB-8797",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0474",
+        "RouteID": "0474",
+        "RouteName": {
+            "Zh_tw": "6021",
+            "En": "6021"
+        },
+        "SubRouteUID": "KEE047401",
+        "SubRouteID": "047401",
+        "SubRouteName": {
+            "Zh_tw": "6021",
+            "En": "6021"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.737461666667,
+            "PositionLat": 25.10313,
+            "GeoHash": "wsqwf1ys2"
+        },
+        "Speed": 29,
+        "Azimuth": 307,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:19:23+08:00",
+        "SrcRecTime": "2025-09-02T22:19:23+08:00",
+        "SrcTransTime": "2025-09-02T22:19:23+08:00",
+        "UpdateTime": "2025-09-02T22:19:27+08:00"
+    },
+    {
+        "PlateNumb": "270-U6",
+        "OperatorID": "109",
+        "OperatorNo": "1107",
+        "RouteUID": "KEE0448",
+        "RouteID": "0448",
+        "RouteName": {
+            "Zh_tw": "501",
+            "En": "501"
+        },
+        "SubRouteUID": "KEE044801",
+        "SubRouteID": "044801",
+        "SubRouteName": {
+            "Zh_tw": "501",
+            "En": "501"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.712851666667,
+            "PositionLat": 25.1267716666667,
+            "GeoHash": "wsqwcwhw5"
+        },
+        "Speed": 18,
+        "Azimuth": 159,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:13:14+08:00",
+        "SrcRecTime": "2025-09-02T22:13:15+08:00",
+        "SrcTransTime": "2025-09-02T22:13:15+08:00",
+        "UpdateTime": "2025-09-02T22:13:17+08:00"
     },
     {
         "PlateNumb": "FAC-153",
@@ -1312,134 +2048,6 @@
         "UpdateTime": "2025-09-02T22:09:07+08:00"
     },
     {
-        "PlateNumb": "280-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0359",
-        "RouteID": "0359",
-        "RouteName": {
-            "Zh_tw": "104",
-            "En": "104"
-        },
-        "SubRouteUID": "KEE035901",
-        "SubRouteID": "035901",
-        "SubRouteName": {
-            "Zh_tw": "104",
-            "En": "104"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.778101666667,
-            "PositionLat": 25.1357733333333,
-            "GeoHash": "wsqwgpu47"
-        },
-        "Speed": 11,
-        "Azimuth": 296,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:05:39+08:00",
-        "SrcRecTime": "2025-09-02T22:05:39+08:00",
-        "SrcTransTime": "2025-09-02T22:05:39+08:00",
-        "UpdateTime": "2025-09-02T22:05:42+08:00"
-    },
-    {
-        "PlateNumb": "FAC-056",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0395",
-        "RouteID": "0395",
-        "RouteName": {
-            "Zh_tw": "303",
-            "En": "303"
-        },
-        "SubRouteUID": "KEE039501",
-        "SubRouteID": "039501",
-        "SubRouteName": {
-            "Zh_tw": "303",
-            "En": "303"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.716846666667,
-            "PositionLat": 25.15377,
-            "GeoHash": "wsqx1epe2"
-        },
-        "Speed": 24,
-        "Azimuth": 34,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:05:17+08:00",
-        "SrcRecTime": "2025-09-02T22:05:17+08:00",
-        "SrcTransTime": "2025-09-02T22:05:17+08:00",
-        "UpdateTime": "2025-09-02T22:05:22+08:00"
-    },
-    {
-        "PlateNumb": "283-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0393",
-        "RouteID": "0393",
-        "RouteName": {
-            "Zh_tw": "302",
-            "En": "302"
-        },
-        "SubRouteUID": "KEE039301",
-        "SubRouteID": "039301",
-        "SubRouteName": {
-            "Zh_tw": "302",
-            "En": "302"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.743635,
-            "PositionLat": 25.1508716666667,
-            "GeoHash": "wsqx46e42"
-        },
-        "Speed": 31,
-        "Azimuth": 352,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:04:51+08:00",
-        "SrcRecTime": "2025-09-02T22:04:51+08:00",
-        "SrcTransTime": "2025-09-02T22:04:51+08:00",
-        "UpdateTime": "2025-09-02T22:04:52+08:00"
-    },
-    {
-        "PlateNumb": "FAC-159",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0449",
-        "RouteID": "0449",
-        "RouteName": {
-            "Zh_tw": "502",
-            "En": "502"
-        },
-        "SubRouteUID": "KEE044901",
-        "SubRouteID": "044901",
-        "SubRouteName": {
-            "Zh_tw": "502",
-            "En": "502"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.722038333333,
-            "PositionLat": 25.1268316666667,
-            "GeoHash": "wsqwcy5q3"
-        },
-        "Speed": 37,
-        "Azimuth": 196,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:01:58+08:00",
-        "SrcRecTime": "2025-09-02T22:01:58+08:00",
-        "SrcTransTime": "2025-09-02T22:01:59+08:00",
-        "UpdateTime": "2025-09-02T22:02:02+08:00"
-    },
-    {
         "PlateNumb": "FAC-201",
         "OperatorID": "109",
         "OperatorNo": "1107",
@@ -1504,134 +2112,6 @@
         "UpdateTime": "2025-09-02T21:55:52+08:00"
     },
     {
-        "PlateNumb": "FAC-157",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0356",
-        "RouteID": "0356",
-        "RouteName": {
-            "Zh_tw": "103",
-            "En": "103"
-        },
-        "SubRouteUID": "KEE035601",
-        "SubRouteID": "035601",
-        "SubRouteName": {
-            "Zh_tw": "103",
-            "En": "103"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.80181,
-            "PositionLat": 25.1366266666667,
-            "GeoHash": "wsqwgxvr7"
-        },
-        "Speed": 11,
-        "Azimuth": 190,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:54:25+08:00",
-        "SrcRecTime": "2025-09-02T21:54:26+08:00",
-        "SrcTransTime": "2025-09-02T21:54:26+08:00",
-        "UpdateTime": "2025-09-02T21:54:27+08:00"
-    },
-    {
-        "PlateNumb": "129-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0473",
-        "RouteID": "0473",
-        "RouteName": {
-            "Zh_tw": "6011",
-            "En": "6011"
-        },
-        "SubRouteUID": "KEE047301",
-        "SubRouteID": "047301",
-        "SubRouteName": {
-            "Zh_tw": "6011",
-            "En": "6011"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.759305,
-            "PositionLat": 25.09955,
-            "GeoHash": "wsqwf9nrm"
-        },
-        "Speed": 31,
-        "Azimuth": 106,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:54:16+08:00",
-        "SrcRecTime": "2025-09-02T21:54:16+08:00",
-        "SrcTransTime": "2025-09-02T21:54:16+08:00",
-        "UpdateTime": "2025-09-02T21:54:17+08:00"
-    },
-    {
-        "PlateNumb": "289-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0932",
-        "RouteID": "0932",
-        "RouteName": {
-            "Zh_tw": "505",
-            "En": "505"
-        },
-        "SubRouteUID": "KEE093201",
-        "SubRouteID": "093201",
-        "SubRouteName": {
-            "Zh_tw": "505",
-            "En": "505"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.695265,
-            "PositionLat": 25.1557483333333,
-            "GeoHash": "wsqx15ryc"
-        },
-        "Speed": 12,
-        "Azimuth": 91,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:54:13+08:00",
-        "SrcRecTime": "2025-09-02T21:54:14+08:00",
-        "SrcTransTime": "2025-09-02T21:54:14+08:00",
-        "UpdateTime": "2025-09-02T21:54:17+08:00"
-    },
-    {
-        "PlateNumb": "543-FU",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0437",
-        "RouteID": "0437",
-        "RouteName": {
-            "Zh_tw": "402",
-            "En": "402"
-        },
-        "SubRouteUID": "KEE043701",
-        "SubRouteID": "043701",
-        "SubRouteName": {
-            "Zh_tw": "402",
-            "En": "402"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.684115,
-            "PositionLat": 25.08226,
-            "GeoHash": "wsqw8ypdv"
-        },
-        "Speed": 11,
-        "Azimuth": 259,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:52:50+08:00",
-        "SrcRecTime": "2025-09-02T21:52:50+08:00",
-        "SrcTransTime": "2025-09-02T21:52:50+08:00",
-        "UpdateTime": "2025-09-02T21:52:52+08:00"
-    },
-    {
         "PlateNumb": "FAC-096",
         "OperatorID": "109",
         "OperatorNo": "1107",
@@ -1664,38 +2144,6 @@
         "UpdateTime": "2025-09-02T21:47:37+08:00"
     },
     {
-        "PlateNumb": "208-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0212",
-        "RouteID": "0212",
-        "RouteName": {
-            "Zh_tw": "202",
-            "En": "202"
-        },
-        "SubRouteUID": "KEE021201",
-        "SubRouteID": "021201",
-        "SubRouteName": {
-            "Zh_tw": "202",
-            "En": "202"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.77843,
-            "PositionLat": 25.13621,
-            "GeoHash": "wsqwgpum5"
-        },
-        "Speed": 0,
-        "Azimuth": 200,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:47:19+08:00",
-        "SrcRecTime": "2025-09-02T21:47:20+08:00",
-        "SrcTransTime": "2025-09-02T21:47:20+08:00",
-        "UpdateTime": "2025-09-02T21:47:22+08:00"
-    },
-    {
         "PlateNumb": "KKB-8793",
         "OperatorID": "109",
         "OperatorNo": "1107",
@@ -1726,198 +2174,6 @@
         "SrcRecTime": "2025-09-02T21:46:22+08:00",
         "SrcTransTime": "2025-09-02T21:46:22+08:00",
         "UpdateTime": "2025-09-02T21:46:27+08:00"
-    },
-    {
-        "PlateNumb": "512-FW",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0352",
-        "RouteID": "0352",
-        "RouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "SubRouteUID": "KEE035201",
-        "SubRouteID": "035201",
-        "SubRouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.76966,
-            "PositionLat": 25.1554583333333,
-            "GeoHash": "wsqx4gmvn"
-        },
-        "Speed": 29,
-        "Azimuth": 41,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:45:34+08:00",
-        "SrcRecTime": "2025-09-02T21:45:35+08:00",
-        "SrcTransTime": "2025-09-02T21:45:35+08:00",
-        "UpdateTime": "2025-09-02T21:45:37+08:00"
-    },
-    {
-        "PlateNumb": "603-FZ",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0477",
-        "RouteID": "0477",
-        "RouteName": {
-            "Zh_tw": "605",
-            "En": "605"
-        },
-        "SubRouteUID": "KEE047701",
-        "SubRouteID": "047701",
-        "SubRouteName": {
-            "Zh_tw": "605",
-            "En": "605"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.754575,
-            "PositionLat": 25.0906866666667,
-            "GeoHash": "wsqwdxdgz"
-        },
-        "Speed": 18,
-        "Azimuth": 176,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:43:15+08:00",
-        "SrcRecTime": "2025-09-02T21:43:15+08:00",
-        "SrcTransTime": "2025-09-02T21:43:15+08:00",
-        "UpdateTime": "2025-09-02T21:43:17+08:00"
-    },
-    {
-        "PlateNumb": "207-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0358",
-        "RouteID": "0358",
-        "RouteName": {
-            "Zh_tw": "104",
-            "En": "104"
-        },
-        "SubRouteUID": "KEE035801",
-        "SubRouteID": "035801",
-        "SubRouteName": {
-            "Zh_tw": "104",
-            "En": "104"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.77898,
-            "PositionLat": 25.1366383333333,
-            "GeoHash": "wsqwgpuxx"
-        },
-        "Speed": 0,
-        "Azimuth": 311,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:43:02+08:00",
-        "SrcRecTime": "2025-09-02T21:43:02+08:00",
-        "SrcTransTime": "2025-09-02T21:43:02+08:00",
-        "UpdateTime": "2025-09-02T21:43:07+08:00"
-    },
-    {
-        "PlateNumb": "FAC-098",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0381",
-        "RouteID": "0381",
-        "RouteName": {
-            "Zh_tw": "301",
-            "En": "301"
-        },
-        "SubRouteUID": "KEE038101",
-        "SubRouteID": "038101",
-        "SubRouteName": {
-            "Zh_tw": "301",
-            "En": "301"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.743748333333,
-            "PositionLat": 25.151775,
-            "GeoHash": "wsqx46epd"
-        },
-        "Speed": 35,
-        "Azimuth": 36,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:40:06+08:00",
-        "SrcRecTime": "2025-09-02T21:40:06+08:00",
-        "SrcTransTime": "2025-09-02T21:40:07+08:00",
-        "UpdateTime": "2025-09-02T21:40:12+08:00"
-    },
-    {
-        "PlateNumb": "282-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0393",
-        "RouteID": "0393",
-        "RouteName": {
-            "Zh_tw": "302",
-            "En": "302"
-        },
-        "SubRouteUID": "KEE039301",
-        "SubRouteID": "039301",
-        "SubRouteName": {
-            "Zh_tw": "302",
-            "En": "302"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.743545,
-            "PositionLat": 25.1515533333333,
-            "GeoHash": "wsqx46dyq"
-        },
-        "Speed": 37,
-        "Azimuth": 15,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:40:04+08:00",
-        "SrcRecTime": "2025-09-02T21:40:05+08:00",
-        "SrcTransTime": "2025-09-02T21:40:05+08:00",
-        "UpdateTime": "2025-09-02T21:40:07+08:00"
-    },
-    {
-        "PlateNumb": "608-FZ",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0355",
-        "RouteID": "0355",
-        "RouteName": {
-            "Zh_tw": "103",
-            "En": "103"
-        },
-        "SubRouteUID": "KEE035501",
-        "SubRouteID": "035501",
-        "SubRouteName": {
-            "Zh_tw": "103",
-            "En": "103"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.801851666667,
-            "PositionLat": 25.137165,
-            "GeoHash": "wsqx58j6s"
-        },
-        "Speed": 38,
-        "Azimuth": 190,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:33:30+08:00",
-        "SrcRecTime": "2025-09-02T21:33:31+08:00",
-        "SrcTransTime": "2025-09-02T21:33:31+08:00",
-        "UpdateTime": "2025-09-02T21:33:32+08:00"
     },
     {
         "PlateNumb": "511-FW",
@@ -1982,325 +2238,5 @@
         "SrcRecTime": "2025-09-02T21:30:51+08:00",
         "SrcTransTime": "2025-09-02T21:30:51+08:00",
         "UpdateTime": "2025-09-02T21:30:52+08:00"
-    },
-    {
-        "PlateNumb": "266-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0231",
-        "RouteID": "0231",
-        "RouteName": {
-            "Zh_tw": "203",
-            "En": "203"
-        },
-        "SubRouteUID": "KEE023101",
-        "SubRouteID": "023101",
-        "SubRouteName": {
-            "Zh_tw": "203",
-            "En": "203"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.793051666667,
-            "PositionLat": 25.1408866666667,
-            "GeoHash": "wsqx52ybr"
-        },
-        "Speed": 44,
-        "Azimuth": 322,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:30:30+08:00",
-        "SrcRecTime": "2025-09-02T21:30:31+08:00",
-        "SrcTransTime": "2025-09-02T21:30:31+08:00",
-        "UpdateTime": "2025-09-02T21:30:32+08:00"
-    },
-    {
-        "PlateNumb": "626-FZ",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0443",
-        "RouteID": "0443",
-        "RouteName": {
-            "Zh_tw": "406",
-            "En": "406"
-        },
-        "SubRouteUID": "KEE044301",
-        "SubRouteID": "044301",
-        "SubRouteName": {
-            "Zh_tw": "406",
-            "En": "406"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.694308333333,
-            "PositionLat": 25.075935,
-            "GeoHash": "wsqw9hzjf"
-        },
-        "Speed": 35,
-        "Azimuth": 129,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:29:35+08:00",
-        "SrcRecTime": "2025-09-02T21:29:35+08:00",
-        "SrcTransTime": "2025-09-02T21:29:35+08:00",
-        "UpdateTime": "2025-09-02T21:29:37+08:00"
-    },
-    {
-        "PlateNumb": "128-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0393",
-        "RouteID": "0393",
-        "RouteName": {
-            "Zh_tw": "302",
-            "En": "302"
-        },
-        "SubRouteUID": "KEE039301",
-        "SubRouteID": "039301",
-        "SubRouteName": {
-            "Zh_tw": "302",
-            "En": "302"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.743576666667,
-            "PositionLat": 25.1515416666667,
-            "GeoHash": "wsqx46dyq"
-        },
-        "Speed": 48,
-        "Azimuth": 21,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:28:13+08:00",
-        "SrcRecTime": "2025-09-02T21:28:14+08:00",
-        "SrcTransTime": "2025-09-02T21:28:14+08:00",
-        "UpdateTime": "2025-09-02T21:28:17+08:00"
-    },
-    {
-        "PlateNumb": "212-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0448",
-        "RouteID": "0448",
-        "RouteName": {
-            "Zh_tw": "501",
-            "En": "501"
-        },
-        "SubRouteUID": "KEE044801",
-        "SubRouteID": "044801",
-        "SubRouteName": {
-            "Zh_tw": "501",
-            "En": "501"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.713141666667,
-            "PositionLat": 25.1294016666667,
-            "GeoHash": "wsqwcwsv3"
-        },
-        "Speed": 0,
-        "Azimuth": 178,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:27:31+08:00",
-        "SrcRecTime": "2025-09-02T21:27:32+08:00",
-        "SrcTransTime": "2025-09-02T21:27:32+08:00",
-        "UpdateTime": "2025-09-02T21:27:37+08:00"
-    },
-    {
-        "PlateNumb": "FAC-158",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0353",
-        "RouteID": "0353",
-        "RouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "SubRouteUID": "KEE035301",
-        "SubRouteID": "035301",
-        "SubRouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.769951666667,
-            "PositionLat": 25.15569,
-            "GeoHash": "wsqx4gqnt"
-        },
-        "Speed": 31,
-        "Azimuth": 40,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:27:04+08:00",
-        "SrcRecTime": "2025-09-02T21:27:05+08:00",
-        "SrcTransTime": "2025-09-02T21:27:05+08:00",
-        "UpdateTime": "2025-09-02T21:27:07+08:00"
-    },
-    {
-        "PlateNumb": "290-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0473",
-        "RouteID": "0473",
-        "RouteName": {
-            "Zh_tw": "6011",
-            "En": "6011"
-        },
-        "SubRouteUID": "KEE047301",
-        "SubRouteID": "047301",
-        "SubRouteName": {
-            "Zh_tw": "6011",
-            "En": "6011"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.762993333333,
-            "PositionLat": 25.09864,
-            "GeoHash": "wsqwfc145"
-        },
-        "Speed": 0,
-        "Azimuth": 281,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:18:54+08:00",
-        "SrcRecTime": "2025-09-02T21:18:55+08:00",
-        "SrcTransTime": "2025-09-02T21:18:55+08:00",
-        "UpdateTime": "2025-09-02T21:18:57+08:00"
-    },
-    {
-        "PlateNumb": "265-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0211",
-        "RouteID": "0211",
-        "RouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "SubRouteUID": "KEE021101",
-        "SubRouteID": "021101",
-        "SubRouteName": {
-            "Zh_tw": "201",
-            "En": "201"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.778491666667,
-            "PositionLat": 25.1363616666667,
-            "GeoHash": "wsqwgpumu"
-        },
-        "Speed": 0,
-        "Azimuth": 204,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:14:02+08:00",
-        "SrcRecTime": "2025-09-02T21:14:03+08:00",
-        "SrcTransTime": "2025-09-02T21:14:03+08:00",
-        "UpdateTime": "2025-09-02T21:14:07+08:00"
-    },
-    {
-        "PlateNumb": "FAC-058",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0448",
-        "RouteID": "0448",
-        "RouteName": {
-            "Zh_tw": "501",
-            "En": "501"
-        },
-        "SubRouteUID": "KEE044801",
-        "SubRouteID": "044801",
-        "SubRouteName": {
-            "Zh_tw": "501",
-            "En": "501"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.71311,
-            "PositionLat": 25.1261966666667,
-            "GeoHash": "wsqwcwhf9"
-        },
-        "Speed": 0,
-        "Azimuth": 148,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:57:08+08:00",
-        "SrcRecTime": "2025-09-02T20:57:09+08:00",
-        "SrcTransTime": "2025-09-02T20:57:09+08:00",
-        "UpdateTime": "2025-09-02T20:57:12+08:00"
-    },
-    {
-        "PlateNumb": "268-U6",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0437",
-        "RouteID": "0437",
-        "RouteName": {
-            "Zh_tw": "402",
-            "En": "402"
-        },
-        "SubRouteUID": "KEE043701",
-        "SubRouteID": "043701",
-        "SubRouteName": {
-            "Zh_tw": "402",
-            "En": "402"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.684085,
-            "PositionLat": 25.0822633333333,
-            "GeoHash": "wsqw8ypdu"
-        },
-        "Speed": 0,
-        "Azimuth": 265,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:40:28+08:00",
-        "SrcRecTime": "2025-09-02T20:40:28+08:00",
-        "SrcTransTime": "2025-09-02T20:40:28+08:00",
-        "UpdateTime": "2025-09-02T20:40:32+08:00"
-    },
-    {
-        "PlateNumb": "FAC-187",
-        "OperatorID": "109",
-        "OperatorNo": "1107",
-        "RouteUID": "KEE0239",
-        "RouteID": "0239",
-        "RouteName": {
-            "Zh_tw": "204",
-            "En": "204"
-        },
-        "SubRouteUID": "KEE023901",
-        "SubRouteID": "023901",
-        "SubRouteName": {
-            "Zh_tw": "204",
-            "En": "204"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.778546666667,
-            "PositionLat": 25.1368733333333,
-            "GeoHash": "wsqx50h2v"
-        },
-        "Speed": 25,
-        "Azimuth": 295,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:16:04+08:00",
-        "SrcRecTime": "2025-09-02T20:16:05+08:00",
-        "SrcTransTime": "2025-09-02T20:16:05+08:00",
-        "UpdateTime": "2025-09-02T20:16:07+08:00"
     }
 ]

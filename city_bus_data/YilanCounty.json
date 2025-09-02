@@ -9,59 +9,27 @@
             "Zh_tw": "1792",
             "En": "1792"
         },
-        "SubRouteUID": "ILA062401",
-        "SubRouteID": "062401",
+        "SubRouteUID": "ILA062402",
+        "SubRouteID": "062402",
         "SubRouteName": {
             "Zh_tw": "1792",
             "En": "1792"
         },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.773408333333,
-            "PositionLat": 24.6780516666667,
-            "GeoHash": "wsqs7h88n"
-        },
-        "Speed": 19,
-        "Azimuth": 279,
-        "DutyStatus": 1,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:16:29+08:00",
-        "SrcRecTime": "2025-09-02T22:16:28+08:00",
-        "SrcTransTime": "2025-09-02T22:16:28+08:00",
-        "UpdateTime": "2025-09-02T22:16:32+08:00"
-    },
-    {
-        "PlateNumb": "KKA-0122",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "ILA0345",
-        "RouteID": "0345",
-        "RouteName": {
-            "Zh_tw": "1794",
-            "En": "1794"
-        },
-        "SubRouteUID": "ILA034502",
-        "SubRouteID": "034502",
-        "SubRouteName": {
-            "Zh_tw": "1794",
-            "En": "1794"
-        },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 121.768238333333,
-            "PositionLat": 24.679015,
-            "GeoHash": "wsqs6usvt"
+            "PositionLon": 121.757711666667,
+            "PositionLat": 24.6721383333333,
+            "GeoHash": "wsqs6emm8"
         },
-        "Speed": 43,
-        "Azimuth": 106,
+        "Speed": 36,
+        "Azimuth": 102,
         "DutyStatus": 1,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:16:30+08:00",
-        "SrcRecTime": "2025-09-02T22:16:30+08:00",
-        "SrcTransTime": "2025-09-02T22:16:30+08:00",
-        "UpdateTime": "2025-09-02T22:16:32+08:00"
+        "GPSTime": "2025-09-02T23:06:31+08:00",
+        "SrcRecTime": "2025-09-02T23:06:30+08:00",
+        "SrcTransTime": "2025-09-02T23:06:30+08:00",
+        "UpdateTime": "2025-09-02T23:06:32+08:00"
     },
     {
         "PlateNumb": "FAC-393",
@@ -81,19 +49,51 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.760145,
-            "PositionLat": 24.7333066666667,
-            "GeoHash": "wsqsdwx1c"
+            "PositionLon": 121.764323333333,
+            "PositionLat": 24.7267966666667,
+            "GeoHash": "wsqsdv6h4"
         },
-        "Speed": 11,
-        "Azimuth": 115,
+        "Speed": 27,
+        "Azimuth": 101,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:16:18+08:00",
-        "SrcRecTime": "2025-09-02T22:16:19+08:00",
-        "SrcTransTime": "2025-09-02T22:16:19+08:00",
-        "UpdateTime": "2025-09-02T22:16:22+08:00"
+        "GPSTime": "2025-09-02T22:26:59+08:00",
+        "SrcRecTime": "2025-09-02T22:26:59+08:00",
+        "SrcTransTime": "2025-09-02T22:26:59+08:00",
+        "UpdateTime": "2025-09-02T22:27:02+08:00"
+    },
+    {
+        "PlateNumb": "KKA-0122",
+        "OperatorID": "45",
+        "OperatorNo": "1101",
+        "RouteUID": "ILA0345",
+        "RouteID": "0345",
+        "RouteName": {
+            "Zh_tw": "1794",
+            "En": "1794"
+        },
+        "SubRouteUID": "ILA034502",
+        "SubRouteID": "034502",
+        "SubRouteName": {
+            "Zh_tw": "1794",
+            "En": "1794"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.775373333333,
+            "PositionLat": 24.6766816666667,
+            "GeoHash": "wsqs7h605"
+        },
+        "Speed": 1,
+        "Azimuth": 270,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:20:30+08:00",
+        "SrcRecTime": "2025-09-02T22:20:30+08:00",
+        "SrcTransTime": "2025-09-02T22:20:30+08:00",
+        "UpdateTime": "2025-09-02T22:20:32+08:00"
     },
     {
         "PlateNumb": "FAC-505",
@@ -446,293 +446,5 @@
         "SrcRecTime": "2025-09-02T21:14:23+08:00",
         "SrcTransTime": "2025-09-02T21:14:23+08:00",
         "UpdateTime": "2025-09-02T21:14:27+08:00"
-    },
-    {
-        "PlateNumb": "EAL-5013",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "ILA0622",
-        "RouteID": "0622",
-        "RouteName": {
-            "Zh_tw": "1766",
-            "En": "1766"
-        },
-        "SubRouteUID": "ILA062202",
-        "SubRouteID": "062202",
-        "SubRouteName": {
-            "Zh_tw": "1766",
-            "En": "1766"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 121.870495,
-            "PositionLat": 24.5805066666667,
-            "GeoHash": "wsqev4xru"
-        },
-        "Speed": 0,
-        "Azimuth": 146,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:53:24+08:00",
-        "SrcRecTime": "2025-09-02T20:53:23+08:00",
-        "SrcTransTime": "2025-09-02T20:53:23+08:00",
-        "UpdateTime": "2025-09-02T20:53:27+08:00"
-    },
-    {
-        "PlateNumb": "EAL-5010",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "ILA0786",
-        "RouteID": "0786",
-        "RouteName": {
-            "Zh_tw": "1786",
-            "En": "1786"
-        },
-        "SubRouteUID": "ILA078602",
-        "SubRouteID": "078602",
-        "SubRouteName": {
-            "Zh_tw": "1786",
-            "En": "1786"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 121.759648333333,
-            "PositionLat": 24.7511183333333,
-            "GeoHash": "wsqsf9y9t"
-        },
-        "Speed": 0,
-        "Azimuth": 108,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:46:05+08:00",
-        "SrcRecTime": "2025-09-02T20:46:05+08:00",
-        "SrcTransTime": "2025-09-02T20:46:05+08:00",
-        "UpdateTime": "2025-09-02T20:46:07+08:00"
-    },
-    {
-        "PlateNumb": "EAL-2785",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "ILA0624",
-        "RouteID": "0624",
-        "RouteName": {
-            "Zh_tw": "1792",
-            "En": "1792"
-        },
-        "SubRouteUID": "ILA062402",
-        "SubRouteID": "062402",
-        "SubRouteName": {
-            "Zh_tw": "1792",
-            "En": "1792"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 121.778663333333,
-            "PositionLat": 24.676895,
-            "GeoHash": "wsqs7hk92"
-        },
-        "Speed": 0,
-        "Azimuth": 230,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:39:56+08:00",
-        "SrcRecTime": "2025-09-02T20:39:56+08:00",
-        "SrcTransTime": "2025-09-02T20:39:56+08:00",
-        "UpdateTime": "2025-09-02T20:39:57+08:00"
-    },
-    {
-        "PlateNumb": "KKA-2710",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "ILA0783",
-        "RouteID": "0783",
-        "RouteName": {
-            "Zh_tw": "1785",
-            "En": "1785"
-        },
-        "SubRouteUID": "ILA078302",
-        "SubRouteID": "078302",
-        "SubRouteName": {
-            "Zh_tw": "1785",
-            "En": "1785"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 121.758926666667,
-            "PositionLat": 24.7514933333333,
-            "GeoHash": "wsqsf9y5u"
-        },
-        "Speed": 3,
-        "Azimuth": 106,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:38:38+08:00",
-        "SrcRecTime": "2025-09-02T20:38:38+08:00",
-        "SrcTransTime": "2025-09-02T20:38:38+08:00",
-        "UpdateTime": "2025-09-02T20:38:42+08:00"
-    },
-    {
-        "PlateNumb": "TDP-0977",
-        "OperatorID": "93",
-        "OperatorNo": "",
-        "RouteUID": "ILA0116",
-        "RouteID": "0116",
-        "RouteName": {
-            "Zh_tw": "黃1",
-            "En": "黃1"
-        },
-        "SubRouteUID": "ILA011601",
-        "SubRouteID": "011601",
-        "SubRouteName": {
-            "Zh_tw": "黃1",
-            "En": "黃1"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.760078333333,
-            "PositionLat": 24.73947,
-            "GeoHash": "wsqsdxwvz"
-        },
-        "Speed": 27,
-        "Azimuth": 310,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:32:19+08:00",
-        "SrcRecTime": "2025-09-02T20:32:19+08:00",
-        "SrcTransTime": "2025-09-02T20:32:19+08:00",
-        "UpdateTime": "2025-09-02T20:32:22+08:00"
-    },
-    {
-        "PlateNumb": "456-FY",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "ILA0348",
-        "RouteID": "0348",
-        "RouteName": {
-            "Zh_tw": "1797",
-            "En": "1797"
-        },
-        "SubRouteUID": "ILA034802",
-        "SubRouteID": "034802",
-        "SubRouteName": {
-            "Zh_tw": "1797",
-            "En": "1797"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 121.777683333333,
-            "PositionLat": 24.673985,
-            "GeoHash": "wsqs75gb3"
-        },
-        "Speed": 0,
-        "Azimuth": 181,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:28:28+08:00",
-        "SrcRecTime": "2025-09-02T20:28:27+08:00",
-        "SrcTransTime": "2025-09-02T20:28:28+08:00",
-        "UpdateTime": "2025-09-02T20:28:32+08:00"
-    },
-    {
-        "PlateNumb": "KKA-0126",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "ILA0788",
-        "RouteID": "0788",
-        "RouteName": {
-            "Zh_tw": "1788",
-            "En": "1788"
-        },
-        "SubRouteUID": "ILA078802",
-        "SubRouteID": "078802",
-        "SubRouteName": {
-            "Zh_tw": "1788",
-            "En": "1788"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 121.759488333333,
-            "PositionLat": 24.7511683333333,
-            "GeoHash": "wsqsf9yd1"
-        },
-        "Speed": 9,
-        "Azimuth": 109,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:23:01+08:00",
-        "SrcRecTime": "2025-09-02T20:23:01+08:00",
-        "SrcTransTime": "2025-09-02T20:23:01+08:00",
-        "UpdateTime": "2025-09-02T20:23:07+08:00"
-    },
-    {
-        "PlateNumb": "PAB-633",
-        "OperatorID": "104",
-        "OperatorNo": "0802",
-        "RouteUID": "ILA4223",
-        "RouteID": "4223",
-        "RouteName": {
-            "Zh_tw": "羅東3",
-            "En": "羅東3"
-        },
-        "SubRouteUID": "ILA422301",
-        "SubRouteID": "422301",
-        "SubRouteName": {
-            "Zh_tw": "羅東3",
-            "En": "羅東3"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.779525,
-            "PositionLat": 24.67922,
-            "GeoHash": "wsqs7htnu"
-        },
-        "Speed": 0,
-        "Azimuth": 1,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:21:07+08:00",
-        "SrcRecTime": "2025-09-02T20:21:07+08:00",
-        "SrcTransTime": "2025-09-02T20:21:08+08:00",
-        "UpdateTime": "2025-09-02T20:21:12+08:00"
-    },
-    {
-        "PlateNumb": "EAL-5026",
-        "OperatorID": "45",
-        "OperatorNo": "1101",
-        "RouteUID": "ILA0622",
-        "RouteID": "0622",
-        "RouteName": {
-            "Zh_tw": "1766",
-            "En": "1766"
-        },
-        "SubRouteUID": "ILA062201",
-        "SubRouteID": "062201",
-        "SubRouteName": {
-            "Zh_tw": "1766",
-            "En": "1766"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 121.834828333333,
-            "PositionLat": 24.8685533333333,
-            "GeoHash": "wsqtkrjmv"
-        },
-        "Speed": 0,
-        "Azimuth": 204,
-        "DutyStatus": 2,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:17:02+08:00",
-        "SrcRecTime": "2025-09-02T20:17:02+08:00",
-        "SrcTransTime": "2025-09-02T20:17:02+08:00",
-        "UpdateTime": "2025-09-02T20:17:07+08:00"
     }
 ]

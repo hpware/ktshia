@@ -1,5 +1,37 @@
 [
     {
+        "PlateNumb": "EAA-295",
+        "OperatorID": "77",
+        "OperatorNo": "0412",
+        "RouteUID": "HUA0301",
+        "RouteID": "0301",
+        "RouteName": {
+            "Zh_tw": "301",
+            "En": "301"
+        },
+        "SubRouteUID": "HUA030101",
+        "SubRouteID": "030101",
+        "SubRouteName": {
+            "Zh_tw": "301",
+            "En": "301"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.577071666667,
+            "PositionLat": 23.911675,
+            "GeoHash": "wsq2n8cxx"
+        },
+        "Speed": 67,
+        "Azimuth": 222,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:07:37+08:00",
+        "SrcRecTime": "2025-09-02T23:07:37+08:00",
+        "SrcTransTime": "2025-09-02T23:07:37+08:00",
+        "UpdateTime": "2025-09-02T23:07:42+08:00"
+    },
+    {
         "PlateNumb": "EAA-291",
         "OperatorID": "77",
         "OperatorNo": "0412",
@@ -17,82 +49,18 @@
         },
         "Direction": 0,
         "BusPosition": {
-            "PositionLon": 121.546256666667,
-            "PositionLat": 23.8933633333333,
-            "GeoHash": "wsnrvvekc"
-        },
-        "Speed": 15,
-        "Azimuth": 210,
-        "DutyStatus": 1,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:16:34+08:00",
-        "SrcRecTime": "2025-09-02T22:16:34+08:00",
-        "SrcTransTime": "2025-09-02T22:16:34+08:00",
-        "UpdateTime": "2025-09-02T22:16:37+08:00"
-    },
-    {
-        "PlateNumb": "EAA-295",
-        "OperatorID": "77",
-        "OperatorNo": "0412",
-        "RouteUID": "HUA0301",
-        "RouteID": "0301",
-        "RouteName": {
-            "Zh_tw": "301",
-            "En": "301"
-        },
-        "SubRouteUID": "HUA030102",
-        "SubRouteID": "030102",
-        "SubRouteName": {
-            "Zh_tw": "301",
-            "En": "301"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 121.603358333333,
-            "PositionLat": 23.9929883333333,
-            "GeoHash": "wsq2rpuc7"
+            "PositionLon": 121.544976666667,
+            "PositionLat": 23.8926483333333,
+            "GeoHash": "wsnrvvd2g"
         },
         "Speed": 0,
-        "Azimuth": 101,
+        "Azimuth": 162,
         "DutyStatus": 1,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T22:15:55+08:00",
-        "SrcRecTime": "2025-09-02T22:15:55+08:00",
-        "SrcTransTime": "2025-09-02T22:15:55+08:00",
-        "UpdateTime": "2025-09-02T22:15:57+08:00"
-    },
-    {
-        "PlateNumb": "KKB-1759",
-        "OperatorID": "34",
-        "OperatorNo": "1201",
-        "RouteUID": "HUA0117",
-        "RouteID": "0117",
-        "RouteName": {
-            "Zh_tw": "311",
-            "En": "311"
-        },
-        "SubRouteUID": "HUA0117A2",
-        "SubRouteID": "0117A2",
-        "SubRouteName": {
-            "Zh_tw": "311A",
-            "En": "311A"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 121.603513333333,
-            "PositionLat": 23.99281,
-            "GeoHash": "wsq2rpubp"
-        },
-        "Speed": 25,
-        "Azimuth": 211,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T20:50:48+08:00",
-        "SrcRecTime": "2025-09-02T20:50:49+08:00",
-        "SrcTransTime": "2025-09-02T20:50:49+08:00",
-        "UpdateTime": "2025-09-02T20:50:52+08:00"
+        "GPSTime": "2025-09-02T22:23:54+08:00",
+        "SrcRecTime": "2025-09-02T22:23:54+08:00",
+        "SrcTransTime": "2025-09-02T22:23:54+08:00",
+        "UpdateTime": "2025-09-02T22:23:57+08:00"
     }
 ]

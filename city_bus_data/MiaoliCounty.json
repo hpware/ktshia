@@ -1,101 +1,5 @@
 [
     {
-        "PlateNumb": "FAD-006",
-        "OperatorID": "67",
-        "OperatorNo": "0808",
-        "RouteUID": "MIA0737",
-        "RouteID": "0737",
-        "RouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "SubRouteUID": "MIA0737B1",
-        "SubRouteID": "0737B1",
-        "SubRouteName": {
-            "Zh_tw": "101B",
-            "En": "101B"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.817565,
-            "PositionLat": 24.4843783333333,
-            "GeoHash": "wsmgm30xv"
-        },
-        "Speed": 62,
-        "Azimuth": 56,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:13:16+08:00",
-        "SrcRecTime": "2025-09-02T22:13:17+08:00",
-        "SrcTransTime": "2025-09-02T22:13:17+08:00",
-        "UpdateTime": "2025-09-02T22:13:22+08:00"
-    },
-    {
-        "PlateNumb": "KKA-3322",
-        "OperatorID": "67",
-        "OperatorNo": "0808",
-        "RouteUID": "MIA0737",
-        "RouteID": "0737",
-        "RouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "SubRouteUID": "MIA0737A1",
-        "SubRouteID": "0737A1",
-        "SubRouteName": {
-            "Zh_tw": "101A",
-            "En": "101A"
-        },
-        "Direction": 0,
-        "BusPosition": {
-            "PositionLon": 120.88595,
-            "PositionLat": 24.6906683333333,
-            "GeoHash": "wsmuqyf3w"
-        },
-        "Speed": 1,
-        "Azimuth": 266,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T22:13:09+08:00",
-        "SrcRecTime": "2025-09-02T22:13:10+08:00",
-        "SrcTransTime": "2025-09-02T22:13:10+08:00",
-        "UpdateTime": "2025-09-02T22:13:12+08:00"
-    },
-    {
-        "PlateNumb": "KKA-3051",
-        "OperatorID": "67",
-        "OperatorNo": "0808",
-        "RouteUID": "MIA0737",
-        "RouteID": "0737",
-        "RouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "SubRouteUID": "MIA0737A2",
-        "SubRouteID": "0737A2",
-        "SubRouteName": {
-            "Zh_tw": "101A",
-            "En": "101A"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.824748333333,
-            "PositionLat": 24.605715,
-            "GeoHash": "wsmgvrmfs"
-        },
-        "Speed": 0,
-        "Azimuth": 152,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:38:53+08:00",
-        "SrcRecTime": "2025-09-02T21:38:54+08:00",
-        "SrcTransTime": "2025-09-02T21:38:54+08:00",
-        "UpdateTime": "2025-09-02T21:38:57+08:00"
-    },
-    {
         "PlateNumb": "FAD-009",
         "OperatorID": "67",
         "OperatorNo": "0808",
@@ -113,19 +17,115 @@
         },
         "Direction": 1,
         "BusPosition": {
-            "PositionLon": 120.824811666667,
-            "PositionLat": 24.6057916666667,
-            "GeoHash": "wsmgvrmgn"
+            "PositionLon": 120.874348333333,
+            "PositionLat": 24.452505,
+            "GeoHash": "wsmgne6n0"
         },
         "Speed": 0,
-        "Azimuth": 146,
+        "Azimuth": 288,
         "DutyStatus": 0,
         "BusStatus": 0,
         "MessageType": 1,
-        "GPSTime": "2025-09-02T21:35:12+08:00",
-        "SrcRecTime": "2025-09-02T21:35:12+08:00",
-        "SrcTransTime": "2025-09-02T21:35:13+08:00",
-        "UpdateTime": "2025-09-02T21:35:17+08:00"
+        "GPSTime": "2025-09-02T23:03:24+08:00",
+        "SrcRecTime": "2025-09-02T23:03:24+08:00",
+        "SrcTransTime": "2025-09-02T23:03:24+08:00",
+        "UpdateTime": "2025-09-02T23:03:27+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3322",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "MIA0737",
+        "RouteID": "0737",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "MIA0737A2",
+        "SubRouteID": "0737A2",
+        "SubRouteName": {
+            "Zh_tw": "101A",
+            "En": "101A"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.820031666667,
+            "PositionLat": 24.605915,
+            "GeoHash": "wsmgvr67y"
+        },
+        "Speed": 0,
+        "Azimuth": 118,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:03:19+08:00",
+        "SrcRecTime": "2025-09-02T23:03:20+08:00",
+        "SrcTransTime": "2025-09-02T23:03:20+08:00",
+        "UpdateTime": "2025-09-02T23:03:22+08:00"
+    },
+    {
+        "PlateNumb": "KKA-3051",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "MIA0737",
+        "RouteID": "0737",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "MIA0737A1",
+        "SubRouteID": "0737A1",
+        "SubRouteName": {
+            "Zh_tw": "101A",
+            "En": "101A"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 120.92395,
+            "PositionLat": 24.7071683333333,
+            "GeoHash": "wsmux9y1s"
+        },
+        "Speed": 0,
+        "Azimuth": 253,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T23:03:09+08:00",
+        "SrcRecTime": "2025-09-02T23:03:10+08:00",
+        "SrcTransTime": "2025-09-02T23:03:10+08:00",
+        "UpdateTime": "2025-09-02T23:03:12+08:00"
+    },
+    {
+        "PlateNumb": "FAD-006",
+        "OperatorID": "67",
+        "OperatorNo": "0808",
+        "RouteUID": "MIA0737",
+        "RouteID": "0737",
+        "RouteName": {
+            "Zh_tw": "101",
+            "En": "101"
+        },
+        "SubRouteUID": "MIA0737B2",
+        "SubRouteID": "0737B2",
+        "SubRouteName": {
+            "Zh_tw": "101B",
+            "En": "101B"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 120.824911666667,
+            "PositionLat": 24.605555,
+            "GeoHash": "wsmgvrq18"
+        },
+        "Speed": 0,
+        "Azimuth": 140,
+        "DutyStatus": 0,
+        "BusStatus": 0,
+        "MessageType": 1,
+        "GPSTime": "2025-09-02T22:55:10+08:00",
+        "SrcRecTime": "2025-09-02T22:55:11+08:00",
+        "SrcTransTime": "2025-09-02T22:55:11+08:00",
+        "UpdateTime": "2025-09-02T22:55:12+08:00"
     },
     {
         "PlateNumb": "KKA-3009",
@@ -158,37 +158,5 @@
         "SrcRecTime": "2025-09-02T21:13:50+08:00",
         "SrcTransTime": "2025-09-02T21:13:50+08:00",
         "UpdateTime": "2025-09-02T21:13:52+08:00"
-    },
-    {
-        "PlateNumb": "KKA-3033",
-        "OperatorID": "67",
-        "OperatorNo": "0808",
-        "RouteUID": "MIA0737",
-        "RouteID": "0737",
-        "RouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "SubRouteUID": "MIA073702",
-        "SubRouteID": "073702",
-        "SubRouteName": {
-            "Zh_tw": "101",
-            "En": "101"
-        },
-        "Direction": 1,
-        "BusPosition": {
-            "PositionLon": 120.874393333333,
-            "PositionLat": 24.4525216666667,
-            "GeoHash": "wsmgne6n3"
-        },
-        "Speed": 0,
-        "Azimuth": 291,
-        "DutyStatus": 0,
-        "BusStatus": 0,
-        "MessageType": 1,
-        "GPSTime": "2025-09-02T21:03:26+08:00",
-        "SrcRecTime": "2025-09-02T21:03:26+08:00",
-        "SrcTransTime": "2025-09-02T21:03:26+08:00",
-        "UpdateTime": "2025-09-02T21:03:27+08:00"
     }
 ]
