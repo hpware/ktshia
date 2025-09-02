@@ -9,6 +9,7 @@ jobs:
   pull_city_bus_data:
     name: Pull City Bus Data
     runs-on: ubuntu-latest
+    environment: production
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
