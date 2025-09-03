@@ -9,18 +9,26 @@ import {
   ActivityIndicator,
 } from "react-native";
 import { useState } from "react";
+import * as kv from "@/components/hooks/storeintoLocalStorage";
 
 import { Image } from "expo-image";
 export default function HomeScreen() {
   const [url, setUrl] = useState("");
   const [token, setToken] = useState("");
+  const [error, setError] = useState("");
   const verifyAndSaveData = async () => {
     try {
-      const req = await fetch(`${server}/api/verify`, {
+      const req = await fetch(`${url}/api/verify`, {
         headers: {
           Authorization: `Bearer ${token}`,
         },
       });
+      if (!req.ok) {
+        setError("Invalid URL or token");
+      }
+      setError("");
+      kv.storeIntoLocalStorage("server_url", url);
+      kv.storeIntoLocalStorage("token", token);
     } catch (e) {}
   };
   return (
