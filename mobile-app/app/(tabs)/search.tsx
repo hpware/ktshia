@@ -9,6 +9,7 @@ import {
   ActivityIndicator,
 } from "react-native";
 import { useState } from "react";
+import * as kv from "@/components/hooks/storeintoLocalStorage";
 
 interface searchContentItem {
   busName: string;
@@ -27,14 +28,27 @@ export default function SearchScreen() {
     toStop: "Demo",
     city: "Taipei City",
   };
+  const server = kv.getFromLocalStorage("server_url");
+  const token = kv.getFromLocalStorage("token");
   const [searchBox, setSearchBox] = useState<string>();
   const [isLoading, setIsLoading] = useState(false);
   const onSearchBoxChange = (
     e: NativeSyntheticEvent<TextInputChangeEventData>,
   ) => {
     setIsLoading(true);
-    console.log(e.nativeEvent.text);
+    onSearch(e.nativeEvent.text);
     setSearchBox(e.nativeEvent.text);
+  };
+  const onSearch = async (searchItem: string) => {
+    try {
+    } catch (e) {
+      const res = await fetch(`${server}/`, {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
+      });
+    }
+    setIsLoading(false);
   };
   return (
     <View className="p-4">

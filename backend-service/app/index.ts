@@ -42,19 +42,28 @@ Bun.serve({
     }
 
     if (url.pathname === "/") {
-      return new Response("This ktshia backend service works :)");
+      return new Response("This ktshia backend service works ^^");
     }
 
     if (req.headers.get("Authorization") !== `Bearer ${authkey}`) {
       return new Response(
         JSON.stringify({
-          error: `The endpoint you are trying to access ${url.pathname} requires a bearer token.`,
+          error: `The endpoint you are trying to access ${url.pathname} requires a bearer token. :(`,
           status: 401,
         }),
         { status: 401, headers: { "Content-Type": "application/json" } },
       );
     }
 
+    if (url.pathname === "/api/verify") {
+      return new Response(
+        JSON.stringify({
+          message: "YAY you are logged in!",
+          success: true,
+        }),
+        { headers: { "Content-Type": "application/json" } },
+      );
+    }
     if (url.pathname.startsWith("/api/bus/")) {
       if (url.pathname.startsWith("/api/bus/routes/")) {
         const parts = url.pathname.split("/");
@@ -80,11 +89,9 @@ Bun.serve({
         }
         const routes = await tdx.getBusRouteData(city, bus);
 
-        return new Response(JSON.stringify(routes),
-          {
-            headers: { "Content-Type": "application/json" },
-          },
-        );
+        return new Response(JSON.stringify(routes), {
+          headers: { "Content-Type": "application/json" },
+        });
       }
       if (url.pathname.startsWith("/api/bus/fare/")) {
         const parts = url.pathname.split("/");
@@ -110,13 +117,11 @@ Bun.serve({
         }
         const routes = await tdx.getFareData(city, bus);
 
-        return new Response(JSON.stringify(routes),
-          {
-            headers: { "Content-Type": "application/json" },
-          },
-        );
+        return new Response(JSON.stringify(routes), {
+          headers: { "Content-Type": "application/json" },
+        });
       }
-      
+
       if (url.pathname.startsWith("/api/bus/stops/")) {
         const parts = url.pathname.split("/");
         if (parts.length !== 6) {
@@ -141,13 +146,10 @@ Bun.serve({
         }
         const routes = await tdx.getStops(city, bus);
 
-        return new Response(JSON.stringify(routes),
-          {
-            headers: { "Content-Type": "application/json" },
-          },
-        );
+        return new Response(JSON.stringify(routes), {
+          headers: { "Content-Type": "application/json" },
+        });
       }
-
 
       if (url.pathname === "/api/bus/alerts") {
         const alerts = await tdx.getAlerts();
@@ -158,7 +160,7 @@ Bun.serve({
     }
     return new Response(
       JSON.stringify({
-        error: `The endpoint ${url.pathname} was not found.`,
+        error: `The endpoint ${url.pathname} was not found. @ ~ @`,
         status: 404,
       }),
       { status: 404, headers: { "Content-Type": "application/json" } },

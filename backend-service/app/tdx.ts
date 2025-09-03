@@ -4,6 +4,16 @@ const authkey = process.env.AUTH_KEY || "";
 const tdxClientId = process.env.TDX_CLIENT_ID || "";
 const tdxClientSecret = process.env.TDX_CLIENT_SECRET || "";
 
+// if they change it im screwed
+interface TokenRes {
+  access_token: string;
+  expires_in: number;
+  refresh_expires_in: number;
+  token_type: string;
+  "not-before-policy": number;
+  scope: string;
+}
+
 async function getNewToken(
   clientId: string,
   clientSecret: string,
@@ -18,7 +28,7 @@ async function getNewToken(
       body: `client_id=${clientId}&client_secret=${clientSecret}&grant_type=client_credentials`,
     },
   );
-  const data = await response.json();
+  const data = (await response.json()) as TokenRes;
   return data.access_token;
 }
 
@@ -67,51 +77,60 @@ export async function getAlerts() {
 }
 
 export async function getNewsInfo(city: string) {
-    const cachedNews = getCachedData(`tdx_news_${city}`);
-    if (!cachedNews.expired) {
-        return cachedNews.data;
-    }
-    const token = await getToken(tdxClientId, tdxClientSecret);
-    const req = await fetch(`https://tdx.transportdata.tw/api/basic/v2/Bus/News/City/${city}?%24format=JSON`, {
-        headers: {
-            Authorization: `Bearer ${token}`,
-        },
-    });
-    const res = await req.json();
-    saveCacheData(`tdx_news_${city}`, res, 3600);
-    return res;
+  const cachedNews = getCachedData(`tdx_news_${city}`);
+  if (!cachedNews.expired) {
+    return cachedNews.data;
+  }
+  const token = await getToken(tdxClientId, tdxClientSecret);
+  const req = await fetch(
+    `https://tdx.transportdata.tw/api/basic/v2/Bus/News/City/${city}?%24format=JSON`,
+    {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    },
+  );
+  const res = await req.json();
+  saveCacheData(`tdx_news_${city}`, res, 3600);
+  return res;
 }
 
 export async function getFareData(city: string, bus: string) {
-    const cachedFare = getCachedData(`tdx_fare_${city}_${bus}`);
-    if (!cachedFare.expired) {
-        return cachedFare.data;
-    }
-    const token = await getToken(tdxClientId, tdxClientSecret);
-    const req = await fetch(`https://tdx.transportdata.tw/api/basic/v2/Bus/RouteFare/City/${city}?$filter=RouteName/En eq '${bus}'&%24format=JSON`, {
-        headers: {
-            Authorization: `Bearer ${token}`,
-        },
-    });
-    const res = await req.json();
-    saveCacheData(`tdx_fare_${city}_${bus}`, res, 3600 * 24 * 30); // 一個月
-    return res;
+  const cachedFare = getCachedData(`tdx_fare_${city}_${bus}`);
+  if (!cachedFare.expired) {
+    return cachedFare.data;
+  }
+  const token = await getToken(tdxClientId, tdxClientSecret);
+  const req = await fetch(
+    `https://tdx.transportdata.tw/api/basic/v2/Bus/RouteFare/City/${city}?$filter=RouteName/En eq '${bus}'&%24format=JSON`,
+    {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    },
+  );
+  const res = await req.json();
+  saveCacheData(`tdx_fare_${city}_${bus}`, res, 3600 * 24 * 30); // 一個月
+  return res;
 }
 
 export async function getBlockages(city: string) {}
 
 export async function getStops(city: string, bus: string) {
-    const cachedStops = getCachedData(`tdx_stops_${city}_${bus}`);
-    if (!cachedStops.expired) {
-        return cachedStops.data;
-    }
-    const token = await getToken(tdxClientId, tdxClientSecret);
-    const req = await fetch(`https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${city}?$filter=RouteName/En eq '${bus}'&%24format=JSON`, {
-        headers: {
-            Authorization: `Bearer ${token}`,
-        },
-    });
-    const res = await req.json();
-    saveCacheData(`tdx_stops_${city}_${bus}`, res, 3600 * 24 * 7); // 一周
-    return res;
+  const cachedStops = getCachedData(`tdx_stops_${city}_${bus}`);
+  if (!cachedStops.expired) {
+    return cachedStops.data;
+  }
+  const token = await getToken(tdxClientId, tdxClientSecret);
+  const req = await fetch(
+    `https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${city}?$filter=RouteName/En eq '${bus}'&%24format=JSON`,
+    {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    },
+  );
+  const res = await req.json();
+  saveCacheData(`tdx_stops_${city}_${bus}`, res, 3600 * 24 * 7); // 一周
+  return res;
 }
