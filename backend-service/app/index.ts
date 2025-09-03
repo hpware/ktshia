@@ -56,9 +56,6 @@ Bun.serve({
     }
 
     if (url.pathname.startsWith("/api/bus/")) {
-      if (url.pathname === "/api/bus/stops") {
-        return new Response(`Bus stops ${url.pathname}`);
-      }
       if (url.pathname.startsWith("/api/bus/routes/")) {
         const parts = url.pathname.split("/");
         if (parts.length !== 6) {
@@ -83,13 +80,74 @@ Bun.serve({
         }
         const routes = await tdx.getBusRouteData(city, bus);
 
-        return new Response(
-          `city: ${city}, bus: ${bus}, route: ${JSON.stringify(routes)}`,
+        return new Response(JSON.stringify(routes),
           {
             headers: { "Content-Type": "application/json" },
           },
         );
       }
+      if (url.pathname.startsWith("/api/bus/fare/")) {
+        const parts = url.pathname.split("/");
+        if (parts.length !== 6) {
+          return new Response(
+            JSON.stringify({
+              error: "Invalid route format. Use /api/bus/fare/{city}/{bus}",
+              status: 400,
+            }),
+            { status: 400, headers: { "Content-Type": "application/json" } },
+          );
+        }
+
+        const [, , , , city, bus] = parts;
+        if (!(city && bus)) {
+          return new Response(
+            JSON.stringify({
+              error: "Invalid route format. Use /api/bus/fare/{city}/{bus}",
+              status: 400,
+            }),
+            { status: 400, headers: { "Content-Type": "application/json" } },
+          );
+        }
+        const routes = await tdx.getFareData(city, bus);
+
+        return new Response(JSON.stringify(routes),
+          {
+            headers: { "Content-Type": "application/json" },
+          },
+        );
+      }
+      
+      if (url.pathname.startsWith("/api/bus/stops/")) {
+        const parts = url.pathname.split("/");
+        if (parts.length !== 6) {
+          return new Response(
+            JSON.stringify({
+              error: "Invalid route format. Use /api/bus/stops/{city}/{bus}",
+              status: 400,
+            }),
+            { status: 400, headers: { "Content-Type": "application/json" } },
+          );
+        }
+
+        const [, , , , city, bus] = parts;
+        if (!(city && bus)) {
+          return new Response(
+            JSON.stringify({
+              error: "Invalid route format. Use /api/bus/stops/{city}/{bus}",
+              status: 400,
+            }),
+            { status: 400, headers: { "Content-Type": "application/json" } },
+          );
+        }
+        const routes = await tdx.getStops(city, bus);
+
+        return new Response(JSON.stringify(routes),
+          {
+            headers: { "Content-Type": "application/json" },
+          },
+        );
+      }
+
 
       if (url.pathname === "/api/bus/alerts") {
         const alerts = await tdx.getAlerts();
