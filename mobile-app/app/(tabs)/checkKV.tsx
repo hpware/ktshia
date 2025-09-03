@@ -11,19 +11,18 @@ export default function checkLocalStorage() {
     throw new Error("Server URL or token not found in local storage");
   }
   useEffect(() => {
-    async function verifyIfSystemConnects() {
-      const req = await fetch(`${serverUrl}/api/verify`, {
+    const getData = async () => {
+      const req = await fetch(`${serverUrl.value}/api/verify`, {
         headers: {
-          Authorization: `Bearer ${token}`,
+          Authorization: `Bearer ${token.value}`,
         },
       });
       const res = await req.json();
       console.log(res);
       setResponse(JSON.stringify(res.message));
-    }
-    verifyIfSystemConnects();
+    };
+    getData();
   }, []);
-
   return (
     <View>
       <Text>Server URL: {serverUrl}</Text>
