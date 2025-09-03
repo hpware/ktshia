@@ -101,18 +101,17 @@ export async function getFareData(city: string, bus: string) {
 export async function getBlockages(city: string) {}
 
 export async function getStops(city: string, bus: string) {
-    "https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${city}?"
-    const cachedStops = getCachedData("tdx_stops");
+    const cachedStops = getCachedData(`tdx_stops_${city}_${bus}`);
     if (!cachedStops.expired) {
         return cachedStops.data;
     }
     const token = await getToken(tdxClientId, tdxClientSecret);
-    const req = await fetch(`https://tdx.transportdata.tw/api/basic/v2/Bus/RouteFare/City/${city}?$filter=RouteName/En eq '${bus}'&%24format=JSON`, {
+    const req = await fetch(`https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${city}?$filter=RouteName/En eq '${bus}'&%24format=JSON`, {
         headers: {
             Authorization: `Bearer ${token}`,
         },
     });
     const res = await req.json();
-    saveCacheData("tdx_fare", res, 3600 * 24 * 7); // 一周
+    saveCacheData(`tdx_stops_${city}_${bus}`, res, 3600 * 24 * 7); // 一周
     return res;
 }

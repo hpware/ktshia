@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_yzuY2qZYyp
 createdAt: 2025-09-02T12:44:28.027209
-updatedAt: 2025-09-03T08:38:44.950054500
+updatedAt: 2025-09-03T09:10:13.410141500
 workspaceId: wk_9BUq8oAtj8
 folderId: null
 authentication: {}
@@ -16,7 +16,7 @@ headers:
   value: Bearer test
   id: kbi6MQzTSt
 method: GET
-name: Get Bus Info for 679
+name: Get Bus Info for 679 in Taipei
 sortPriority: -1756816375769.999
-url: http://localhost:4403/api/bus/routes/Taipei/630
+url: http://localhost:4403/api/bus/routes/Taipei/679
 urlParameters: []

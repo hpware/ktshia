@@ -1,8 +1,8 @@
 type: http_request
 model: http_request
-id: rq_XRzPD5NMQz
-createdAt: 2025-09-03T08:02:22.062593100
-updatedAt: 2025-09-03T09:10:07.589689200
+id: rq_RpnrsLSMUJ
+createdAt: 2025-09-03T09:10:34.846862300
+updatedAt: 2025-09-03T09:15:19.466457900
 workspaceId: wk_9BUq8oAtj8
 folderId: null
 authentication: {}
@@ -16,7 +16,7 @@ headers:
   value: Bearer test
   id: ksrbSfgmEt
 method: GET
-name: Get fare data for bus 679 in Taipei
-sortPriority: -1756816375769.999
-url: http://localhost:4403/api/bus/fare/Taipei/679
+name: Get route data for bus 679 in Taipei
+sortPriority: -1756816375769.998
+url: http://localhost:4403/api/bus/stops/Taipei/679
 urlParameters: []
