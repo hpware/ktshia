@@ -169,7 +169,9 @@ Bun.serve({
             { status: 400, headers: { "Content-Type": "application/json" } },
           );
         }
-        return new Response(query, {
+
+        const results = await tdx.searchBuses(query);
+        return new Response(results, {
           headers: { "Content-Type": "application/json" },
         });
       }

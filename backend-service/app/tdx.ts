@@ -134,3 +134,5 @@ export async function getStops(city: string, bus: string) {
   saveCacheData(`tdx_stops_${city}_${bus}`, res, 3600 * 24 * 7); // 一周
   return res;
 }
+
+export async function searchBuses(query: string, nearestLocation?: string) {}
