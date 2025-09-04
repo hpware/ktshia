@@ -1,0 +1,26 @@
+type: http_request
+model: http_request
+id: rq_CR73mBHR5V
+createdAt: 2025-09-04T13:33:22.358279
+updatedAt: 2025-09-04T13:35:39.957591
+workspaceId: wk_9BUq8oAtj8
+folderId: null
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: Authorization
+  value: Bearer test
+  id: eBJ74ztbTd
+method: GET
+name: Search
+sortPriority: 4000.0
+url: http://localhost:4403/api/bus/search
+urlParameters:
+- enabled: true
+  name: q
+  value: aaaaaa
+  id: E5BgWdNzXd

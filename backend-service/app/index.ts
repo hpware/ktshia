@@ -157,6 +157,22 @@ Bun.serve({
           headers: { "Content-Type": "application/json" },
         });
       }
+
+      if (url.pathname === "/api/bus/search") {
+        const query = url.searchParams.get("q");
+        if (!query || query.length === 0) {
+          return new Response(
+            JSON.stringify({
+              error: "Search query is required",
+              status: 400,
+            }),
+            { status: 400, headers: { "Content-Type": "application/json" } },
+          );
+        }
+        return new Response(query, {
+          headers: { "Content-Type": "application/json" },
+        });
+      }
     }
     return new Response(
       JSON.stringify({
