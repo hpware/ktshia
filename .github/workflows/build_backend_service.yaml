@@ -30,8 +30,8 @@ jobs:
           registry: ${{ env.REGISTRY }}
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-      - name: Go to folder
-        run: cd backend-service
+      - name: test
+        run: ls
 
       - name: Extract metadata (tags, labels) for Docker
         id: meta
