@@ -601,8 +601,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10132",
@@ -1238,8 +1238,8 @@
                 "StationID": "1000431"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10142",
@@ -1916,9 +1916,9 @@
                 "StopBoarding": -1,
                 "StopSequence": 42,
                 "StopPosition": {
-                    "PositionLon": 121.57697,
-                    "PositionLat": 24.98897,
-                    "GeoHash": "wsqqnt1ek"
+                    "PositionLon": 121.57699279565435,
+                    "PositionLat": 24.989020423587586,
+                    "GeoHash": "wsqqnt1et"
                 },
                 "StationID": "2520"
             },
@@ -2099,8 +2099,8 @@
                 "StationID": "3916"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10142",
@@ -2281,8 +2281,8 @@
                 "StopBoarding": 0,
                 "StopSequence": 11,
                 "StopPosition": {
-                    "PositionLon": 121.576051,
-                    "PositionLat": 24.987811,
+                    "PositionLon": 121.57604615193513,
+                    "PositionLat": 24.98782160454249,
                     "GeoHash": "wsqqnsbux"
                 },
                 "StationID": "1001409"
@@ -2377,9 +2377,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 17,
                 "StopPosition": {
-                    "PositionLon": 121.56452654233,
-                    "PositionLat": 24.982650387537,
-                    "GeoHash": "wsqqn7bw6"
+                    "PositionLon": 121.56460855354919,
+                    "PositionLat": 24.982712452429457,
+                    "GeoHash": "wsqqn7bwu"
                 },
                 "StationID": "2411"
             },
@@ -2928,8 +2928,8 @@
                 "StationID": "72232"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10181",
@@ -3917,8 +3917,8 @@
                 "StationID": "4623"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10181",
@@ -4810,8 +4810,8 @@
                 "StationID": "1000965"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10221",
@@ -5847,8 +5847,8 @@
                 "StationID": "1165604808"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10221",
@@ -6804,8 +6804,8 @@
                 "StationID": "30017"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10231",
@@ -7076,8 +7076,8 @@
                 "StopUID": "TPE10031",
                 "StopID": "10031",
                 "StopName": {
-                    "Zh_tw": "國防醫學院(網球中心)",
-                    "En": "National Defense Medical Center (Taipei Tennis Center)"
+                    "Zh_tw": "國防醫學大學",
+                    "En": "National Defense Medical University"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 17,
@@ -7157,14 +7157,14 @@
                 "StopID": "10041",
                 "StopName": {
                     "Zh_tw": "民權大橋",
-                    "En": "MinQuan Bridge"
+                    "En": "Minquan Bridge"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 22,
                 "StopPosition": {
-                    "PositionLon": 121.5791,
-                    "PositionLat": 25.06702,
-                    "GeoHash": "wsqqwe71y"
+                    "PositionLon": 121.57895384595646,
+                    "PositionLat": 25.066982973174284,
+                    "GeoHash": "wsqqwe71f"
                 },
                 "StationID": "8602"
             },
@@ -7377,8 +7377,8 @@
                 "StationID": "1165604811"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10231",
@@ -7713,8 +7713,8 @@
                 "StopUID": "TPE10109",
                 "StopID": "10109",
                 "StopName": {
-                    "Zh_tw": "國防醫學院(網球中心)",
-                    "En": "National Defense Medical Center (Taipei Tennis Center)"
+                    "Zh_tw": "臺北市網球中心",
+                    "En": "Taipei Tennis Center"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 21,
@@ -7998,8 +7998,8 @@
                 "StationID": "1646"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10232",
@@ -8459,8 +8459,8 @@
                 "StationID": "1484"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10232",
@@ -8920,8 +8920,8 @@
                 "StationID": "1606"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10241",
@@ -9352,8 +9352,8 @@
                 "StopUID": "TPE10253",
                 "StopID": "10253",
                 "StopName": {
-                    "Zh_tw": "國防醫學院(網球中心)",
-                    "En": "National Defense Medical Center (Taipei Tennis Center)"
+                    "Zh_tw": "國防醫學大學",
+                    "En": "National Defense Medical University"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 27,
@@ -9477,8 +9477,8 @@
                 "StationID": "1697"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10241",
@@ -9605,8 +9605,8 @@
                 "StopUID": "TPE10283",
                 "StopID": "10283",
                 "StopName": {
-                    "Zh_tw": "國防醫學院(網球中心)",
-                    "En": "National Defense Medical Center (Taipei Tennis Center)"
+                    "Zh_tw": "臺北市網球中心",
+                    "En": "Taipei Tennis Center"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 8,
@@ -10018,8 +10018,8 @@
                 "StationID": "7651"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10251",
@@ -10655,8 +10655,8 @@
                 "StationID": "1449"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10251",
@@ -11260,8 +11260,8 @@
                 "StationID": "55005"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10253",
@@ -11529,8 +11529,8 @@
                 "StationID": "993"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10253",
@@ -11862,8 +11862,8 @@
                 "StationID": "1001373"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10261",
@@ -12243,8 +12243,8 @@
                 "StationID": "219"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10261",
@@ -12672,8 +12672,8 @@
                 "StationID": "5988"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10262",
@@ -13325,8 +13325,8 @@
                 "StationID": "50687"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10262",
@@ -14074,8 +14074,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10263",
@@ -14887,8 +14887,8 @@
                 "StationID": "1001316"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10263",
@@ -15716,8 +15716,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10272",
@@ -16849,8 +16849,8 @@
                 "StationID": "9473"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10272",
@@ -17710,8 +17710,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10273",
@@ -18731,8 +18731,8 @@
                 "StationID": "673"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10273",
@@ -19528,8 +19528,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10277",
@@ -19733,8 +19733,8 @@
                 "StationID": "1574"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     },
     {
         "RouteUID": "TPE10277",
@@ -19954,7 +19954,7 @@
                 "StationID": "1001262"
             }
         ],
-        "UpdateTime": "2025-09-02T23:57:06+08:00",
-        "VersionID": 5929
+        "UpdateTime": "2025-09-07T07:46:34+08:00",
+        "VersionID": 5955
     }
 ]
