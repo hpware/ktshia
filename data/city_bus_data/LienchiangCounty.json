@@ -42,8 +42,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1002",
@@ -88,8 +88,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1003",
@@ -134,8 +134,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1004",
@@ -180,8 +180,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1005",
@@ -226,8 +226,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1006",
@@ -272,8 +272,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1007",
@@ -300,16 +300,16 @@
                     "209"
                 ],
                 "SubRouteName": {
-                    "Zh_tw": "山線(塘岐發)往白沙(07:40)",
-                    "En": "Beigan Mountain Tangqi departure(07:40)"
+                    "Zh_tw": "山線(塘岐發)往白沙(07:00)",
+                    "En": "Beigan Mountain Tangqi departure(07:00)"
                 },
                 "Direction": 0
             }
         ],
         "BusRouteType": 11,
         "RouteName": {
-            "Zh_tw": "山線(塘岐發)往白沙(07:40)",
-            "En": "Beigan Mountain Tangqi departure(07:40)"
+            "Zh_tw": "山線(塘岐發)往白沙(07:00)",
+            "En": "Beigan Mountain Tangqi departure(07:00)"
         },
         "DepartureStopNameZh": "塘岐",
         "DepartureStopNameEn": "Tangqi",
@@ -318,8 +318,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1010",
@@ -364,8 +364,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1011",
@@ -410,8 +410,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1012",
@@ -456,8 +456,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1013",
@@ -502,8 +502,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1014",
@@ -530,16 +530,16 @@
                     "209"
                 ],
                 "SubRouteName": {
-                    "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、午沙)(07:00)",
-                    "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Wusha)(07:00)"
+                    "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、午沙)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Wusha)"
                 },
                 "Direction": 0
             }
         ],
         "BusRouteType": 11,
         "RouteName": {
-            "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、午沙)(07:00)",
-            "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Wusha)(07:00)"
+            "Zh_tw": "山線(塘岐發)往白沙(支線: 后澳、午沙)",
+            "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Wusha)"
         },
         "DepartureStopNameZh": "塘岐",
         "DepartureStopNameEn": "Tangqi",
@@ -548,8 +548,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1015",
@@ -594,8 +594,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1016",
@@ -640,8 +640,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1017",
@@ -686,8 +686,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1018",
@@ -732,8 +732,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1019",
@@ -778,8 +778,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1020",
@@ -824,8 +824,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1021",
@@ -870,8 +870,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1022",
@@ -916,8 +916,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE1023",
@@ -962,8 +962,100 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
+    },
+    {
+        "RouteUID": "LIE1024",
+        "RouteID": "1024",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1024",
+                "SubRouteID": "1024",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山轉海線(塘岐發)往白沙(支線: 后澳、衛生所、芹壁、橋仔)(15:50)",
+                    "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Institute of Health, Qinbi, Qiaozi)(15:50)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山轉海線(塘岐發)往白沙(支線: 后澳、衛生所、芹壁、橋仔)(15:50)",
+            "En": "Beigan Mountain Tangqi departure (branch: Hou Ao, Institute of Health, Qinbi, Qiaozi)(15:50)"
+        },
+        "DepartureStopNameZh": "塘岐",
+        "DepartureStopNameEn": "Tangqi",
+        "DestinationStopNameZh": "白沙",
+        "DestinationStopNameEn": "Baisha",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
+    },
+    {
+        "RouteUID": "LIE1025",
+        "RouteID": "1025",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "209",
+                "OperatorName": {
+                    "Zh_tw": "連江縣公車",
+                    "En": "City Bus and Ferry Management Office, Lienchiang County"
+                },
+                "OperatorCode": "MatsuBusFerryOffice",
+                "OperatorNo": "1105"
+            }
+        ],
+        "AuthorityID": "026",
+        "ProviderID": "014",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "LIE1025",
+                "SubRouteID": "1025",
+                "OperatorIDs": [
+                    "209"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "山線(白沙發)往塘岐(支線: 后澳)",
+                    "En": "Beigan Mountain Baisha departure(branch: Hou Ao)"
+                },
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "山線(白沙發)往塘岐(支線: 后澳)",
+            "En": "Beigan Mountain Baisha departure(branch: Hou Ao)"
+        },
+        "DepartureStopNameZh": "白沙",
+        "DepartureStopNameEn": "Baisha",
+        "DestinationStopNameZh": "塘岐",
+        "DestinationStopNameEn": "Tangqi",
+        "TicketPriceDescriptionZh": "全票15、半票8",
+        "City": "LienchiangCounty",
+        "CityCode": "LIE",
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE11",
@@ -1008,8 +1100,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE12",
@@ -1054,8 +1146,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE13",
@@ -1100,8 +1192,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE14",
@@ -1146,8 +1238,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE17",
@@ -1192,8 +1284,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE18",
@@ -1238,8 +1330,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE19",
@@ -1284,8 +1376,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE2",
@@ -1330,8 +1422,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE20",
@@ -1376,8 +1468,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE21",
@@ -1422,8 +1514,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE22",
@@ -1468,8 +1560,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE23",
@@ -1514,8 +1606,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE301",
@@ -1560,8 +1652,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE302",
@@ -1606,8 +1698,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE303",
@@ -1652,8 +1744,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE31",
@@ -1698,8 +1790,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE32",
@@ -1744,8 +1836,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE3201",
@@ -1790,8 +1882,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE3202",
@@ -1836,8 +1928,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE34",
@@ -1882,8 +1974,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE36",
@@ -1928,8 +2020,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE39",
@@ -1974,8 +2066,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE4",
@@ -2020,8 +2112,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE40",
@@ -2066,8 +2158,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE41",
@@ -2112,8 +2204,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE42",
@@ -2158,8 +2250,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE43",
@@ -2204,8 +2296,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE44",
@@ -2250,8 +2342,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE45",
@@ -2296,8 +2388,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE46",
@@ -2342,8 +2434,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE47",
@@ -2388,8 +2480,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE48",
@@ -2434,8 +2526,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE49",
@@ -2480,8 +2572,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE5",
@@ -2526,8 +2618,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE50",
@@ -2572,8 +2664,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE51",
@@ -2618,8 +2710,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE52",
@@ -2664,8 +2756,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE53",
@@ -2710,8 +2802,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE54",
@@ -2756,8 +2848,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE55",
@@ -2802,8 +2894,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE7",
@@ -2848,8 +2940,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE72",
@@ -2894,8 +2986,8 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     },
     {
         "RouteUID": "LIE8",
@@ -2940,7 +3032,7 @@
         "TicketPriceDescriptionZh": "全票15、半票8",
         "City": "LienchiangCounty",
         "CityCode": "LIE",
-        "UpdateTime": "2025-09-07T03:26:36+08:00",
-        "VersionID": 2134
+        "UpdateTime": "2025-09-14T06:26:35+08:00",
+        "VersionID": 2163
     }
 ]
