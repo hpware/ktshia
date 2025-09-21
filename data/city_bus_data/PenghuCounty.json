@@ -48,8 +48,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0162.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0164",
@@ -100,8 +100,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0164.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0165",
@@ -152,8 +152,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0165.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0167",
@@ -221,8 +221,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0167.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0758",
@@ -705,8 +705,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0758.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0759",
@@ -829,8 +829,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0759.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0761",
@@ -899,8 +899,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0761.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0762",
@@ -1002,7 +1002,7 @@
                     "Zh_tw": "22C",
                     "En": "22C"
                 },
-                "Headsign": "馬公→通梁[10:00]，返程[10:50]",
+                "Headsign": "馬公→通梁[10:00]，返程[10:55]",
                 "HeadsignEn": "Magong→Tongliang[10:00]",
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
@@ -1020,8 +1020,8 @@
                     "Zh_tw": "002C",
                     "En": "002C"
                 },
-                "Headsign": "通梁→馬公[10:50]",
-                "HeadsignEn": "Tongliang→Magong[10:50]",
+                "Headsign": "通梁→馬公[10:55]",
+                "HeadsignEn": "Tongliang→Magong[10:55]",
                 "Direction": 1,
                 "DepartureStopNameZh": "通梁古榕終點站",
                 "DepartureStopNameEn": "Tongliang banyan Terminu stop",
@@ -1038,7 +1038,7 @@
                     "Zh_tw": "22D",
                     "En": "22D"
                 },
-                "Headsign": "馬公→通梁[12:00]，返程[12:45]",
+                "Headsign": "馬公→通梁[12:00]，返程[12:50]",
                 "HeadsignEn": "Magong→Tongliang[12:00]",
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
@@ -1056,8 +1056,8 @@
                     "Zh_tw": "002D",
                     "En": "002D"
                 },
-                "Headsign": "通梁→馬公[12:45]",
-                "HeadsignEn": "Tongliang→Magong[12:45]",
+                "Headsign": "通梁→馬公[12:50]",
+                "HeadsignEn": "Tongliang→Magong[12:50]",
                 "Direction": 1,
                 "DepartureStopNameZh": "通梁古榕終點站",
                 "DepartureStopNameEn": "Tongliang banyan Terminu stop",
@@ -1203,8 +1203,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0762.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0763",
@@ -1309,8 +1309,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0763.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0764",
@@ -1433,8 +1433,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0764.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0765",
@@ -1575,8 +1575,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0765.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0766",
@@ -1951,8 +1951,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0766.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0767",
@@ -2201,8 +2201,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0767.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0768",
@@ -2379,8 +2379,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0768.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0769",
@@ -2449,8 +2449,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0769.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0773",
@@ -2645,8 +2645,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0773.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0774",
@@ -2895,8 +2895,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0774.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0777",
@@ -2998,7 +2998,7 @@
                     "Zh_tw": "51B",
                     "En": "51B"
                 },
-                "Headsign": "馬公→風櫃[09:50]，返程[10:35]",
+                "Headsign": "馬公→風櫃[09:50]，返程[10:40]",
                 "HeadsignEn": "Mogong→Fengguei[09：50]",
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
@@ -3016,8 +3016,8 @@
                     "Zh_tw": "51B",
                     "En": "51B"
                 },
-                "Headsign": "風櫃→馬公[10:35]",
-                "HeadsignEn": "Fengguei→Mogong[10：35]",
+                "Headsign": "風櫃→馬公[10:40]",
+                "HeadsignEn": "Fengguei→Mogong[10：40]",
                 "Direction": 1,
                 "DepartureStopNameZh": "西港終點站",
                 "DepartureStopNameEn": "Xigang Terminal stop",
@@ -3433,8 +3433,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0777.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0798",
@@ -3503,8 +3503,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0798.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     },
     {
         "RouteUID": "PEN0799",
@@ -3627,7 +3627,7 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0799.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-09-14T10:49:28+08:00",
-        "VersionID": 5646
+        "UpdateTime": "2025-09-21T10:48:18+08:00",
+        "VersionID": 5686
     }
 ]
