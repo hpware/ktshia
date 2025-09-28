@@ -47,8 +47,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0027.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-09-21T10:48:18+08:00",
-        "VersionID": 5686
+        "UpdateTime": "2025-09-28T10:08:34+08:00",
+        "VersionID": 5726
     },
     {
         "RouteUID": "HUA0117",
@@ -135,8 +135,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0117.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-09-21T10:48:18+08:00",
-        "VersionID": 5686
+        "UpdateTime": "2025-09-28T10:08:34+08:00",
+        "VersionID": 5726
     },
     {
         "RouteUID": "HUA0300",
@@ -223,8 +223,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0300.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-09-21T10:48:18+08:00",
-        "VersionID": 5686
+        "UpdateTime": "2025-09-28T10:08:34+08:00",
+        "VersionID": 5726
     },
     {
         "RouteUID": "HUA0301",
@@ -293,8 +293,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0301.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-09-21T10:48:18+08:00",
-        "VersionID": 5686
+        "UpdateTime": "2025-09-28T10:08:34+08:00",
+        "VersionID": 5726
     },
     {
         "RouteUID": "HUA0302",
@@ -399,8 +399,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0302.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-09-21T10:48:18+08:00",
-        "VersionID": 5686
+        "UpdateTime": "2025-09-28T10:08:34+08:00",
+        "VersionID": 5726
     },
     {
         "RouteUID": "HUA0303",
@@ -577,8 +577,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0303.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-09-21T10:48:18+08:00",
-        "VersionID": 5686
+        "UpdateTime": "2025-09-28T10:08:34+08:00",
+        "VersionID": 5726
     },
     {
         "RouteUID": "HUA0304",
@@ -646,8 +646,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0304.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-09-21T10:48:18+08:00",
-        "VersionID": 5686
+        "UpdateTime": "2025-09-28T10:08:34+08:00",
+        "VersionID": 5726
     },
     {
         "RouteUID": "HUA0305",
@@ -752,8 +752,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0305.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-09-21T10:48:18+08:00",
-        "VersionID": 5686
+        "UpdateTime": "2025-09-28T10:08:34+08:00",
+        "VersionID": 5726
     },
     {
         "RouteUID": "HUA0307",
@@ -871,8 +871,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0307.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-09-21T10:48:18+08:00",
-        "VersionID": 5686
+        "UpdateTime": "2025-09-28T10:08:34+08:00",
+        "VersionID": 5726
     },
     {
         "RouteUID": "HUA0308",
@@ -902,8 +902,8 @@
                     "Zh_tw": "308",
                     "En": "308"
                 },
-                "Headsign": "飯店接駁線(花蓮轉運站→七星潭)",
-                "HeadsignEn": "Hotel connection line(Hualien Bus Station→Qixingtan)",
+                "Headsign": "七星潭線(花蓮轉運站→七星潭)",
+                "HeadsignEn": "Qixingtan line(Hualien Bus Station→Qixingtan)",
                 "Direction": 0,
                 "DepartureStopNameZh": "花蓮轉運站",
                 "DepartureStopNameEn": "Hualien Bus Station",
@@ -920,8 +920,8 @@
                     "Zh_tw": "308",
                     "En": "308"
                 },
-                "Headsign": "飯店接駁線(七星潭→花蓮轉運站)",
-                "HeadsignEn": "Hotel connection line(Qixingtan→Hualien Bus Station)",
+                "Headsign": "七星潭線(七星潭→花蓮轉運站)",
+                "HeadsignEn": "Qixingtan line(Qixingtan→Hualien Bus Station)",
                 "Direction": 1,
                 "DepartureStopNameZh": "七星潭",
                 "DepartureStopNameEn": "Qixingtan",
@@ -938,8 +938,8 @@
                     "Zh_tw": "308A",
                     "En": "308A"
                 },
-                "Headsign": "飯店接駁線(花蓮轉運站→民意社區)",
-                "HeadsignEn": "Hotel connection line(Hualien Bus Station→Minyi Community)",
+                "Headsign": "民意社區線(花蓮轉運站→民意社區)",
+                "HeadsignEn": "Minyi Community line(Hualien Bus Station→Minyi Community)",
                 "Direction": 0,
                 "DepartureStopNameZh": "花蓮轉運站",
                 "DepartureStopNameEn": "Hualien Bus Station",
@@ -956,8 +956,8 @@
                     "Zh_tw": "308A",
                     "En": "308A"
                 },
-                "Headsign": "飯店接駁線(民意社區→花蓮轉運站)",
-                "HeadsignEn": "Hotel connection line(Minyi Community→Hualien Bus Station)",
+                "Headsign": "民意社區線(民意社區→花蓮轉運站)",
+                "HeadsignEn": "Minyi Community line(Minyi Community→Hualien Bus Station)",
                 "Direction": 1,
                 "DepartureStopNameZh": "民意社區",
                 "DepartureStopNameEn": "Minyi Community",
@@ -977,7 +977,7 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0308.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-09-21T10:48:18+08:00",
-        "VersionID": 5686
+        "UpdateTime": "2025-09-28T10:08:34+08:00",
+        "VersionID": 5726
     }
 ]

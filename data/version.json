@@ -2,157 +2,157 @@
     "version": [
         {
             "city": "Taipei",
-            "version": 6036,
-            "UpdateTime": "2025-09-21T09:46:41+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T09:46:41+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T09:46:41+08:00"
+            "version": 6076,
+            "UpdateTime": "2025-09-28T09:26:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T09:26:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T09:26:34+08:00"
         },
         {
             "city": "NewTaipei",
-            "version": 6568,
-            "UpdateTime": "2025-09-21T09:26:35+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T09:26:35+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T09:26:35+08:00"
+            "version": 6608,
+            "UpdateTime": "2025-09-28T09:06:38+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T09:06:38+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T09:06:38+08:00"
         },
         {
             "city": "Taoyuan",
-            "version": 3944,
-            "UpdateTime": "2025-09-21T10:27:21+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:27:21+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:27:21+08:00"
+            "version": 3956,
+            "UpdateTime": "2025-09-28T06:27:25+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T06:27:25+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T06:27:25+08:00"
         },
         {
             "city": "Taichung",
-            "version": 9427,
-            "UpdateTime": "2025-09-21T11:08:13+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T11:08:13+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T11:08:13+08:00"
+            "version": 9467,
+            "UpdateTime": "2025-09-28T09:48:30+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T09:48:30+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T09:48:30+08:00"
         },
         {
             "city": "Tainan",
-            "version": 8898,
-            "UpdateTime": "2025-09-21T08:06:32+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T08:06:32+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T08:06:32+08:00"
+            "version": 8938,
+            "UpdateTime": "2025-09-28T08:06:35+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T08:06:35+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T08:06:35+08:00"
         },
         {
             "city": "Kaohsiung",
-            "version": 9149,
-            "UpdateTime": "2025-09-21T07:31:13+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T07:31:13+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T07:31:13+08:00"
+            "version": 9190,
+            "UpdateTime": "2025-09-28T10:51:36+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:51:36+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:51:36+08:00"
         },
         {
             "city": "Keelung",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "Hsinchu",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "HsinchuCounty",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "MiaoliCounty",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "ChanghuaCounty",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "NantouCounty",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "YunlinCounty",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "ChiayiCounty",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "Chiayi",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "PingtungCounty",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "YilanCounty",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "HualienCounty",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "TaitungCounty",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "KinmenCounty",
-            "version": 7232,
-            "UpdateTime": "2025-09-21T11:26:37+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T11:26:37+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T11:26:37+08:00"
+            "version": 7262,
+            "UpdateTime": "2025-09-28T08:46:37+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T08:46:37+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T08:46:37+08:00"
         },
         {
             "city": "PenghuCounty",
-            "version": 5686,
-            "UpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T10:48:18+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T10:48:18+08:00"
+            "version": 5726,
+            "UpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T10:08:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T10:08:34+08:00"
         },
         {
             "city": "LienchiangCounty",
-            "version": 2193,
-            "UpdateTime": "2025-09-21T03:06:37+08:00",
-            "RemoteServerUpdateTime": "2025-09-21T03:06:37+08:00",
-            "RemoteServerCheckUpdateTime": "2025-09-21T03:06:37+08:00"
+            "version": 2222,
+            "UpdateTime": "2025-09-28T03:26:34+08:00",
+            "RemoteServerUpdateTime": "2025-09-28T03:26:34+08:00",
+            "RemoteServerCheckUpdateTime": "2025-09-28T03:26:34+08:00"
         }
     ]
 }
