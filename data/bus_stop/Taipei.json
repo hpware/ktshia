@@ -601,8 +601,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10132",
@@ -1238,8 +1238,8 @@
                 "StationID": "1000431"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10142",
@@ -2099,8 +2099,8 @@
                 "StationID": "3916"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10142",
@@ -2928,8 +2928,8 @@
                 "StationID": "72232"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10181",
@@ -3917,8 +3917,8 @@
                 "StationID": "4623"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10181",
@@ -4810,8 +4810,8 @@
                 "StationID": "1000965"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10221",
@@ -5847,8 +5847,8 @@
                 "StationID": "1165604808"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10221",
@@ -6804,8 +6804,8 @@
                 "StationID": "30017"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10231",
@@ -7377,8 +7377,8 @@
                 "StationID": "1165604811"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10231",
@@ -7847,11 +7847,11 @@
                 "StopBoarding": 0,
                 "StopSequence": 29,
                 "StopPosition": {
-                    "PositionLon": 121.614204546465,
-                    "PositionLat": 25.0596870231816,
-                    "GeoHash": "wsqqx3uz2"
+                    "PositionLon": 121.61407454595626,
+                    "PositionLat": 25.0587135046885,
+                    "GeoHash": "wsqqx3u9t"
                 },
-                "StationID": "1676"
+                "StationID": "1000251"
             },
             {
                 "StopUID": "TPE10127",
@@ -7998,8 +7998,8 @@
                 "StationID": "1646"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10232",
@@ -8459,8 +8459,8 @@
                 "StationID": "1484"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10232",
@@ -8920,8 +8920,8 @@
                 "StationID": "1606"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10241",
@@ -9477,8 +9477,8 @@
                 "StationID": "1697"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10241",
@@ -10018,8 +10018,8 @@
                 "StationID": "7651"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10251",
@@ -10655,8 +10655,8 @@
                 "StationID": "1449"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10251",
@@ -11212,22 +11212,6 @@
                 "StationID": "1073"
             },
             {
-                "StopUID": "TPE199487",
-                "StopID": "199487",
-                "StopName": {
-                    "Zh_tw": "南港軟體園區北站",
-                    "En": "Nangang Software Park N."
-                },
-                "StopBoarding": 0,
-                "StopSequence": 35,
-                "StopPosition": {
-                    "PositionLon": 121.614204546465,
-                    "PositionLat": 25.0596870231816,
-                    "GeoHash": "wsqqx3uz2"
-                },
-                "StationID": "1676"
-            },
-            {
                 "StopUID": "TPE199488",
                 "StopID": "199488",
                 "StopName": {
@@ -11235,7 +11219,7 @@
                     "En": "Park St."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 36,
+                "StopSequence": 35,
                 "StopPosition": {
                     "PositionLon": 121.61282,
                     "PositionLat": 25.05914,
@@ -11251,7 +11235,7 @@
                     "En": "Sanchong Village"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 37,
+                "StopSequence": 36,
                 "StopPosition": {
                     "PositionLon": 121.6112,
                     "PositionLat": 25.060558,
@@ -11260,8 +11244,8 @@
                 "StationID": "55005"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10253",
@@ -11529,8 +11513,8 @@
                 "StationID": "993"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10253",
@@ -11862,8 +11846,8 @@
                 "StationID": "1001373"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10261",
@@ -12243,8 +12227,8 @@
                 "StationID": "219"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10261",
@@ -12672,8 +12656,8 @@
                 "StationID": "5988"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10262",
@@ -13325,8 +13309,8 @@
                 "StationID": "50687"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10262",
@@ -14074,8 +14058,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10263",
@@ -14887,8 +14871,8 @@
                 "StationID": "1001316"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10263",
@@ -15716,8 +15700,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10272",
@@ -16849,8 +16833,8 @@
                 "StationID": "9473"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10272",
@@ -17710,8 +17694,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10273",
@@ -18731,8 +18715,8 @@
                 "StationID": "673"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10273",
@@ -19528,8 +19512,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10277",
@@ -19733,8 +19717,8 @@
                 "StationID": "1574"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     },
     {
         "RouteUID": "TPE10277",
@@ -19954,7 +19938,7 @@
                 "StationID": "1001262"
             }
         ],
-        "UpdateTime": "2025-09-28T09:26:34+08:00",
-        "VersionID": 6076
+        "UpdateTime": "2025-10-05T10:43:15+08:00",
+        "VersionID": 6117
     }
 ]

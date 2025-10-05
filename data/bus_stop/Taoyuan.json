@@ -761,8 +761,8 @@
                 "StationID": "5261"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO1060",
@@ -1286,8 +1286,8 @@
                 "StationID": "975"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO112",
@@ -1955,8 +1955,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO11892",
@@ -2224,8 +2224,8 @@
                 "StationID": "18612"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO11892",
@@ -2493,8 +2493,8 @@
                 "StationID": "18619"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO11894",
@@ -2666,8 +2666,8 @@
                 "StationID": "18612"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO11920",
@@ -2903,8 +2903,8 @@
                 "StationID": "4722"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO11920",
@@ -3140,8 +3140,8 @@
                 "StationID": "4830"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO122",
@@ -3425,8 +3425,8 @@
                 "StationID": "271"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO122",
@@ -3726,8 +3726,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO12900",
@@ -4196,11 +4196,11 @@
                 "StopBoarding": 0,
                 "StopSequence": 29,
                 "StopPosition": {
-                    "PositionLon": 121.310955,
-                    "PositionLat": 24.989795,
-                    "GeoHash": "wsqq0mrbn"
+                    "PositionLon": 121.311429,
+                    "PositionLat": 24.989938,
+                    "GeoHash": "wsqq0t22c"
                 },
-                "StationID": "8843"
+                "StationID": "2174"
             },
             {
                 "StopUID": "TAO9572",
@@ -4219,8 +4219,8 @@
                 "StationID": "66085"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO12900",
@@ -4712,8 +4712,8 @@
                 "StationID": "1704"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO130",
@@ -4750,9 +4750,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 2,
                 "StopPosition": {
-                    "PositionLon": 121.310936,
-                    "PositionLat": 24.989863,
-                    "GeoHash": "wsqq0mrbt"
+                    "PositionLon": 121.310965,
+                    "PositionLat": 24.989881,
+                    "GeoHash": "wsqq0mrbw"
                 },
                 "StationID": "2175"
             },
@@ -5333,8 +5333,8 @@
                 "StationID": "1335"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO130",
@@ -5746,8 +5746,8 @@
                 "StationID": "1490"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO133",
@@ -6047,8 +6047,8 @@
                 "StationID": "205"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO133",
@@ -6348,8 +6348,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO1331",
@@ -6649,8 +6649,8 @@
                 "StationID": "238"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO1331",
@@ -6886,8 +6886,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO1371",
@@ -7299,20 +7299,20 @@
                 "StationID": "1231"
             },
             {
-                "StopUID": "TAO4187",
-                "StopID": "4187",
+                "StopUID": "TAO39256",
+                "StopID": "39256",
                 "StopName": {
-                    "Zh_tw": "中華南華街口",
+                    "Zh_tw": "南華街口",
                     "En": "Nanhua Street Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 26,
                 "StopPosition": {
-                    "PositionLon": 121.307607,
-                    "PositionLat": 24.989911,
-                    "GeoHash": "wsqq0mm8b"
+                    "PositionLon": 121.307648,
+                    "PositionLat": 24.989941,
+                    "GeoHash": "wsqq0mm8c"
                 },
-                "StationID": "3557"
+                "StationID": "3555"
             },
             {
                 "StopUID": "TAO5306",
@@ -7747,8 +7747,8 @@
                 "StationID": "1398"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO1371",
@@ -8208,20 +8208,20 @@
                 "StationID": "949"
             },
             {
-                "StopUID": "TAO29767",
-                "StopID": "29767",
+                "StopUID": "TAO3471",
+                "StopID": "3471",
                 "StopName": {
-                    "Zh_tw": "中華南華街口",
-                    "En": "Zhonghua and Nanhua St. Intersection"
+                    "Zh_tw": "南華街口",
+                    "En": "Nanhua Street Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 29,
                 "StopPosition": {
-                    "PositionLon": 121.307956,
-                    "PositionLat": 24.989996,
-                    "GeoHash": "wsqq0mmc2"
+                    "PositionLon": 121.307648,
+                    "PositionLat": 24.989941,
+                    "GeoHash": "wsqq0mm8c"
                 },
-                "StationID": "9141"
+                "StationID": "3555"
             },
             {
                 "StopUID": "TAO3097",
@@ -8624,8 +8624,8 @@
                 "StationID": "4019"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO168",
@@ -9533,8 +9533,8 @@
                 "StationID": "5684"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO168",
@@ -10426,8 +10426,8 @@
                 "StationID": "2147"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO1681",
@@ -11383,8 +11383,8 @@
                 "StationID": "5684"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO1681",
@@ -12324,8 +12324,8 @@
                 "StationID": "2147"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO170",
@@ -12753,8 +12753,8 @@
                 "StationID": "1848"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO170",
@@ -13150,8 +13150,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO1730",
@@ -13467,8 +13467,8 @@
                 "StationID": "1848"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO1730",
@@ -13800,8 +13800,8 @@
                 "StationID": "238"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO18110",
@@ -14165,8 +14165,8 @@
                 "StationID": "65963"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     },
     {
         "RouteUID": "TAO18110",
@@ -14530,7 +14530,7 @@
                 "StationID": "65980"
             }
         ],
-        "UpdateTime": "2025-09-28T06:27:25+08:00",
-        "VersionID": 3956
+        "UpdateTime": "2025-10-05T06:44:07+08:00",
+        "VersionID": 3971
     }
 ]
