@@ -102,7 +102,7 @@ export async function getFareData(city: string, bus: string) {
   }
   const token = await getToken(tdxClientId, tdxClientSecret);
   const req = await fetch(
-    `https://tdx.transportdata.tw/api/basic/v2/Bus/RouteFare/City/${city}?$filter=RouteName/En eq '${bus}'&%24format=JSON`,
+    `https://tdx.transportdata.tw/api/basic/v2/Bus/RouteFare/City/${city}?$filter=RouteName eq '${bus}'&%24format=JSON`,
     {
       headers: {
         Authorization: `Bearer ${token}`,

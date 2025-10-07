@@ -1,6 +1,7 @@
 import { getCachedData, saveCacheData } from "./ram_caching_layer";
 import * as tdx from "./tdx";
 import citiesData from "../data/cities";
+import openai from "openai";
 
 // load envs
 const authkey = process.env.AUTH_KEY;
@@ -32,7 +33,7 @@ if (
 console.log(`Service started at port :${process.env.SERVICE_PORT || 4402} \n`);
 const enableLogTraffic = process.env.LOG_TRAFFIC || true;
 Bun.serve({
-  port: process.env.SERVICE_PORT || 4402,
+  port: process.env.SERVICE_PORT || 4402, // default port is 4402
   async fetch(req, server) {
     const url = new URL(req.url);
     if (enableLogTraffic) {
@@ -55,6 +56,7 @@ Bun.serve({
       );
     }
 
+    // app verify path
     if (url.pathname === "/api/verify") {
       return new Response(
         JSON.stringify({
@@ -64,6 +66,11 @@ Bun.serve({
         { headers: { "Content-Type": "application/json" } },
       );
     }
+    // ai proxy
+    if (url.pathname === "/api/ai/voice" && req.method === "POST") {
+    }
+
+    // bus paths
     if (url.pathname.startsWith("/api/bus/")) {
       if (url.pathname.startsWith("/api/bus/routes/")) {
         const parts = url.pathname.split("/");
