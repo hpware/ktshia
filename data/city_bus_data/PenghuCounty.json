@@ -48,8 +48,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0162.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0164",
@@ -100,8 +100,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0164.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0165",
@@ -152,8 +152,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0165.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0167",
@@ -221,8 +221,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0167.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0758",
@@ -705,8 +705,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0758.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0759",
@@ -829,8 +829,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0759.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0761",
@@ -899,8 +899,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0761.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0762",
@@ -1203,8 +1203,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0762.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0763",
@@ -1309,8 +1309,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0763.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0764",
@@ -1433,8 +1433,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0764.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0765",
@@ -1575,8 +1575,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0765.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0766",
@@ -1606,29 +1606,11 @@
                     "Zh_tw": "23",
                     "En": "23"
                 },
-                "Headsign": "馬公→沙港[06:50]，返程[07:15]",
-                "HeadsignEn": "Magon→Shagang[06:50]",
+                "Headsign": "馬公→沙港→馬公[06:50]循環線",
+                "HeadsignEn": "Magon→Shagang→Magon[06:50]Circular Line",
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
                 "DepartureStopNameEn": "Magong Station",
-                "DestinationStopNameZh": "成功天軍廟",
-                "DestinationStopNameEn": "Chenggong Tianjun Temple"
-            },
-            {
-                "SubRouteUID": "PEN076602",
-                "SubRouteID": "076602",
-                "OperatorIDs": [
-                    "78"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "23",
-                    "En": "23"
-                },
-                "Headsign": "沙港→馬公[07:15]",
-                "HeadsignEn": "Shagang→Magon[07:15]",
-                "Direction": 1,
-                "DepartureStopNameZh": "成功天軍廟",
-                "DepartureStopNameEn": "Chenggong Tianjun Temple",
                 "DestinationStopNameZh": "馬公總站",
                 "DestinationStopNameEn": "Magong Terminal stop"
             },
@@ -1642,29 +1624,11 @@
                     "Zh_tw": "23A",
                     "En": "23A"
                 },
-                "Headsign": "馬公→沙港[07:20]，返程[07:50]",
-                "HeadsignEn": "Magon→Shagang[07:20]",
+                "Headsign": "馬公→沙港[07:20]→馬公循環線",
+                "HeadsignEn": "Magon→Shagang[07:20]→Magon Circular Line",
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
                 "DepartureStopNameEn": "Magong Station",
-                "DestinationStopNameZh": "沙港東站",
-                "DestinationStopNameEn": "Shagang East stop"
-            },
-            {
-                "SubRouteUID": "PEN0766A2",
-                "SubRouteID": "0766A2",
-                "OperatorIDs": [
-                    "78"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "23A",
-                    "En": "23A"
-                },
-                "Headsign": "沙港→馬公[07:50]",
-                "HeadsignEn": "Shagang→Magon[07:50]",
-                "Direction": 1,
-                "DepartureStopNameZh": "沙港東站",
-                "DepartureStopNameEn": "Shagang East stop",
                 "DestinationStopNameZh": "馬公總站",
                 "DestinationStopNameEn": "Magong Terminal stop"
             },
@@ -1678,29 +1642,11 @@
                     "Zh_tw": "23B",
                     "En": "23B"
                 },
-                "Headsign": "馬公→沙港[09:50]，返程[10:20]",
-                "HeadsignEn": "Magon→Shagang[09:50]",
+                "Headsign": "馬公→沙港→馬公[09:50]循環線",
+                "HeadsignEn": "Magon→Shagang→Magon[09:50]Circular Line",
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
                 "DepartureStopNameEn": "Magong Station",
-                "DestinationStopNameZh": "沙港東站",
-                "DestinationStopNameEn": "Shagang East stop"
-            },
-            {
-                "SubRouteUID": "PEN0766B2",
-                "SubRouteID": "0766B2",
-                "OperatorIDs": [
-                    "78"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "23B",
-                    "En": "23B"
-                },
-                "Headsign": "沙港→馬公[10:20]",
-                "HeadsignEn": "Shagang→Magon[10:20]",
-                "Direction": 1,
-                "DepartureStopNameZh": "沙港東站",
-                "DepartureStopNameEn": "Shagang East stop",
                 "DestinationStopNameZh": "馬公總站",
                 "DestinationStopNameEn": "Magong Terminal stop"
             },
@@ -1714,29 +1660,11 @@
                     "Zh_tw": "23C",
                     "En": "23C"
                 },
-                "Headsign": "馬公→沙港[11:55]，返程[12:25]",
-                "HeadsignEn": "Magon→Shagang[11:55]",
+                "Headsign": "馬公→沙港→馬公[11:55]循環線",
+                "HeadsignEn": "Magon→Shagang→Magon[11:55]Circular Line",
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
                 "DepartureStopNameEn": "Magong Station",
-                "DestinationStopNameZh": "成功天軍廟",
-                "DestinationStopNameEn": "Chenggong Tianjun Temple"
-            },
-            {
-                "SubRouteUID": "PEN0766C2",
-                "SubRouteID": "0766C2",
-                "OperatorIDs": [
-                    "78"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "23C",
-                    "En": "23C"
-                },
-                "Headsign": "沙港→馬公[12:25]",
-                "HeadsignEn": "Shagang→Magon[12:25]",
-                "Direction": 1,
-                "DepartureStopNameZh": "成功天軍廟",
-                "DepartureStopNameEn": "Chenggong Tianjun Temple",
                 "DestinationStopNameZh": "馬公總站",
                 "DestinationStopNameEn": "Magong Terminal stop"
             },
@@ -1750,29 +1678,11 @@
                     "Zh_tw": "23D",
                     "En": "23D"
                 },
-                "Headsign": "馬公→沙港[14:00]，返程[14:20]",
-                "HeadsignEn": "Magon→Shagang[14:00]",
+                "Headsign": "馬公→沙港→馬公[14:00]循環線",
+                "HeadsignEn": "Magon→Shagang→Magon[14:00]Circular Line",
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
                 "DepartureStopNameEn": "Magong Station",
-                "DestinationStopNameZh": "沙港東站",
-                "DestinationStopNameEn": "Shagang East stop"
-            },
-            {
-                "SubRouteUID": "PEN0766D2",
-                "SubRouteID": "0766D2",
-                "OperatorIDs": [
-                    "78"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "23D",
-                    "En": "23D"
-                },
-                "Headsign": "沙港→馬公[14:20]",
-                "HeadsignEn": "Shagang→Magon[14:20]",
-                "Direction": 1,
-                "DepartureStopNameZh": "沙港東站",
-                "DepartureStopNameEn": "Shagang East stop",
                 "DestinationStopNameZh": "馬公總站",
                 "DestinationStopNameEn": "Magong Terminal stop"
             },
@@ -1786,29 +1696,11 @@
                     "Zh_tw": "23E",
                     "En": "23E"
                 },
-                "Headsign": "馬公→沙港[16:30]，返程[17:00]",
-                "HeadsignEn": "Magon→Shagang[16:30]",
+                "Headsign": "馬公→沙港→馬公[16:30]循環線",
+                "HeadsignEn": "Magon→Shagang→Magon[16:30]Circular Line",
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
                 "DepartureStopNameEn": "Magong Station",
-                "DestinationStopNameZh": "沙港東站",
-                "DestinationStopNameEn": "Shagang East stop"
-            },
-            {
-                "SubRouteUID": "PEN0766E2",
-                "SubRouteID": "0766E2",
-                "OperatorIDs": [
-                    "78"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "23E",
-                    "En": "23E"
-                },
-                "Headsign": "沙港→馬公[17:00]",
-                "HeadsignEn": "Shagang→Magon[17:00]",
-                "Direction": 1,
-                "DepartureStopNameZh": "沙港東站",
-                "DepartureStopNameEn": "Shagang East stop",
                 "DestinationStopNameZh": "馬公總站",
                 "DestinationStopNameEn": "Magong Terminal stop"
             },
@@ -1822,29 +1714,11 @@
                     "Zh_tw": "23F",
                     "En": "23F"
                 },
-                "Headsign": "馬公→沙港[17:40]，返程[18:10]",
-                "HeadsignEn": "Magon→Shagang[17:40]",
+                "Headsign": "馬公→沙港→馬公[17:40]循環線",
+                "HeadsignEn": "Magon→Shagang[17:40]Circular Line",
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
                 "DepartureStopNameEn": "Magong Station",
-                "DestinationStopNameZh": "成功天軍廟",
-                "DestinationStopNameEn": "Chenggong Tianjun Temple"
-            },
-            {
-                "SubRouteUID": "PEN0766F2",
-                "SubRouteID": "0766F2",
-                "OperatorIDs": [
-                    "78"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "23F",
-                    "En": "23F"
-                },
-                "Headsign": "沙港→馬公[18:10]",
-                "HeadsignEn": "Shagang→Magon[18:10]",
-                "Direction": 1,
-                "DepartureStopNameZh": "成功天軍廟",
-                "DepartureStopNameEn": "Chenggong Tianjun Temple",
                 "DestinationStopNameZh": "馬公總站",
                 "DestinationStopNameEn": "Magong Terminal stop"
             },
@@ -1858,29 +1732,11 @@
                     "Zh_tw": "23G",
                     "En": "23G"
                 },
-                "Headsign": "馬公→沙港[18:25]，返程[18:50]",
-                "HeadsignEn": "Magon→Shagang[18:25]",
+                "Headsign": "馬公→沙港→馬公[18:25]循環線",
+                "HeadsignEn": "Magon→Shagang→Magon[18:25]",
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
                 "DepartureStopNameEn": "Magong Station",
-                "DestinationStopNameZh": "沙港東站",
-                "DestinationStopNameEn": "Shagang East stop"
-            },
-            {
-                "SubRouteUID": "PEN0766G2",
-                "SubRouteID": "0766G2",
-                "OperatorIDs": [
-                    "78"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "23G",
-                    "En": "23G"
-                },
-                "Headsign": "沙港→馬公[18:50]",
-                "HeadsignEn": "Shagang→Magon[18:50]",
-                "Direction": 1,
-                "DepartureStopNameZh": "沙港東站",
-                "DepartureStopNameEn": "Shagang East stop",
                 "DestinationStopNameZh": "馬公總站",
                 "DestinationStopNameEn": "Magong Terminal stop"
             },
@@ -1899,24 +1755,6 @@
                 "Direction": 0,
                 "DepartureStopNameZh": "馬公總站",
                 "DepartureStopNameEn": "Magong Station",
-                "DestinationStopNameZh": "沙港東站",
-                "DestinationStopNameEn": "Shagang East stop"
-            },
-            {
-                "SubRouteUID": "PEN0766H2",
-                "SubRouteID": "0766H2",
-                "OperatorIDs": [
-                    "78"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "23H",
-                    "En": "23H"
-                },
-                "Headsign": "沙港→馬公[21:30]",
-                "HeadsignEn": "Shagang→Magon[21:30]",
-                "Direction": 1,
-                "DepartureStopNameZh": "沙港東站",
-                "DepartureStopNameEn": "Shagang East stop",
                 "DestinationStopNameZh": "北辰小郵局",
                 "DestinationStopNameEn": "Beichen Post Office"
             },
@@ -1946,13 +1784,13 @@
         },
         "DepartureStopNameZh": "馬公總站",
         "DepartureStopNameEn": "Magong Station",
-        "DestinationStopNameZh": "成功天軍廟",
-        "DestinationStopNameEn": "Chenggong Tianjun Temple",
+        "DestinationStopNameZh": "馬公總站",
+        "DestinationStopNameEn": "Magong Terminal stop",
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0766.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0767",
@@ -2201,8 +2039,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0767.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0768",
@@ -2379,8 +2217,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0768.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0769",
@@ -2449,8 +2287,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0769.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0773",
@@ -2645,8 +2483,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0773.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0774",
@@ -2895,8 +2733,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0774.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0777",
@@ -3433,8 +3271,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0777.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0798",
@@ -3503,8 +3341,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0798.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     },
     {
         "RouteUID": "PEN0799",
@@ -3645,7 +3483,7 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0799.jpg",
         "City": "PenghuCounty",
         "CityCode": "PEN",
-        "UpdateTime": "2025-10-05T10:06:07+08:00",
-        "VersionID": 5766
+        "UpdateTime": "2025-10-12T09:35:06+08:00",
+        "VersionID": 5807
     }
 ]
