@@ -473,8 +473,8 @@
                 "StationID": "783"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG1",
@@ -886,8 +886,8 @@
                 "StationID": "6456"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG1000",
@@ -1331,8 +1331,8 @@
                 "StationID": "720"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG1000",
@@ -1760,8 +1760,8 @@
                 "StationID": "6983"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG101",
@@ -2957,8 +2957,8 @@
                 "StationID": "6338"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG101",
@@ -4090,8 +4090,130 @@
                 "StationID": "3336"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
+    },
+    {
+        "RouteUID": "TXG1010",
+        "RouteID": "1010",
+        "RouteName": {
+            "Zh_tw": "會展中心接駁公車",
+            "En": "T.I.C.E.C Shuttle Bus"
+        },
+        "Direction": 0,
+        "Stops": [
+            {
+                "StopUID": "TXG20299",
+                "StopID": "20299",
+                "StopName": {
+                    "Zh_tw": "捷運文華高中站(文心路)",
+                    "En": "MRT Wenhua Senior High School Station(Wenxin Road)"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 1,
+                "StopPosition": {
+                    "PositionLon": 120.660556,
+                    "PositionLat": 24.171666,
+                    "GeoHash": "wsmc98q64"
+                },
+                "StationID": "2530"
+            },
+            {
+                "StopUID": "TXG20977",
+                "StopID": "20977",
+                "StopName": {
+                    "Zh_tw": "會展中心(停車場)",
+                    "En": "TICEC-Parking Lot"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 2,
+                "StopPosition": {
+                    "PositionLon": 120.649926,
+                    "PositionLat": 24.192928,
+                    "GeoHash": "wsmc9knw5"
+                },
+                "StationID": "2532"
+            }
+        ],
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
+    },
+    {
+        "RouteUID": "TXG1010",
+        "RouteID": "1010",
+        "RouteName": {
+            "Zh_tw": "會展中心接駁公車",
+            "En": "T.I.C.E.C Shuttle Bus"
+        },
+        "Direction": 1,
+        "Stops": [
+            {
+                "StopUID": "TXG24635",
+                "StopID": "24635",
+                "StopName": {
+                    "Zh_tw": "會展中心(展覽館)",
+                    "En": "TICEC - Exhibition Hall"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 1,
+                "StopPosition": {
+                    "PositionLon": 120.649972,
+                    "PositionLat": 24.193977,
+                    "GeoHash": "wsmc9kqsh"
+                },
+                "StationID": "79"
+            },
+            {
+                "StopUID": "TXG24636",
+                "StopID": "24636",
+                "StopName": {
+                    "Zh_tw": "會展中心(會議中心)",
+                    "En": "TICEC-ConferenceCenter"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 2,
+                "StopPosition": {
+                    "PositionLon": 120.652499,
+                    "PositionLat": 24.194873,
+                    "GeoHash": "wsmc9s83q"
+                },
+                "StationID": "7"
+            },
+            {
+                "StopUID": "TXG19404",
+                "StopID": "19404",
+                "StopName": {
+                    "Zh_tw": "綠美圖(中科路)",
+                    "En": "Taichung Green Museumbrary(Zhongke Road)"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 3,
+                "StopPosition": {
+                    "PositionLon": 120.655333,
+                    "PositionLat": 24.192833,
+                    "GeoHash": "wsmc9s4t3"
+                },
+                "StationID": "2453"
+            },
+            {
+                "StopUID": "TXG20299",
+                "StopID": "20299",
+                "StopName": {
+                    "Zh_tw": "捷運文華高中站(文心路)",
+                    "En": "MRT Wenhua Senior High School Station(Wenxin Road)"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 4,
+                "StopPosition": {
+                    "PositionLon": 120.660556,
+                    "PositionLat": 24.171666,
+                    "GeoHash": "wsmc98q64"
+                },
+                "StationID": "2530"
+            }
+        ],
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG105",
@@ -5671,8 +5793,8 @@
                 "StationID": "109"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG105",
@@ -7300,8 +7422,8 @@
                 "StationID": "3667"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG1051",
@@ -8577,8 +8699,8 @@
                 "StationID": "3667"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG1052",
@@ -10174,8 +10296,8 @@
                 "StationID": "4915"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG1052",
@@ -11819,8 +11941,8 @@
                 "StationID": "3667"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG106",
@@ -12632,8 +12754,8 @@
                 "StationID": "720"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG106",
@@ -13429,8 +13551,8 @@
                 "StationID": "4523"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG107",
@@ -14514,8 +14636,8 @@
                 "StationID": "3332"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG107",
@@ -15519,8 +15641,8 @@
                 "StationID": "1704"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG1071",
@@ -16668,8 +16790,8 @@
                 "StationID": "7031"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG1071",
@@ -17737,8 +17859,8 @@
                 "StationID": "1704"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG108",
@@ -19318,8 +19440,8 @@
                 "StationID": "6341"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG108",
@@ -20867,8 +20989,8 @@
                 "StationID": "4819"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG11",
@@ -21488,8 +21610,8 @@
                 "StationID": "551"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG11",
@@ -22109,8 +22231,8 @@
                 "StationID": "6226"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG12",
@@ -23146,8 +23268,8 @@
                 "StationID": "2329"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG12",
@@ -24199,8 +24321,8 @@
                 "StationID": "1269"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG121",
@@ -25268,8 +25390,8 @@
                 "StationID": "10078"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG121",
@@ -26353,8 +26475,8 @@
                 "StationID": "1269"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG123",
@@ -27582,8 +27704,8 @@
                 "StationID": "5109"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG123",
@@ -28811,8 +28933,8 @@
                 "StationID": "1720"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     },
     {
         "RouteUID": "TXG127",
@@ -29528,1505 +29650,7 @@
                 "StationID": "4801"
             }
         ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
-    },
-    {
-        "RouteUID": "TXG127",
-        "RouteID": "127",
-        "RouteName": {
-            "Zh_tw": "127",
-            "En": "127"
-        },
-        "Direction": 1,
-        "Stops": [
-            {
-                "StopUID": "TXG19965",
-                "StopID": "19965",
-                "StopName": {
-                    "Zh_tw": "環中豐樂路口",
-                    "En": "Huanzhong-Fengle Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 1,
-                "StopPosition": {
-                    "PositionLon": 120.6944633678308,
-                    "PositionLat": 24.200844014135548,
-                    "GeoHash": "wsmcdmxh0"
-                },
-                "StationID": "4801"
-            },
-            {
-                "StopUID": "TXG19966",
-                "StopID": "19966",
-                "StopName": {
-                    "Zh_tw": "仁美里(環中路)",
-                    "En": "Renmei Village(Changping Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 2,
-                "StopPosition": {
-                    "PositionLon": 120.6955935000019,
-                    "PositionLat": 24.201383500000297,
-                    "GeoHash": "wsmcdmxz7"
-                },
-                "StationID": "4804"
-            },
-            {
-                "StopUID": "TXG19967",
-                "StopID": "19967",
-                "StopName": {
-                    "Zh_tw": "環中長生巷口",
-                    "En": "Huanzhong-Changsheng Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 3,
-                "StopPosition": {
-                    "PositionLon": 120.688644,
-                    "PositionLat": 24.201355,
-                    "GeoHash": "wsmcdmdz1"
-                },
-                "StationID": "4805"
-            },
-            {
-                "StopUID": "TXG20854",
-                "StopID": "20854",
-                "StopName": {
-                    "Zh_tw": "臺中洲際棒球場",
-                    "En": "Intercontinental Baseball Stadium"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 4,
-                "StopPosition": {
-                    "PositionLon": 120.686504,
-                    "PositionLat": 24.199888,
-                    "GeoHash": "wsmcdm3nx"
-                },
-                "StationID": "1249"
-            },
-            {
-                "StopUID": "TXG12460",
-                "StopID": "12460",
-                "StopName": {
-                    "Zh_tw": "崇德十八路口",
-                    "En": "Chongde 18th Road"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 5,
-                "StopPosition": {
-                    "PositionLon": 120.6864,
-                    "PositionLat": 24.19615,
-                    "GeoHash": "wsmcdkc0u"
-                },
-                "StationID": "891"
-            },
-            {
-                "StopUID": "TXG12466",
-                "StopID": "12466",
-                "StopName": {
-                    "Zh_tw": "崇德豐樂路口",
-                    "En": "Chongde-Fengle Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 6,
-                "StopPosition": {
-                    "PositionLon": 120.686534,
-                    "PositionLat": 24.192803,
-                    "GeoHash": "wsmcdk1m2"
-                },
-                "StationID": "892"
-            },
-            {
-                "StopUID": "TXG2139",
-                "StopID": "2139",
-                "StopName": {
-                    "Zh_tw": "崇德十路口",
-                    "En": "Chongde 10th Road"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 7,
-                "StopPosition": {
-                    "PositionLon": 120.686413,
-                    "PositionLat": 24.189573,
-                    "GeoHash": "wsmcd794m"
-                },
-                "StationID": "875"
-            },
-            {
-                "StopUID": "TXG3372",
-                "StopID": "3372",
-                "StopName": {
-                    "Zh_tw": "崇德九路口",
-                    "En": "Chongde 9th Road"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 8,
-                "StopPosition": {
-                    "PositionLon": 120.68621415074,
-                    "PositionLat": 24.187568527238,
-                    "GeoHash": "wsmcd71nb"
-                },
-                "StationID": "6165"
-            },
-            {
-                "StopUID": "TXG2140",
-                "StopID": "2140",
-                "StopName": {
-                    "Zh_tw": "崇德山西路口",
-                    "En": "Chongde-Shanxi Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 9,
-                "StopPosition": {
-                    "PositionLon": 120.686327,
-                    "PositionLat": 24.185012,
-                    "GeoHash": "wsmcd69pg"
-                },
-                "StationID": "852"
-            },
-            {
-                "StopUID": "TXG2175",
-                "StopID": "2175",
-                "StopName": {
-                    "Zh_tw": "北屯區行政大樓",
-                    "En": "Beitun District Admin. Building"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 10,
-                "StopPosition": {
-                    "PositionLon": 120.68612,
-                    "PositionLat": 24.182533,
-                    "GeoHash": "wsmcd62cq"
-                },
-                "StationID": "859"
-            },
-            {
-                "StopUID": "TXG2444",
-                "StopID": "2444",
-                "StopName": {
-                    "Zh_tw": "松竹國小",
-                    "En": "Song Jhu Elementary School"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 11,
-                "StopPosition": {
-                    "PositionLon": 120.689565,
-                    "PositionLat": 24.180478,
-                    "GeoHash": "wsmcd3gmq"
-                },
-                "StationID": "2280"
-            },
-            {
-                "StopUID": "TXG2406",
-                "StopID": "2406",
-                "StopName": {
-                    "Zh_tw": "頂頭張(昌平路)",
-                    "En": "Dingtouzhang(Changping Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 12,
-                "StopPosition": {
-                    "PositionLon": 120.690608,
-                    "PositionLat": 24.178704,
-                    "GeoHash": "wsmcd3s5n"
-                },
-                "StationID": "794"
-            },
-            {
-                "StopUID": "TXG2442",
-                "StopID": "2442",
-                "StopName": {
-                    "Zh_tw": "頭張(昌平路)",
-                    "En": "Touzhang(Changping Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 13,
-                "StopPosition": {
-                    "PositionLon": 120.690385,
-                    "PositionLat": 24.176595,
-                    "GeoHash": "wsmcd3hnc"
-                },
-                "StationID": "6525"
-            },
-            {
-                "StopUID": "TXG2440",
-                "StopID": "2440",
-                "StopName": {
-                    "Zh_tw": "民俗公園(昌平路)",
-                    "En": "Minsu Park(Changping Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 14,
-                "StopPosition": {
-                    "PositionLon": 120.690412,
-                    "PositionLat": 24.174561,
-                    "GeoHash": "wsmcd2u54"
-                },
-                "StationID": "59"
-            },
-            {
-                "StopUID": "TXG1656",
-                "StopID": "1656",
-                "StopName": {
-                    "Zh_tw": "昌平文心路口",
-                    "En": "Changping-Wenxin Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 15,
-                "StopPosition": {
-                    "PositionLon": 120.690735,
-                    "PositionLat": 24.172521,
-                    "GeoHash": "wsmcd2kr1"
-                },
-                "StationID": "3643"
-            },
-            {
-                "StopUID": "TXG2438",
-                "StopID": "2438",
-                "StopName": {
-                    "Zh_tw": "頂二分埔",
-                    "En": "Ding-er Fenpu"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 16,
-                "StopPosition": {
-                    "PositionLon": 120.691236,
-                    "PositionLat": 24.170979,
-                    "GeoHash": "wsmcd2hwj"
-                },
-                "StationID": "2494"
-            },
-            {
-                "StopUID": "TXG2437",
-                "StopID": "2437",
-                "StopName": {
-                    "Zh_tw": "下二分埔",
-                    "En": "Xiaerfenpu"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 17,
-                "StopPosition": {
-                    "PositionLon": 120.692156,
-                    "PositionLat": 24.169253,
-                    "GeoHash": "wsmc6rvk5"
-                },
-                "StationID": "5567"
-            },
-            {
-                "StopUID": "TXG19739",
-                "StopID": "19739",
-                "StopName": {
-                    "Zh_tw": "文昌國小(興安路)",
-                    "En": "Wen Chang Elementary school(Xing'an Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 18,
-                "StopPosition": {
-                    "PositionLon": 120.691876,
-                    "PositionLat": 24.167325,
-                    "GeoHash": "wsmc6rt0u"
-                },
-                "StationID": "4422"
-            },
-            {
-                "StopUID": "TXG20542",
-                "StopID": "20542",
-                "StopName": {
-                    "Zh_tw": "漢口興安路口",
-                    "En": "Hankou-Xingan Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 19,
-                "StopPosition": {
-                    "PositionLon": 120.690065,
-                    "PositionLat": 24.166947,
-                    "GeoHash": "wsmc6r7yd"
-                },
-                "StationID": "2916"
-            },
-            {
-                "StopUID": "TXG13844",
-                "StopID": "13844",
-                "StopName": {
-                    "Zh_tw": "漢口熱河路口",
-                    "En": "Hankou-Rehe Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 20,
-                "StopPosition": {
-                    "PositionLon": 120.686593,
-                    "PositionLat": 24.166988,
-                    "GeoHash": "wsmc6r3qc"
-                },
-                "StationID": "2914"
-            },
-            {
-                "StopUID": "TXG11213",
-                "StopID": "11213",
-                "StopName": {
-                    "Zh_tw": "漢口永興街口",
-                    "En": "Hankou-Yongxing Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 21,
-                "StopPosition": {
-                    "PositionLon": 120.683318,
-                    "PositionLat": 24.167049,
-                    "GeoHash": "wsmc6pqzm"
-                },
-                "StationID": "323"
-            },
-            {
-                "StopUID": "TXG11218",
-                "StopID": "11218",
-                "StopName": {
-                    "Zh_tw": "賴厝國小",
-                    "En": "LaiCuo Elementary School"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 22,
-                "StopPosition": {
-                    "PositionLon": 120.679112,
-                    "PositionLat": 24.167049,
-                    "GeoHash": "wsmc6p7z7"
-                },
-                "StationID": "774"
-            },
-            {
-                "StopUID": "TXG17968",
-                "StopID": "17968",
-                "StopName": {
-                    "Zh_tw": "漢口山西路口",
-                    "En": "Hankou-Shanxi Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 23,
-                "StopPosition": {
-                    "PositionLon": 120.675926,
-                    "PositionLat": 24.166964,
-                    "GeoHash": "wsmc6p3wb"
-                },
-                "StationID": "768"
-            },
-            {
-                "StopUID": "TXG11217",
-                "StopID": "11217",
-                "StopName": {
-                    "Zh_tw": "曉明女中(漢口路)",
-                    "En": "Stella Matutina Girls' High School(Hankou Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 24,
-                "StopPosition": {
-                    "PositionLon": 120.67412,
-                    "PositionLat": 24.166902,
-                    "GeoHash": "wsmc6p2nq"
-                },
-                "StationID": "772"
-            },
-            {
-                "StopUID": "TXG20037",
-                "StopID": "20037",
-                "StopName": {
-                    "Zh_tw": "漢口漢陽街口",
-                    "En": "Hankou-Hanyang Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 25,
-                "StopPosition": {
-                    "PositionLon": 120.67162599999999,
-                    "PositionLat": 24.166891999999997,
-                    "GeoHash": "wsmc3zqqk"
-                },
-                "StationID": "4521"
-            },
-            {
-                "StopUID": "TXG11211",
-                "StopID": "11211",
-                "StopName": {
-                    "Zh_tw": "漢口陝西路口",
-                    "En": "Hankou-Shanxi Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 26,
-                "StopPosition": {
-                    "PositionLon": 120.668866,
-                    "PositionLat": 24.166809,
-                    "GeoHash": "wsmc3zkmu"
-                },
-                "StationID": "766"
-            },
-            {
-                "StopUID": "TXG11185",
-                "StopID": "11185",
-                "StopName": {
-                    "Zh_tw": "中華國小",
-                    "En": "Chung Hua Elementary School"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 27,
-                "StopPosition": {
-                    "PositionLon": 120.666261,
-                    "PositionLat": 24.166777,
-                    "GeoHash": "wsmc3z6mx"
-                },
-                "StationID": "737"
-            },
-            {
-                "StopUID": "TXG11179",
-                "StopID": "11179",
-                "StopName": {
-                    "Zh_tw": "三信公園",
-                    "En": "SanXin Park"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 28,
-                "StopPosition": {
-                    "PositionLon": 120.66352,
-                    "PositionLat": 24.165995,
-                    "GeoHash": "wsmc3z23p"
-                },
-                "StationID": "733"
-            },
-            {
-                "StopUID": "TXG2004",
-                "StopID": "2004",
-                "StopName": {
-                    "Zh_tw": "漢口大信街口",
-                    "En": "Hankou-Daxin Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 29,
-                "StopPosition": {
-                    "PositionLon": 120.661114,
-                    "PositionLat": 24.164906,
-                    "GeoHash": "wsmc3xndz"
-                },
-                "StationID": "765"
-            },
-            {
-                "StopUID": "TXG17967",
-                "StopID": "17967",
-                "StopName": {
-                    "Zh_tw": "漢口西屯路口",
-                    "En": "Hankou-Xitun Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 30,
-                "StopPosition": {
-                    "PositionLon": 120.659344,
-                    "PositionLat": 24.163892,
-                    "GeoHash": "wsmc3wvky"
-                },
-                "StationID": "2911"
-            },
-            {
-                "StopUID": "TXG457",
-                "StopID": "457",
-                "StopName": {
-                    "Zh_tw": "漢口國中",
-                    "En": "Han Kau Junior High School"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 31,
-                "StopPosition": {
-                    "PositionLon": 120.65670750597928,
-                    "PositionLat": 24.161305465740842,
-                    "GeoHash": "wsmc3w7tc"
-                },
-                "StationID": "5096"
-            },
-            {
-                "StopUID": "TXG17985",
-                "StopID": "17985",
-                "StopName": {
-                    "Zh_tw": "漢口臺灣大道口",
-                    "En": "Hankou-Taiwan Boulevard Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 32,
-                "StopPosition": {
-                    "PositionLon": 120.656236,
-                    "PositionLat": 24.159568,
-                    "GeoHash": "wsmc3w55w"
-                },
-                "StationID": "2940"
-            },
-            {
-                "StopUID": "TXG3342",
-                "StopID": "3342",
-                "StopName": {
-                    "Zh_tw": "永豐棧酒店",
-                    "En": "TEMPUS Hotel"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 33,
-                "StopPosition": {
-                    "PositionLon": 120.655581,
-                    "PositionLat": 24.158501,
-                    "GeoHash": "wsmc3tftq"
-                },
-                "StationID": "456"
-            },
-            {
-                "StopUID": "TXG3343",
-                "StopID": "3343",
-                "StopName": {
-                    "Zh_tw": "東興停車場",
-                    "En": "Dongxing Parking Lot"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 34,
-                "StopPosition": {
-                    "PositionLon": 120.654326,
-                    "PositionLat": 24.156514,
-                    "GeoHash": "wsmc3t9cc"
-                },
-                "StationID": "959"
-            },
-            {
-                "StopUID": "TXG3344",
-                "StopID": "3344",
-                "StopName": {
-                    "Zh_tw": "東興國小",
-                    "En": "Do-Xing elementary school"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 35,
-                "StopPosition": {
-                    "PositionLon": 120.6531460980532,
-                    "PositionLat": 24.15469560778677,
-                    "GeoHash": "wsmc3t0zq"
-                },
-                "StationID": "6545"
-            },
-            {
-                "StopUID": "TXG3345",
-                "StopID": "3345",
-                "StopName": {
-                    "Zh_tw": "東興公益路口",
-                    "En": "Dongxing-Gongyi Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 36,
-                "StopPosition": {
-                    "PositionLon": 120.652993,
-                    "PositionLat": 24.151502,
-                    "GeoHash": "wsmc3s8ud"
-                },
-                "StationID": "6439"
-            },
-            {
-                "StopUID": "TXG17966",
-                "StopID": "17966",
-                "StopName": {
-                    "Zh_tw": "東興大墩十二街口",
-                    "En": "Dongxing-Dadun 12th Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 37,
-                "StopPosition": {
-                    "PositionLon": 120.653046,
-                    "PositionLat": 24.149473,
-                    "GeoHash": "wsmc3s2bg"
-                },
-                "StationID": "2909"
-            },
-            {
-                "StopUID": "TXG3347",
-                "StopID": "3347",
-                "StopName": {
-                    "Zh_tw": "萬壽棒球場(東興路)",
-                    "En": "Wanshou Baseball Stadium(Dongxing Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 38,
-                "StopPosition": {
-                    "PositionLon": 120.652985,
-                    "PositionLat": 24.145168,
-                    "GeoHash": "wsmc3e2zf"
-                },
-                "StationID": "3972"
-            },
-            {
-                "StopUID": "TXG11773",
-                "StopID": "11773",
-                "StopName": {
-                    "Zh_tw": "東興大墩五街口",
-                    "En": "Dongxing-Dadun 5th Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 39,
-                "StopPosition": {
-                    "PositionLon": 120.652985,
-                    "PositionLat": 24.142018,
-                    "GeoHash": "wsmc3dbv6"
-                },
-                "StationID": "2908"
-            },
-            {
-                "StopUID": "TXG17964",
-                "StopID": "17964",
-                "StopName": {
-                    "Zh_tw": "東興大墩二街口",
-                    "En": "Dongxing-Dadun 2nd Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 40,
-                "StopPosition": {
-                    "PositionLon": 120.653041,
-                    "PositionLat": 24.138718,
-                    "GeoHash": "wsmc3d2f5"
-                },
-                "StationID": "2905"
-            },
-            {
-                "StopUID": "TXG3349",
-                "StopID": "3349",
-                "StopName": {
-                    "Zh_tw": "東興南屯路口",
-                    "En": "Dongxing-Nantun Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 41,
-                "StopPosition": {
-                    "PositionLon": 120.653006,
-                    "PositionLat": 24.13618,
-                    "GeoHash": "wsmc39bg6"
-                },
-                "StationID": "3974"
-            },
-            {
-                "StopUID": "TXG10394",
-                "StopID": "10394",
-                "StopName": {
-                    "Zh_tw": "愛心家園",
-                    "En": "Love Home"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 42,
-                "StopPosition": {
-                    "PositionLon": 120.653159,
-                    "PositionLat": 24.132332,
-                    "GeoHash": "wsmc390vn"
-                },
-                "StationID": "580"
-            },
-            {
-                "StopUID": "TXG17928",
-                "StopID": "17928",
-                "StopName": {
-                    "Zh_tw": "文心南五路260巷口",
-                    "En": "Wenxin S. 5th-260th Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 43,
-                "StopPosition": {
-                    "PositionLon": 120.651281,
-                    "PositionLat": 24.13198,
-                    "GeoHash": "wsmc33pdf"
-                },
-                "StationID": "2881"
-            },
-            {
-                "StopUID": "TXG14485",
-                "StopID": "14485",
-                "StopName": {
-                    "Zh_tw": "好市多",
-                    "En": "COSTCO"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 44,
-                "StopPosition": {
-                    "PositionLon": 120.648042,
-                    "PositionLat": 24.132081,
-                    "GeoHash": "wsmc33j5x"
-                },
-                "StationID": "575"
-            },
-            {
-                "StopUID": "TXG17963",
-                "StopID": "17963",
-                "StopName": {
-                    "Zh_tw": "捷運豐樂公園站(文心南五路)",
-                    "En": "MRT Feng-Le Park Station(Wenxin S. 5th Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 45,
-                "StopPosition": {
-                    "PositionLon": 120.645756,
-                    "PositionLat": 24.13206,
-                    "GeoHash": "wsmc335e3"
-                },
-                "StationID": "2904"
-            },
-            {
-                "StopUID": "TXG17961",
-                "StopID": "17961",
-                "StopName": {
-                    "Zh_tw": "豐樂雕塑公園",
-                    "En": "Fong Le Sculpture Park"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 46,
-                "StopPosition": {
-                    "PositionLon": 120.6439,
-                    "PositionLat": 24.130932,
-                    "GeoHash": "wsmc32fhy"
-                },
-                "StationID": "2902"
-            }
-        ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
-    },
-    {
-        "RouteUID": "TXG1271",
-        "RouteID": "1271",
-        "RouteName": {
-            "Zh_tw": "127延",
-            "En": "127E"
-        },
-        "Direction": 0,
-        "Stops": [
-            {
-                "StopUID": "TXG22961",
-                "StopID": "22961",
-                "StopName": {
-                    "Zh_tw": "捷運大慶站(建國北路)",
-                    "En": "MRT Daqing Station(Jianguo N. Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 1,
-                "StopPosition": {
-                    "PositionLon": 120.648876,
-                    "PositionLat": 24.11984,
-                    "GeoHash": "wsmc1qvu6"
-                },
-                "StationID": "2561"
-            },
-            {
-                "StopUID": "TXG22962",
-                "StopID": "22962",
-                "StopName": {
-                    "Zh_tw": "中山醫學大學",
-                    "En": "Chung Shan Medical University"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 2,
-                "StopPosition": {
-                    "PositionLon": 120.6489,
-                    "PositionLat": 24.122443,
-                    "GeoHash": "wsmc1rmg7"
-                },
-                "StationID": "160"
-            },
-            {
-                "StopUID": "TXG22963",
-                "StopID": "22963",
-                "StopName": {
-                    "Zh_tw": "文心南三民西路口",
-                    "En": "Wenxin S.-Sanmin W. Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 3,
-                "StopPosition": {
-                    "PositionLon": 120.646475,
-                    "PositionLat": 24.126447,
-                    "GeoHash": "wsmc32h4d"
-                },
-                "StationID": "563"
-            },
-            {
-                "StopUID": "TXG17960",
-                "StopID": "17960",
-                "StopName": {
-                    "Zh_tw": "豐樂雕塑公園",
-                    "En": "Fong Le Sculpture Park"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 4,
-                "StopPosition": {
-                    "PositionLon": 120.643997,
-                    "PositionLat": 24.130956,
-                    "GeoHash": "wsmc32fm0"
-                },
-                "StationID": "2901"
-            },
-            {
-                "StopUID": "TXG17962",
-                "StopID": "17962",
-                "StopName": {
-                    "Zh_tw": "捷運豐樂公園站(文心南五路)",
-                    "En": "MRT Feng-Le Park Station(Wenxin S. 5th Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 5,
-                "StopPosition": {
-                    "PositionLon": 120.645885,
-                    "PositionLat": 24.132019,
-                    "GeoHash": "wsmc335eh"
-                },
-                "StationID": "2903"
-            },
-            {
-                "StopUID": "TXG10386",
-                "StopID": "10386",
-                "StopName": {
-                    "Zh_tw": "好市多",
-                    "En": "COSTCO"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 6,
-                "StopPosition": {
-                    "PositionLon": 120.648508,
-                    "PositionLat": 24.131989,
-                    "GeoHash": "wsmc33je1"
-                },
-                "StationID": "574"
-            },
-            {
-                "StopUID": "TXG17928",
-                "StopID": "17928",
-                "StopName": {
-                    "Zh_tw": "文心南五路260巷口",
-                    "En": "Wenxin S. 5th-260th Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 7,
-                "StopPosition": {
-                    "PositionLon": 120.651281,
-                    "PositionLat": 24.13198,
-                    "GeoHash": "wsmc33pdf"
-                },
-                "StationID": "2881"
-            },
-            {
-                "StopUID": "TXG10394",
-                "StopID": "10394",
-                "StopName": {
-                    "Zh_tw": "愛心家園",
-                    "En": "Love Home"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 8,
-                "StopPosition": {
-                    "PositionLon": 120.653159,
-                    "PositionLat": 24.132332,
-                    "GeoHash": "wsmc390vn"
-                },
-                "StationID": "580"
-            },
-            {
-                "StopUID": "TXG3320",
-                "StopID": "3320",
-                "StopName": {
-                    "Zh_tw": "東興南屯路口",
-                    "En": "Dongxing-Nantun Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 9,
-                "StopPosition": {
-                    "PositionLon": 120.653062,
-                    "PositionLat": 24.136146,
-                    "GeoHash": "wsmc39bgh"
-                },
-                "StationID": "3975"
-            },
-            {
-                "StopUID": "TXG17964",
-                "StopID": "17964",
-                "StopName": {
-                    "Zh_tw": "東興大墩二街口",
-                    "En": "Dongxing-Dadun 2nd Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 10,
-                "StopPosition": {
-                    "PositionLon": 120.653041,
-                    "PositionLat": 24.138718,
-                    "GeoHash": "wsmc3d2f5"
-                },
-                "StationID": "2905"
-            },
-            {
-                "StopUID": "TXG17965",
-                "StopID": "17965",
-                "StopName": {
-                    "Zh_tw": "東興大墩五街口",
-                    "En": "Dongxing-Dadun 5th Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 11,
-                "StopPosition": {
-                    "PositionLon": 120.653041,
-                    "PositionLat": 24.142341,
-                    "GeoHash": "wsmc3dbz7"
-                },
-                "StationID": "2907"
-            },
-            {
-                "StopUID": "TXG3322",
-                "StopID": "3322",
-                "StopName": {
-                    "Zh_tw": "萬壽棒球場(東興路)",
-                    "En": "Wanshou Baseball Stadium(Dongxing Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 12,
-                "StopPosition": {
-                    "PositionLon": 120.65303660981394,
-                    "PositionLat": 24.145424450278515,
-                    "GeoHash": "wsmc3e8c7"
-                },
-                "StationID": "3973"
-            },
-            {
-                "StopUID": "TXG17966",
-                "StopID": "17966",
-                "StopName": {
-                    "Zh_tw": "東興大墩十二街口",
-                    "En": "Dongxing-Dadun 12th Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 13,
-                "StopPosition": {
-                    "PositionLon": 120.653046,
-                    "PositionLat": 24.149473,
-                    "GeoHash": "wsmc3s2bg"
-                },
-                "StationID": "2909"
-            },
-            {
-                "StopUID": "TXG3304",
-                "StopID": "3304",
-                "StopName": {
-                    "Zh_tw": "東興公益路口",
-                    "En": "Dongxing-Gongyi Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 14,
-                "StopPosition": {
-                    "PositionLon": 120.653044,
-                    "PositionLat": 24.15159,
-                    "GeoHash": "wsmc3s8v5"
-                },
-                "StationID": "6440"
-            },
-            {
-                "StopUID": "TXG3309",
-                "StopID": "3309",
-                "StopName": {
-                    "Zh_tw": "東興國小",
-                    "En": "Do-Xing elementary school"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 15,
-                "StopPosition": {
-                    "PositionLon": 120.653081,
-                    "PositionLat": 24.154333,
-                    "GeoHash": "wsmc3t0vh"
-                },
-                "StationID": "6544"
-            },
-            {
-                "StopUID": "TXG3296",
-                "StopID": "3296",
-                "StopName": {
-                    "Zh_tw": "東興停車場",
-                    "En": "Dongxing Parking Lot"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 16,
-                "StopPosition": {
-                    "PositionLon": 120.654409,
-                    "PositionLat": 24.156568,
-                    "GeoHash": "wsmc3t9f5"
-                },
-                "StationID": "960"
-            },
-            {
-                "StopUID": "TXG3297",
-                "StopID": "3297",
-                "StopName": {
-                    "Zh_tw": "永豐棧酒店",
-                    "En": "TEMPUS Hotel"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 17,
-                "StopPosition": {
-                    "PositionLon": 120.655693,
-                    "PositionLat": 24.158556,
-                    "GeoHash": "wsmc3tfvc"
-                },
-                "StationID": "455"
-            },
-            {
-                "StopUID": "TXG17985",
-                "StopID": "17985",
-                "StopName": {
-                    "Zh_tw": "漢口臺灣大道口",
-                    "En": "Hankou-Taiwan Boulevard Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 18,
-                "StopPosition": {
-                    "PositionLon": 120.656236,
-                    "PositionLat": 24.159568,
-                    "GeoHash": "wsmc3w55w"
-                },
-                "StationID": "2940"
-            },
-            {
-                "StopUID": "TXG435",
-                "StopID": "435",
-                "StopName": {
-                    "Zh_tw": "漢口國中",
-                    "En": "Han Kau Junior High School"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 19,
-                "StopPosition": {
-                    "PositionLon": 120.65673583621711,
-                    "PositionLat": 24.161143150143996,
-                    "GeoHash": "wsmc3w7sc"
-                },
-                "StationID": "5095"
-            },
-            {
-                "StopUID": "TXG17967",
-                "StopID": "17967",
-                "StopName": {
-                    "Zh_tw": "漢口西屯路口",
-                    "En": "Hankou-Xitun Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 20,
-                "StopPosition": {
-                    "PositionLon": 120.659344,
-                    "PositionLat": 24.163892,
-                    "GeoHash": "wsmc3wvky"
-                },
-                "StationID": "2911"
-            },
-            {
-                "StopUID": "TXG1959",
-                "StopID": "1959",
-                "StopName": {
-                    "Zh_tw": "漢口大信街口",
-                    "En": "Hankou-Daxin Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 21,
-                "StopPosition": {
-                    "PositionLon": 120.66128039345051,
-                    "PositionLat": 24.164906119724296,
-                    "GeoHash": "wsmc3xnfg"
-                },
-                "StationID": "764"
-            },
-            {
-                "StopUID": "TXG11179",
-                "StopID": "11179",
-                "StopName": {
-                    "Zh_tw": "三信公園",
-                    "En": "SanXin Park"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 22,
-                "StopPosition": {
-                    "PositionLon": 120.66352,
-                    "PositionLat": 24.165995,
-                    "GeoHash": "wsmc3z23p"
-                },
-                "StationID": "733"
-            },
-            {
-                "StopUID": "TXG11185",
-                "StopID": "11185",
-                "StopName": {
-                    "Zh_tw": "中華國小",
-                    "En": "Chung Hua Elementary School"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 23,
-                "StopPosition": {
-                    "PositionLon": 120.666261,
-                    "PositionLat": 24.166777,
-                    "GeoHash": "wsmc3z6mx"
-                },
-                "StationID": "737"
-            },
-            {
-                "StopUID": "TXG11211",
-                "StopID": "11211",
-                "StopName": {
-                    "Zh_tw": "漢口陝西路口",
-                    "En": "Hankou-Shanxi Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 24,
-                "StopPosition": {
-                    "PositionLon": 120.668866,
-                    "PositionLat": 24.166809,
-                    "GeoHash": "wsmc3zkmu"
-                },
-                "StationID": "766"
-            },
-            {
-                "StopUID": "TXG20038",
-                "StopID": "20038",
-                "StopName": {
-                    "Zh_tw": "漢口漢陽街口",
-                    "En": "Hankou-Hanyang Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 25,
-                "StopPosition": {
-                    "PositionLon": 120.671572,
-                    "PositionLat": 24.166847000000004,
-                    "GeoHash": "wsmc3zqq5"
-                },
-                "StationID": "4522"
-            },
-            {
-                "StopUID": "TXG11217",
-                "StopID": "11217",
-                "StopName": {
-                    "Zh_tw": "曉明女中(漢口路)",
-                    "En": "Stella Matutina Girls' High School(Hankou Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 26,
-                "StopPosition": {
-                    "PositionLon": 120.67412,
-                    "PositionLat": 24.166902,
-                    "GeoHash": "wsmc6p2nq"
-                },
-                "StationID": "772"
-            },
-            {
-                "StopUID": "TXG17968",
-                "StopID": "17968",
-                "StopName": {
-                    "Zh_tw": "漢口山西路口",
-                    "En": "Hankou-Shanxi Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 27,
-                "StopPosition": {
-                    "PositionLon": 120.675926,
-                    "PositionLat": 24.166964,
-                    "GeoHash": "wsmc6p3wb"
-                },
-                "StationID": "768"
-            },
-            {
-                "StopUID": "TXG11218",
-                "StopID": "11218",
-                "StopName": {
-                    "Zh_tw": "賴厝國小",
-                    "En": "LaiCuo Elementary School"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 28,
-                "StopPosition": {
-                    "PositionLon": 120.679112,
-                    "PositionLat": 24.167049,
-                    "GeoHash": "wsmc6p7z7"
-                },
-                "StationID": "774"
-            },
-            {
-                "StopUID": "TXG11213",
-                "StopID": "11213",
-                "StopName": {
-                    "Zh_tw": "漢口永興街口",
-                    "En": "Hankou-Yongxing Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 29,
-                "StopPosition": {
-                    "PositionLon": 120.683318,
-                    "PositionLat": 24.167049,
-                    "GeoHash": "wsmc6pqzm"
-                },
-                "StationID": "323"
-            },
-            {
-                "StopUID": "TXG22964",
-                "StopID": "22964",
-                "StopName": {
-                    "Zh_tw": "崇德青島路口",
-                    "En": "Chongde-Qingdao Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 30,
-                "StopPosition": {
-                    "PositionLon": 120.68534,
-                    "PositionLat": 24.168187,
-                    "GeoHash": "wsmc6r8mu"
-                },
-                "StationID": "272"
-            },
-            {
-                "StopUID": "TXG22965",
-                "StopID": "22965",
-                "StopName": {
-                    "Zh_tw": "崇德北平路口",
-                    "En": "Chongde-Beiping Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 31,
-                "StopPosition": {
-                    "PositionLon": 120.685493,
-                    "PositionLat": 24.170495,
-                    "GeoHash": "wsmcd207r"
-                },
-                "StationID": "860"
-            },
-            {
-                "StopUID": "TXG22966",
-                "StopID": "22966",
-                "StopName": {
-                    "Zh_tw": "捷運文心崇德站(崇德路)",
-                    "En": "MRT Wenxin Chongde Station(Chongde Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 32,
-                "StopPosition": {
-                    "PositionLon": 120.685611,
-                    "PositionLat": 24.171755,
-                    "GeoHash": "wsmcd22dd"
-                },
-                "StationID": "2626"
-            },
-            {
-                "StopUID": "TXG22967",
-                "StopID": "22967",
-                "StopName": {
-                    "Zh_tw": "崇德瀋陽路口",
-                    "En": "Chongde-Shenyang Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 33,
-                "StopPosition": {
-                    "PositionLon": 120.685638,
-                    "PositionLat": 24.173086,
-                    "GeoHash": "wsmcd28d7"
-                },
-                "StationID": "253"
-            },
-            {
-                "StopUID": "TXG22968",
-                "StopID": "22968",
-                "StopName": {
-                    "Zh_tw": "崇德國中(民俗公園)",
-                    "En": "Chongde J. H. S.(Minsu Park)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 34,
-                "StopPosition": {
-                    "PositionLon": 120.685748,
-                    "PositionLat": 24.174985,
-                    "GeoHash": "wsmcd2btm"
-                },
-                "StationID": "1256"
-            },
-            {
-                "StopUID": "TXG22969",
-                "StopID": "22969",
-                "StopName": {
-                    "Zh_tw": "崇德一路口",
-                    "En": "Chongde 1st Road"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 35,
-                "StopPosition": {
-                    "PositionLon": 120.685855,
-                    "PositionLat": 24.176708,
-                    "GeoHash": "wsmcd30z8"
-                },
-                "StationID": "267"
-            },
-            {
-                "StopUID": "TXG22970",
-                "StopID": "22970",
-                "StopName": {
-                    "Zh_tw": "崇德五路口",
-                    "En": "Chongde 5th Road"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 36,
-                "StopPosition": {
-                    "PositionLon": 120.686035,
-                    "PositionLat": 24.178756,
-                    "GeoHash": "wsmcd38gk"
-                },
-                "StationID": "880"
-            },
-            {
-                "StopUID": "TXG22971",
-                "StopID": "22971",
-                "StopName": {
-                    "Zh_tw": "崇德六路口",
-                    "En": "Chongde 6th Road"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 37,
-                "StopPosition": {
-                    "PositionLon": 120.68619,
-                    "PositionLat": 24.181097,
-                    "GeoHash": "wsmcd6110"
-                },
-                "StationID": "3511"
-            },
-            {
-                "StopUID": "TXG12350",
-                "StopID": "12350",
-                "StopName": {
-                    "Zh_tw": "北屯區行政大樓",
-                    "En": "Beitun District Admin. Building"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 38,
-                "StopPosition": {
-                    "PositionLon": 120.686256,
-                    "PositionLat": 24.182568,
-                    "GeoHash": "wsmcd6319"
-                },
-                "StationID": "858"
-            },
-            {
-                "StopUID": "TXG2140",
-                "StopID": "2140",
-                "StopName": {
-                    "Zh_tw": "崇德山西路口",
-                    "En": "Chongde-Shanxi Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 39,
-                "StopPosition": {
-                    "PositionLon": 120.686327,
-                    "PositionLat": 24.185012,
-                    "GeoHash": "wsmcd69pg"
-                },
-                "StationID": "852"
-            },
-            {
-                "StopUID": "TXG3372",
-                "StopID": "3372",
-                "StopName": {
-                    "Zh_tw": "崇德九路口",
-                    "En": "Chongde 9th Road"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 40,
-                "StopPosition": {
-                    "PositionLon": 120.68621415074,
-                    "PositionLat": 24.187568527238,
-                    "GeoHash": "wsmcd71nb"
-                },
-                "StationID": "6165"
-            },
-            {
-                "StopUID": "TXG2139",
-                "StopID": "2139",
-                "StopName": {
-                    "Zh_tw": "崇德十路口",
-                    "En": "Chongde 10th Road"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 41,
-                "StopPosition": {
-                    "PositionLon": 120.686413,
-                    "PositionLat": 24.189573,
-                    "GeoHash": "wsmcd794m"
-                },
-                "StationID": "875"
-            },
-            {
-                "StopUID": "TXG12466",
-                "StopID": "12466",
-                "StopName": {
-                    "Zh_tw": "崇德豐樂路口",
-                    "En": "Chongde-Fengle Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 42,
-                "StopPosition": {
-                    "PositionLon": 120.686534,
-                    "PositionLat": 24.192803,
-                    "GeoHash": "wsmcdk1m2"
-                },
-                "StationID": "892"
-            },
-            {
-                "StopUID": "TXG2138",
-                "StopID": "2138",
-                "StopName": {
-                    "Zh_tw": "崇德十八路口",
-                    "En": "Chongde 18th Road"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 43,
-                "StopPosition": {
-                    "PositionLon": 120.686649,
-                    "PositionLat": 24.196208,
-                    "GeoHash": "wsmcdkc34"
-                },
-                "StationID": "890"
-            },
-            {
-                "StopUID": "TXG20855",
-                "StopID": "20855",
-                "StopName": {
-                    "Zh_tw": "臺中洲際棒球場",
-                    "En": "Intercontinental Baseball Stadium"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 44,
-                "StopPosition": {
-                    "PositionLon": 120.686724,
-                    "PositionLat": 24.199903,
-                    "GeoHash": "wsmcdm3qs"
-                },
-                "StationID": "1248"
-            },
-            {
-                "StopUID": "TXG22387",
-                "StopID": "22387",
-                "StopName": {
-                    "Zh_tw": "環中長生巷口",
-                    "En": "Huanzhong-Changsheng Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 45,
-                "StopPosition": {
-                    "PositionLon": 120.691025,
-                    "PositionLat": 24.200844,
-                    "GeoHash": "wsmcdmss0"
-                },
-                "StationID": "4806"
-            },
-            {
-                "StopUID": "TXG19965",
-                "StopID": "19965",
-                "StopName": {
-                    "Zh_tw": "環中豐樂路口",
-                    "En": "Huanzhong-Fengle Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 46,
-                "StopPosition": {
-                    "PositionLon": 120.6944633678308,
-                    "PositionLat": 24.200844014135548,
-                    "GeoHash": "wsmcdmxh0"
-                },
-                "StationID": "4801"
-            }
-        ],
-        "UpdateTime": "2025-10-12T09:54:49+08:00",
-        "VersionID": 9549
+        "UpdateTime": "2025-10-19T08:11:59+08:00",
+        "VersionID": 9591
     }
 ]

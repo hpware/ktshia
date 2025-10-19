@@ -601,8 +601,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10132",
@@ -1238,8 +1238,8 @@
                 "StationID": "1000431"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10142",
@@ -2099,8 +2099,8 @@
                 "StationID": "3916"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10142",
@@ -2928,8 +2928,8 @@
                 "StationID": "72232"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10181",
@@ -3917,8 +3917,8 @@
                 "StationID": "4623"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10181",
@@ -4810,8 +4810,8 @@
                 "StationID": "1000965"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10221",
@@ -5792,9 +5792,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 61,
                 "StopPosition": {
-                    "PositionLon": 121.519562,
-                    "PositionLat": 25.092849,
-                    "GeoHash": "wsqqv0pb7"
+                    "PositionLon": 121.519189,
+                    "PositionLat": 25.092636,
+                    "GeoHash": "wsqqtpzx4"
                 },
                 "StationID": "581"
             },
@@ -5847,8 +5847,8 @@
                 "StationID": "1165604808"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10221",
@@ -6804,8 +6804,8 @@
                 "StationID": "30017"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10231",
@@ -7377,8 +7377,8 @@
                 "StationID": "1165604811"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10231",
@@ -7998,8 +7998,8 @@
                 "StationID": "1646"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10232",
@@ -8459,8 +8459,8 @@
                 "StationID": "1484"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10232",
@@ -8920,8 +8920,8 @@
                 "StationID": "1606"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10241",
@@ -9477,8 +9477,8 @@
                 "StationID": "1697"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10241",
@@ -10018,8 +10018,8 @@
                 "StationID": "7651"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10251",
@@ -10655,8 +10655,8 @@
                 "StationID": "1449"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10251",
@@ -11244,8 +11244,8 @@
                 "StationID": "55005"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10253",
@@ -11513,8 +11513,8 @@
                 "StationID": "993"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10253",
@@ -11846,8 +11846,8 @@
                 "StationID": "1001373"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10261",
@@ -12227,8 +12227,8 @@
                 "StationID": "219"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10261",
@@ -12656,8 +12656,8 @@
                 "StationID": "5988"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10262",
@@ -13309,8 +13309,8 @@
                 "StationID": "50687"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10262",
@@ -14058,8 +14058,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10263",
@@ -14448,9 +14448,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 24,
                 "StopPosition": {
-                    "PositionLon": 121.519562,
-                    "PositionLat": 25.092849,
-                    "GeoHash": "wsqqv0pb7"
+                    "PositionLon": 121.519189,
+                    "PositionLat": 25.092636,
+                    "GeoHash": "wsqqtpzx4"
                 },
                 "StationID": "581"
             },
@@ -14871,8 +14871,8 @@
                 "StationID": "1001316"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10263",
@@ -15309,9 +15309,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 27,
                 "StopPosition": {
-                    "PositionLon": 121.520293745507,
-                    "PositionLat": 25.0936986773603,
-                    "GeoHash": "wsqqv20mk"
+                    "PositionLon": 121.519396,
+                    "PositionLat": 25.093132,
+                    "GeoHash": "wsqqv0pdp"
                 },
                 "StationID": "575"
             },
@@ -15700,8 +15700,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10272",
@@ -16833,8 +16833,8 @@
                 "StationID": "9473"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10272",
@@ -17694,8 +17694,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10273",
@@ -18715,8 +18715,8 @@
                 "StationID": "673"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10273",
@@ -19512,8 +19512,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10277",
@@ -19717,8 +19717,8 @@
                 "StationID": "1574"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     },
     {
         "RouteUID": "TPE10277",
@@ -19938,7 +19938,7 @@
                 "StationID": "1001262"
             }
         ],
-        "UpdateTime": "2025-10-12T09:52:55+08:00",
-        "VersionID": 6147
+        "UpdateTime": "2025-10-19T08:47:52+08:00",
+        "VersionID": 6189
     }
 ]

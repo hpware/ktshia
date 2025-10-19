@@ -30,9 +30,9 @@
                 "Headsign": "市區觀光循環線(順向)",
                 "HeadsignEn": "City Tour Circular Line(Forward)",
                 "Direction": 0,
-                "DepartureStopNameZh": "台東火車站",
+                "DepartureStopNameZh": "臺東火車站",
                 "DepartureStopNameEn": "Taitung Railway Station",
-                "DestinationStopNameZh": "台東火車站",
+                "DestinationStopNameZh": "臺東火車站",
                 "DestinationStopNameEn": "Taitung Railway Station"
             },
             {
@@ -48,9 +48,9 @@
                 "Headsign": "市區觀光循環線(逆向)",
                 "HeadsignEn": "City Tour Circular Line(Reverse)",
                 "Direction": 1,
-                "DepartureStopNameZh": "台東火車站",
+                "DepartureStopNameZh": "臺東火車站",
                 "DepartureStopNameEn": "Taitung Railway Station",
-                "DestinationStopNameZh": "台東火車站",
+                "DestinationStopNameZh": "臺東火車站",
                 "DestinationStopNameEn": "Taitung Railway Station"
             }
         ],
@@ -59,15 +59,15 @@
             "Zh_tw": "市區循環",
             "En": "市區循環"
         },
-        "DepartureStopNameZh": "台東火車站",
+        "DepartureStopNameZh": "臺東火車站",
         "DepartureStopNameEn": "Taitung Railway Station",
-        "DestinationStopNameZh": "台東火車站",
+        "DestinationStopNameZh": "臺東火車站",
         "DestinationStopNameEn": "Taitung Railway Station",
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0981.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-10-12T09:35:06+08:00",
-        "VersionID": 5807
+        "UpdateTime": "2025-10-19T08:29:18+08:00",
+        "VersionID": 5848
     },
     {
         "RouteUID": "TTT0982",
@@ -100,7 +100,7 @@
                 "Headsign": "陸海空線【臺東火車站→小野柳】",
                 "HeadsignEn": "Land, sea and air line[Taitung train station→Xiaoyeliu]",
                 "Direction": 0,
-                "DepartureStopNameZh": "台東火車站",
+                "DepartureStopNameZh": "臺東火車站",
                 "DepartureStopNameEn": "Taitung Railway Station",
                 "DestinationStopNameZh": "富岡港口",
                 "DestinationStopNameEn": "fu gang Fishing harbor"
@@ -120,7 +120,7 @@
                 "Direction": 1,
                 "DepartureStopNameZh": "富岡港口",
                 "DepartureStopNameEn": "fu gang Fishing harbor",
-                "DestinationStopNameZh": "台東火車站",
+                "DestinationStopNameZh": "臺東火車站",
                 "DestinationStopNameEn": "Taitung Railway Station"
             },
             {
@@ -136,9 +136,9 @@
                 "Headsign": "陸海空線【臺東火車站→臺東轉運站】",
                 "HeadsignEn": "Land, sea and air line[Taitung train station→Taitung bus station]",
                 "Direction": 0,
-                "DepartureStopNameZh": "台東火車站",
+                "DepartureStopNameZh": "臺東火車站",
                 "DepartureStopNameEn": "Taitung Railway Station",
-                "DestinationStopNameZh": "台東轉運站",
+                "DestinationStopNameZh": "臺東轉運站",
                 "DestinationStopNameEn": "Taitung Bus Station"
             },
             {
@@ -154,9 +154,9 @@
                 "Headsign": "陸海空線【臺東轉運站→臺東火車站】",
                 "HeadsignEn": "Land, sea and air line[Taitung bus station→Taitung train station]",
                 "Direction": 1,
-                "DepartureStopNameZh": "台東轉運站",
+                "DepartureStopNameZh": "臺東轉運站",
                 "DepartureStopNameEn": "Taitung Bus Station",
-                "DestinationStopNameZh": "台東火車站",
+                "DestinationStopNameZh": "臺東火車站",
                 "DestinationStopNameEn": "Taitung Railway Station"
             },
             {
@@ -174,7 +174,7 @@
                 "Direction": 0,
                 "DepartureStopNameZh": "台東航空站",
                 "DepartureStopNameEn": "TAITUNG AIRPORT",
-                "DestinationStopNameZh": "台東火車站",
+                "DestinationStopNameZh": "臺東火車站",
                 "DestinationStopNameEn": "Taitung Railway Station"
             },
             {
@@ -190,7 +190,7 @@
                 "Headsign": "陸海空線【臺東火車站→臺東航空站】",
                 "HeadsignEn": "Land, sea and air line(0986)",
                 "Direction": 1,
-                "DepartureStopNameZh": "台東火車站",
+                "DepartureStopNameZh": "臺東火車站",
                 "DepartureStopNameEn": "Taitung Railway Station",
                 "DestinationStopNameZh": "台東航空站",
                 "DestinationStopNameEn": "TAITUNG AIRPORT"
@@ -203,12 +203,12 @@
         },
         "DepartureStopNameZh": "台東航空站",
         "DepartureStopNameEn": "TAITUNG AIRPORT",
-        "DestinationStopNameZh": "台東火車站",
+        "DestinationStopNameZh": "臺東火車站",
         "DestinationStopNameEn": "Taitung Railway Station",
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0982.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-10-12T09:35:06+08:00",
-        "VersionID": 5807
+        "UpdateTime": "2025-10-19T08:29:18+08:00",
+        "VersionID": 5848
     }
 ]
