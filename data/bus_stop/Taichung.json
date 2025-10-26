@@ -473,8 +473,8 @@
                 "StationID": "783"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG1",
@@ -886,8 +886,8 @@
                 "StationID": "6456"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG1000",
@@ -1132,9 +1132,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 15,
                 "StopPosition": {
-                    "PositionLon": 120.65799,
-                    "PositionLat": 24.11726,
-                    "GeoHash": "wsmc1wkmn"
+                    "PositionLon": 120.65805739472472,
+                    "PositionLat": 24.11720557146816,
+                    "GeoHash": "wsmc1wksb"
                 },
                 "StationID": "3331"
             },
@@ -1148,9 +1148,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 16,
                 "StopPosition": {
-                    "PositionLon": 120.659591,
-                    "PositionLat": 24.119054,
-                    "GeoHash": "wsmc1wtxs"
+                    "PositionLon": 120.6596552267748,
+                    "PositionLat": 24.119028687456108,
+                    "GeoHash": "wsmc1wtxt"
                 },
                 "StationID": "2567"
             },
@@ -1164,9 +1164,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 17,
                 "StopPosition": {
-                    "PositionLon": 120.661034,
-                    "PositionLat": 24.120954,
-                    "GeoHash": "wsmc1xndt"
+                    "PositionLon": 120.66110718057372,
+                    "PositionLat": 24.120932359063502,
+                    "GeoHash": "wsmc1xndx"
                 },
                 "StationID": "4884"
             },
@@ -1196,9 +1196,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 19,
                 "StopPosition": {
-                    "PositionLon": 120.665326,
-                    "PositionLat": 24.126536,
-                    "GeoHash": "wsmc3b1g3"
+                    "PositionLon": 120.66538457322956,
+                    "PositionLat": 24.126516573833182,
+                    "GeoHash": "wsmc3b1g5"
                 },
                 "StationID": "487"
             },
@@ -1331,8 +1331,8 @@
                 "StationID": "720"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG1000",
@@ -1760,8 +1760,8 @@
                 "StationID": "6983"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG101",
@@ -2957,8 +2957,8 @@
                 "StationID": "6338"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG101",
@@ -4090,8 +4090,8 @@
                 "StationID": "3336"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG1010",
@@ -4135,8 +4135,8 @@
                 "StationID": "2532"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG1010",
@@ -4212,8 +4212,8 @@
                 "StationID": "2530"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG105",
@@ -5793,8 +5793,8 @@
                 "StationID": "109"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG105",
@@ -7422,8 +7422,8 @@
                 "StationID": "3667"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG1051",
@@ -8699,8 +8699,8 @@
                 "StationID": "3667"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG1052",
@@ -10296,8 +10296,8 @@
                 "StationID": "4915"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG1052",
@@ -11941,8 +11941,8 @@
                 "StationID": "3667"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG106",
@@ -12754,8 +12754,8 @@
                 "StationID": "720"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG106",
@@ -13551,8 +13551,8 @@
                 "StationID": "4523"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG107",
@@ -14636,8 +14636,8 @@
                 "StationID": "3332"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG107",
@@ -15641,8 +15641,8 @@
                 "StationID": "1704"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG1071",
@@ -16790,8 +16790,8 @@
                 "StationID": "7031"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG1071",
@@ -17859,8 +17859,8 @@
                 "StationID": "1704"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG108",
@@ -17939,8 +17939,8 @@
                 "StopUID": "TXG2342",
                 "StopID": "2342",
                 "StopName": {
-                    "Zh_tw": "貿易三村",
-                    "En": "Maoyi 3rd Village"
+                    "Zh_tw": "貿易三村(中清路)",
+                    "En": "Maoyi 3rd Village(Zhongqing Road)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 5,
@@ -19440,8 +19440,8 @@
                 "StationID": "6341"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG108",
@@ -20912,14 +20912,14 @@
                 "StopUID": "TXG2307",
                 "StopID": "2307",
                 "StopName": {
-                    "Zh_tw": "貿易三村",
-                    "En": "Maoyi 3rd Village"
+                    "Zh_tw": "貿易三村(中清路)",
+                    "En": "Maoyi 3rd Village(Zhongqing Road)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 92,
                 "StopPosition": {
-                    "PositionLon": 120.66022291110284,
-                    "PositionLat": 24.192424647671636,
+                    "PositionLon": 120.6602229111,
+                    "PositionLat": 24.192424647672,
                     "GeoHash": "wsmc9sn54"
                 },
                 "StationID": "1065"
@@ -20989,8 +20989,8 @@
                 "StationID": "4819"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG11",
@@ -21610,8 +21610,8 @@
                 "StationID": "551"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG11",
@@ -22231,8 +22231,8 @@
                 "StationID": "6226"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG12",
@@ -23268,8 +23268,8 @@
                 "StationID": "2329"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG12",
@@ -24321,8 +24321,8 @@
                 "StationID": "1269"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG121",
@@ -25390,8 +25390,8 @@
                 "StationID": "10078"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG121",
@@ -26475,8 +26475,8 @@
                 "StationID": "1269"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG123",
@@ -27704,8 +27704,8 @@
                 "StationID": "5109"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG123",
@@ -28046,9 +28046,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 21,
                 "StopPosition": {
-                    "PositionLon": 120.582416,
-                    "PositionLat": 24.265841,
-                    "GeoHash": "wsmdpcmqv"
+                    "PositionLon": 120.58318246631,
+                    "PositionLat": 24.266177655897,
+                    "GeoHash": "wsmdpctbx"
                 },
                 "StationID": "687"
             },
@@ -28933,8 +28933,8 @@
                 "StationID": "1720"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     },
     {
         "RouteUID": "TXG127",
@@ -29650,7 +29650,7 @@
                 "StationID": "4801"
             }
         ],
-        "UpdateTime": "2025-10-19T08:11:59+08:00",
-        "VersionID": 9591
+        "UpdateTime": "2025-10-26T08:52:03+08:00",
+        "VersionID": 9631
     }
 ]

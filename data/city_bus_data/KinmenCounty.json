@@ -43,8 +43,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/101/map/154/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN11",
@@ -88,8 +88,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/11/map/158/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN111",
@@ -133,8 +133,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/111/map/155/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN1111",
@@ -178,8 +178,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1111/map/156/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN12",
@@ -223,8 +223,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/12/map/157/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN122",
@@ -270,8 +270,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/122/map/197/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN125",
@@ -317,8 +317,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/125/map/256/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN13",
@@ -364,8 +364,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/13/map/159/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN131",
@@ -411,8 +411,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/131/map/161/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN14",
@@ -458,8 +458,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/14/map/160/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN141",
@@ -505,8 +505,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/141/map/162/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN1511",
@@ -551,8 +551,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1511/map/252/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN1512",
@@ -597,8 +597,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1512/map/253/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN1514",
@@ -644,8 +644,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1514/map/255/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN1524",
@@ -691,8 +691,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1524/map/114/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN1525",
@@ -738,8 +738,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1525/map/115/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN1533",
@@ -785,8 +785,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1533/map/116/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN1534",
@@ -832,8 +832,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1534/map/117/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN181",
@@ -879,8 +879,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/181/map/198/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN1811",
@@ -926,8 +926,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1811/map/199/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN182",
@@ -973,8 +973,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/182/map/200/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN1821",
@@ -1018,8 +1018,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/1821/map/201/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN183",
@@ -1065,8 +1065,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/183/map/202/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN184",
@@ -1112,8 +1112,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/184/map/203/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN191",
@@ -1159,8 +1159,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/191/map/204/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN192",
@@ -1206,8 +1206,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/192/map/205/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN193",
@@ -1253,8 +1253,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/193/map/260/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN194",
@@ -1300,8 +1300,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/194/map/207/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN195",
@@ -1347,8 +1347,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/195/map/208/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN196",
@@ -1390,8 +1390,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/196/map/209/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN197",
@@ -1437,8 +1437,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/197/map/210/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN198",
@@ -1480,8 +1480,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/198/map/211/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN201",
@@ -1527,8 +1527,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/201/map/212/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN202",
@@ -1574,8 +1574,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/202/map/213/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN203",
@@ -1621,8 +1621,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/203/map/214/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN204",
@@ -1668,8 +1668,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/204/map/215/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN205",
@@ -1715,8 +1715,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/205/map/216/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN206",
@@ -1762,8 +1762,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/206/map/217/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN21",
@@ -1809,8 +1809,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/21/map/163/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN22",
@@ -1856,8 +1856,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/22/map/164/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN231",
@@ -1903,8 +1903,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/231/map/218/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN232",
@@ -1950,8 +1950,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/232/map/219/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN251",
@@ -1995,8 +1995,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/251/map/149/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN252",
@@ -2040,8 +2040,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/252/map/220/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN271",
@@ -2087,8 +2087,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/271/map/242/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN2711",
@@ -2134,8 +2134,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/2711/map/243/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN2712",
@@ -2181,8 +2181,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/2712/map/244/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN272",
@@ -2228,8 +2228,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/272/map/245/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN2721",
@@ -2275,8 +2275,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/2721/map/246/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN2722",
@@ -2322,8 +2322,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/2722/map/247/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN31",
@@ -2369,8 +2369,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/31/map/165/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN311",
@@ -2416,8 +2416,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/311/map/142/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN3111",
@@ -2463,8 +2463,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3111/map/144/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN3112",
@@ -2506,8 +2506,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3112/map/145/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN312",
@@ -2549,8 +2549,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/312/map/143/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN3121",
@@ -2596,8 +2596,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3121/map/137/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN314",
@@ -2643,8 +2643,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/314/map/167/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN32",
@@ -2690,8 +2690,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/32/map/166/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN321",
@@ -2737,8 +2737,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/321/map/146/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN3211",
@@ -2784,8 +2784,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3211/map/147/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN3212",
@@ -2829,8 +2829,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3212/map/148/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN3213",
@@ -2876,8 +2876,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3213/map/138/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN3214",
@@ -2923,8 +2923,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/3214/map/139/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN324",
@@ -2970,8 +2970,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/324/map/258/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN331",
@@ -3017,8 +3017,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/331/map/257/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN351",
@@ -3063,8 +3063,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/351/map/118/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN352",
@@ -3109,8 +3109,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/352/map/119/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN364",
@@ -3156,8 +3156,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/364/map/120/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN371",
@@ -3203,8 +3203,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/371/map/121/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN381",
@@ -3250,8 +3250,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/381/map/122/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN51",
@@ -3297,8 +3297,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/51/map/221/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN511",
@@ -3344,8 +3344,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/511/map/222/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN512",
@@ -3391,8 +3391,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/512/map/223/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN515",
@@ -3438,8 +3438,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/515/map/225/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN516",
@@ -3485,8 +3485,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/516/map/224/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN52",
@@ -3532,8 +3532,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/52/map/226/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN521",
@@ -3579,8 +3579,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/521/map/227/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN522",
@@ -3626,8 +3626,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/522/map/228/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN524",
@@ -3673,8 +3673,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/524/map/229/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN525",
@@ -3720,8 +3720,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/525/map/230/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN526",
@@ -3767,8 +3767,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/526/map/231/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN527",
@@ -3810,8 +3810,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/527/map/232/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN53",
@@ -3857,8 +3857,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/53/map/233/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN531",
@@ -3904,8 +3904,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/531/map/234/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN532",
@@ -3951,8 +3951,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/532/map/235/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN535",
@@ -3998,8 +3998,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/535/map/236/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN54",
@@ -4042,8 +4042,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/54/map/237/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN541",
@@ -4089,8 +4089,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/541/map/238/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN542",
@@ -4136,8 +4136,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/542/map/239/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN544",
@@ -4183,8 +4183,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/544/map/240/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN545",
@@ -4230,8 +4230,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/545/map/241/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN61",
@@ -4277,8 +4277,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/61/map/190/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN611",
@@ -4324,8 +4324,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/611/map/191/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN612",
@@ -4371,8 +4371,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/612/map/192/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN613",
@@ -4418,8 +4418,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/613/map/193/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN62",
@@ -4465,8 +4465,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/62/map/194/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN621",
@@ -4512,8 +4512,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/621/map/195/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN711",
@@ -4559,8 +4559,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/711/map/91/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN7111",
@@ -4606,8 +4606,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/7111/map/92/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN712",
@@ -4653,8 +4653,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/712/map/93/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN713",
@@ -4700,8 +4700,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/713/map/110/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN81",
@@ -4745,8 +4745,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=A線",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN82",
@@ -4790,8 +4790,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=B線",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN83",
@@ -4835,8 +4835,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=C線",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN831",
@@ -4880,8 +4880,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=C線",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN84",
@@ -4923,8 +4923,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=D線",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN85",
@@ -4968,8 +4968,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=E線",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN86",
@@ -5013,8 +5013,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=E線",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN88",
@@ -5058,8 +5058,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=F線",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN881",
@@ -5105,8 +5105,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=881",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN8821",
@@ -5152,8 +5152,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=15",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN8822",
@@ -5199,8 +5199,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/extend/routemap.php?routename=8822",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN89",
@@ -5246,8 +5246,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/89/map/248/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN891",
@@ -5293,8 +5293,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/891/map/249/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN91",
@@ -5340,8 +5340,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/91/map/153/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN92",
@@ -5387,8 +5387,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/92/map/152/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN955",
@@ -5434,8 +5434,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/955/map/131/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN956",
@@ -5481,8 +5481,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/956/map/132/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN961",
@@ -5528,8 +5528,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/961/map/127/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN963",
@@ -5575,8 +5575,8 @@
         "RouteMapImageUrl": "http://ebus.kinmen.gov.tw/api/route/963/map/129/image",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     },
     {
         "RouteUID": "KIN98",
@@ -5619,7 +5619,7 @@
         "DestinationStopNameZh": "金門醫院專車",
         "City": "KinmenCounty",
         "CityCode": "KIN",
-        "UpdateTime": "2025-10-19T08:47:47+08:00",
-        "VersionID": 7353
+        "UpdateTime": "2025-10-26T09:47:43+08:00",
+        "VersionID": 7386
     }
 ]
