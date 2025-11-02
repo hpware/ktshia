@@ -47,8 +47,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0027.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-10-26T08:49:58+08:00",
-        "VersionID": 5886
+        "UpdateTime": "2025-11-02T03:09:31+08:00",
+        "VersionID": 5925
     },
     {
         "RouteUID": "HUA0117",
@@ -135,8 +135,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0117.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-10-26T08:49:58+08:00",
-        "VersionID": 5886
+        "UpdateTime": "2025-11-02T03:09:31+08:00",
+        "VersionID": 5925
     },
     {
         "RouteUID": "HUA0300",
@@ -223,8 +223,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0300.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-10-26T08:49:58+08:00",
-        "VersionID": 5886
+        "UpdateTime": "2025-11-02T03:09:31+08:00",
+        "VersionID": 5925
     },
     {
         "RouteUID": "HUA0301",
@@ -293,8 +293,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0301.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-10-26T08:49:58+08:00",
-        "VersionID": 5886
+        "UpdateTime": "2025-11-02T03:09:31+08:00",
+        "VersionID": 5925
     },
     {
         "RouteUID": "HUA0302",
@@ -399,8 +399,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0302.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-10-26T08:49:58+08:00",
-        "VersionID": 5886
+        "UpdateTime": "2025-11-02T03:09:31+08:00",
+        "VersionID": 5925
     },
     {
         "RouteUID": "HUA0303",
@@ -577,8 +577,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0303.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-10-26T08:49:58+08:00",
-        "VersionID": 5886
+        "UpdateTime": "2025-11-02T03:09:31+08:00",
+        "VersionID": 5925
     },
     {
         "RouteUID": "HUA0304",
@@ -646,8 +646,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0304.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-10-26T08:49:58+08:00",
-        "VersionID": 5886
+        "UpdateTime": "2025-11-02T03:09:31+08:00",
+        "VersionID": 5925
     },
     {
         "RouteUID": "HUA0305",
@@ -752,127 +752,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0305.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-10-26T08:49:58+08:00",
-        "VersionID": 5886
-    },
-    {
-        "RouteUID": "HUA0307",
-        "RouteID": "0307",
-        "HasSubRoutes": true,
-        "Operators": [
-            {
-                "OperatorID": "39",
-                "OperatorName": {
-                    "Zh_tw": "首都客運",
-                    "En": "Capital Bus Co., Ltd."
-                },
-                "OperatorCode": "CapitalBus",
-                "OperatorNo": "0913"
-            },
-            {
-                "OperatorID": "42",
-                "OperatorName": {
-                    "Zh_tw": "臺北客運",
-                    "En": "Taipei Bus Co., Ltd."
-                },
-                "OperatorCode": "TaipeiBus",
-                "OperatorNo": "1407"
-            }
-        ],
-        "AuthorityID": "022",
-        "ProviderID": "010",
-        "SubRoutes": [
-            {
-                "SubRouteUID": "HUA030701",
-                "SubRouteID": "030701",
-                "OperatorIDs": [
-                    "39",
-                    "42"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "307",
-                    "En": "307"
-                },
-                "Headsign": "花蓮轉運站→慈濟大學(建國校區)→東大門夜市→花蓮轉運站",
-                "HeadsignEn": "Hualien Bus Station→Tzu chi University Jianguo→Dongdamen Night Market→Hualien Bus Station",
-                "Direction": 0,
-                "DepartureStopNameZh": "花蓮轉運站",
-                "DepartureStopNameEn": "Hualien Bus Station",
-                "DestinationStopNameZh": "花蓮轉運站",
-                "DestinationStopNameEn": "Hualien Bus Station"
-            },
-            {
-                "SubRouteUID": "HUA030702",
-                "SubRouteID": "030702",
-                "OperatorIDs": [
-                    "39",
-                    "42"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "307",
-                    "En": "307"
-                },
-                "Headsign": "花蓮轉運站→東大門夜市→慈濟大學(建國校區)→花蓮轉運站",
-                "HeadsignEn": "Hualien Bus Station→Dongdamen Night Market→Tzu chi University Jianguo→Hualien Bus Station",
-                "Direction": 1,
-                "DepartureStopNameZh": "花蓮轉運站",
-                "DepartureStopNameEn": "Hualien Bus Station",
-                "DestinationStopNameZh": "花蓮轉運站",
-                "DestinationStopNameEn": "Hualien Bus Station"
-            },
-            {
-                "SubRouteUID": "HUA0307A1",
-                "SubRouteID": "0307A1",
-                "OperatorIDs": [
-                    "39",
-                    "42"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "307A",
-                    "En": "307A"
-                },
-                "Headsign": "花蓮轉運站→慈濟大學(建國校區)",
-                "HeadsignEn": "Hualien Bus Station→Tzu chi University Jianguo",
-                "Direction": 0,
-                "DepartureStopNameZh": "花蓮轉運站",
-                "DepartureStopNameEn": "Hualien Bus Station",
-                "DestinationStopNameZh": "慈濟大學(建國校區)",
-                "DestinationStopNameEn": "Tzu chi University Jianguo"
-            },
-            {
-                "SubRouteUID": "HUA0307A2",
-                "SubRouteID": "0307A2",
-                "OperatorIDs": [
-                    "39",
-                    "42"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "307A",
-                    "En": "307A"
-                },
-                "Headsign": "慈濟大學(建國校區)→花蓮轉運站",
-                "HeadsignEn": "Tzu chi University Jianguo→Hualien Bus Station",
-                "Direction": 1,
-                "DepartureStopNameZh": "慈濟大學(建國校區)",
-                "DepartureStopNameEn": "Tzu chi University Jianguo",
-                "DestinationStopNameZh": "花蓮轉運站",
-                "DestinationStopNameEn": "Hualien Bus Station"
-            }
-        ],
-        "BusRouteType": 11,
-        "RouteName": {
-            "Zh_tw": "307",
-            "En": "307"
-        },
-        "DepartureStopNameZh": "花蓮轉運站",
-        "DepartureStopNameEn": "Hualien Bus Station",
-        "DestinationStopNameZh": "花蓮轉運站",
-        "DestinationStopNameEn": "Hualien Bus Station",
-        "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0307.jpg",
-        "City": "HualienCounty",
-        "CityCode": "HUA",
-        "UpdateTime": "2025-10-26T08:49:58+08:00",
-        "VersionID": 5886
+        "UpdateTime": "2025-11-02T03:09:31+08:00",
+        "VersionID": 5925
     },
     {
         "RouteUID": "HUA0308",
@@ -977,7 +858,7 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0308.jpg",
         "City": "HualienCounty",
         "CityCode": "HUA",
-        "UpdateTime": "2025-10-26T08:49:58+08:00",
-        "VersionID": 5886
+        "UpdateTime": "2025-11-02T03:09:31+08:00",
+        "VersionID": 5925
     }
 ]
