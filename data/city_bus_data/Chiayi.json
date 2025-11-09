@@ -65,8 +65,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0119.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "CYI0123",
@@ -134,8 +134,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0123.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "CYI0124",
@@ -203,8 +203,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0124.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "CYI0128",
@@ -272,8 +272,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0128.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "CYI0129",
@@ -341,8 +341,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0129.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "CYI0130",
@@ -410,8 +410,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0130.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "CYI0138",
@@ -479,8 +479,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0138.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "CYI0139",
@@ -584,8 +584,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0139.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "CYI0714",
@@ -708,8 +708,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0714.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "CYI0715",
@@ -814,8 +814,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0715.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "CYI0716",
@@ -920,7 +920,7 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0716.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     }
 ]

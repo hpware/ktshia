@@ -889,8 +889,8 @@
                 "StationID": "8657"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10019",
@@ -1782,8 +1782,8 @@
                 "StationID": "8685"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10021",
@@ -1900,9 +1900,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 7,
                 "StopPosition": {
-                    "PositionLon": 120.20687,
-                    "PositionLat": 23.00782,
-                    "GeoHash": "wsj6zk7yr"
+                    "PositionLon": 120.20698,
+                    "PositionLat": 23.00794,
+                    "GeoHash": "wsj6zkknc"
                 },
                 "StationID": "769"
             },
@@ -2028,9 +2028,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 15,
                 "StopPosition": {
-                    "PositionLon": 120.21951,
-                    "PositionLat": 23.02471,
-                    "GeoHash": "wsj6zxt0t"
+                    "PositionLon": 120.21957,
+                    "PositionLat": 23.02474,
+                    "GeoHash": "wsj6zxt0z"
                 },
                 "StationID": "554"
             },
@@ -2044,9 +2044,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 16,
                 "StopPosition": {
-                    "PositionLon": 120.22141,
-                    "PositionLat": 23.02644,
-                    "GeoHash": "wsj6zxyd9"
+                    "PositionLon": 120.22147,
+                    "PositionLat": 23.02648,
+                    "GeoHash": "wsj6zxydg"
                 },
                 "StationID": "555"
             },
@@ -2156,9 +2156,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 23,
                 "StopPosition": {
-                    "PositionLon": 120.23016,
-                    "PositionLat": 23.03501,
-                    "GeoHash": "wsj7pckut"
+                    "PositionLon": 120.23026,
+                    "PositionLat": 23.03508,
+                    "GeoHash": "wsj7pcmj0"
                 },
                 "StationID": "559"
             },
@@ -2236,9 +2236,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 28,
                 "StopPosition": {
-                    "PositionLon": 120.24025,
-                    "PositionLat": 23.04655,
-                    "GeoHash": "wsje05krb"
+                    "PositionLon": 120.24019,
+                    "PositionLat": 23.04657,
+                    "GeoHash": "wsje05s0p"
                 },
                 "StationID": "2451"
             },
@@ -2252,9 +2252,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 29,
                 "StopPosition": {
-                    "PositionLon": 120.24245,
-                    "PositionLat": 23.05129,
-                    "GeoHash": "wsje0hmgk"
+                    "PositionLon": 120.24252,
+                    "PositionLat": 23.05133,
+                    "GeoHash": "wsje0hmgt"
                 },
                 "StationID": "8494"
             },
@@ -2435,8 +2435,8 @@
                 "StationID": "8784"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10021",
@@ -3072,8 +3072,8 @@
                 "StationID": "9211"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN1009",
@@ -3206,9 +3206,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 8,
                 "StopPosition": {
-                    "PositionLon": 120.21671,
-                    "PositionLat": 23.01202,
-                    "GeoHash": "wsj6zt5ns"
+                    "PositionLon": 120.21674,
+                    "PositionLat": 23.01201,
+                    "GeoHash": "wsj6zt5nt"
                 },
                 "StationID": "9296"
             },
@@ -3222,9 +3222,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 9,
                 "StopPosition": {
-                    "PositionLon": 120.21544,
-                    "PositionLat": 23.01299,
-                    "GeoHash": "wsj6zt6hq"
+                    "PositionLon": 120.21545,
+                    "PositionLat": 23.01303,
+                    "GeoHash": "wsj6zt6hx"
                 },
                 "StationID": "9297"
             },
@@ -3725,8 +3725,8 @@
                 "StationID": "2849"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN1009",
@@ -4378,8 +4378,8 @@
                 "StationID": "9213"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN1010",
@@ -5413,10 +5413,26 @@
                     "GeoHash": "wsj7jd1c4"
                 },
                 "StationID": "1018"
+            },
+            {
+                "StopUID": "TNN32294",
+                "StopID": "32294",
+                "StopName": {
+                    "Zh_tw": "鹿耳門天后宮",
+                    "En": "Luermen Matsu Temple"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 65,
+                "StopPosition": {
+                    "PositionLon": 120.12491,
+                    "PositionLat": 23.03644,
+                    "GeoHash": "wsj7j98kc"
+                },
+                "StationID": "1000"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN1010",
@@ -6429,9 +6445,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 63,
                 "StopPosition": {
-                    "PositionLon": 120.20709,
-                    "PositionLat": 22.99375,
-                    "GeoHash": "wsj6z3uhk"
+                    "PositionLon": 120.20723,
+                    "PositionLat": 22.99388,
+                    "GeoHash": "wsj6z3ujp"
                 },
                 "StationID": "286"
             },
@@ -6484,8 +6500,8 @@
                 "StationID": "9213"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10161",
@@ -6698,9 +6714,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 13,
                 "StopPosition": {
-                    "PositionLon": 120.19939,
-                    "PositionLat": 22.99497,
-                    "GeoHash": "wsj6z4ne2"
+                    "PositionLon": 120.19942,
+                    "PositionLat": 22.99511,
+                    "GeoHash": "wsj6z4ns1"
                 },
                 "StationID": "9206"
             },
@@ -6842,9 +6858,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 22,
                 "StopPosition": {
-                    "PositionLon": 120.21023,
-                    "PositionLat": 23.00642,
-                    "GeoHash": "wsj6zknqj"
+                    "PositionLon": 120.21036,
+                    "PositionLat": 23.00588,
+                    "GeoHash": "wsj6zkndb"
                 },
                 "StationID": "9214"
             },
@@ -6922,11 +6938,11 @@
                 "StopBoarding": 0,
                 "StopSequence": 27,
                 "StopPosition": {
-                    "PositionLon": 120.21615,
-                    "PositionLat": 23.01041,
-                    "GeoHash": "wsj6zsftr"
+                    "PositionLon": 120.21626,
+                    "PositionLat": 23.01039,
+                    "GeoHash": "wsj6zsfv1"
                 },
-                "StationID": "9295"
+                "StationID": "9291"
             },
             {
                 "StopUID": "TNN11107",
@@ -6938,9 +6954,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 28,
                 "StopPosition": {
-                    "PositionLon": 120.21671,
-                    "PositionLat": 23.01202,
-                    "GeoHash": "wsj6zt5ns"
+                    "PositionLon": 120.21674,
+                    "PositionLat": 23.01201,
+                    "GeoHash": "wsj6zt5nt"
                 },
                 "StationID": "9296"
             },
@@ -6954,9 +6970,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 29,
                 "StopPosition": {
-                    "PositionLon": 120.21544,
-                    "PositionLat": 23.01299,
-                    "GeoHash": "wsj6zt6hq"
+                    "PositionLon": 120.21545,
+                    "PositionLat": 23.01303,
+                    "GeoHash": "wsj6zt6hx"
                 },
                 "StationID": "9297"
             },
@@ -7498,9 +7514,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 63,
                 "StopPosition": {
-                    "PositionLon": 120.21763,
-                    "PositionLat": 23.06972,
-                    "GeoHash": "wsj7pxeyc"
+                    "PositionLon": 120.21794,
+                    "PositionLat": 23.06968,
+                    "GeoHash": "wsj7pxsn9"
                 },
                 "StationID": "9239"
             },
@@ -7515,8 +7531,8 @@
                 "StopSequence": 64,
                 "StopPosition": {
                     "PositionLon": 120.21932,
-                    "PositionLat": 23.06962,
-                    "GeoHash": "wsj7pxtn3"
+                    "PositionLat": 23.06971,
+                    "GeoHash": "wsj7pxtnc"
                 },
                 "StationID": "9240"
             },
@@ -7681,8 +7697,8 @@
                 "StationID": "2865"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10161",
@@ -8471,11 +8487,11 @@
                 "StopBoarding": 0,
                 "StopSequence": 49,
                 "StopPosition": {
-                    "PositionLon": 120.21626,
-                    "PositionLat": 23.01039,
-                    "GeoHash": "wsj6zsfv1"
+                    "PositionLon": 120.21615,
+                    "PositionLat": 23.01041,
+                    "GeoHash": "wsj6zsftr"
                 },
-                "StationID": "9291"
+                "StationID": "9295"
             },
             {
                 "StopUID": "TNN11112",
@@ -8862,8 +8878,8 @@
                 "StationID": "8594"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10162",
@@ -10283,8 +10299,8 @@
                 "StationID": "250"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10162",
@@ -10417,9 +10433,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 8,
                 "StopPosition": {
-                    "PositionLon": 120.16189,
-                    "PositionLat": 22.98941,
-                    "GeoHash": "wsj6y355n"
+                    "PositionLon": 120.16198,
+                    "PositionLat": 22.98949,
+                    "GeoHash": "wsj6y3573"
                 },
                 "StationID": "1413"
             },
@@ -11217,9 +11233,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 58,
                 "StopPosition": {
-                    "PositionLon": 120.20709,
-                    "PositionLat": 22.99375,
-                    "GeoHash": "wsj6z3uhk"
+                    "PositionLon": 120.20723,
+                    "PositionLat": 22.99388,
+                    "GeoHash": "wsj6z3ujp"
                 },
                 "StationID": "286"
             },
@@ -11704,8 +11720,8 @@
                 "StationID": "299"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10163",
@@ -12789,8 +12805,8 @@
                 "StationID": "435"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10163",
@@ -13826,8 +13842,8 @@
                 "StationID": "343"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10164",
@@ -14911,8 +14927,8 @@
                 "StationID": "8699"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10164",
@@ -15541,9 +15557,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 39,
                 "StopPosition": {
-                    "PositionLon": 120.19939,
-                    "PositionLat": 22.99497,
-                    "GeoHash": "wsj6z4ne2"
+                    "PositionLon": 120.19942,
+                    "PositionLat": 22.99511,
+                    "GeoHash": "wsj6z4ns1"
                 },
                 "StationID": "9206"
             },
@@ -15813,9 +15829,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 56,
                 "StopPosition": {
-                    "PositionLon": 120.21951,
-                    "PositionLat": 23.02471,
-                    "GeoHash": "wsj6zxt0t"
+                    "PositionLon": 120.21957,
+                    "PositionLat": 23.02474,
+                    "GeoHash": "wsj6zxt0z"
                 },
                 "StationID": "554"
             },
@@ -15829,9 +15845,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 57,
                 "StopPosition": {
-                    "PositionLon": 120.22141,
-                    "PositionLat": 23.02644,
-                    "GeoHash": "wsj6zxyd9"
+                    "PositionLon": 120.22147,
+                    "PositionLat": 23.02648,
+                    "GeoHash": "wsj6zxydg"
                 },
                 "StationID": "555"
             },
@@ -15893,9 +15909,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 61,
                 "StopPosition": {
-                    "PositionLon": 120.23016,
-                    "PositionLat": 23.03501,
-                    "GeoHash": "wsj7pckut"
+                    "PositionLon": 120.23026,
+                    "PositionLat": 23.03508,
+                    "GeoHash": "wsj7pcmj0"
                 },
                 "StationID": "559"
             },
@@ -16028,8 +16044,8 @@
                 "StationID": "2865"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10165",
@@ -17081,8 +17097,8 @@
                 "StationID": "600"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10165",
@@ -17663,9 +17679,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 36,
                 "StopPosition": {
-                    "PositionLon": 120.20709,
-                    "PositionLat": 22.99375,
-                    "GeoHash": "wsj6z3uhk"
+                    "PositionLon": 120.20723,
+                    "PositionLat": 22.99388,
+                    "GeoHash": "wsj6z3ujp"
                 },
                 "StationID": "286"
             },
@@ -18134,8 +18150,8 @@
                 "StationID": "2911"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10166",
@@ -18300,9 +18316,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 10,
                 "StopPosition": {
-                    "PositionLon": 120.19939,
-                    "PositionLat": 22.99497,
-                    "GeoHash": "wsj6z4ne2"
+                    "PositionLon": 120.19942,
+                    "PositionLat": 22.99511,
+                    "GeoHash": "wsj6z4ns1"
                 },
                 "StationID": "9206"
             },
@@ -18380,9 +18396,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 15,
                 "StopPosition": {
-                    "PositionLon": 120.20687,
-                    "PositionLat": 23.00782,
-                    "GeoHash": "wsj6zk7yr"
+                    "PositionLon": 120.20698,
+                    "PositionLat": 23.00794,
+                    "GeoHash": "wsj6zkknc"
                 },
                 "StationID": "769"
             },
@@ -18492,9 +18508,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 22,
                 "StopPosition": {
-                    "PositionLon": 120.20471,
-                    "PositionLat": 23.03042,
-                    "GeoHash": "wsj7p2d3u"
+                    "PositionLon": 120.20461,
+                    "PositionLat": 23.03051,
+                    "GeoHash": "wsj7p2d66"
                 },
                 "StationID": "712"
             },
@@ -18508,9 +18524,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 23,
                 "StopPosition": {
-                    "PositionLon": 120.20271,
-                    "PositionLat": 23.03783,
-                    "GeoHash": "wsj7p3bvn"
+                    "PositionLon": 120.20267,
+                    "PositionLat": 23.03773,
+                    "GeoHash": "wsj7p3but"
                 },
                 "StationID": "713"
             },
@@ -18524,9 +18540,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 24,
                 "StopPosition": {
-                    "PositionLon": 120.20142,
-                    "PositionLat": 23.03973,
-                    "GeoHash": "wsj7p6200"
+                    "PositionLon": 120.20131,
+                    "PositionLat": 23.03971,
+                    "GeoHash": "wsj7p4rbj"
                 },
                 "StationID": "714"
             },
@@ -18540,9 +18556,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 25,
                 "StopPosition": {
-                    "PositionLon": 120.19869,
-                    "PositionLat": 23.04129,
-                    "GeoHash": "wsj7p4w10"
+                    "PositionLon": 120.19872,
+                    "PositionLat": 23.04122,
+                    "GeoHash": "wsj7p4w0c"
                 },
                 "StationID": "715"
             },
@@ -18556,9 +18572,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 26,
                 "StopPosition": {
-                    "PositionLon": 120.19688,
-                    "PositionLat": 23.04231,
-                    "GeoHash": "wsj7p4sxn"
+                    "PositionLon": 120.19678,
+                    "PositionLat": 23.04237,
+                    "GeoHash": "wsj7p4sxe"
                 },
                 "StationID": "716"
             },
@@ -18732,9 +18748,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 37,
                 "StopPosition": {
-                    "PositionLon": 120.17784,
-                    "PositionLat": 23.05418,
-                    "GeoHash": "wsj7nsyu6"
+                    "PositionLon": 120.17775,
+                    "PositionLat": 23.05432,
+                    "GeoHash": "wsj7nsyv0"
                 },
                 "StationID": "722"
             },
@@ -18780,9 +18796,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 40,
                 "StopPosition": {
-                    "PositionLon": 120.17595,
-                    "PositionLat": 23.06697,
-                    "GeoHash": "wsj7nxjqy"
+                    "PositionLon": 120.17589,
+                    "PositionLat": 23.06681,
+                    "GeoHash": "wsj7nxjmv"
                 },
                 "StationID": "725"
             },
@@ -18797,8 +18813,8 @@
                 "StopSequence": 41,
                 "StopPosition": {
                     "PositionLon": 120.17523,
-                    "PositionLat": 23.06637,
-                    "GeoHash": "wsj7nxhgm"
+                    "PositionLat": 23.06631,
+                    "GeoHash": "wsj7nxhfv"
                 },
                 "StationID": "726"
             },
@@ -18947,8 +18963,8 @@
                 "StationID": "700"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10166",
@@ -19673,9 +19689,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 45,
                 "StopPosition": {
-                    "PositionLon": 120.20709,
-                    "PositionLat": 22.99375,
-                    "GeoHash": "wsj6z3uhk"
+                    "PositionLon": 120.20723,
+                    "PositionLat": 22.99388,
+                    "GeoHash": "wsj6z3ujp"
                 },
                 "StationID": "286"
             },
@@ -19760,8 +19776,8 @@
                 "StationID": "419"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10169",
@@ -19942,9 +19958,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 11,
                 "StopPosition": {
-                    "PositionLon": 120.20709,
-                    "PositionLat": 22.99375,
-                    "GeoHash": "wsj6z3uhk"
+                    "PositionLon": 120.20723,
+                    "PositionLat": 22.99388,
+                    "GeoHash": "wsj6z3ujp"
                 },
                 "StationID": "286"
             },
@@ -20054,9 +20070,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 18,
                 "StopPosition": {
-                    "PositionLon": 120.20687,
-                    "PositionLat": 23.00782,
-                    "GeoHash": "wsj6zk7yr"
+                    "PositionLon": 120.20698,
+                    "PositionLat": 23.00794,
+                    "GeoHash": "wsj6zkknc"
                 },
                 "StationID": "769"
             },
@@ -20166,9 +20182,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 25,
                 "StopPosition": {
-                    "PositionLon": 120.20471,
-                    "PositionLat": 23.03042,
-                    "GeoHash": "wsj7p2d3u"
+                    "PositionLon": 120.20461,
+                    "PositionLat": 23.03051,
+                    "GeoHash": "wsj7p2d66"
                 },
                 "StationID": "712"
             },
@@ -20182,9 +20198,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 26,
                 "StopPosition": {
-                    "PositionLon": 120.20271,
-                    "PositionLat": 23.03783,
-                    "GeoHash": "wsj7p3bvn"
+                    "PositionLon": 120.20267,
+                    "PositionLat": 23.03773,
+                    "GeoHash": "wsj7p3but"
                 },
                 "StationID": "713"
             },
@@ -20198,9 +20214,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 27,
                 "StopPosition": {
-                    "PositionLon": 120.20142,
-                    "PositionLat": 23.03973,
-                    "GeoHash": "wsj7p6200"
+                    "PositionLon": 120.20131,
+                    "PositionLat": 23.03971,
+                    "GeoHash": "wsj7p4rbj"
                 },
                 "StationID": "714"
             },
@@ -20214,9 +20230,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 28,
                 "StopPosition": {
-                    "PositionLon": 120.19869,
-                    "PositionLat": 23.04129,
-                    "GeoHash": "wsj7p4w10"
+                    "PositionLon": 120.19872,
+                    "PositionLat": 23.04122,
+                    "GeoHash": "wsj7p4w0c"
                 },
                 "StationID": "715"
             },
@@ -20230,9 +20246,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 29,
                 "StopPosition": {
-                    "PositionLon": 120.19688,
-                    "PositionLat": 23.04231,
-                    "GeoHash": "wsj7p4sxn"
+                    "PositionLon": 120.19678,
+                    "PositionLat": 23.04237,
+                    "GeoHash": "wsj7p4sxe"
                 },
                 "StationID": "716"
             },
@@ -20454,8 +20470,8 @@
                 "StopBoarding": 0,
                 "StopSequence": 43,
                 "StopPosition": {
-                    "PositionLon": 120.15046,
-                    "PositionLat": 23.05774,
+                    "PositionLon": 120.15045,
+                    "PositionLat": 23.05777,
                     "GeoHash": "wsj7njdch"
                 },
                 "StationID": "1122"
@@ -20765,8 +20781,8 @@
                 "StationID": "1138"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10169",
@@ -21754,8 +21770,8 @@
                 "StationID": "2666"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10170",
@@ -21840,9 +21856,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 5,
                 "StopPosition": {
-                    "PositionLon": 120.20414,
-                    "PositionLat": 22.99467,
-                    "GeoHash": "wsj6z61cx"
+                    "PositionLon": 120.20407,
+                    "PositionLat": 22.99476,
+                    "GeoHash": "wsj6z61fj"
                 },
                 "StationID": "1401"
             },
@@ -22064,9 +22080,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 19,
                 "StopPosition": {
-                    "PositionLon": 120.16821,
-                    "PositionLat": 22.99416,
-                    "GeoHash": "wsj6y3zyd"
+                    "PositionLon": 120.16816,
+                    "PositionLat": 22.99404,
+                    "GeoHash": "wsj6y3zvc"
                 },
                 "StationID": "1429"
             },
@@ -22144,9 +22160,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 24,
                 "StopPosition": {
-                    "PositionLon": 120.16189,
-                    "PositionLat": 22.98941,
-                    "GeoHash": "wsj6y355n"
+                    "PositionLon": 120.16198,
+                    "PositionLat": 22.98949,
+                    "GeoHash": "wsj6y3573"
                 },
                 "StationID": "1413"
             },
@@ -22160,9 +22176,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 25,
                 "StopPosition": {
-                    "PositionLon": 120.16664,
-                    "PositionLat": 22.98922,
-                    "GeoHash": "wsj6y3n9v"
+                    "PositionLon": 120.16659,
+                    "PositionLat": 22.98932,
+                    "GeoHash": "wsj6y3ndk"
                 },
                 "StationID": "1414"
             },
@@ -22176,9 +22192,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 26,
                 "StopPosition": {
-                    "PositionLon": 120.16639,
-                    "PositionLat": 22.98708,
-                    "GeoHash": "wsj6y2wmr"
+                    "PositionLon": 120.16634,
+                    "PositionLat": 22.98686,
+                    "GeoHash": "wsj6y2wkn"
                 },
                 "StationID": "2091"
             },
@@ -22192,9 +22208,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 27,
                 "StopPosition": {
-                    "PositionLon": 120.16796,
-                    "PositionLat": 22.98468,
-                    "GeoHash": "wsj6y2pxk"
+                    "PositionLon": 120.16849,
+                    "PositionLat": 22.98454,
+                    "GeoHash": "wsj6y80n8"
                 },
                 "StationID": "2054"
             },
@@ -22208,9 +22224,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 28,
                 "StopPosition": {
-                    "PositionLon": 120.17227,
-                    "PositionLat": 22.98387,
-                    "GeoHash": "wsj6y84f8"
+                    "PositionLon": 120.17208,
+                    "PositionLat": 22.98395,
+                    "GeoHash": "wsj6y84eh"
                 },
                 "StationID": "1416"
             },
@@ -22247,8 +22263,8 @@
                 "StationID": "2722"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10170",
@@ -22621,9 +22637,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 23,
                 "StopPosition": {
-                    "PositionLon": 120.19939,
-                    "PositionLat": 22.99497,
-                    "GeoHash": "wsj6z4ne2"
+                    "PositionLon": 120.19942,
+                    "PositionLat": 22.99511,
+                    "GeoHash": "wsj6z4ns1"
                 },
                 "StationID": "9206"
             },
@@ -22653,9 +22669,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 25,
                 "StopPosition": {
-                    "PositionLon": 120.20709,
-                    "PositionLat": 22.99375,
-                    "GeoHash": "wsj6z3uhk"
+                    "PositionLon": 120.20723,
+                    "PositionLat": 22.99388,
+                    "GeoHash": "wsj6z3ujp"
                 },
                 "StationID": "286"
             },
@@ -22692,8 +22708,8 @@
                 "StationID": "9274"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN1020",
@@ -23306,9 +23322,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 38,
                 "StopPosition": {
-                    "PositionLon": 120.24025,
-                    "PositionLat": 23.04655,
-                    "GeoHash": "wsje05krb"
+                    "PositionLon": 120.24019,
+                    "PositionLat": 23.04657,
+                    "GeoHash": "wsje05s0p"
                 },
                 "StationID": "2451"
             },
@@ -23441,8 +23457,8 @@
                 "StationID": "9301"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN1020",
@@ -24206,8 +24222,8 @@
                 "StationID": "665"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10262",
@@ -24395,8 +24411,8 @@
                 "StationID": "3106"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10262",
@@ -24600,8 +24616,8 @@
                 "StationID": "1431"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10265",
@@ -25029,8 +25045,8 @@
                 "StationID": "3106"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     },
     {
         "RouteUID": "TNN10265",
@@ -25458,7 +25474,7 @@
                 "StationID": "9040"
             }
         ],
-        "UpdateTime": "2025-11-02T08:07:42+08:00",
-        "VersionID": 9143
+        "UpdateTime": "2025-11-09T09:07:38+08:00",
+        "VersionID": 9183
     }
 ]

@@ -66,8 +66,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0981.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "TTT0982",
@@ -122,78 +122,6 @@
                 "DepartureStopNameEn": "Fugang Fishing Harbor",
                 "DestinationStopNameZh": "臺東火車站",
                 "DestinationStopNameEn": "Taitung Railway Station"
-            },
-            {
-                "SubRouteUID": "TTT0982A1",
-                "SubRouteID": "0982A1",
-                "OperatorIDs": [
-                    "75"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "陸海空線A",
-                    "En": "陸海空線A"
-                },
-                "Headsign": "陸海空線【臺東火車站→小野柳】",
-                "HeadsignEn": "Land, sea and air line[Taitung train station→Xiaoyeliu]",
-                "Direction": 0,
-                "DepartureStopNameZh": "臺東火車站",
-                "DepartureStopNameEn": "Taitung Railway Station",
-                "DestinationStopNameZh": "富岡港口",
-                "DestinationStopNameEn": "Fugang Fishing Harbor"
-            },
-            {
-                "SubRouteUID": "TTT0982A2",
-                "SubRouteID": "0982A2",
-                "OperatorIDs": [
-                    "75"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "陸海空線A",
-                    "En": "陸海空線A"
-                },
-                "Headsign": "陸海空線【小野柳→臺東火車站】",
-                "HeadsignEn": "Land, sea and air line[Xiaoyeliu→Taitung train station]",
-                "Direction": 1,
-                "DepartureStopNameZh": "富岡港口",
-                "DepartureStopNameEn": "Fugang Fishing Harbor",
-                "DestinationStopNameZh": "臺東火車站",
-                "DestinationStopNameEn": "Taitung Railway Station"
-            },
-            {
-                "SubRouteUID": "TTT0982B1",
-                "SubRouteID": "0982B1",
-                "OperatorIDs": [
-                    "75"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "陸海空線B",
-                    "En": "陸海空線B"
-                },
-                "Headsign": "陸海空線【臺東火車站→臺東轉運站】",
-                "HeadsignEn": "Land, sea and air line[Taitung train station→Taitung bus station]",
-                "Direction": 0,
-                "DepartureStopNameZh": "臺東火車站",
-                "DepartureStopNameEn": "Taitung Railway Station",
-                "DestinationStopNameZh": "臺東轉運站",
-                "DestinationStopNameEn": "Taitung Bus Station"
-            },
-            {
-                "SubRouteUID": "TTT0982B2",
-                "SubRouteID": "0982B2",
-                "OperatorIDs": [
-                    "75"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "陸海空線B",
-                    "En": "陸海空線B"
-                },
-                "Headsign": "陸海空線【臺東轉運站→臺東火車站】",
-                "HeadsignEn": "Land, sea and air line[Taitung bus station→Taitung train station]",
-                "Direction": 1,
-                "DepartureStopNameZh": "臺東轉運站",
-                "DepartureStopNameEn": "Taitung Bus Station",
-                "DestinationStopNameZh": "臺東火車站",
-                "DestinationStopNameEn": "Taitung Railway Station"
             }
         ],
         "BusRouteType": 11,
@@ -208,8 +136,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0982.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "TTT0984",
@@ -278,8 +206,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0984.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     },
     {
         "RouteUID": "TTT0985",
@@ -348,7 +276,7 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0985.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-11-02T03:09:31+08:00",
-        "VersionID": 5925
+        "UpdateTime": "2025-11-09T10:29:54+08:00",
+        "VersionID": 5965
     }
 ]
