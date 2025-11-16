@@ -66,8 +66,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0981.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-11-09T10:29:54+08:00",
-        "VersionID": 5965
+        "UpdateTime": "2025-11-16T09:29:33+08:00",
+        "VersionID": 6004
     },
     {
         "RouteUID": "TTT0982",
@@ -98,11 +98,11 @@
                     "En": "201"
                 },
                 "Headsign": "201【臺東火車站→富岡漁港】",
-                "HeadsignEn": "201 [Taitung train station→Fugang Fishing Harbor]",
+                "HeadsignEn": "201 [Taitung Railway station→Fugang Fishing Harbor]",
                 "Direction": 0,
                 "DepartureStopNameZh": "臺東火車站",
                 "DepartureStopNameEn": "Taitung Railway Station",
-                "DestinationStopNameZh": "富岡港口",
+                "DestinationStopNameZh": "富岡漁港",
                 "DestinationStopNameEn": "Fugang Fishing Harbor"
             },
             {
@@ -116,9 +116,9 @@
                     "En": "201"
                 },
                 "Headsign": "201【富岡漁港→臺東火車站】",
-                "HeadsignEn": "201 [Fugang Fishing Harbor→Taitung train station]",
+                "HeadsignEn": "201 [Fugang Fishing Harbor→Taitung Railway station]",
                 "Direction": 1,
-                "DepartureStopNameZh": "富岡港口",
+                "DepartureStopNameZh": "富岡漁港",
                 "DepartureStopNameEn": "Fugang Fishing Harbor",
                 "DestinationStopNameZh": "臺東火車站",
                 "DestinationStopNameEn": "Taitung Railway Station"
@@ -131,13 +131,13 @@
         },
         "DepartureStopNameZh": "臺東火車站",
         "DepartureStopNameEn": "Taitung Railway Station",
-        "DestinationStopNameZh": "富岡港口",
+        "DestinationStopNameZh": "富岡漁港",
         "DestinationStopNameEn": "Fugang Fishing Harbor",
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0982.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-11-09T10:29:54+08:00",
-        "VersionID": 5965
+        "UpdateTime": "2025-11-16T09:29:33+08:00",
+        "VersionID": 6004
     },
     {
         "RouteUID": "TTT0984",
@@ -168,7 +168,7 @@
                     "En": "203"
                 },
                 "Headsign": "203【臺東火車站→臺東轉運站】",
-                "HeadsignEn": "203 [Taitung train station→Taitung bus station]",
+                "HeadsignEn": "203 [Taitung Railway station→Taitung bus station]",
                 "Direction": 0,
                 "DepartureStopNameZh": "臺東火車站",
                 "DepartureStopNameEn": "Taitung Railway Station",
@@ -186,7 +186,7 @@
                     "En": "203"
                 },
                 "Headsign": "203【臺東轉運站→臺東火車站】",
-                "HeadsignEn": "203 [Taitung bus station→Taitung train station]",
+                "HeadsignEn": "203 [Taitung bus station→Taitung Railway station]",
                 "Direction": 1,
                 "DepartureStopNameZh": "臺東轉運站",
                 "DepartureStopNameEn": "Taitung Bus Station",
@@ -206,8 +206,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0984.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-11-09T10:29:54+08:00",
-        "VersionID": 5965
+        "UpdateTime": "2025-11-16T09:29:33+08:00",
+        "VersionID": 6004
     },
     {
         "RouteUID": "TTT0985",
@@ -238,7 +238,7 @@
                     "En": "202"
                 },
                 "Headsign": "202【臺東火車站→臺東轉運站】",
-                "HeadsignEn": "202 [Taitung train station→Taitung bus station]",
+                "HeadsignEn": "202 [Taitung Railway station→Taitung bus station]",
                 "Direction": 0,
                 "DepartureStopNameZh": "臺東火車站",
                 "DepartureStopNameEn": "Taitung Railway Station",
@@ -256,7 +256,7 @@
                     "En": "202"
                 },
                 "Headsign": "202【臺東轉運站→臺東火車站】",
-                "HeadsignEn": "202 [Taitung bus station→Taitung train station]",
+                "HeadsignEn": "202 [Taitung bus station→Taitung Railway station]",
                 "Direction": 1,
                 "DepartureStopNameZh": "臺東轉運站",
                 "DepartureStopNameEn": "Taitung Bus Station",
@@ -276,7 +276,7 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0985.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-11-09T10:29:54+08:00",
-        "VersionID": 5965
+        "UpdateTime": "2025-11-16T09:29:33+08:00",
+        "VersionID": 6004
     }
 ]
