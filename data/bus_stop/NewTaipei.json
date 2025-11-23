@@ -681,8 +681,8 @@
                 "StationID": "1780"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10116",
@@ -1318,8 +1318,8 @@
                 "StationID": "1165610480"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10143",
@@ -2083,8 +2083,8 @@
                 "StationID": "3916"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10143",
@@ -2848,8 +2848,8 @@
                 "StationID": "72232"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10148",
@@ -3393,7 +3393,7 @@
                 "StopID": "33932",
                 "StopName": {
                     "Zh_tw": "中山路口",
-                    "En": "Zhongshan Rd. Intersection"
+                    "En": "Zhongshan Rd. Entrance"
                 },
                 "StopBoarding": -1,
                 "StopSequence": 34,
@@ -3629,8 +3629,8 @@
                 "StationID": "2650"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10148",
@@ -3854,7 +3854,7 @@
                 "StopID": "33988",
                 "StopName": {
                     "Zh_tw": "中山路口",
-                    "En": "Zhongshan Rd. Intersection"
+                    "En": "Zhongshan Rd. Entrance"
                 },
                 "StopBoarding": -1,
                 "StopSequence": 14,
@@ -4474,8 +4474,8 @@
                 "StationID": "72699"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10149",
@@ -4843,7 +4843,7 @@
                 "StopID": "194191",
                 "StopName": {
                     "Zh_tw": "光華街口",
-                    "En": "Guanghua St. Intersection"
+                    "En": "Guanghua St. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 23,
@@ -5351,8 +5351,8 @@
                 "StationID": "1780"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10149",
@@ -5832,7 +5832,7 @@
                 "StopID": "194192",
                 "StopName": {
                     "Zh_tw": "光華街口",
-                    "En": "Guanghua St. Intersection"
+                    "En": "Guanghua St. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 30,
@@ -6196,8 +6196,8 @@
                 "StationID": "72226"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10151",
@@ -6725,7 +6725,7 @@
                 "StopID": "34172",
                 "StopName": {
                     "Zh_tw": "中山路口",
-                    "En": "Zhongshan Rd. Intersection"
+                    "En": "Zhongshan Rd. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 33,
@@ -7201,8 +7201,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10151",
@@ -7634,7 +7634,7 @@
                 "StopID": "34227",
                 "StopName": {
                     "Zh_tw": "中山路口",
-                    "En": "Zhongshan Rd. Intersection"
+                    "En": "Zhongshan Rd. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 27,
@@ -8158,8 +8158,8 @@
                 "StationID": "73162"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10161",
@@ -8763,8 +8763,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10161",
@@ -9352,8 +9352,8 @@
                 "StationID": "72611"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10162",
@@ -10117,8 +10117,8 @@
                 "StationID": "1994"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10162",
@@ -10786,8 +10786,8 @@
                 "StationID": "72611"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10163",
@@ -11503,8 +11503,8 @@
                 "StationID": "1994"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10163",
@@ -12140,8 +12140,8 @@
                 "StationID": "72611"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10164",
@@ -13065,8 +13065,8 @@
                 "StationID": "1165603214"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10164",
@@ -13686,8 +13686,8 @@
                 "StationID": "72611"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10171",
@@ -14131,8 +14131,8 @@
                 "StationID": "1000242"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10171",
@@ -14528,8 +14528,8 @@
                 "StationID": "72510"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10172",
@@ -14957,8 +14957,8 @@
                 "StationID": "1000067"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10172",
@@ -15434,8 +15434,8 @@
                 "StationID": "72510"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10173",
@@ -16215,8 +16215,8 @@
                 "StationID": "2002"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10173",
@@ -17124,8 +17124,8 @@
                 "StationID": "72510"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10195",
@@ -18545,8 +18545,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10195",
@@ -19838,8 +19838,8 @@
                 "StationID": "72702"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10196",
@@ -20911,7 +20911,7 @@
                 "StopID": "35133",
                 "StopName": {
                     "Zh_tw": "中山路口",
-                    "En": "Zhongshan Rd. Intersection"
+                    "En": "Zhongshan Rd. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 67,
@@ -21067,8 +21067,8 @@
                 "StationID": "1000067"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10196",
@@ -21308,7 +21308,7 @@
                 "StopID": "35157",
                 "StopName": {
                     "Zh_tw": "中山路口",
-                    "En": "Zhongshan Rd. Intersection"
+                    "En": "Zhongshan Rd. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 15,
@@ -22344,8 +22344,8 @@
                 "StationID": "72702"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10281",
@@ -22473,7 +22473,7 @@
                 "StopID": "12633",
                 "StopName": {
                     "Zh_tw": "光華街口",
-                    "En": "Guanghua St. Intersection"
+                    "En": "Guanghua St. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 8,
@@ -22761,7 +22761,7 @@
                 "StopID": "12669",
                 "StopName": {
                     "Zh_tw": "新泰路口",
-                    "En": "Xintai Rd. Intersection"
+                    "En": "Xintai Rd. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 26,
@@ -23061,8 +23061,8 @@
                 "StationID": "1994"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     },
     {
         "RouteUID": "NWT10281",
@@ -23286,7 +23286,7 @@
                 "StopID": "12717",
                 "StopName": {
                     "Zh_tw": "新泰路口",
-                    "En": "Xintai Rd. Intersection"
+                    "En": "Xintai Rd. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 14,
@@ -23574,7 +23574,7 @@
                 "StopID": "12753",
                 "StopName": {
                     "Zh_tw": "光華街口",
-                    "En": "Guanghua St. Intersection"
+                    "En": "Guanghua St. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 32,
@@ -23714,7 +23714,7 @@
                 "StationID": "30017"
             }
         ],
-        "UpdateTime": "2025-11-16T07:27:53+08:00",
-        "VersionID": 6868
+        "UpdateTime": "2025-11-23T07:47:51+08:00",
+        "VersionID": 6907
     }
 ]

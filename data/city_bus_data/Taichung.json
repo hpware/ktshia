@@ -69,8 +69,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/1",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1000",
@@ -130,8 +130,8 @@
         "DestinationStopNameEn": "Taichung Station(Taiwan Boulevard)",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG101",
@@ -192,8 +192,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/101",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1010",
@@ -276,8 +276,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/156",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG105",
@@ -338,8 +338,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/105",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1051",
@@ -385,8 +385,8 @@
         "DestinationStopNameEn": "Sizhangli",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1052",
@@ -446,8 +446,8 @@
         "DestinationStopNameEn": "Long-Jin Senior High School",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG106",
@@ -508,8 +508,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/108",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG107",
@@ -570,8 +570,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/107",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1071",
@@ -632,8 +632,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/1071",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG108",
@@ -694,8 +694,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/108",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG11",
@@ -778,8 +778,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/11",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG12",
@@ -862,8 +862,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/12",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG121",
@@ -945,8 +945,8 @@
         "DestinationStopNameEn": "Fengyuan Zhenqing Temple",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG123",
@@ -1007,8 +1007,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/123",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG127",
@@ -1069,8 +1069,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/127",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1271",
@@ -1131,8 +1131,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/1271",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG128",
@@ -1193,8 +1193,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/128",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG129",
@@ -1241,8 +1241,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/129",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG131",
@@ -1303,8 +1303,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/131",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG132",
@@ -1365,8 +1365,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/132",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG133",
@@ -1427,8 +1427,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/133",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG14",
@@ -1489,8 +1489,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/14",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG141",
@@ -1551,8 +1551,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/141",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1411",
@@ -1613,8 +1613,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/1411",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG142",
@@ -1675,8 +1675,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/142",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG144",
@@ -1737,8 +1737,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/144",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG15",
@@ -1799,8 +1799,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/15",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG151",
@@ -1872,8 +1872,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/151",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1511",
@@ -1945,8 +1945,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/151",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG152",
@@ -2018,8 +2018,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/152",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1522",
@@ -2090,8 +2090,8 @@
         "DestinationStopNameEn": "Shepi Railway Ln.",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG153",
@@ -2152,8 +2152,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/153",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1533",
@@ -2214,8 +2214,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/1533",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG154",
@@ -2276,8 +2276,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/154",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1541",
@@ -2338,8 +2338,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/1541",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG155",
@@ -2411,8 +2411,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/155",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1551",
@@ -2484,8 +2484,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/1551",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG156",
@@ -2546,8 +2546,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/156",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG157",
@@ -2608,8 +2608,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/157",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1571",
@@ -2669,8 +2669,8 @@
         "DestinationStopNameEn": "Dingdian",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1572",
@@ -2730,8 +2730,8 @@
         "DestinationStopNameEn": "Dajia District Office",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG158",
@@ -2792,8 +2792,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/158",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG159",
@@ -2865,8 +2865,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/159",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG160",
@@ -2927,8 +2927,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/160",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1601",
@@ -2989,8 +2989,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/1601",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG161",
@@ -3051,8 +3051,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/161",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1611",
@@ -3113,8 +3113,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/1611",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG162",
@@ -3186,8 +3186,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/162",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG163",
@@ -3248,8 +3248,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/163",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG164",
@@ -3310,8 +3310,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/164",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG165",
@@ -3372,8 +3372,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/165",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG17",
@@ -3434,8 +3434,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/17",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG178",
@@ -3496,8 +3496,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/178",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG179",
@@ -3558,8 +3558,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/179",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG180",
@@ -3620,8 +3620,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/180",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG181",
@@ -3682,8 +3682,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/181",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1811",
@@ -3744,8 +3744,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/1811",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG1812",
@@ -3806,8 +3806,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/1812",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG182",
@@ -3868,8 +3868,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/182",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG183",
@@ -3930,8 +3930,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/183",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG185",
@@ -3992,8 +3992,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/185",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG186",
@@ -4054,8 +4054,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/186",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG19",
@@ -4116,8 +4116,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/19",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG20",
@@ -4189,8 +4189,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/20",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2000",
@@ -4250,8 +4250,8 @@
         "DestinationStopNameEn": "Shin-min Senior High School(Jianxing Road)",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2001",
@@ -4312,8 +4312,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/2001",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG202",
@@ -4374,8 +4374,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/202",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG203",
@@ -4436,8 +4436,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/203",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG206",
@@ -4498,8 +4498,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/206",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG207",
@@ -4560,8 +4560,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/207",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2071",
@@ -4621,8 +4621,8 @@
         "DestinationStopNameEn": "Guguan",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG208",
@@ -4683,8 +4683,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/208",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2081",
@@ -4730,8 +4730,8 @@
         "DestinationStopNameEn": "Jhuolan",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG209",
@@ -4792,8 +4792,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/209",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG21",
@@ -4854,8 +4854,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/21",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG211",
@@ -4916,8 +4916,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/211",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2111",
@@ -4978,8 +4978,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/611",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2112",
@@ -5040,8 +5040,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/211",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2113",
@@ -5101,8 +5101,8 @@
         "DestinationStopNameEn": "Xinzheng-Da` an Port Intersection",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG212",
@@ -5163,8 +5163,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/212",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG213",
@@ -5225,8 +5225,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/213",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG215",
@@ -5287,8 +5287,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/215",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG218",
@@ -5349,8 +5349,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/218",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG219",
@@ -5411,8 +5411,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/219",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG220",
@@ -5473,8 +5473,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/220",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG223",
@@ -5535,8 +5535,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/223",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG227",
@@ -5597,8 +5597,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/227",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG23",
@@ -5670,8 +5670,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/23",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG232",
@@ -5732,8 +5732,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/232",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG235",
@@ -5794,8 +5794,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/235",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG237",
@@ -5856,8 +5856,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/237",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2371",
@@ -5917,8 +5917,8 @@
         "DestinationStopNameEn": "Lishui",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG238",
@@ -5979,8 +5979,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/238",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG239",
@@ -6041,8 +6041,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/239",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG241",
@@ -6113,8 +6113,8 @@
         "DestinationStopNameEn": "Jixing Community",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG242",
@@ -6186,8 +6186,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/242",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG243",
@@ -6248,8 +6248,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/243",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG245",
@@ -6309,8 +6309,8 @@
         "DestinationStopNameEn": "Asia University Hospital",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2451",
@@ -6370,8 +6370,8 @@
         "DestinationStopNameEn": "Asia University Hospital",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG246",
@@ -6431,8 +6431,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/246",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2461",
@@ -6491,8 +6491,8 @@
         "DestinationStopNameEn": "Jixing Community",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG248",
@@ -6553,8 +6553,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/248",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG249",
@@ -6615,8 +6615,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/249",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG25",
@@ -6688,8 +6688,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/25",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG250",
@@ -6750,8 +6750,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/250",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2501",
@@ -6810,8 +6810,8 @@
         "DestinationStopNameEn": "Gonglaopingding",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2502",
@@ -6870,8 +6870,8 @@
         "DestinationStopNameEn": "Minan",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2503",
@@ -6930,8 +6930,8 @@
         "DestinationStopNameEn": "Qiedongliao",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2504",
@@ -6990,8 +6990,8 @@
         "DestinationStopNameEn": "Fengyuan Hospital",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2505",
@@ -7050,8 +7050,8 @@
         "DestinationStopNameEn": "Huangzhu Village",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2506",
@@ -7110,8 +7110,8 @@
         "DestinationStopNameEn": "Qingtonglin Ecological Industrial Park",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2507",
@@ -7170,8 +7170,68 @@
         "DestinationStopNameEn": "Elephant Trunk Bridge",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG2508",
+        "RouteID": "2508",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "8102",
+                "OperatorName": {
+                    "Zh_tw": "怡美車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG2508",
+                "SubRouteID": "2508",
+                "OperatorIDs": [
+                    "8102"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃8",
+                    "En": "Yellow 8"
+                },
+                "Headsign": "霧峰郵局 - 喀哩",
+                "HeadsignEn": "Wufeng Post Office - Kali",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG2508",
+                "SubRouteID": "2508",
+                "OperatorIDs": [
+                    "8102"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃8",
+                    "En": "Yellow 8"
+                },
+                "Headsign": "霧峰郵局 - 喀哩",
+                "HeadsignEn": "Wufeng Post Office - Kali",
+                "Direction": 1
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "黃8",
+            "En": "Yellow 8"
+        },
+        "DepartureStopNameZh": "霧峰郵局",
+        "DepartureStopNameEn": "Wufeng Post Office",
+        "DestinationStopNameZh": "喀哩",
+        "DestinationStopNameEn": "Kali",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2509",
@@ -7230,8 +7290,8 @@
         "DestinationStopNameEn": "Fumin Elementary School",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG251",
@@ -7292,8 +7352,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/251",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2510",
@@ -7352,8 +7412,8 @@
         "DestinationStopNameEn": "Tanzi Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2511",
@@ -7412,13 +7472,13 @@
         "DestinationStopNameEn": "Lishui",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2512",
         "RouteID": "2512",
-        "HasSubRoutes": false,
+        "HasSubRoutes": true,
         "Operators": [
             {
                 "OperatorID": "8103",
@@ -7445,6 +7505,20 @@
                 "Headsign": "南庄 - 大甲車站(中山路)",
                 "HeadsignEn": "Nanzhuang - Dajia Station(Zhongshan Rd.)",
                 "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG2512",
+                "SubRouteID": "2512",
+                "OperatorIDs": [
+                    "8103"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃12",
+                    "En": "Yellow 12"
+                },
+                "Headsign": "南庄 - 大甲車站(中山路)",
+                "HeadsignEn": "Nanzhuang - Dajia Station(Zhongshan Rd.)",
+                "Direction": 1
             }
         ],
         "BusRouteType": 11,
@@ -7458,8 +7532,8 @@
         "DestinationStopNameEn": "Dajia Station(Zhongshan Rd.)",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2513",
@@ -7518,8 +7592,8 @@
         "DestinationStopNameEn": "Qingshui",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2514",
@@ -7578,8 +7652,8 @@
         "DestinationStopNameEn": "Qingshui Station(Zhongzheng Street)",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2515",
@@ -7638,8 +7712,8 @@
         "DestinationStopNameEn": "Shalu Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2516",
@@ -7698,8 +7772,8 @@
         "DestinationStopNameEn": "Changfu Bridge (Yongfeng)",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2517",
@@ -7758,8 +7832,8 @@
         "DestinationStopNameEn": "Shigang District Office",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG25171",
@@ -7818,8 +7892,8 @@
         "DestinationStopNameEn": "Kuensan",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2518",
@@ -7878,8 +7952,8 @@
         "DestinationStopNameEn": "Houli Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2519",
@@ -7938,8 +8012,8 @@
         "DestinationStopNameEn": "Waipu",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG252",
@@ -8000,8 +8074,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/252",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2520",
@@ -8060,8 +8134,8 @@
         "DestinationStopNameEn": "Shalu Kuang Tien General Hospital",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2523",
@@ -8120,8 +8194,8 @@
         "DestinationStopNameEn": "Zhuifen Post Office",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2524",
@@ -8180,8 +8254,68 @@
         "DestinationStopNameEn": "Daya",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG2525",
+        "RouteID": "2525",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "8103",
+                "OperatorName": {
+                    "Zh_tw": "台灣大車隊"
+                },
+                "OperatorCode": "",
+                "OperatorNo": ""
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG2525",
+                "SubRouteID": "2525",
+                "OperatorIDs": [
+                    "8103"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃23",
+                    "En": "Yellow 23"
+                },
+                "Headsign": "中庄-大甲車站(中山路)",
+                "HeadsignEn": "Zhongzhuang-Dajia Station(Zhongshan Road)",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG2525",
+                "SubRouteID": "2525",
+                "OperatorIDs": [
+                    "8103"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃23",
+                    "En": "Yellow 23"
+                },
+                "Headsign": "中庄-大甲車站(中山路)",
+                "HeadsignEn": "Zhongzhuang-Dajia Station(Zhongshan Road)",
+                "Direction": 1
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "黃23",
+            "En": "Yellow 23"
+        },
+        "DepartureStopNameZh": "中庄",
+        "DepartureStopNameEn": "Zhongzhuang",
+        "DestinationStopNameZh": "大甲車站(中山路)",
+        "DestinationStopNameEn": "Dajia Station(Zhongshan Road)",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2526",
@@ -8240,8 +8374,8 @@
         "DestinationStopNameEn": "Longjing Station (Longxin Road)",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2527",
@@ -8300,8 +8434,8 @@
         "DestinationStopNameEn": "Xiwei Elementary School",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2528",
@@ -8360,8 +8494,8 @@
         "DestinationStopNameEn": "Feng Chia Elementary School",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2529",
@@ -8420,8 +8554,8 @@
         "DestinationStopNameEn": "Ziqiang-Baoning Intersection",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG253",
@@ -8482,8 +8616,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/253",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG258",
@@ -8544,8 +8678,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/258",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2581",
@@ -8605,8 +8739,8 @@
         "DestinationStopNameEn": "Zhuolan",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG26",
@@ -8667,8 +8801,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/26",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG260",
@@ -8729,8 +8863,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/260",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG261",
@@ -8791,8 +8925,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/261",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG263",
@@ -8853,8 +8987,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/263",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG264",
@@ -8915,8 +9049,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/264",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG265",
@@ -8977,8 +9111,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/265",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG266",
@@ -9039,8 +9173,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/266",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2661",
@@ -9100,8 +9234,8 @@
         "DestinationStopNameEn": "Guguan",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2662",
@@ -9161,8 +9295,8 @@
         "DestinationStopNameEn": "Guguan",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG267",
@@ -9223,8 +9357,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/267",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG269",
@@ -9285,8 +9419,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/269",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG27",
@@ -9347,8 +9481,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/27",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG270",
@@ -9409,8 +9543,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/270",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG271",
@@ -9471,8 +9605,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/271",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG272",
@@ -9533,8 +9667,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/272",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG273",
@@ -9595,8 +9729,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/273",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG275",
@@ -9657,8 +9791,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/275",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG276",
@@ -9719,8 +9853,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/276",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG277",
@@ -9781,8 +9915,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/277",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG278",
@@ -9843,8 +9977,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/278",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG279",
@@ -9905,8 +10039,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/279",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG28",
@@ -9967,8 +10101,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/28",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG281",
@@ -10040,8 +10174,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/281",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2811",
@@ -10112,8 +10246,8 @@
         "DestinationStopNameEn": "Chaoyang University of Technology Second Dormitory",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG282",
@@ -10185,8 +10319,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/282",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2821",
@@ -10247,8 +10381,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/2821",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG283",
@@ -10309,8 +10443,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/283",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG284",
@@ -10371,8 +10505,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/284",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG285",
@@ -10433,8 +10567,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/285",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2851",
@@ -10495,8 +10629,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/2851",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG286",
@@ -10557,8 +10691,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/286",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG287",
@@ -10619,8 +10753,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/287",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG288",
@@ -10681,8 +10815,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/288",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG289",
@@ -10742,8 +10876,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/289",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG29",
@@ -10804,8 +10938,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/29",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG290",
@@ -10866,8 +11000,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/290",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG2901",
@@ -10928,8 +11062,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/2901",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG291",
@@ -11001,8 +11135,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/291",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3",
@@ -11074,8 +11208,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/3",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG30",
@@ -11136,8 +11270,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/30",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG300",
@@ -11220,8 +11354,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/300",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3001",
@@ -11280,8 +11414,8 @@
         "DestinationStopNameEn": "Fuzhu Village",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3002",
@@ -11340,8 +11474,8 @@
         "DestinationStopNameEn": "Taian Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG30021",
@@ -11400,8 +11534,8 @@
         "DestinationStopNameEn": "Tucheng(Tucheng Road)",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3003",
@@ -11460,8 +11594,128 @@
         "DestinationStopNameEn": "Houli",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG3004",
+        "RouteID": "3004",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "25",
+                "OperatorName": {
+                    "Zh_tw": "睿奕交通"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1409"
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG3004",
+                "SubRouteID": "3004",
+                "OperatorIDs": [
+                    "25"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "市民小巴4",
+                    "En": "M4"
+                },
+                "Headsign": "中科后里辦公室 - 太平里",
+                "HeadsignEn": "CTSP Houli Office - Taiping Village",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG3004",
+                "SubRouteID": "3004",
+                "OperatorIDs": [
+                    "25"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "市民小巴4",
+                    "En": "M4"
+                },
+                "Headsign": "中科后里辦公室 - 太平里",
+                "HeadsignEn": "CTSP Houli Office - Taiping Village",
+                "Direction": 1
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "市民小巴4",
+            "En": "M4"
+        },
+        "DepartureStopNameZh": "中科后里辦公室",
+        "DepartureStopNameEn": "CTSP Houli Office",
+        "DestinationStopNameZh": "太平里",
+        "DestinationStopNameEn": "Taiping Village",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG30041",
+        "RouteID": "30041",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "25",
+                "OperatorName": {
+                    "Zh_tw": "睿奕交通"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1409"
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG30041",
+                "SubRouteID": "30041",
+                "OperatorIDs": [
+                    "25"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "市民小巴4延",
+                    "En": "M4E"
+                },
+                "Headsign": "中社 - 南村路 - 太平里",
+                "HeadsignEn": "Zhongshe - Taiping Village",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG30041",
+                "SubRouteID": "30041",
+                "OperatorIDs": [
+                    "25"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "市民小巴4延",
+                    "En": "M4E"
+                },
+                "Headsign": "中社 - 南村路 - 太平里",
+                "HeadsignEn": "Zhongshe - Taiping Village",
+                "Direction": 1
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "市民小巴4延",
+            "En": "M4E"
+        },
+        "DepartureStopNameZh": "中社",
+        "DepartureStopNameEn": "Zhongshe",
+        "DestinationStopNameZh": "太平里",
+        "DestinationStopNameEn": "Taiping Village",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG301",
@@ -11533,8 +11787,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/301",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3010",
@@ -11594,8 +11848,8 @@
         "DestinationStopNameEn": "Gancheng Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG302",
@@ -11667,8 +11921,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/302",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3020",
@@ -11728,8 +11982,8 @@
         "DestinationStopNameEn": "Gancheng Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3021",
@@ -11800,8 +12054,8 @@
         "DestinationStopNameEn": "Xinguang Village(Xinfu Road)",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG303",
@@ -11873,8 +12127,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/303",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG304",
@@ -11935,8 +12189,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/304",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG305",
@@ -11997,8 +12251,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/305",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG306",
@@ -12059,8 +12313,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/306",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG307",
@@ -12121,8 +12375,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/307",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG308",
@@ -12194,8 +12448,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/308",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3081",
@@ -12266,8 +12520,8 @@
         "DestinationStopNameEn": "Xinguang Village(Xinfu Road)",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3082",
@@ -12323,8 +12577,8 @@
         "DestinationStopNameEn": "Dayong-Siwei E. Intersection",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG309",
@@ -12407,8 +12661,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/309",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG310",
@@ -12491,8 +12745,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/310",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG32",
@@ -12553,8 +12807,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/32",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG323",
@@ -12615,8 +12869,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/323",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG324",
@@ -12677,8 +12931,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/324",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3241",
@@ -12725,8 +12979,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/324",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG325",
@@ -12787,8 +13041,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/325",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG326",
@@ -12860,8 +13114,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/326",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG328",
@@ -12922,8 +13176,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/48",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3281",
@@ -12983,8 +13237,8 @@
         "DestinationStopNameEn": "Renyou Parking Lot",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG33",
@@ -13045,8 +13299,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/33",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG333",
@@ -13106,8 +13360,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/300",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG35",
@@ -13168,8 +13422,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/35",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3510",
@@ -13241,8 +13495,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/3510",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG352",
@@ -13303,8 +13557,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/352",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3521",
@@ -13365,8 +13619,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/3521",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG353",
@@ -13427,8 +13681,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/353",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3541",
@@ -13500,8 +13754,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/3541",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG355",
@@ -13562,8 +13816,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/355",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG357",
@@ -13624,8 +13878,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/357",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG358",
@@ -13686,8 +13940,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/358",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG360",
@@ -13748,8 +14002,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/325",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG3601",
@@ -13810,8 +14064,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/325",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG361",
@@ -13871,8 +14125,8 @@
         "DestinationStopNameEn": "Public Library Xixi Branch",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG365",
@@ -13932,8 +14186,8 @@
         "DestinationStopNameEn": "Guoan Community(I-Ning High School)",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG368",
@@ -13993,8 +14247,8 @@
         "DestinationStopNameEn": "Providence University",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG37",
@@ -14066,8 +14320,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/37",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG39",
@@ -14128,8 +14382,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/39",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG4010",
@@ -14189,8 +14443,8 @@
         "DestinationStopNameEn": "Renyou Parking Lot",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG4020",
@@ -14262,8 +14516,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/4020",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG4030",
@@ -14335,8 +14589,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/4030",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG4040",
@@ -14407,8 +14661,8 @@
         "DestinationStopNameEn": "MRT Wenxin Zhongqing Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG4041",
@@ -14479,8 +14733,8 @@
         "DestinationStopNameEn": "MRT Wenxin Zhongqing Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG41",
@@ -14541,8 +14795,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/41",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG410",
@@ -14625,8 +14879,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/410",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG411",
@@ -14709,8 +14963,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/411",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG45",
@@ -14771,8 +15025,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/45",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG450",
@@ -14833,8 +15087,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/450",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG451",
@@ -14895,8 +15149,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/451",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG453",
@@ -14957,8 +15211,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/453",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG459",
@@ -15019,8 +15273,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/459",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG460",
@@ -15081,8 +15335,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/460",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG465",
@@ -15143,8 +15397,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/465",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG467",
@@ -15205,8 +15459,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/467",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG468",
@@ -15266,8 +15520,8 @@
         "DestinationStopNameEn": "Tanyashen Bikeway",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG5",
@@ -15328,8 +15582,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/5",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG50",
@@ -15401,8 +15655,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/50",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG5000",
@@ -15462,8 +15716,8 @@
         "DestinationStopNameEn": "Taichung Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG5001",
@@ -15523,8 +15777,8 @@
         "DestinationStopNameEn": "Taichung Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG5002",
@@ -15584,8 +15838,8 @@
         "DestinationStopNameEn": "Taichung Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG5003",
@@ -15631,8 +15885,8 @@
         "DestinationStopNameEn": "Santian Elementary School",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG5004",
@@ -15678,8 +15932,8 @@
         "DestinationStopNameEn": "Santian Elementary School",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG5005",
@@ -15725,8 +15979,8 @@
         "DestinationStopNameEn": "Taichung Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG5010",
@@ -15785,8 +16039,8 @@
         "DestinationStopNameEn": "Huanshan",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG5011",
@@ -15845,8 +16099,8 @@
         "DestinationStopNameEn": "Songzhu Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG5020",
@@ -15904,8 +16158,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/253",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG51",
@@ -15966,8 +16220,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/51",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG511",
@@ -16028,8 +16282,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/51",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG52",
@@ -16090,8 +16344,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/52",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG5201",
@@ -16152,8 +16406,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/5201",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG525",
@@ -16214,8 +16468,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/525",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG528",
@@ -16276,8 +16530,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/228",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG529",
@@ -16338,8 +16592,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/529",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG54",
@@ -16400,8 +16654,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/54",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG555",
@@ -16461,8 +16715,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/156",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG56",
@@ -16534,8 +16788,66 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/56",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG5601",
+        "RouteID": "5601",
+        "HasSubRoutes": false,
+        "Operators": [
+            {
+                "OperatorID": "15",
+                "OperatorName": {
+                    "Zh_tw": "中台灣客運",
+                    "En": "Ct Bus Co., Ltd."
+                },
+                "OperatorCode": "CenterTaiwanBus",
+                "OperatorNo": "0401"
+            },
+            {
+                "OperatorID": "3",
+                "OperatorName": {
+                    "Zh_tw": "統聯客運",
+                    "En": "United Highway Bus Co., Ltd."
+                },
+                "OperatorCode": "UnitedHighwayBus",
+                "OperatorNo": "1201"
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG5601",
+                "SubRouteID": "5601",
+                "OperatorIDs": [
+                    "15",
+                    "3"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "56延",
+                    "En": "56E"
+                },
+                "Headsign": "育賢立功路口 - 烏日長壽公園",
+                "HeadsignEn": "Yuxian-Ligong Intersection - Wuri Changshou Park",
+                "Direction": 0
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "56延",
+            "En": "56E"
+        },
+        "DepartureStopNameZh": "育賢立功路口",
+        "DepartureStopNameEn": "Yuxian-Ligong Intersection",
+        "DestinationStopNameZh": "烏日長壽公園",
+        "DestinationStopNameEn": "Wuri Changshou Park",
+        "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/56",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG58",
@@ -16596,8 +16908,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/58",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG583",
@@ -16658,8 +16970,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/583",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG59",
@@ -16731,8 +17043,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/59",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG592",
@@ -16793,8 +17105,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/592",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG593",
@@ -16854,8 +17166,8 @@
         "DestinationStopNameEn": "Zhongxinling Parking Lot",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG6",
@@ -16916,8 +17228,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/6",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG60",
@@ -16978,8 +17290,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/60",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG601",
@@ -17039,8 +17351,8 @@
         "DestinationStopNameEn": "Taichung CIty Indigenous Peoples Cultural Museum",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG61",
@@ -17112,8 +17424,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/61",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG616",
@@ -17174,8 +17486,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/616",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG63",
@@ -17258,8 +17570,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/63",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG65",
@@ -17320,8 +17632,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/65",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG651",
@@ -17392,8 +17704,8 @@
         "DestinationStopNameEn": "Taichung Girls Senior High School",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG653",
@@ -17454,8 +17766,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/653",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG657",
@@ -17516,8 +17828,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/657",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG658",
@@ -17589,8 +17901,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/658",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG6581",
@@ -17662,8 +17974,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/6581",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG659",
@@ -17724,8 +18036,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/659",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG6601",
@@ -17785,8 +18097,8 @@
         "DestinationStopNameEn": "Dakeng",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG6602",
@@ -17846,8 +18158,8 @@
         "DestinationStopNameEn": "Dakeng",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG6603",
@@ -17907,8 +18219,8 @@
         "DestinationStopNameEn": "Dakeng",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG6604",
@@ -17968,8 +18280,8 @@
         "DestinationStopNameEn": "Dakeng",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG661",
@@ -18030,8 +18342,132 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/661",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG662",
+        "RouteID": "662",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "24",
+                "OperatorName": {
+                    "Zh_tw": "建明客運",
+                    "En": "Free Go Bus Co., Ltd."
+                },
+                "OperatorCode": "JianMingBus",
+                "OperatorNo": "0906"
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG662",
+                "SubRouteID": "662",
+                "OperatorIDs": [
+                    "24"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "662",
+                    "En": "662"
+                },
+                "Headsign": "大甲高中(水源路) - 大甲車站(中山路) - 苑裡站",
+                "HeadsignEn": "Dajia Senior High School(Shuiyuan Rd.) - Dajia Station(Zhongshan Rd.) - Yuanli Station",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG662",
+                "SubRouteID": "662",
+                "OperatorIDs": [
+                    "24"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "662",
+                    "En": "662"
+                },
+                "Headsign": "大甲高中(水源路) - 大甲車站(中山路) - 苑裡站",
+                "HeadsignEn": "Dajia Senior High School(Shuiyuan Rd.) - Dajia Station(Zhongshan Rd.) - Yuanli Station",
+                "Direction": 1
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "662",
+            "En": "662"
+        },
+        "DepartureStopNameZh": "大甲高中(水源路)",
+        "DepartureStopNameEn": "Dajia Senior High School(Shuiyuan Rd.)",
+        "DestinationStopNameZh": "苑裡站",
+        "DestinationStopNameEn": "Yuanli Station",
+        "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/662",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG668",
+        "RouteID": "668",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "11",
+                "OperatorName": {
+                    "Zh_tw": "東南客運",
+                    "En": "Southeast Bus Co., Ltd."
+                },
+                "OperatorCode": "SoutheastBus",
+                "OperatorNo": "0804"
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG668",
+                "SubRouteID": "668",
+                "OperatorIDs": [
+                    "11"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "668",
+                    "En": "668"
+                },
+                "Headsign": "日南車站 - 大甲區公所",
+                "HeadsignEn": "Rinan Station - Dajia District Office",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG668",
+                "SubRouteID": "668",
+                "OperatorIDs": [
+                    "11"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "668",
+                    "En": "668"
+                },
+                "Headsign": "日南車站 - 大甲區公所",
+                "HeadsignEn": "Rinan Station - Dajia District Office",
+                "Direction": 1
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "668",
+            "En": "668"
+        },
+        "DepartureStopNameZh": "日南車站",
+        "DepartureStopNameEn": "Rinan Station",
+        "DestinationStopNameZh": "大甲區公所",
+        "DestinationStopNameEn": "Dajia District Office",
+        "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/668",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG67",
@@ -18092,8 +18528,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/67",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG672",
@@ -18140,8 +18576,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/672",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG675",
@@ -18188,8 +18624,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/675",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG6750",
@@ -18271,8 +18707,8 @@
         "DestinationStopNameEn": "Liming-Jingmao Intersection",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG677",
@@ -18333,8 +18769,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/677",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG678",
@@ -18393,8 +18829,8 @@
         "DestinationStopNameEn": "Taichung Harbor Passenger Service Center",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG679",
@@ -18453,8 +18889,8 @@
         "DestinationStopNameEn": "Taichung Airport",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG6791",
@@ -18513,8 +18949,68 @@
         "DestinationStopNameEn": "Taichung Airport",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG6792",
+        "RouteID": "6792",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "25",
+                "OperatorName": {
+                    "Zh_tw": "睿奕交通"
+                },
+                "OperatorCode": "",
+                "OperatorNo": "1409"
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG6792",
+                "SubRouteID": "6792",
+                "OperatorIDs": [
+                    "25"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "679副2",
+                    "En": "679V2"
+                },
+                "Headsign": "新政大安港路口 - 沙鹿西站(新站路)",
+                "HeadsignEn": "Taichung Harbor Passenger Service Center - Shalu W. Station(Xinzhan Road)",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG6792",
+                "SubRouteID": "6792",
+                "OperatorIDs": [
+                    "25"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "679副2",
+                    "En": "679V2"
+                },
+                "Headsign": "新政大安港路口 - 沙鹿西站(新站路)",
+                "HeadsignEn": "Taichung Harbor Passenger Service Center - Shalu W. Station(Xinzhan Road)",
+                "Direction": 1
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "679副2",
+            "En": "679V2"
+        },
+        "DepartureStopNameZh": "新政大安港路口",
+        "DepartureStopNameEn": "Xinzheng-Da'an Port Intersection",
+        "DestinationStopNameZh": "沙鹿西站(新站路)",
+        "DestinationStopNameEn": "Shalu W. Station(Xinzhan Road)",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG681",
@@ -18575,8 +19071,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/681",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG688",
@@ -18637,8 +19133,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/688",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG6881",
@@ -18699,8 +19195,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/688",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG69",
@@ -18761,8 +19257,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/69",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG695",
@@ -18823,8 +19319,70 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/951",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG699",
+        "RouteID": "699",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "4",
+                "OperatorName": {
+                    "Zh_tw": "巨業交通",
+                    "En": "Geya Bus Co., Ltd."
+                },
+                "OperatorCode": "GeyaBus",
+                "OperatorNo": "0504"
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG699",
+                "SubRouteID": "699",
+                "OperatorIDs": [
+                    "4"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "699",
+                    "En": "699"
+                },
+                "Headsign": "大甲體育場 - 南埔",
+                "HeadsignEn": "Dajia Stadium - Nanpu",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG699",
+                "SubRouteID": "699",
+                "OperatorIDs": [
+                    "4"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "699",
+                    "En": "699"
+                },
+                "Headsign": "大甲體育場 - 南埔",
+                "HeadsignEn": "Dajia Stadium - Nanpu",
+                "Direction": 1
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "699",
+            "En": "699"
+        },
+        "DepartureStopNameZh": "大甲體育場",
+        "DepartureStopNameEn": "Dajia Stadium",
+        "DestinationStopNameZh": "南埔",
+        "DestinationStopNameEn": "Nanpu",
+        "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/699",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG7",
@@ -18885,8 +19443,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/7",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG70",
@@ -18947,8 +19505,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/70",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG7000",
@@ -19019,8 +19577,8 @@
         "DestinationStopNameEn": "New Jianguo Market",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG7001",
@@ -19091,8 +19649,8 @@
         "DestinationStopNameEn": "Fengyuan Senior High School",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG72",
@@ -19153,8 +19711,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/72",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG73",
@@ -19226,8 +19784,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/73",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG74",
@@ -19288,8 +19846,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/74",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG75",
@@ -19361,8 +19919,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/75",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG7501",
@@ -19434,8 +19992,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/75",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG77",
@@ -19507,8 +20065,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/77",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG79",
@@ -19580,8 +20138,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/79",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG8",
@@ -19642,8 +20200,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/8",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG81",
@@ -19715,8 +20273,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/81",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG811",
@@ -19799,8 +20357,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/811",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG813",
@@ -19861,8 +20419,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/813",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG8131",
@@ -19922,8 +20480,8 @@
         "DestinationStopNameEn": "Soldiers' Shrine",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG82",
@@ -19984,8 +20542,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/82",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG821",
@@ -20046,8 +20604,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/821",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG83",
@@ -20108,8 +20666,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/83",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG839",
@@ -20170,8 +20728,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/839",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG85",
@@ -20243,8 +20801,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/85",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG850",
@@ -20305,8 +20863,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/850",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG853",
@@ -20367,8 +20925,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/853",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG86",
@@ -20427,8 +20985,8 @@
         "DestinationStopNameEn": "Taichung Armed Forces General Hospital",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG861",
@@ -20473,8 +21031,8 @@
         "DestinationStopNameEn": "Taichung Armed Forces General Hospital",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG862",
@@ -20519,8 +21077,8 @@
         "DestinationStopNameEn": "Taichung Station(Taiwan Boulevard)",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG865",
@@ -20581,8 +21139,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/865",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG8651",
@@ -20642,8 +21200,8 @@
         "DestinationStopNameEn": "Lishan",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG8652",
@@ -20703,8 +21261,70 @@
         "DestinationStopNameEn": "Li-shan",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG866",
+        "RouteID": "866",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "6",
+                "OperatorName": {
+                    "Zh_tw": "豐原客運",
+                    "En": "Fengyuan Bus Co., Ltd."
+                },
+                "OperatorCode": "FengyuanBus",
+                "OperatorNo": "1801"
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG866",
+                "SubRouteID": "866",
+                "OperatorIDs": [
+                    "6"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "866",
+                    "En": "866"
+                },
+                "Headsign": "天池達觀亭 - 武陵農場",
+                "HeadsignEn": "Tianchi Pond & Daguan Pavilion - Wuling Farm",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG866",
+                "SubRouteID": "866",
+                "OperatorIDs": [
+                    "6"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "866",
+                    "En": "866"
+                },
+                "Headsign": "天池達觀亭 - 武陵農場",
+                "HeadsignEn": "Tianchi Pond & Daguan Pavilion - Wuling Farm",
+                "Direction": 1
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "866",
+            "En": "866"
+        },
+        "DepartureStopNameZh": "天池達觀亭",
+        "DepartureStopNameEn": "Tiachi Pod & Dagua Pavilio",
+        "DestinationStopNameZh": "武陵農場",
+        "DestinationStopNameEn": "Wuling Farm",
+        "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/866",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG8663",
@@ -20765,8 +21385,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/8663",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG88",
@@ -20826,8 +21446,8 @@
         "DestinationStopNameEn": "Liyuan Park",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG888",
@@ -20898,8 +21518,8 @@
         "DestinationStopNameEn": "Taian Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG889",
@@ -20960,8 +21580,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/252",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG89",
@@ -21022,8 +21642,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/89",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG90",
@@ -21084,8 +21704,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/90",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG9000",
@@ -21145,8 +21765,8 @@
         "DestinationStopNameEn": "Fengyuan",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG9001",
@@ -21206,8 +21826,8 @@
         "DestinationStopNameEn": "Fengyuan Senior High School",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG901",
@@ -21268,8 +21888,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/901",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG9012",
@@ -21329,8 +21949,8 @@
         "DestinationStopNameEn": "Mingder Senior High School",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG904",
@@ -21377,8 +21997,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/904",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG905",
@@ -21425,8 +22045,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/905",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG906",
@@ -21473,8 +22093,70 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/906",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG907",
+        "RouteID": "907",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "1",
+                "OperatorName": {
+                    "Zh_tw": "台中客運",
+                    "En": "Taichung Bus Co., Ltd."
+                },
+                "OperatorCode": "TaichungBus",
+                "OperatorNo": "0501"
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG907",
+                "SubRouteID": "907",
+                "OperatorIDs": [
+                    "1"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "307副",
+                    "En": "307V"
+                },
+                "Headsign": "八德東大勇路口 - 臺中車站(臺灣大道)",
+                "HeadsignEn": "Bade E.-Dayong Intersection - Taichung Station(Taiwan Boulevard)",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG907",
+                "SubRouteID": "907",
+                "OperatorIDs": [
+                    "1"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "307副",
+                    "En": "307V"
+                },
+                "Headsign": "八德東大勇路口 - 臺中車站(臺灣大道)",
+                "HeadsignEn": "Bade E.-Dayong Intersection - Taichung Station(Taiwan Boulevard)",
+                "Direction": 1
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "307副",
+            "En": "307V"
+        },
+        "DepartureStopNameZh": "八德東大勇路口",
+        "DepartureStopNameEn": "Bade E.-Dayong Intersection",
+        "DestinationStopNameZh": "臺中車站(臺灣大道)",
+        "DestinationStopNameEn": "Taichung Station(Taiwan Boulevard)",
+        "RouteMapImageUrl": "http://www.traffic.taichung.gov.tw/form/index-1.asp?Parser=3,7,161,52,,,164,16,,,,,100",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG908",
@@ -21521,8 +22203,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/908",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG909",
@@ -21583,8 +22265,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/909",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG91",
@@ -21645,8 +22327,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/91",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG910",
@@ -21707,8 +22389,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/910",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG911",
@@ -21769,8 +22451,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/911",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG912",
@@ -21831,8 +22513,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/912",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG913",
@@ -21893,8 +22575,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/913",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG914",
@@ -21966,8 +22648,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/914",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG916",
@@ -22039,8 +22721,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/916",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG92",
@@ -22101,13 +22783,13 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/92",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG920",
         "RouteID": "920",
-        "HasSubRoutes": false,
+        "HasSubRoutes": true,
         "Operators": [
             {
                 "OperatorID": "15",
@@ -22145,6 +22827,21 @@
                 "Headsign": "豐原國民暨兒童運動中心 - 育賢建和路口",
                 "HeadsignEn": "Fengyuan Civil And Child Sports Center - Yuxian-Jianhe Intersection",
                 "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG920",
+                "SubRouteID": "920",
+                "OperatorIDs": [
+                    "15",
+                    "3"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "920",
+                    "En": "920"
+                },
+                "Headsign": "豐原國民暨兒童運動中心 - 育賢建和路口",
+                "HeadsignEn": "Fengyuan Civil And Child Sports Center - Yuxian-Jianhe Intersection",
+                "Direction": 1
             }
         ],
         "BusRouteType": 11,
@@ -22159,8 +22856,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/920",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG9211",
@@ -22221,8 +22918,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/9211",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG9221",
@@ -22283,8 +22980,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/9221",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG924",
@@ -22331,8 +23028,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/924",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG925",
@@ -22379,8 +23076,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/925",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG93",
@@ -22441,8 +23138,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/93",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG933",
@@ -22489,8 +23186,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/933",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG937",
@@ -22551,8 +23248,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/937",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG938",
@@ -22613,8 +23310,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/938",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG945",
@@ -22686,8 +23383,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/945",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG947",
@@ -22748,8 +23445,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/947",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG95",
@@ -22821,8 +23518,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/95",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG950",
@@ -22883,8 +23580,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/950",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG951",
@@ -22956,8 +23653,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/951",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG953",
@@ -23028,8 +23725,8 @@
         "DestinationStopNameEn": "Dajia Industrial H. S.",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG956",
@@ -23090,8 +23787,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/956",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG9561",
@@ -23162,8 +23859,8 @@
         "DestinationStopNameEn": "Jixing Community",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG9580",
@@ -23234,8 +23931,8 @@
         "DestinationStopNameEn": "Taichung Hero House",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG959",
@@ -23296,8 +23993,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/959",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG960",
@@ -23358,8 +24055,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/960",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG97",
@@ -23420,8 +24117,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/97",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG971",
@@ -23482,8 +24179,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/97",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG974",
@@ -23544,8 +24241,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/974",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG979",
@@ -23606,8 +24303,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/979",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG98",
@@ -23679,8 +24376,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/98",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG981",
@@ -23752,8 +24449,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/981",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG982",
@@ -23813,8 +24510,8 @@
         "DestinationStopNameEn": "HSR TaiChung Station",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG989",
@@ -23875,8 +24572,70 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/989",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
+    },
+    {
+        "RouteUID": "TXG99",
+        "RouteID": "99",
+        "HasSubRoutes": true,
+        "Operators": [
+            {
+                "OperatorID": "19",
+                "OperatorName": {
+                    "Zh_tw": "中鹿客運",
+                    "En": "Chung-Lu Bus Co., Ltd."
+                },
+                "OperatorCode": "ChungluBus",
+                "OperatorNo": "0402"
+            }
+        ],
+        "AuthorityID": "007",
+        "ProviderID": "007",
+        "SubRoutes": [
+            {
+                "SubRouteUID": "TXG99",
+                "SubRouteID": "99",
+                "OperatorIDs": [
+                    "19"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "99",
+                    "En": "99"
+                },
+                "Headsign": "精武車站 - 嶺東科技大學",
+                "HeadsignEn": "Jingwu Station - Ling Tung University",
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TXG99",
+                "SubRouteID": "99",
+                "OperatorIDs": [
+                    "19"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "99",
+                    "En": "99"
+                },
+                "Headsign": "精武車站 - 嶺東科技大學",
+                "HeadsignEn": "Jingwu Station - Ling Tung University",
+                "Direction": 1
+            }
+        ],
+        "BusRouteType": 11,
+        "RouteName": {
+            "Zh_tw": "99",
+            "En": "99"
+        },
+        "DepartureStopNameZh": "精武車站",
+        "DepartureStopNameEn": "Jingwu Station",
+        "DestinationStopNameZh": "嶺東科技大學",
+        "DestinationStopNameEn": "Ling Tung University",
+        "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/99",
+        "City": "Taichung",
+        "CityCode": "TXG",
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG991",
@@ -23937,8 +24696,8 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/991",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     },
     {
         "RouteUID": "TXG999",
@@ -24010,7 +24769,7 @@
         "RouteMapImageUrl": "https://citybus.taichung.gov.tw/ebus/route-map/999",
         "City": "Taichung",
         "CityCode": "TXG",
-        "UpdateTime": "2025-11-16T09:32:47+08:00",
-        "VersionID": 9749
+        "UpdateTime": "2025-11-23T09:53:13+08:00",
+        "VersionID": 9784
     }
 ]

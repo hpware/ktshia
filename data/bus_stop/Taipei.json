@@ -601,8 +601,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10132",
@@ -1238,8 +1238,8 @@
                 "StationID": "1000431"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10142",
@@ -2099,8 +2099,8 @@
                 "StationID": "3916"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10142",
@@ -2928,8 +2928,8 @@
                 "StationID": "72232"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10181",
@@ -3917,8 +3917,8 @@
                 "StationID": "4623"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10181",
@@ -4810,8 +4810,8 @@
                 "StationID": "1000965"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10221",
@@ -4939,7 +4939,7 @@
                 "StopID": "20018",
                 "StopName": {
                     "Zh_tw": "光華街口",
-                    "En": "Guanghua St. Intersection"
+                    "En": "Guanghua St. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 8,
@@ -5307,7 +5307,7 @@
                 "StopID": "20039",
                 "StopName": {
                     "Zh_tw": "中和街口",
-                    "En": "Zhonghe St. Intersection"
+                    "En": "Zhonghe St. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 31,
@@ -5563,7 +5563,7 @@
                 "StopID": "20054",
                 "StopName": {
                     "Zh_tw": "大同路口",
-                    "En": "Datong Rd. Intersection"
+                    "En": "Datong Rd. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 47,
@@ -5847,8 +5847,8 @@
                 "StationID": "1165604808"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10221",
@@ -6040,7 +6040,7 @@
                 "StopID": "20080",
                 "StopName": {
                     "Zh_tw": "大同路口",
-                    "En": "Datong Rd. Intersection"
+                    "En": "Datong Rd. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 12,
@@ -6296,7 +6296,7 @@
                 "StopID": "20095",
                 "StopName": {
                     "Zh_tw": "中和街口",
-                    "En": "Zhonghe St. Intersection"
+                    "En": "Zhonghe St. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 28,
@@ -6664,7 +6664,7 @@
                 "StopID": "20116",
                 "StopName": {
                     "Zh_tw": "光華街口",
-                    "En": "Guanghua St. Intersection"
+                    "En": "Guanghua St. Entrance"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 51,
@@ -6804,8 +6804,8 @@
                 "StationID": "30017"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10231",
@@ -7205,7 +7205,7 @@
                 "StopID": "10047",
                 "StopName": {
                     "Zh_tw": "中華航空",
-                    "En": "China Air Lines"
+                    "En": "China Airlines"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 25,
@@ -7377,8 +7377,8 @@
                 "StationID": "1165604811"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10231",
@@ -7570,7 +7570,7 @@
                 "StopID": "10091",
                 "StopName": {
                     "Zh_tw": "中華航空",
-                    "En": "China Air Lines"
+                    "En": "China Airlines"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 12,
@@ -7998,8 +7998,8 @@
                 "StationID": "1646"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10232",
@@ -8459,8 +8459,8 @@
                 "StationID": "1484"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10232",
@@ -8920,8 +8920,8 @@
                 "StationID": "1606"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10241",
@@ -9477,8 +9477,8 @@
                 "StationID": "1697"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10241",
@@ -10018,8 +10018,8 @@
                 "StationID": "7651"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10251",
@@ -10671,8 +10671,8 @@
                 "StationID": "1449"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10251",
@@ -11308,8 +11308,8 @@
                 "StationID": "1000899"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10253",
@@ -11577,8 +11577,8 @@
                 "StationID": "993"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10253",
@@ -11910,8 +11910,8 @@
                 "StationID": "1001373"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10261",
@@ -12291,8 +12291,8 @@
                 "StationID": "219"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10261",
@@ -12720,8 +12720,8 @@
                 "StationID": "5988"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10262",
@@ -13373,8 +13373,8 @@
                 "StationID": "50687"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10262",
@@ -14122,8 +14122,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10263",
@@ -14935,8 +14935,8 @@
                 "StationID": "1001316"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10263",
@@ -15764,8 +15764,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10272",
@@ -16193,22 +16193,6 @@
                 "StationID": "14422"
             },
             {
-                "StopUID": "TPE222921",
-                "StopID": "222921",
-                "StopName": {
-                    "Zh_tw": "陽明天主堂",
-                    "En": "Yangming Catholic Church"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 27,
-                "StopPosition": {
-                    "PositionLon": 121.54405,
-                    "PositionLat": 25.13869,
-                    "GeoHash": "wsqrjb3em"
-                },
-                "StationID": "858"
-            },
-            {
                 "StopUID": "TPE222922",
                 "StopID": "222922",
                 "StopName": {
@@ -16216,7 +16200,7 @@
                     "En": "Chinese Culture U. 1"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 28,
+                "StopSequence": 27,
                 "StopPosition": {
                     "PositionLon": 121.539805689524,
                     "PositionLat": 25.1372765580827,
@@ -16232,7 +16216,7 @@
                     "En": "Yangming Catholic Church"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 29,
+                "StopSequence": 28,
                 "StopPosition": {
                     "PositionLon": 121.54379,
                     "PositionLat": 25.13847,
@@ -16248,7 +16232,7 @@
                     "En": "Chinese Culture U."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 30,
+                "StopSequence": 29,
                 "StopPosition": {
                     "PositionLon": 121.54648,
                     "PositionLat": 25.13809,
@@ -16264,7 +16248,7 @@
                     "En": "Huangxidi"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 31,
+                "StopSequence": 30,
                 "StopPosition": {
                     "PositionLon": 121.54965081795456,
                     "PositionLat": 25.14067928068319,
@@ -16280,7 +16264,7 @@
                     "En": "Gezhi & Daheng Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 32,
+                "StopSequence": 31,
                 "StopPosition": {
                     "PositionLon": 121.54926514715302,
                     "PositionLat": 25.14305029076675,
@@ -16296,7 +16280,7 @@
                     "En": "Fushou Bridge"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 33,
+                "StopSequence": 32,
                 "StopPosition": {
                     "PositionLon": 121.549608408559,
                     "PositionLat": 25.1459354022478,
@@ -16312,7 +16296,7 @@
                     "En": "YangMingShan Hotel"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 34,
+                "StopSequence": 33,
                 "StopPosition": {
                     "PositionLon": 121.549325751061,
                     "PositionLat": 25.1480738467069,
@@ -16328,7 +16312,7 @@
                     "En": "Yangming Rd."
                 },
                 "StopBoarding": -1,
-                "StopSequence": 35,
+                "StopSequence": 34,
                 "StopPosition": {
                     "PositionLon": 121.5487984,
                     "PositionLat": 25.14914372,
@@ -16344,7 +16328,7 @@
                     "En": "Teachers Center"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 36,
+                "StopSequence": 35,
                 "StopPosition": {
                     "PositionLon": 121.547813,
                     "PositionLat": 25.150204,
@@ -16360,7 +16344,7 @@
                     "En": "Yangmingshan"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 37,
+                "StopSequence": 36,
                 "StopPosition": {
                     "PositionLon": 121.5473281,
                     "PositionLat": 25.15233918,
@@ -16376,7 +16360,7 @@
                     "En": "Zhongshan Hall"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 38,
+                "StopSequence": 37,
                 "StopPosition": {
                     "PositionLon": 121.5497128929114,
                     "PositionLat": 25.151258917059053,
@@ -16392,7 +16376,7 @@
                     "En": "Jingshan Township"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 39,
+                "StopSequence": 38,
                 "StopPosition": {
                     "PositionLon": 121.55865,
                     "PositionLat": 25.15167,
@@ -16408,7 +16392,7 @@
                     "En": "Jingshan Township 1"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 40,
+                "StopSequence": 39,
                 "StopPosition": {
                     "PositionLon": 121.5613198,
                     "PositionLat": 25.1513866,
@@ -16424,7 +16408,7 @@
                     "En": "Juansi Waterfall"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 41,
+                "StopSequence": 40,
                 "StopPosition": {
                     "PositionLon": 121.5616259,
                     "PositionLat": 25.15105543,
@@ -16440,7 +16424,7 @@
                     "En": "Tudigong Temple"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 42,
+                "StopSequence": 41,
                 "StopPosition": {
                     "PositionLon": 121.56032,
                     "PositionLat": 25.14956,
@@ -16456,7 +16440,7 @@
                     "En": "Jingshan Stop 3"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 43,
+                "StopSequence": 42,
                 "StopPosition": {
                     "PositionLon": 121.55836,
                     "PositionLat": 25.14736,
@@ -16472,7 +16456,7 @@
                     "En": "Jingshan Stop 2"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 44,
+                "StopSequence": 43,
                 "StopPosition": {
                     "PositionLon": 121.55875354232,
                     "PositionLat": 25.146524748078,
@@ -16488,7 +16472,7 @@
                     "En": "Jingshan Stop 1"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 45,
+                "StopSequence": 44,
                 "StopPosition": {
                     "PositionLon": 121.5575439,
                     "PositionLat": 25.14515072,
@@ -16504,7 +16488,7 @@
                     "En": "Shanzaihou"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 46,
+                "StopSequence": 45,
                 "StopPosition": {
                     "PositionLon": 121.5471173,
                     "PositionLat": 25.13808703,
@@ -16520,7 +16504,7 @@
                     "En": "Water Purification Plant"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 47,
+                "StopSequence": 46,
                 "StopPosition": {
                     "PositionLon": 121.5496,
                     "PositionLat": 25.13917,
@@ -16536,7 +16520,7 @@
                     "En": "Yangmingshan Spring"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 48,
+                "StopSequence": 47,
                 "StopPosition": {
                     "PositionLon": 121.55124,
                     "PositionLat": 25.139787,
@@ -16552,7 +16536,7 @@
                     "En": "Shanzhuhu"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 49,
+                "StopSequence": 48,
                 "StopPosition": {
                     "PositionLon": 121.55698845385638,
                     "PositionLat": 25.142226101803665,
@@ -16568,7 +16552,7 @@
                     "En": "Gankengzi"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 50,
+                "StopSequence": 49,
                 "StopPosition": {
                     "PositionLon": 121.558337712714,
                     "PositionLat": 25.1420099648513,
@@ -16584,7 +16568,7 @@
                     "En": "Kuangliao 1"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 51,
+                "StopSequence": 50,
                 "StopPosition": {
                     "PositionLon": 121.559129,
                     "PositionLat": 25.143152,
@@ -16600,7 +16584,7 @@
                     "En": "Kuangliao"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 52,
+                "StopSequence": 51,
                 "StopPosition": {
                     "PositionLon": 121.5593,
                     "PositionLat": 25.14403,
@@ -16616,7 +16600,7 @@
                     "En": "Satellite Earth Station"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 53,
+                "StopSequence": 52,
                 "StopPosition": {
                     "PositionLon": 121.564713,
                     "PositionLat": 25.144377,
@@ -16632,7 +16616,7 @@
                     "En": "Jingshan Village 1"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 54,
+                "StopSequence": 53,
                 "StopPosition": {
                     "PositionLon": 121.5641876,
                     "PositionLat": 25.14353762,
@@ -16648,7 +16632,7 @@
                     "En": "Jingshan Village 2"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 55,
+                "StopSequence": 54,
                 "StopPosition": {
                     "PositionLon": 121.56488,
                     "PositionLat": 25.14206,
@@ -16664,7 +16648,7 @@
                     "En": "Jingshan Village 3"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 56,
+                "StopSequence": 55,
                 "StopPosition": {
                     "PositionLon": 121.56747,
                     "PositionLat": 25.14083,
@@ -16680,7 +16664,7 @@
                     "En": "Xiaguoxi"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 57,
+                "StopSequence": 56,
                 "StopPosition": {
                     "PositionLon": 121.5688647,
                     "PositionLat": 25.14092838,
@@ -16696,7 +16680,7 @@
                     "En": "Xingnong Bridge"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 58,
+                "StopSequence": 57,
                 "StopPosition": {
                     "PositionLon": 121.570212,
                     "PositionLat": 25.139328,
@@ -16712,7 +16696,7 @@
                     "En": "Zhengcuo"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 59,
+                "StopSequence": 58,
                 "StopPosition": {
                     "PositionLon": 121.571595,
                     "PositionLat": 25.13784856,
@@ -16728,7 +16712,7 @@
                     "En": "Pingjing St. Lane 28"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 60,
+                "StopSequence": 59,
                 "StopPosition": {
                     "PositionLon": 121.572083813217,
                     "PositionLat": 25.13655528,
@@ -16744,7 +16728,7 @@
                     "En": "Chencuo"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 61,
+                "StopSequence": 60,
                 "StopPosition": {
                     "PositionLon": 121.57418,
                     "PositionLat": 25.13497,
@@ -16760,7 +16744,7 @@
                     "En": "Lunziwei"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 62,
+                "StopSequence": 61,
                 "StopPosition": {
                     "PositionLon": 121.57314,
                     "PositionLat": 25.13064,
@@ -16776,7 +16760,7 @@
                     "En": "Gongdiling"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 63,
+                "StopSequence": 62,
                 "StopPosition": {
                     "PositionLon": 121.574546,
                     "PositionLat": 25.13084198,
@@ -16792,7 +16776,7 @@
                     "En": "Zunzitou"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 64,
+                "StopSequence": 63,
                 "StopPosition": {
                     "PositionLon": 121.574833,
                     "PositionLat": 25.13194,
@@ -16808,7 +16792,7 @@
                     "En": "Pingdeng Village"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 65,
+                "StopSequence": 64,
                 "StopPosition": {
                     "PositionLon": 121.5764777900028,
                     "PositionLat": 25.131355431183984,
@@ -16824,7 +16808,7 @@
                     "En": "Pingdeng Elementary School"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 66,
+                "StopSequence": 65,
                 "StopPosition": {
                     "PositionLon": 121.57652,
                     "PositionLat": 25.1298,
@@ -16840,7 +16824,7 @@
                     "En": "Fude Temple"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 67,
+                "StopSequence": 66,
                 "StopPosition": {
                     "PositionLon": 121.5746383,
                     "PositionLat": 25.12891321,
@@ -16856,7 +16840,7 @@
                     "En": "Family Garden Community"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 68,
+                "StopSequence": 67,
                 "StopPosition": {
                     "PositionLon": 121.5736,
                     "PositionLat": 25.12494,
@@ -16872,7 +16856,7 @@
                     "En": "Pingjing St. Lane 166"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 69,
+                "StopSequence": 68,
                 "StopPosition": {
                     "PositionLon": 121.5726818,
                     "PositionLat": 25.12412029,
@@ -16888,7 +16872,7 @@
                     "En": "Dapingwei"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 70,
+                "StopSequence": 69,
                 "StopPosition": {
                     "PositionLon": 121.57227,
                     "PositionLat": 25.12313,
@@ -16897,8 +16881,8 @@
                 "StationID": "9473"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10272",
@@ -17758,8 +17742,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10273",
@@ -18187,22 +18171,6 @@
                 "StationID": "14422"
             },
             {
-                "StopUID": "TPE29259",
-                "StopID": "29259",
-                "StopName": {
-                    "Zh_tw": "陽明天主堂",
-                    "En": "Yangming Catholic Church"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 27,
-                "StopPosition": {
-                    "PositionLon": 121.54405,
-                    "PositionLat": 25.13869,
-                    "GeoHash": "wsqrjb3em"
-                },
-                "StationID": "858"
-            },
-            {
                 "StopUID": "TPE29260",
                 "StopID": "29260",
                 "StopName": {
@@ -18210,13 +18178,45 @@
                     "En": "Chinese Culture U. 1"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 28,
+                "StopSequence": 27,
                 "StopPosition": {
                     "PositionLon": 121.539805689524,
                     "PositionLat": 25.1372765580827,
                     "GeoHash": "wsqrj8ne4"
                 },
                 "StationID": "630"
+            },
+            {
+                "StopUID": "TPE29259",
+                "StopID": "29259",
+                "StopName": {
+                    "Zh_tw": "陽明天主堂",
+                    "En": "Yangming Catholic Church"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 28,
+                "StopPosition": {
+                    "PositionLon": 121.54379,
+                    "PositionLat": 25.13847,
+                    "GeoHash": "wsqrjb36p"
+                },
+                "StationID": "50662"
+            },
+            {
+                "StopUID": "TPE223301",
+                "StopID": "223301",
+                "StopName": {
+                    "Zh_tw": "文化大學",
+                    "En": "Chinese Culture U."
+                },
+                "StopBoarding": 0,
+                "StopSequence": 29,
+                "StopPosition": {
+                    "PositionLon": 121.5465825,
+                    "PositionLat": 25.13875593,
+                    "GeoHash": "wsqrjb7eb"
+                },
+                "StationID": "14422"
             },
             {
                 "StopUID": "TPE125650",
@@ -18226,7 +18226,7 @@
                     "En": "Huangxidi"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 29,
+                "StopSequence": 30,
                 "StopPosition": {
                     "PositionLon": 121.54965081795456,
                     "PositionLat": 25.14067928068319,
@@ -18242,7 +18242,7 @@
                     "En": "Gezhi & Daheng Intersection"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 30,
+                "StopSequence": 31,
                 "StopPosition": {
                     "PositionLon": 121.54926514715302,
                     "PositionLat": 25.14305029076675,
@@ -18258,7 +18258,7 @@
                     "En": "Fushou Bridge"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 31,
+                "StopSequence": 32,
                 "StopPosition": {
                     "PositionLon": 121.549608408559,
                     "PositionLat": 25.1459354022478,
@@ -18274,7 +18274,7 @@
                     "En": "CSF Yangmingshan Hostel"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 32,
+                "StopSequence": 33,
                 "StopPosition": {
                     "PositionLon": 121.549325751061,
                     "PositionLat": 25.1480738467069,
@@ -18290,7 +18290,7 @@
                     "En": "Shamao and Yangming Intersection"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 33,
+                "StopSequence": 34,
                 "StopPosition": {
                     "PositionLon": 121.5487984,
                     "PositionLat": 25.14914372,
@@ -18306,7 +18306,7 @@
                     "En": "Teachers Center"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 34,
+                "StopSequence": 35,
                 "StopPosition": {
                     "PositionLon": 121.547813,
                     "PositionLat": 25.150204,
@@ -18322,7 +18322,7 @@
                     "En": "Yangmingshan"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 35,
+                "StopSequence": 36,
                 "StopPosition": {
                     "PositionLon": 121.54743,
                     "PositionLat": 25.15248,
@@ -18338,7 +18338,7 @@
                     "En": "Zhongshan Hall"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 36,
+                "StopSequence": 37,
                 "StopPosition": {
                     "PositionLon": 121.5497128929114,
                     "PositionLat": 25.151258917059053,
@@ -18354,7 +18354,7 @@
                     "En": "Jingshan Township"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 37,
+                "StopSequence": 38,
                 "StopPosition": {
                     "PositionLon": 121.55865,
                     "PositionLat": 25.15167,
@@ -18370,7 +18370,7 @@
                     "En": "Jingshan Township 1"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 38,
+                "StopSequence": 39,
                 "StopPosition": {
                     "PositionLon": 121.5613198,
                     "PositionLat": 25.1513866,
@@ -18386,7 +18386,7 @@
                     "En": "Juansi Waterfall"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 39,
+                "StopSequence": 40,
                 "StopPosition": {
                     "PositionLon": 121.56176,
                     "PositionLat": 25.15107,
@@ -18402,7 +18402,7 @@
                     "En": "Tudigong Temple"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 40,
+                "StopSequence": 41,
                 "StopPosition": {
                     "PositionLon": 121.56032,
                     "PositionLat": 25.14956,
@@ -18418,7 +18418,7 @@
                     "En": "Jingshan Stop 3"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 41,
+                "StopSequence": 42,
                 "StopPosition": {
                     "PositionLon": 121.55836,
                     "PositionLat": 25.14736,
@@ -18434,7 +18434,7 @@
                     "En": "Jingshan Stop 2"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 42,
+                "StopSequence": 43,
                 "StopPosition": {
                     "PositionLon": 121.558775,
                     "PositionLat": 25.146668,
@@ -18450,7 +18450,7 @@
                     "En": "Jingshan Stop 1"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 43,
+                "StopSequence": 44,
                 "StopPosition": {
                     "PositionLon": 121.5575439,
                     "PositionLat": 25.14515072,
@@ -18466,7 +18466,7 @@
                     "En": "Shanzaihou"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 44,
+                "StopSequence": 45,
                 "StopPosition": {
                     "PositionLon": 121.5471173,
                     "PositionLat": 25.13808703,
@@ -18482,7 +18482,7 @@
                     "En": "Water Purification Plant"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 45,
+                "StopSequence": 46,
                 "StopPosition": {
                     "PositionLon": 121.5496,
                     "PositionLat": 25.13917,
@@ -18498,7 +18498,7 @@
                     "En": "Yangmingshan Spring"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 46,
+                "StopSequence": 47,
                 "StopPosition": {
                     "PositionLon": 121.55124,
                     "PositionLat": 25.139787,
@@ -18514,7 +18514,7 @@
                     "En": "Shanzhuhu"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 47,
+                "StopSequence": 48,
                 "StopPosition": {
                     "PositionLon": 121.55698845385638,
                     "PositionLat": 25.142226101803665,
@@ -18530,7 +18530,7 @@
                     "En": "Gankengzi"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 48,
+                "StopSequence": 49,
                 "StopPosition": {
                     "PositionLon": 121.558337712714,
                     "PositionLat": 25.1420099648513,
@@ -18546,7 +18546,7 @@
                     "En": "Kuangliao 1"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 49,
+                "StopSequence": 50,
                 "StopPosition": {
                     "PositionLon": 121.559129,
                     "PositionLat": 25.143152,
@@ -18562,7 +18562,7 @@
                     "En": "Kuangliao"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 50,
+                "StopSequence": 51,
                 "StopPosition": {
                     "PositionLon": 121.5593,
                     "PositionLat": 25.14403,
@@ -18578,7 +18578,7 @@
                     "En": "Satellite Earth Station"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 51,
+                "StopSequence": 52,
                 "StopPosition": {
                     "PositionLon": 121.564713,
                     "PositionLat": 25.144377,
@@ -18594,7 +18594,7 @@
                     "En": "Jingshan Village 1"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 52,
+                "StopSequence": 53,
                 "StopPosition": {
                     "PositionLon": 121.5641876,
                     "PositionLat": 25.14353762,
@@ -18610,7 +18610,7 @@
                     "En": "Jingshan Village 2"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 53,
+                "StopSequence": 54,
                 "StopPosition": {
                     "PositionLon": 121.56488,
                     "PositionLat": 25.14206,
@@ -18626,7 +18626,7 @@
                     "En": "Jingshan Village 3"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 54,
+                "StopSequence": 55,
                 "StopPosition": {
                     "PositionLon": 121.56747,
                     "PositionLat": 25.14083,
@@ -18642,7 +18642,7 @@
                     "En": "Xiaguoxi"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 55,
+                "StopSequence": 56,
                 "StopPosition": {
                     "PositionLon": 121.5688647,
                     "PositionLat": 25.14092838,
@@ -18658,7 +18658,7 @@
                     "En": "Xingnong Bridge"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 56,
+                "StopSequence": 57,
                 "StopPosition": {
                     "PositionLon": 121.570212,
                     "PositionLat": 25.139328,
@@ -18674,7 +18674,7 @@
                     "En": "Zhengcuo"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 57,
+                "StopSequence": 58,
                 "StopPosition": {
                     "PositionLon": 121.571595,
                     "PositionLat": 25.13784856,
@@ -18690,7 +18690,7 @@
                     "En": "Pingjing St. Lane 28"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 58,
+                "StopSequence": 59,
                 "StopPosition": {
                     "PositionLon": 121.572083813217,
                     "PositionLat": 25.13655528,
@@ -18706,7 +18706,7 @@
                     "En": "Chencuo"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 59,
+                "StopSequence": 60,
                 "StopPosition": {
                     "PositionLon": 121.57406,
                     "PositionLat": 25.13507,
@@ -18722,7 +18722,7 @@
                     "En": "Lunziwei"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 60,
+                "StopSequence": 61,
                 "StopPosition": {
                     "PositionLon": 121.5732578,
                     "PositionLat": 25.13076683,
@@ -18738,7 +18738,7 @@
                     "En": "Gongdiling"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 61,
+                "StopSequence": 62,
                 "StopPosition": {
                     "PositionLon": 121.574546,
                     "PositionLat": 25.13084198,
@@ -18754,7 +18754,7 @@
                     "En": "Zunzitou"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 62,
+                "StopSequence": 63,
                 "StopPosition": {
                     "PositionLon": 121.574833,
                     "PositionLat": 25.13194,
@@ -18770,7 +18770,7 @@
                     "En": "Pingdeng Village"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 63,
+                "StopSequence": 64,
                 "StopPosition": {
                     "PositionLon": 121.5764777900028,
                     "PositionLat": 25.131355431183984,
@@ -18779,8 +18779,8 @@
                 "StationID": "673"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10273",
@@ -19128,22 +19128,6 @@
                 "StationID": "14422"
             },
             {
-                "StopUID": "TPE29261",
-                "StopID": "29261",
-                "StopName": {
-                    "Zh_tw": "陽明天主堂",
-                    "En": "Yangming Catholic Church"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 22,
-                "StopPosition": {
-                    "PositionLon": 121.54405,
-                    "PositionLat": 25.13869,
-                    "GeoHash": "wsqrjb3em"
-                },
-                "StationID": "858"
-            },
-            {
                 "StopUID": "TPE29262",
                 "StopID": "29262",
                 "StopName": {
@@ -19151,13 +19135,45 @@
                     "En": "Chinese Culture U. 1"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 23,
+                "StopSequence": 22,
                 "StopPosition": {
                     "PositionLon": 121.539805689524,
                     "PositionLat": 25.1372765580827,
                     "GeoHash": "wsqrj8ne4"
                 },
                 "StationID": "630"
+            },
+            {
+                "StopUID": "TPE223302",
+                "StopID": "223302",
+                "StopName": {
+                    "Zh_tw": "陽明天主堂",
+                    "En": "Yangming Catholic Church"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 23,
+                "StopPosition": {
+                    "PositionLon": 121.54379,
+                    "PositionLat": 25.13847,
+                    "GeoHash": "wsqrjb36p"
+                },
+                "StationID": "50662"
+            },
+            {
+                "StopUID": "TPE223303",
+                "StopID": "223303",
+                "StopName": {
+                    "Zh_tw": "文化大學",
+                    "En": "Chinese Culture U."
+                },
+                "StopBoarding": 0,
+                "StopSequence": 24,
+                "StopPosition": {
+                    "PositionLon": 121.5465825,
+                    "PositionLat": 25.13875593,
+                    "GeoHash": "wsqrjb7eb"
+                },
+                "StationID": "14422"
             },
             {
                 "StopUID": "TPE20854",
@@ -19167,7 +19183,7 @@
                     "En": "Shanzihou Police Substation"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 24,
+                "StopSequence": 25,
                 "StopPosition": {
                     "PositionLon": 121.54581401932357,
                     "PositionLat": 25.13472716039782,
@@ -19183,7 +19199,7 @@
                     "En": "Gezhi Junior High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 25,
+                "StopSequence": 26,
                 "StopPosition": {
                     "PositionLon": 121.54690862019565,
                     "PositionLat": 25.13082779909332,
@@ -19199,7 +19215,7 @@
                     "En": "Xiazhulin"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 26,
+                "StopSequence": 27,
                 "StopPosition": {
                     "PositionLon": 121.54753736436147,
                     "PositionLat": 25.12946964750175,
@@ -19215,7 +19231,7 @@
                     "En": "Xinan"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 27,
+                "StopSequence": 28,
                 "StopPosition": {
                     "PositionLon": 121.55004336876296,
                     "PositionLat": 25.124924540354783,
@@ -19231,7 +19247,7 @@
                     "En": "Baiyun Shanzhuang"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 28,
+                "StopSequence": 29,
                 "StopPosition": {
                     "PositionLon": 121.55169540467806,
                     "PositionLat": 25.12257511145472,
@@ -19247,7 +19263,7 @@
                     "En": "Mingde New Village"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 29,
+                "StopSequence": 30,
                 "StopPosition": {
                     "PositionLon": 121.55293378688096,
                     "PositionLat": 25.11993179445477,
@@ -19263,7 +19279,7 @@
                     "En": "Yangmingshan Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 30,
+                "StopSequence": 31,
                 "StopPosition": {
                     "PositionLon": 121.55202263410142,
                     "PositionLat": 25.11799052630939,
@@ -19279,7 +19295,7 @@
                     "En": "Fuyin"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 31,
+                "StopSequence": 32,
                 "StopPosition": {
                     "PositionLon": 121.550310398218,
                     "PositionLat": 25.1140124257428,
@@ -19295,7 +19311,7 @@
                     "En": "Yang Ming Home for the Disabled"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 32,
+                "StopSequence": 33,
                 "StopPosition": {
                     "PositionLon": 121.54836175021,
                     "PositionLat": 25.1104191040479,
@@ -19311,7 +19327,7 @@
                     "En": "Yongfu (The Lin Yutang House)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 33,
+                "StopSequence": 34,
                 "StopPosition": {
                     "PositionLon": 121.547154139609,
                     "PositionLat": 25.1095275064689,
@@ -19327,7 +19343,7 @@
                     "En": "Yongling"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 34,
+                "StopSequence": 35,
                 "StopPosition": {
                     "PositionLon": 121.545213090496,
                     "PositionLat": 25.1068495776368,
@@ -19343,7 +19359,7 @@
                     "En": "Bazipu"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 35,
+                "StopSequence": 36,
                 "StopPosition": {
                     "PositionLon": 121.543591,
                     "PositionLat": 25.104977,
@@ -19359,7 +19375,7 @@
                     "En": "Lingtou"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 36,
+                "StopSequence": 37,
                 "StopPosition": {
                     "PositionLon": 121.541536360844,
                     "PositionLat": 25.1031851590031,
@@ -19375,7 +19391,7 @@
                     "En": "Huaxing High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 37,
+                "StopSequence": 38,
                 "StopPosition": {
                     "PositionLon": 121.538359218545,
                     "PositionLat": 25.104112892574,
@@ -19391,7 +19407,7 @@
                     "En": "Zhilan New Village"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 38,
+                "StopSequence": 39,
                 "StopPosition": {
                     "PositionLon": 121.537298719254,
                     "PositionLat": 25.1072897892355,
@@ -19407,7 +19423,7 @@
                     "En": "Yanshan Village 1"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 39,
+                "StopSequence": 40,
                 "StopPosition": {
                     "PositionLon": 121.53692,
                     "PositionLat": 25.10331,
@@ -19423,7 +19439,7 @@
                     "En": "Yanshan Village"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 40,
+                "StopSequence": 41,
                 "StopPosition": {
                     "PositionLon": 121.537579799115,
                     "PositionLat": 25.1018780140349,
@@ -19439,7 +19455,7 @@
                     "En": "Taibei High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 41,
+                "StopSequence": 42,
                 "StopPosition": {
                     "PositionLon": 121.534030294965,
                     "PositionLat": 25.0977513146504,
@@ -19455,7 +19471,7 @@
                     "En": "Chiang Kai-Shek Shilin Residence (Zhongzheng)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 42,
+                "StopSequence": 43,
                 "StopPosition": {
                     "PositionLon": 121.53144,
                     "PositionLat": 25.0965,
@@ -19471,7 +19487,7 @@
                     "En": "Fulin Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 43,
+                "StopSequence": 44,
                 "StopPosition": {
                     "PositionLon": 121.52976,
                     "PositionLat": 25.0962,
@@ -19487,7 +19503,7 @@
                     "En": "MRT Shilin Sta. (Zhongzheng)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 44,
+                "StopSequence": 45,
                 "StopPosition": {
                     "PositionLon": 121.526622,
                     "PositionLat": 25.095583,
@@ -19503,7 +19519,7 @@
                     "En": "Shilin Jr. High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 45,
+                "StopSequence": 46,
                 "StopPosition": {
                     "PositionLon": 121.522929,
                     "PositionLat": 25.094772,
@@ -19519,7 +19535,7 @@
                     "En": "Shilin Admin. Center"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 46,
+                "StopSequence": 47,
                 "StopPosition": {
                     "PositionLon": 121.52041074945086,
                     "PositionLat": 25.092644539015005,
@@ -19535,7 +19551,7 @@
                     "En": "Civil Service Housing"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 47,
+                "StopSequence": 48,
                 "StopPosition": {
                     "PositionLon": 121.52206662370652,
                     "PositionLat": 25.090555500498695,
@@ -19551,7 +19567,7 @@
                     "En": "Shilin Market (Ming Chuan Hostel)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 48,
+                "StopSequence": 49,
                 "StopPosition": {
                     "PositionLon": 121.523626,
                     "PositionLat": 25.08816494,
@@ -19567,7 +19583,7 @@
                     "En": "MRT Jiantan Sta. (Taipei Performing Arts Center)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 49,
+                "StopSequence": 50,
                 "StopPosition": {
                     "PositionLon": 121.524748,
                     "PositionLat": 25.084849,
@@ -19576,8 +19592,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10277",
@@ -19781,8 +19797,8 @@
                 "StationID": "1574"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     },
     {
         "RouteUID": "TPE10277",
@@ -20002,7 +20018,7 @@
                 "StationID": "1001262"
             }
         ],
-        "UpdateTime": "2025-11-16T09:47:51+08:00",
-        "VersionID": 6347
+        "UpdateTime": "2025-11-23T09:07:49+08:00",
+        "VersionID": 6387
     }
 ]
