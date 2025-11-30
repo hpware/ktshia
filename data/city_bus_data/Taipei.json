@@ -64,8 +64,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100023400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10142",
@@ -165,8 +165,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0113000100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10181",
@@ -235,8 +235,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100020500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10221",
@@ -301,8 +301,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100061800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10231",
@@ -369,8 +369,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161001300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10232",
@@ -437,8 +437,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111002500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10241",
@@ -537,8 +537,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112003600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10251",
@@ -637,8 +637,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161001400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10253",
@@ -701,8 +701,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100002100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10261",
@@ -769,8 +769,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111003300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10262",
@@ -839,8 +839,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100000200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10263",
@@ -905,8 +905,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100053600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10272",
@@ -1025,8 +1025,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10273",
@@ -1269,8 +1269,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030320",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10277",
@@ -1403,8 +1403,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100054200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10278",
@@ -1505,8 +1505,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100066900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10282",
@@ -1571,8 +1571,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100066300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10283",
@@ -1641,8 +1641,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100023500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10291",
@@ -1705,8 +1705,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114000100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10292",
@@ -1773,8 +1773,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112001000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10293",
@@ -1841,8 +1841,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161000300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10326",
@@ -1911,8 +1911,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100064800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10328",
@@ -1981,8 +1981,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100064300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10331",
@@ -2051,8 +2051,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100064700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10332",
@@ -2121,8 +2121,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161000400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10333",
@@ -2191,8 +2191,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100064400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10334",
@@ -2261,8 +2261,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161001500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10414",
@@ -2361,8 +2361,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100026100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10415",
@@ -2431,8 +2431,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100022100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10416",
@@ -2501,8 +2501,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100023200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10417",
@@ -2571,8 +2571,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161001100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10419",
@@ -2637,8 +2637,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100023250",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10421",
@@ -2705,8 +2705,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111000900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10422",
@@ -2775,8 +2775,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100061700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10423",
@@ -2839,8 +2839,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100062200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10431",
@@ -2907,8 +2907,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111003100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10432",
@@ -3039,8 +3039,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112002600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10441",
@@ -3109,8 +3109,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100050800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10442",
@@ -3252,8 +3252,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100050820",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10443",
@@ -3354,8 +3354,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100022500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10452",
@@ -3424,8 +3424,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100064100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10461",
@@ -3526,8 +3526,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100064500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10462",
@@ -3592,8 +3592,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100064510",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10471",
@@ -3658,8 +3658,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100061500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10472",
@@ -3752,8 +3752,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100011100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10473",
@@ -3863,8 +3863,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10481",
@@ -3933,8 +3933,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100026500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10482",
@@ -4044,8 +4044,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100026520",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10711",
@@ -4114,8 +4114,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161001600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10712",
@@ -4184,8 +4184,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10721",
@@ -4284,8 +4284,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112002800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10722",
@@ -4352,8 +4352,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112002900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10723",
@@ -4452,8 +4452,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100000100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10724",
@@ -4521,8 +4521,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10725",
@@ -4589,8 +4589,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100056800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10726",
@@ -4657,8 +4657,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100001800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10733",
@@ -4725,8 +4725,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114000200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10734",
@@ -4791,8 +4791,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162000400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10735",
@@ -4893,8 +4893,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10736",
@@ -4963,8 +4963,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10741",
@@ -5031,8 +5031,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114000300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10742",
@@ -5131,8 +5131,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114000600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10743",
@@ -5199,8 +5199,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114001100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10744",
@@ -5267,8 +5267,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114001500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10745",
@@ -5361,8 +5361,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100023700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10746",
@@ -5431,8 +5431,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10747",
@@ -5495,8 +5495,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10748",
@@ -5565,8 +5565,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10749",
@@ -5633,8 +5633,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114001110",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10751",
@@ -5701,8 +5701,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114001200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10752",
@@ -5771,8 +5771,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100027800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10754",
@@ -5839,8 +5839,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100091500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10763",
@@ -5939,8 +5939,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10764",
@@ -6003,8 +6003,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100053100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10765",
@@ -6067,8 +6067,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100064600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10767",
@@ -6131,8 +6131,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100005300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10771",
@@ -6201,8 +6201,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10782",
@@ -6271,8 +6271,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10783",
@@ -6341,8 +6341,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10785",
@@ -6411,8 +6411,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10791",
@@ -6511,8 +6511,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153000500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10792",
@@ -6579,8 +6579,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100005200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10811",
@@ -6681,8 +6681,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100068500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10821",
@@ -6813,8 +6813,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111000500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10822",
@@ -6881,8 +6881,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100010800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10823",
@@ -6951,8 +6951,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100026000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10824",
@@ -7101,8 +7101,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100026020",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10831",
@@ -7233,8 +7233,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112000500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10832",
@@ -7301,8 +7301,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100002200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10841",
@@ -7403,8 +7403,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100000A00",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10842",
@@ -7473,8 +7473,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100022200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10844",
@@ -7543,8 +7543,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100065200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10845",
@@ -7611,8 +7611,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100028600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10846",
@@ -7681,8 +7681,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100028610",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10847",
@@ -7749,8 +7749,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100006300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10848",
@@ -7817,8 +7817,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100050500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10851",
@@ -7887,8 +7887,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161000100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10853",
@@ -7955,8 +7955,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100028720",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10856",
@@ -8023,8 +8023,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100028100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10861",
@@ -8134,8 +8134,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100063000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10862",
@@ -8202,8 +8202,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100003800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10863",
@@ -8270,8 +8270,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100003820",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10864",
@@ -8370,8 +8370,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100001200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10872",
@@ -8438,8 +8438,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100004600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10873",
@@ -8506,8 +8506,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100002000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10874",
@@ -8576,8 +8576,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100027700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10882",
@@ -8644,8 +8644,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100000900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10883",
@@ -8744,8 +8744,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153000700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10891",
@@ -8814,8 +8814,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100001400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10893",
@@ -8883,8 +8883,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100027400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10911",
@@ -8953,8 +8953,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021230",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10912",
@@ -9023,8 +9023,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10932",
@@ -9237,8 +9237,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161000200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10941",
@@ -9305,8 +9305,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112002500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10942",
@@ -9407,8 +9407,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10961",
@@ -9477,8 +9477,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100026200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10962",
@@ -9579,8 +9579,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100026220",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10971",
@@ -9647,8 +9647,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100008800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11011",
@@ -9715,8 +9715,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111002900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11021",
@@ -9815,8 +9815,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114000500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11022",
@@ -9915,8 +9915,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0113001100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11023",
@@ -9985,8 +9985,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11031",
@@ -10053,8 +10053,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114001000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11041",
@@ -10155,8 +10155,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11051",
@@ -10223,8 +10223,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11052",
@@ -10323,8 +10323,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151001200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11055",
@@ -10387,8 +10387,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11056",
@@ -10455,8 +10455,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100055200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11057",
@@ -10523,8 +10523,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000220",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11058",
@@ -10591,8 +10591,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11059",
@@ -10659,8 +10659,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11061",
@@ -10727,8 +10727,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000520",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11062",
@@ -10827,8 +10827,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000120",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11064",
@@ -10927,8 +10927,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151003600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11066",
@@ -10995,8 +10995,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100003200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11071",
@@ -11095,8 +11095,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151001000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11073",
@@ -11227,8 +11227,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151001100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11091",
@@ -11295,8 +11295,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100003700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11093",
@@ -11365,8 +11365,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100061200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11111",
@@ -11465,8 +11465,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112002700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11114",
@@ -11629,8 +11629,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100055100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11121",
@@ -11697,8 +11697,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111003500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11122",
@@ -11749,38 +11749,6 @@
                 "LastBusTime": "2120",
                 "HolidayFirstBusTime": "0730",
                 "HolidayLastBusTime": "2030"
-            },
-            {
-                "SubRouteUID": "TPE162439",
-                "SubRouteID": "162439",
-                "OperatorIDs": [
-                    "1100"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "小23假日區間",
-                    "En": "S23"
-                },
-                "Direction": 0,
-                "FirstBusTime": "0600",
-                "LastBusTime": "2120",
-                "HolidayFirstBusTime": "0730",
-                "HolidayLastBusTime": "2030"
-            },
-            {
-                "SubRouteUID": "TPE162439",
-                "SubRouteID": "162439",
-                "OperatorIDs": [
-                    "1100"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "小23假日區間",
-                    "En": "S23"
-                },
-                "Direction": 1,
-                "FirstBusTime": "0600",
-                "LastBusTime": "2120",
-                "HolidayFirstBusTime": "0730",
-                "HolidayLastBusTime": "2030"
             }
         ],
         "BusRouteType": 11,
@@ -11797,8 +11765,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151002300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11123",
@@ -11865,8 +11833,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100055000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11124",
@@ -11967,8 +11935,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100022300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11125",
@@ -12069,8 +12037,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11134",
@@ -12139,8 +12107,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11135",
@@ -12207,8 +12175,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151001400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11136",
@@ -12307,8 +12275,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151002100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11137",
@@ -12375,8 +12343,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151002200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11138",
@@ -12475,8 +12443,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151002500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11139",
@@ -12575,8 +12543,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11141",
@@ -12643,8 +12611,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11142",
@@ -12713,8 +12681,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11143",
@@ -12781,8 +12749,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151002600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11145",
@@ -12945,8 +12913,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11146",
@@ -13013,8 +12981,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153000200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11151",
@@ -13081,8 +13049,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100023000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11152",
@@ -13183,8 +13151,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161000900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11156",
@@ -13253,8 +13221,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11157",
@@ -13319,8 +13287,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021830",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11158",
@@ -13387,8 +13355,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021820",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11161",
@@ -13451,8 +13419,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100052900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11165",
@@ -13519,8 +13487,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100028800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11171",
@@ -13621,8 +13589,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100026590",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11201",
@@ -13689,8 +13657,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111000700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11202",
@@ -13789,8 +13757,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111000720",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11203",
@@ -13853,8 +13821,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100002600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11204",
@@ -13921,8 +13889,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100006800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11206",
@@ -14085,8 +14053,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151001500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11207",
@@ -14217,8 +14185,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151001520",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11208",
@@ -14573,8 +14541,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151001600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11209",
@@ -14673,8 +14641,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151001700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11211",
@@ -14741,8 +14709,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151001800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11212",
@@ -14841,8 +14809,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100020400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11213",
@@ -14941,8 +14909,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151001900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11217",
@@ -15073,8 +15041,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153000100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11221",
@@ -15143,8 +15111,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100028400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11231",
@@ -15207,8 +15175,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100062100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11232",
@@ -15273,8 +15241,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11241",
@@ -15339,8 +15307,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100066200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11242",
@@ -15439,8 +15407,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100053900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11243",
@@ -15507,8 +15475,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100003900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11245",
@@ -15577,8 +15545,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100022600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11246",
@@ -15647,8 +15615,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11251",
@@ -15747,8 +15715,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114001300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11252",
@@ -15813,8 +15781,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11253",
@@ -15913,8 +15881,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025520",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11411",
@@ -16088,8 +16056,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11421",
@@ -16152,8 +16120,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100051300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11741",
@@ -16220,8 +16188,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162002000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11742",
@@ -16290,8 +16258,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100061100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11763",
@@ -16358,8 +16326,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100023620",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11764",
@@ -16426,8 +16394,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025120",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11811",
@@ -16494,8 +16462,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100000B00",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11812",
@@ -16594,8 +16562,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161000700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11813",
@@ -16660,8 +16628,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100010900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11815",
@@ -16730,8 +16698,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100060600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11821",
@@ -16830,8 +16798,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100003300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11831",
@@ -16898,8 +16866,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100004900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11833",
@@ -16966,8 +16934,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161000800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11834",
@@ -17036,8 +17004,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100068800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11841",
@@ -17138,8 +17106,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100027000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11842",
@@ -17202,8 +17170,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100027020",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11851",
@@ -17272,8 +17240,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100027600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11853",
@@ -17340,8 +17308,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030620",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11854",
@@ -17513,8 +17481,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153000600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11861",
@@ -17583,8 +17551,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100000500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11871",
@@ -17747,8 +17715,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100004100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE11881",
@@ -17817,8 +17785,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161001000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15111",
@@ -17887,8 +17855,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100020200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15112",
@@ -17973,8 +17941,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100020800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15113",
@@ -18037,8 +18005,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100020820",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15141",
@@ -18105,8 +18073,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100002800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15142",
@@ -18173,8 +18141,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100004200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15143",
@@ -18237,8 +18205,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15151",
@@ -18303,8 +18271,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15161",
@@ -18369,8 +18337,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15162",
@@ -18439,8 +18407,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100028200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15164",
@@ -18507,8 +18475,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100053000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15171",
@@ -18609,8 +18577,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15172",
@@ -18673,8 +18641,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100055600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15173",
@@ -18741,8 +18709,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100091200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15183",
@@ -18843,8 +18811,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15184",
@@ -18923,8 +18891,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090510",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15185",
@@ -18989,8 +18957,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100020220",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15191",
@@ -19059,8 +19027,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100066000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15221",
@@ -19129,8 +19097,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100068200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15312",
@@ -19197,8 +19165,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111000200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15313",
@@ -19297,8 +19265,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100052100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15314",
@@ -19378,8 +19346,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100020300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15321",
@@ -19446,8 +19414,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111001000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15322",
@@ -19516,8 +19484,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15331",
@@ -19586,8 +19554,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111000320",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15332",
@@ -19688,8 +19656,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100026700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15333",
@@ -19754,8 +19722,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15334",
@@ -19903,8 +19871,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100062000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15335",
@@ -20005,8 +19973,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100068300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15341",
@@ -20105,8 +20073,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111001900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15352",
@@ -20171,8 +20139,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100026800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15353",
@@ -20241,8 +20209,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100024700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15355",
@@ -20305,8 +20273,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100024030",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15358",
@@ -20373,8 +20341,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100024720",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15359",
@@ -20475,8 +20443,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100068100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15361",
@@ -20543,8 +20511,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112000700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15362",
@@ -20611,8 +20579,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100007200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15372",
@@ -20681,8 +20649,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100020600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15373",
@@ -20783,8 +20751,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161000600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15375",
@@ -20851,8 +20819,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100022400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15381",
@@ -20945,8 +20913,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100024600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15391",
@@ -21094,8 +21062,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100027900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15512",
@@ -21160,8 +21128,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15513",
@@ -21262,8 +21230,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100071100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15514",
@@ -21332,8 +21300,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100060500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15515",
@@ -21402,8 +21370,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100066800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15516",
@@ -21468,8 +21436,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100060550",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15517",
@@ -21532,8 +21500,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100060510",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15518",
@@ -21598,8 +21566,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100060590",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15521",
@@ -21668,8 +21636,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100022700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15522",
@@ -21732,8 +21700,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100022720",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15531",
@@ -21800,8 +21768,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111001200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15532",
@@ -21870,8 +21838,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15541",
@@ -21938,8 +21906,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111001500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15546",
@@ -22008,8 +21976,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100028000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15551",
@@ -22076,8 +22044,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111003000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15553",
@@ -22178,8 +22146,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15554",
@@ -22248,8 +22216,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030490",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15561",
@@ -22318,8 +22286,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15562",
@@ -22388,8 +22356,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021430",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15563",
@@ -22506,8 +22474,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100031100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15571",
@@ -22619,8 +22587,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100060000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15572",
@@ -22769,8 +22737,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100020700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15573",
@@ -22933,8 +22901,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153000800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15581",
@@ -23035,8 +23003,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100061600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15657",
@@ -23101,8 +23069,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100028030",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15664",
@@ -23169,8 +23137,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100003940",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15676",
@@ -23235,8 +23203,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152001000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15677",
@@ -23300,8 +23268,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152001100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15678",
@@ -23366,8 +23334,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152001200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15679",
@@ -23432,8 +23400,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152001300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15680",
@@ -23498,8 +23466,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152001500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15681",
@@ -23564,8 +23532,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152001600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15682",
@@ -23639,8 +23607,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152001700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15683",
@@ -23703,8 +23671,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152001800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15684",
@@ -23767,8 +23735,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152001900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15685",
@@ -23833,8 +23801,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152000200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15686",
@@ -23897,8 +23865,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152002000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15687",
@@ -23974,8 +23942,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152000300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15688",
@@ -24038,8 +24006,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152000500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15689",
@@ -24103,8 +24071,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152000600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15690",
@@ -24169,8 +24137,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152000700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15691",
@@ -24244,8 +24212,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152000800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15693",
@@ -24439,8 +24407,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152000B00",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15694",
@@ -24505,8 +24473,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152003000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15695",
@@ -24570,8 +24538,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152003100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15696",
@@ -24636,8 +24604,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152003200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15698",
@@ -24738,8 +24706,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152003400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15702",
@@ -24887,8 +24855,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152000A00",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15708",
@@ -24955,8 +24923,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161001200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15711",
@@ -25055,8 +25023,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153000900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15724",
@@ -25175,8 +25143,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100012800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15726",
@@ -25241,8 +25209,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100012900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15730",
@@ -25341,8 +25309,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114001800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15731",
@@ -25409,8 +25377,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153001100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15734",
@@ -25473,8 +25441,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153001000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE15735",
@@ -25584,8 +25552,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100060200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16111",
@@ -25665,8 +25633,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16112",
@@ -25767,8 +25735,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100031000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16121",
@@ -25835,8 +25803,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100060400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16122",
@@ -25937,8 +25905,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100065100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16125",
@@ -26037,8 +26005,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112002020",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16127",
@@ -26139,8 +26107,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16128",
@@ -26209,8 +26177,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100022520",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16131",
@@ -26279,8 +26247,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100026540",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16132",
@@ -26349,8 +26317,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021240",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16133",
@@ -26417,8 +26385,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000920",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16140",
@@ -26517,8 +26485,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162002100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16153",
@@ -26585,8 +26553,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114001900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16157",
@@ -26637,8 +26605,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100020830",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16158",
@@ -26707,8 +26675,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029210",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16163",
@@ -26807,8 +26775,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162002200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16164",
@@ -26871,8 +26839,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153001200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16166",
@@ -26971,8 +26939,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111005000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16168",
@@ -27039,8 +27007,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100010820",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16169",
@@ -27103,8 +27071,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067220",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16172",
@@ -27173,8 +27141,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162001000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16174",
@@ -27273,8 +27241,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114002000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16184",
@@ -27339,8 +27307,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100068000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16439",
@@ -27403,8 +27371,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100027820",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16440",
@@ -27471,8 +27439,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112005000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16504",
@@ -27541,8 +27509,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100075600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16506",
@@ -27609,8 +27577,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112005100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16508",
@@ -27677,8 +27645,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162001200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16559",
@@ -27745,8 +27713,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100004220",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16568",
@@ -27837,8 +27805,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114002100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16648",
@@ -27905,8 +27873,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151002800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16649",
@@ -27973,8 +27941,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153001500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16706",
@@ -28053,8 +28021,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100150300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16707",
@@ -28154,8 +28122,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100150400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16709",
@@ -28218,8 +28186,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025420",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16746",
@@ -28349,8 +28317,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100171700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16747",
@@ -28417,8 +28385,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0114002200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16749",
@@ -28485,8 +28453,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111005500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE16750",
@@ -28549,8 +28517,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111005520",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17018",
@@ -28617,8 +28585,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162001100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17020",
@@ -28681,8 +28649,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151003000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17022",
@@ -28756,8 +28724,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111005700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17333",
@@ -28824,8 +28792,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100055700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17363",
@@ -28893,8 +28861,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100094900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17390",
@@ -28987,8 +28955,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100095000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17436",
@@ -29053,8 +29021,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111000300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17512",
@@ -29117,8 +29085,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100031120",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17555",
@@ -29209,8 +29177,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0113001600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17556",
@@ -29271,8 +29239,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0113001700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17560",
@@ -29331,8 +29299,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162003000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17561",
@@ -29393,8 +29361,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162003100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17709",
@@ -29472,8 +29440,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100095500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17740",
@@ -29570,8 +29538,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100095700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17800",
@@ -29621,8 +29589,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162003400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17801",
@@ -29720,8 +29688,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162003500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17805",
@@ -29820,8 +29788,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100055900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17825",
@@ -29888,8 +29856,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100066020",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17869",
@@ -29957,8 +29925,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100008820",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17908",
@@ -30025,8 +29993,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153001600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17928",
@@ -30202,8 +30170,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090790",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17929",
@@ -30350,8 +30318,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111006800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17944",
@@ -30418,8 +30386,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100006600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17952",
@@ -30488,8 +30456,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100061710",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17967",
@@ -30580,8 +30548,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162000700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE17993",
@@ -30644,8 +30612,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111001020",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18015",
@@ -30706,8 +30674,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152002100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18039",
@@ -30758,8 +30726,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162000900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18040",
@@ -30858,8 +30826,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151001020",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18044",
@@ -30926,8 +30894,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0112000710",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18057",
@@ -30992,8 +30960,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029510",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18198",
@@ -31058,8 +31026,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152003500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18199",
@@ -31110,8 +31078,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152003600",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18228",
@@ -31176,8 +31144,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152003700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18348",
@@ -31240,8 +31208,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=null",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18428",
@@ -31332,8 +31300,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152003800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18508",
@@ -31400,8 +31368,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=null",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18648",
@@ -31450,8 +31418,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152004200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18658",
@@ -31518,8 +31486,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152004400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18708",
@@ -31568,8 +31536,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152004700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18868",
@@ -31632,8 +31600,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111003520",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE18878",
@@ -31682,8 +31650,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152004900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19028",
@@ -31746,8 +31714,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152005000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19108",
@@ -31827,8 +31795,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030790",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19159",
@@ -31897,8 +31865,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=null",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19178",
@@ -31967,8 +31935,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=null",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19298",
@@ -32035,8 +32003,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0111002520",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19408",
@@ -32101,8 +32069,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152005100",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19418",
@@ -32169,8 +32137,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151000820",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19438",
@@ -32237,8 +32205,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=null",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19448",
@@ -32301,8 +32269,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153001700",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19458",
@@ -32367,8 +32335,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=null",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19488",
@@ -32417,8 +32385,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152005200",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19528",
@@ -32483,8 +32451,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=null",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19539",
@@ -32547,8 +32515,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152005300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19618",
@@ -32611,8 +32579,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0153001800",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19648",
@@ -32679,8 +32647,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162001300",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19649",
@@ -32747,8 +32715,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0162001400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19678",
@@ -32811,8 +32779,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=null",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19688",
@@ -32877,8 +32845,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100031020",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19698",
@@ -32941,8 +32909,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=null",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19716",
@@ -33009,8 +32977,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0151003900",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19717",
@@ -33109,8 +33077,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030220",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19718",
@@ -33173,8 +33141,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090220",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19719",
@@ -33241,8 +33209,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=null",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19720",
@@ -33311,8 +33279,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0100053620",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19721",
@@ -33606,8 +33574,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152005400",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19755",
@@ -33656,8 +33624,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0163000000",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE19759",
@@ -33733,8 +33701,8 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0152005500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE810",
@@ -33803,7 +33771,7 @@
         "RouteMapImageUrl": "https://ebus.gov.taipei/MapOverview?nid=0161000500",
         "City": "Taipei",
         "CityCode": "TPE",
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     }
 ]

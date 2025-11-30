@@ -601,8 +601,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10132",
@@ -799,9 +799,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 12,
                 "StopPosition": {
-                    "PositionLon": 121.48024,
-                    "PositionLat": 25.01945,
-                    "GeoHash": "wsqqk6ehy"
+                    "PositionLon": 121.480295,
+                    "PositionLat": 25.01949,
+                    "GeoHash": "wsqqk6em0"
                 },
                 "StationID": "6195"
             },
@@ -1238,8 +1238,8 @@
                 "StationID": "1000431"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10142",
@@ -2099,8 +2099,8 @@
                 "StationID": "3916"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10142",
@@ -2928,8 +2928,8 @@
                 "StationID": "72232"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10181",
@@ -3917,8 +3917,8 @@
                 "StationID": "4623"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10181",
@@ -4810,8 +4810,8 @@
                 "StationID": "1000965"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10221",
@@ -5847,8 +5847,8 @@
                 "StationID": "1165604808"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10221",
@@ -6804,8 +6804,8 @@
                 "StationID": "30017"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10231",
@@ -7377,8 +7377,8 @@
                 "StationID": "1165604811"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10231",
@@ -7998,8 +7998,8 @@
                 "StationID": "1646"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10232",
@@ -8459,8 +8459,8 @@
                 "StationID": "1484"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10232",
@@ -8920,8 +8920,8 @@
                 "StationID": "1606"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10241",
@@ -9477,8 +9477,8 @@
                 "StationID": "1697"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10241",
@@ -9819,9 +9819,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 21,
                 "StopPosition": {
-                    "PositionLon": 121.629129,
-                    "PositionLat": 25.067712,
-                    "GeoHash": "wsqqxerwh"
+                    "PositionLon": 121.628878,
+                    "PositionLat": 25.067676,
+                    "GeoHash": "wsqqxermy"
                 },
                 "StationID": "7642"
             },
@@ -10018,8 +10018,8 @@
                 "StationID": "7651"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10251",
@@ -10671,8 +10671,8 @@
                 "StationID": "1449"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10251",
@@ -11308,8 +11308,8 @@
                 "StationID": "1000899"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10253",
@@ -11357,7 +11357,7 @@
                 "StopID": "203503",
                 "StopName": {
                     "Zh_tw": "圓山大飯店",
-                    "En": "Grand Hotel"
+                    "En": "The Grand Hotel"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 3,
@@ -11577,8 +11577,8 @@
                 "StationID": "993"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10253",
@@ -11850,7 +11850,7 @@
                 "StopID": "203529",
                 "StopName": {
                     "Zh_tw": "圓山大飯店",
-                    "En": "Grand Hotel"
+                    "En": "The Grand Hotel"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 17,
@@ -11910,8 +11910,8 @@
                 "StationID": "1001373"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10261",
@@ -12291,8 +12291,8 @@
                 "StationID": "219"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10261",
@@ -12720,8 +12720,8 @@
                 "StationID": "5988"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10262",
@@ -13373,8 +13373,8 @@
                 "StationID": "50687"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10262",
@@ -14122,8 +14122,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10263",
@@ -14935,8 +14935,8 @@
                 "StationID": "1001316"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10263",
@@ -15764,8 +15764,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10272",
@@ -16881,8 +16881,8 @@
                 "StationID": "9473"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10272",
@@ -17742,8 +17742,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10273",
@@ -18212,11 +18212,11 @@
                 "StopBoarding": 0,
                 "StopSequence": 29,
                 "StopPosition": {
-                    "PositionLon": 121.5465825,
-                    "PositionLat": 25.13875593,
-                    "GeoHash": "wsqrjb7eb"
+                    "PositionLon": 121.54648,
+                    "PositionLat": 25.13809,
+                    "GeoHash": "wsqrjb5ry"
                 },
-                "StationID": "14422"
+                "StationID": "629"
             },
             {
                 "StopUID": "TPE125650",
@@ -18779,8 +18779,8 @@
                 "StationID": "673"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10273",
@@ -19169,11 +19169,11 @@
                 "StopBoarding": 0,
                 "StopSequence": 24,
                 "StopPosition": {
-                    "PositionLon": 121.5465825,
-                    "PositionLat": 25.13875593,
-                    "GeoHash": "wsqrjb7eb"
+                    "PositionLon": 121.54648,
+                    "PositionLat": 25.13809,
+                    "GeoHash": "wsqrjb5ry"
                 },
-                "StationID": "14422"
+                "StationID": "629"
             },
             {
                 "StopUID": "TPE20854",
@@ -19592,8 +19592,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10277",
@@ -19797,8 +19797,8 @@
                 "StationID": "1574"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     },
     {
         "RouteUID": "TPE10277",
@@ -20018,7 +20018,7 @@
                 "StationID": "1001262"
             }
         ],
-        "UpdateTime": "2025-11-23T09:07:49+08:00",
-        "VersionID": 6387
+        "UpdateTime": "2025-11-30T08:05:15+08:00",
+        "VersionID": 6428
     }
 ]

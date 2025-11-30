@@ -761,8 +761,8 @@
                 "StationID": "5261"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO1060",
@@ -1286,8 +1286,8 @@
                 "StationID": "975"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO112",
@@ -1868,9 +1868,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 36,
                 "StopPosition": {
-                    "PositionLon": 121.230065,
-                    "PositionLat": 24.942323,
-                    "GeoHash": "wsqjyst59"
+                    "PositionLon": 121.230109,
+                    "PositionLat": 24.942304,
+                    "GeoHash": "wsqjyst56"
                 },
                 "StationID": "258"
             },
@@ -1955,8 +1955,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO11892",
@@ -2224,8 +2224,8 @@
                 "StationID": "18612"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO11892",
@@ -2493,8 +2493,8 @@
                 "StationID": "18619"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO11894",
@@ -2666,8 +2666,8 @@
                 "StationID": "18612"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO11920",
@@ -2903,8 +2903,8 @@
                 "StationID": "4722"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO11920",
@@ -3140,8 +3140,8 @@
                 "StationID": "4830"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO122",
@@ -3274,9 +3274,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 8,
                 "StopPosition": {
-                    "PositionLon": 121.236191,
-                    "PositionLat": 24.970906,
-                    "GeoHash": "wsqnnccd0"
+                    "PositionLon": 121.236229,
+                    "PositionLat": 24.970854,
+                    "GeoHash": "wsqnncc9b"
                 },
                 "StationID": "8760"
             },
@@ -3290,9 +3290,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 9,
                 "StopPosition": {
-                    "PositionLon": 121.236277,
-                    "PositionLat": 24.975069,
-                    "GeoHash": "wsqnnf9d6"
+                    "PositionLon": 121.236302,
+                    "PositionLat": 24.975038,
+                    "GeoHash": "wsqnnf9d4"
                 },
                 "StationID": "286"
             },
@@ -3306,9 +3306,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 10,
                 "StopPosition": {
-                    "PositionLon": 121.236314,
-                    "PositionLat": 24.977921,
-                    "GeoHash": "wsqnng1df"
+                    "PositionLon": 121.236369,
+                    "PositionLat": 24.977514,
+                    "GeoHash": "wsqnng18s"
                 },
                 "StationID": "284"
             },
@@ -3322,9 +3322,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 11,
                 "StopPosition": {
-                    "PositionLon": 121.236346,
-                    "PositionLat": 24.97954,
-                    "GeoHash": "wsqnng3s7"
+                    "PositionLon": 121.236398,
+                    "PositionLat": 24.979672,
+                    "GeoHash": "wsqnng3th"
                 },
                 "StationID": "5268"
             },
@@ -3354,9 +3354,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 13,
                 "StopPosition": {
-                    "PositionLon": 121.234565,
-                    "PositionLat": 24.991384,
-                    "GeoHash": "wsqnnv836"
+                    "PositionLon": 121.234611,
+                    "PositionLat": 24.991443,
+                    "GeoHash": "wsqnnv83e"
                 },
                 "StationID": "280"
             },
@@ -3386,9 +3386,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 15,
                 "StopPosition": {
-                    "PositionLon": 121.232592,
-                    "PositionLat": 24.995649,
-                    "GeoHash": "wsqnnwqfh"
+                    "PositionLon": 121.232659,
+                    "PositionLat": 24.995706,
+                    "GeoHash": "wsqnnwqft"
                 },
                 "StationID": "275"
             },
@@ -3402,9 +3402,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 16,
                 "StopPosition": {
-                    "PositionLon": 121.229744,
-                    "PositionLat": 25.000844,
-                    "GeoHash": "wsqnnxkb3"
+                    "PositionLon": 121.229724,
+                    "PositionLat": 25.000967,
+                    "GeoHash": "wsqnnxkc1"
                 },
                 "StationID": "273"
             },
@@ -3418,15 +3418,15 @@
                 "StopBoarding": 0,
                 "StopSequence": 17,
                 "StopPosition": {
-                    "PositionLon": 121.229097,
+                    "PositionLon": 121.229094,
                     "PositionLat": 25.003959,
                     "GeoHash": "wsqnnxu6d"
                 },
                 "StationID": "271"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO122",
@@ -3479,9 +3479,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 3,
                 "StopPosition": {
-                    "PositionLon": 121.232435,
-                    "PositionLat": 24.995643,
-                    "GeoHash": "wsqnnwqf0"
+                    "PositionLon": 121.232351,
+                    "PositionLat": 24.995665,
+                    "GeoHash": "wsqnnwqdq"
                 },
                 "StationID": "274"
             },
@@ -3511,9 +3511,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 5,
                 "StopPosition": {
-                    "PositionLon": 121.23435,
-                    "PositionLat": 24.99137,
-                    "GeoHash": "wsqnnv81m"
+                    "PositionLon": 121.234442,
+                    "PositionLat": 24.991201,
+                    "GeoHash": "wsqnnv80r"
                 },
                 "StationID": "279"
             },
@@ -3559,9 +3559,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 8,
                 "StopPosition": {
-                    "PositionLon": 121.236094,
-                    "PositionLat": 24.975822,
-                    "GeoHash": "wsqnnf9qt"
+                    "PositionLon": 121.236028,
+                    "PositionLat": 24.975853,
+                    "GeoHash": "wsqnnf9qu"
                 },
                 "StationID": "285"
             },
@@ -3575,9 +3575,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 9,
                 "StopPosition": {
-                    "PositionLon": 121.236019,
-                    "PositionLat": 24.971062,
-                    "GeoHash": "wsqnncc6g"
+                    "PositionLon": 121.235976,
+                    "PositionLat": 24.971003,
+                    "GeoHash": "wsqnncc6d"
                 },
                 "StationID": "8761"
             },
@@ -3726,8 +3726,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO12900",
@@ -3748,9 +3748,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 1,
                 "StopPosition": {
-                    "PositionLon": 121.26466,
-                    "PositionLat": 25.019419,
-                    "GeoHash": "wsqnr6whx"
+                    "PositionLon": 121.264801,
+                    "PositionLat": 25.019528,
+                    "GeoHash": "wsqnr6wm6"
                 },
                 "StationID": "1704"
             },
@@ -4203,24 +4203,24 @@
                 "StationID": "2174"
             },
             {
-                "StopUID": "TAO9572",
-                "StopID": "9572",
+                "StopUID": "TAO9",
+                "StopID": "9",
                 "StopName": {
-                    "Zh_tw": "復興中正路口",
-                    "En": "Fuxing and Zhongzheng Road Intersection"
+                    "Zh_tw": "復興中正路口(桃園火車站)",
+                    "En": "Fuxing and Zhongzheng Rd. Int.(Taoyuan Station)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 30,
                 "StopPosition": {
-                    "PositionLon": 121.313449,
-                    "PositionLat": 24.990713,
-                    "GeoHash": "wsqq0t3v2"
+                    "PositionLon": 121.313782,
+                    "PositionLat": 24.990692,
+                    "GeoHash": "wsqq0t6j2"
                 },
-                "StationID": "1490"
+                "StationID": "1489"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO12900",
@@ -4257,9 +4257,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 2,
                 "StopPosition": {
-                    "PositionLon": 121.311644,
-                    "PositionLat": 24.993582,
-                    "GeoHash": "wsqq0tbqn"
+                    "PositionLon": 121.312125,
+                    "PositionLat": 24.992961,
+                    "GeoHash": "wsqq0tbf9"
                 },
                 "StationID": "379"
             },
@@ -4449,9 +4449,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 14,
                 "StopPosition": {
-                    "PositionLon": 121.287391,
-                    "PositionLat": 25.009133,
-                    "GeoHash": "wsqnrbybc"
+                    "PositionLon": 121.287474,
+                    "PositionLat": 25.009219,
+                    "GeoHash": "wsqnrbyc6"
                 },
                 "StationID": "1694"
             },
@@ -4481,9 +4481,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 16,
                 "StopPosition": {
-                    "PositionLon": 121.280323,
-                    "PositionLat": 25.010462,
-                    "GeoHash": "wsqnrc18s"
+                    "PositionLon": 121.279909,
+                    "PositionLat": 25.010685,
+                    "GeoHash": "wsqnrc13f"
                 },
                 "StationID": "1698"
             },
@@ -4497,9 +4497,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 17,
                 "StopPosition": {
-                    "PositionLon": 121.277607,
-                    "PositionLat": 25.011284,
-                    "GeoHash": "wsqnr9ptm"
+                    "PositionLon": 121.277769,
+                    "PositionLat": 25.011304,
+                    "GeoHash": "wsqnr9pv2"
                 },
                 "StationID": "1702"
             },
@@ -4513,9 +4513,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 18,
                 "StopPosition": {
-                    "PositionLon": 121.275193,
-                    "PositionLat": 25.012078,
-                    "GeoHash": "wsqnr9mcu"
+                    "PositionLon": 121.275269,
+                    "PositionLat": 25.012104,
+                    "GeoHash": "wsqnr9mfn"
                 },
                 "StationID": "2176"
             },
@@ -4545,9 +4545,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 20,
                 "StopPosition": {
-                    "PositionLon": 121.267242,
-                    "PositionLat": 25.018415,
-                    "GeoHash": "wsqnrd2ng"
+                    "PositionLon": 121.267046,
+                    "PositionLat": 25.018645,
+                    "GeoHash": "wsqnr6xbn"
                 },
                 "StationID": "2184"
             },
@@ -4561,9 +4561,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 21,
                 "StopPosition": {
-                    "PositionLon": 121.265773,
-                    "PositionLat": 25.019716,
-                    "GeoHash": "wsqnr6xn3"
+                    "PositionLon": 121.265788,
+                    "PositionLat": 25.019804,
+                    "GeoHash": "wsqnr6xnc"
                 },
                 "StationID": "2187"
             },
@@ -4577,9 +4577,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 22,
                 "StopPosition": {
-                    "PositionLon": 121.262786,
-                    "PositionLat": 25.021785,
-                    "GeoHash": "wsqnr7hf7"
+                    "PositionLon": 121.262859,
+                    "PositionLat": 25.021845,
+                    "GeoHash": "wsqnr7hfv"
                 },
                 "StationID": "4109"
             },
@@ -4609,9 +4609,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 24,
                 "StopPosition": {
-                    "PositionLon": 121.256986,
-                    "PositionLat": 25.024824,
-                    "GeoHash": "wsqnr78sh"
+                    "PositionLon": 121.256509,
+                    "PositionLat": 25.024966,
+                    "GeoHash": "wsqnr78kc"
                 },
                 "StationID": "4114"
             },
@@ -4705,15 +4705,15 @@
                 "StopBoarding": 0,
                 "StopSequence": 30,
                 "StopPosition": {
-                    "PositionLon": 121.26466,
-                    "PositionLat": 25.019419,
-                    "GeoHash": "wsqnr6whx"
+                    "PositionLon": 121.264239,
+                    "PositionLat": 25.019065,
+                    "GeoHash": "wsqnr6tft"
                 },
-                "StationID": "1704"
+                "StationID": "66719"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO130",
@@ -5333,8 +5333,8 @@
                 "StationID": "1335"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO130",
@@ -5746,8 +5746,8 @@
                 "StationID": "1490"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO133",
@@ -6008,9 +6008,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 16,
                 "StopPosition": {
-                    "PositionLon": 121.195586,
-                    "PositionLat": 24.968317,
-                    "GeoHash": "wsqnjc7fv"
+                    "PositionLon": 121.195577,
+                    "PositionLat": 24.968844,
+                    "GeoHash": "wsqnjc7yj"
                 },
                 "StationID": "235"
             },
@@ -6024,9 +6024,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 17,
                 "StopPosition": {
-                    "PositionLon": 121.191515,
-                    "PositionLat": 24.969879,
-                    "GeoHash": "wsqnjc8un"
+                    "PositionLon": 121.191488,
+                    "PositionLat": 24.969912,
+                    "GeoHash": "wsqnjc8uq"
                 },
                 "StationID": "2393"
             },
@@ -6040,15 +6040,15 @@
                 "StopBoarding": 0,
                 "StopSequence": 18,
                 "StopPosition": {
-                    "PositionLon": 121.191033,
-                    "PositionLat": 24.968136,
-                    "GeoHash": "wsqnjc29g"
+                    "PositionLon": 121.191092,
+                    "PositionLat": 24.968256,
+                    "GeoHash": "wsqnjc2dt"
                 },
                 "StationID": "205"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO133",
@@ -6069,9 +6069,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 1,
                 "StopPosition": {
-                    "PositionLon": 121.195586,
-                    "PositionLat": 24.968317,
-                    "GeoHash": "wsqnjc7fv"
+                    "PositionLon": 121.195577,
+                    "PositionLat": 24.968844,
+                    "GeoHash": "wsqnjc7yj"
                 },
                 "StationID": "235"
             },
@@ -6085,9 +6085,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 2,
                 "StopPosition": {
-                    "PositionLon": 121.19142,
-                    "PositionLat": 24.966775,
-                    "GeoHash": "wsqnjc0fh"
+                    "PositionLon": 121.191688,
+                    "PositionLat": 24.966726,
+                    "GeoHash": "wsqnjc11e"
                 },
                 "StationID": "236"
             },
@@ -6101,9 +6101,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 3,
                 "StopPosition": {
-                    "PositionLon": 121.195482,
-                    "PositionLat": 24.967941,
-                    "GeoHash": "wsqnjc7bg"
+                    "PositionLon": 121.195588,
+                    "PositionLat": 24.967945,
+                    "GeoHash": "wsqnjc7bv"
                 },
                 "StationID": "238"
             },
@@ -6117,9 +6117,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 4,
                 "StopPosition": {
-                    "PositionLon": 121.200219,
-                    "PositionLat": 24.968144,
-                    "GeoHash": "wsqnjcr3c"
+                    "PositionLon": 121.200259,
+                    "PositionLat": 24.968145,
+                    "GeoHash": "wsqnjcr3f"
                 },
                 "StationID": "1351"
             },
@@ -6348,8 +6348,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO1331",
@@ -6578,9 +6578,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 14,
                 "StopPosition": {
-                    "PositionLon": 121.195586,
-                    "PositionLat": 24.968317,
-                    "GeoHash": "wsqnjc7fv"
+                    "PositionLon": 121.195577,
+                    "PositionLat": 24.968844,
+                    "GeoHash": "wsqnjc7yj"
                 },
                 "StationID": "235"
             },
@@ -6594,9 +6594,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 15,
                 "StopPosition": {
-                    "PositionLon": 121.191515,
-                    "PositionLat": 24.969879,
-                    "GeoHash": "wsqnjc8un"
+                    "PositionLon": 121.191488,
+                    "PositionLat": 24.969912,
+                    "GeoHash": "wsqnjc8uq"
                 },
                 "StationID": "2393"
             },
@@ -6610,9 +6610,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 16,
                 "StopPosition": {
-                    "PositionLon": 121.191033,
-                    "PositionLat": 24.968136,
-                    "GeoHash": "wsqnjc29g"
+                    "PositionLon": 121.191092,
+                    "PositionLat": 24.968256,
+                    "GeoHash": "wsqnjc2dt"
                 },
                 "StationID": "205"
             },
@@ -6626,9 +6626,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 17,
                 "StopPosition": {
-                    "PositionLon": 121.19142,
-                    "PositionLat": 24.966775,
-                    "GeoHash": "wsqnjc0fh"
+                    "PositionLon": 121.191688,
+                    "PositionLat": 24.966726,
+                    "GeoHash": "wsqnjc11e"
                 },
                 "StationID": "236"
             },
@@ -6642,15 +6642,15 @@
                 "StopBoarding": 0,
                 "StopSequence": 18,
                 "StopPosition": {
-                    "PositionLon": 121.195482,
-                    "PositionLat": 24.967941,
-                    "GeoHash": "wsqnjc7bg"
+                    "PositionLon": 121.195588,
+                    "PositionLat": 24.967945,
+                    "GeoHash": "wsqnjc7bv"
                 },
                 "StationID": "238"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO1331",
@@ -6671,9 +6671,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 1,
                 "StopPosition": {
-                    "PositionLon": 121.200219,
-                    "PositionLat": 24.968144,
-                    "GeoHash": "wsqnjcr3c"
+                    "PositionLon": 121.200259,
+                    "PositionLat": 24.968145,
+                    "GeoHash": "wsqnjcr3f"
                 },
                 "StationID": "1351"
             },
@@ -6886,8 +6886,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO1332",
@@ -7043,8 +7043,8 @@
                 "StationID": "8503"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO1332",
@@ -7216,8 +7216,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO1371",
@@ -7990,9 +7990,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 48,
                 "StopPosition": {
-                    "PositionLon": 121.284119,
-                    "PositionLat": 25.053993,
-                    "GeoHash": "wsqnxbuqh"
+                    "PositionLon": 121.285459,
+                    "PositionLat": 25.053294,
+                    "GeoHash": "wsqnxbv6h"
                 },
                 "StationID": "1529"
             },
@@ -8077,8 +8077,8 @@
                 "StationID": "1398"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO1371",
@@ -8179,9 +8179,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 6,
                 "StopPosition": {
-                    "PositionLon": 121.285168,
-                    "PositionLat": 25.053199,
-                    "GeoHash": "wsqnxbv1m"
+                    "PositionLon": 121.285101,
+                    "PositionLat": 25.053163,
+                    "GeoHash": "wsqnxbv17"
                 },
                 "StationID": "1528"
             },
@@ -8954,8 +8954,8 @@
                 "StationID": "4019"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO168",
@@ -9863,8 +9863,8 @@
                 "StationID": "5684"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO168",
@@ -10756,8 +10756,8 @@
                 "StationID": "2147"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO1681",
@@ -11713,8 +11713,8 @@
                 "StationID": "5684"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO1681",
@@ -12654,8 +12654,8 @@
                 "StationID": "2147"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO170",
@@ -13044,9 +13044,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 24,
                 "StopPosition": {
-                    "PositionLon": 121.215677,
-                    "PositionLat": 25.007859,
-                    "GeoHash": "wsqnq2d93"
+                    "PositionLon": 121.215889,
+                    "PositionLat": 25.007737,
+                    "GeoHash": "wsqnq2d8w"
                 },
                 "StationID": "4297"
             },
@@ -13083,8 +13083,8 @@
                 "StationID": "1848"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
         "RouteUID": "TAO170",
@@ -13121,9 +13121,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 2,
                 "StopPosition": {
-                    "PositionLon": 121.213832,
-                    "PositionLat": 25.009959,
-                    "GeoHash": "wsqnq2cjx"
+                    "PositionLon": 121.213904,
+                    "PositionLat": 25.009691,
+                    "GeoHash": "wsqnq2ck0"
                 },
                 "StationID": "1427"
             },
@@ -13137,9 +13137,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 3,
                 "StopPosition": {
-                    "PositionLon": 121.215404,
-                    "PositionLat": 25.007795,
-                    "GeoHash": "wsqnq2d2g"
+                    "PositionLon": 121.215699,
+                    "PositionLat": 25.007457,
+                    "GeoHash": "wsqnq26wf"
                 },
                 "StationID": "4298"
             },
@@ -13480,335 +13480,354 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     },
     {
-        "RouteUID": "TAO1730",
-        "RouteID": "1730",
+        "RouteUID": "TAO1721",
+        "RouteID": "1721",
         "RouteName": {
-            "Zh_tw": "173",
-            "En": "173"
+            "Zh_tw": "172A (12/1上路)",
+            "En": "172A"
         },
         "Direction": 0,
         "Stops": [
             {
-                "StopUID": "TAO8362",
-                "StopID": "8362",
+                "StopUID": "TAO9473",
+                "StopID": "9473",
                 "StopName": {
-                    "Zh_tw": "中央大學警衛室",
-                    "En": "Guardroom of Central University"
+                    "Zh_tw": "中原大學全人村",
+                    "En": "Chung Yuan Christian University Cyuanrencun"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 1,
                 "StopPosition": {
-                    "PositionLon": 121.195586,
-                    "PositionLat": 24.968317,
-                    "GeoHash": "wsqnjc7fv"
+                    "PositionLon": 121.241605,
+                    "PositionLat": 24.958253,
+                    "GeoHash": "wsqjyzt2q"
                 },
-                "StationID": "235"
+                "StationID": "65948"
             },
             {
-                "StopUID": "TAO2619",
-                "StopID": "2619",
+                "StopUID": "TAO9474",
+                "StopID": "9474",
                 "StopName": {
-                    "Zh_tw": "中大湖",
-                    "En": "Zhongda Lake"
+                    "Zh_tw": "中原大學信實宿舍",
+                    "En": "Chung Yuan Christian University Sinshih Hall"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 2,
                 "StopPosition": {
-                    "PositionLon": 121.191515,
-                    "PositionLat": 24.969879,
-                    "GeoHash": "wsqnjc8un"
+                    "PositionLon": 121.245429,
+                    "PositionLat": 24.957454,
+                    "GeoHash": "wsqjzp25x"
                 },
-                "StationID": "2393"
+                "StationID": "4990"
             },
             {
-                "StopUID": "TAO272",
-                "StopID": "272",
+                "StopUID": "TAO9475",
+                "StopID": "9475",
                 "StopName": {
-                    "Zh_tw": "中央大學依仁堂",
-                    "En": "Yi-Ren-Tang of Central University"
+                    "Zh_tw": "普忠路",
+                    "En": "Puzhong Road"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 3,
                 "StopPosition": {
-                    "PositionLon": 121.191033,
-                    "PositionLat": 24.968136,
-                    "GeoHash": "wsqnjc29g"
+                    "PositionLon": 121.247859,
+                    "PositionLat": 24.959145,
+                    "GeoHash": "wsqjzp9vx"
                 },
-                "StationID": "205"
+                "StationID": "65950"
             },
             {
-                "StopUID": "TAO273",
-                "StopID": "273",
+                "StopUID": "TAO2803",
+                "StopID": "2803",
                 "StopName": {
-                    "Zh_tw": "中央大學後門",
-                    "En": "The Back Door of Central University"
+                    "Zh_tw": "中園育樂街口",
+                    "En": "Jhongyuan Yule St. Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 4,
                 "StopPosition": {
-                    "PositionLon": 121.19142,
-                    "PositionLat": 24.966775,
-                    "GeoHash": "wsqnjc0fh"
+                    "PositionLon": 121.236922,
+                    "PositionLat": 24.966986,
+                    "GeoHash": "wsqnnc451"
                 },
-                "StationID": "236"
+                "StationID": "4268"
             },
             {
-                "StopUID": "TAO274",
-                "StopID": "274",
+                "StopUID": "TAO2334",
+                "StopID": "2334",
                 "StopName": {
-                    "Zh_tw": "中央大學觀景台",
-                    "En": "Observatory of Central University"
+                    "Zh_tw": "中園福州二街口",
+                    "En": "Jhongyuan Fujhou 2nd St. Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 5,
                 "StopPosition": {
-                    "PositionLon": 121.195482,
-                    "PositionLat": 24.967941,
-                    "GeoHash": "wsqnjc7bg"
+                    "PositionLon": 121.236259,
+                    "PositionLat": 24.969478,
+                    "GeoHash": "wsqnnc99c"
                 },
-                "StationID": "238"
+                "StationID": "290"
             },
             {
-                "StopUID": "TAO275",
-                "StopID": "275",
+                "StopUID": "TAO5024",
+                "StopID": "5024",
                 "StopName": {
-                    "Zh_tw": "中央大學正門",
-                    "En": "The Front Door of Central University"
+                    "Zh_tw": "中福派出所",
+                    "En": "Zhongfu Police Station"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 6,
                 "StopPosition": {
-                    "PositionLon": 121.200219,
-                    "PositionLat": 24.968144,
-                    "GeoHash": "wsqnjcr3c"
+                    "PositionLon": 121.236229,
+                    "PositionLat": 24.970854,
+                    "GeoHash": "wsqnncc9b"
                 },
-                "StationID": "1351"
+                "StationID": "8760"
             },
             {
-                "StopUID": "TAO64235",
-                "StopID": "64235",
+                "StopUID": "TAO9603",
+                "StopID": "9603",
                 "StopName": {
-                    "Zh_tw": "潤泰公司",
-                    "En": "Runtai Company"
+                    "Zh_tw": "啟英高中",
+                    "En": "Chi-Ying Senior High School"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 7,
                 "StopPosition": {
-                    "PositionLon": 121.201287,
-                    "PositionLat": 24.971127,
-                    "GeoHash": "wsqnn1b56"
+                    "PositionLon": 121.236302,
+                    "PositionLat": 24.975038,
+                    "GeoHash": "wsqnnf9d4"
                 },
-                "StationID": "241"
+                "StationID": "286"
             },
             {
-                "StopUID": "TAO64234",
-                "StopID": "64234",
+                "StopUID": "TAO9605",
+                "StopID": "9605",
                 "StopName": {
-                    "Zh_tw": "三座厝",
-                    "En": "Sanzuocuo"
+                    "Zh_tw": "玉尊宮",
+                    "En": "Yuzun Temple"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 8,
                 "StopPosition": {
-                    "PositionLon": 121.198771,
-                    "PositionLat": 24.973449,
-                    "GeoHash": "wsqnjfq2b"
+                    "PositionLon": 121.236369,
+                    "PositionLat": 24.977514,
+                    "GeoHash": "wsqnng18s"
                 },
-                "StationID": "336"
+                "StationID": "284"
             },
             {
-                "StopUID": "TAO5782",
-                "StopID": "5782",
+                "StopUID": "TAO9607",
+                "StopID": "9607",
                 "StopName": {
-                    "Zh_tw": "三民里",
-                    "En": "Sanmin Village"
+                    "Zh_tw": "土地宮",
+                    "En": "Tudi Temple"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 9,
                 "StopPosition": {
-                    "PositionLon": 121.196007,
-                    "PositionLat": 24.976397,
-                    "GeoHash": "wsqnjfu4p"
+                    "PositionLon": 121.236398,
+                    "PositionLat": 24.979672,
+                    "GeoHash": "wsqnng3th"
                 },
-                "StationID": "243"
+                "StationID": "5268"
             },
             {
-                "StopUID": "TAO64232",
-                "StopID": "64232",
+                "StopUID": "TAO5033",
+                "StopID": "5033",
                 "StopName": {
-                    "Zh_tw": "崎頂",
-                    "En": "Qiding"
+                    "Zh_tw": "桃園大圳橋",
+                    "En": "Taoyuan Dazhen Bridge"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 10,
                 "StopPosition": {
-                    "PositionLon": 121.193326,
-                    "PositionLat": 24.979865,
-                    "GeoHash": "wsqnjg6q3"
+                    "PositionLon": 121.237749,
+                    "PositionLat": 24.984445,
+                    "GeoHash": "wsqnnu68u"
                 },
-                "StationID": "245"
+                "StationID": "282"
             },
             {
-                "StopUID": "TAO64230",
-                "StopID": "64230",
+                "StopUID": "TAO64427",
+                "StopID": "64427",
                 "StopName": {
-                    "Zh_tw": "三宏",
-                    "En": "Sanhong"
+                    "Zh_tw": "萬能科技大學",
+                    "En": "Vanung University"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 11,
                 "StopPosition": {
-                    "PositionLon": 121.189864,
-                    "PositionLat": 24.983085,
-                    "GeoHash": "wsqnjspc0"
+                    "PositionLon": 121.234611,
+                    "PositionLat": 24.991443,
+                    "GeoHash": "wsqnnv83e"
                 },
-                "StationID": "251"
+                "StationID": "280"
             },
             {
-                "StopUID": "TAO64229",
-                "StopID": "64229",
+                "StopUID": "TAO5037",
+                "StopID": "5037",
                 "StopName": {
-                    "Zh_tw": "水圳頭",
-                    "En": "Shuichoutou"
+                    "Zh_tw": "賴厝",
+                    "En": "Laicuo"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 12,
                 "StopPosition": {
-                    "PositionLon": 121.187805,
-                    "PositionLat": 24.984352,
-                    "GeoHash": "wsqnjsq22"
+                    "PositionLon": 121.233898,
+                    "PositionLat": 24.993026,
+                    "GeoHash": "wsqnntzff"
                 },
-                "StationID": "253"
+                "StationID": "278"
             },
             {
-                "StopUID": "TAO7738",
-                "StopID": "7738",
+                "StopUID": "TAO64425",
+                "StopID": "64425",
                 "StopName": {
-                    "Zh_tw": "內厝",
-                    "En": "Neicuo"
+                    "Zh_tw": "謝厝",
+                    "En": "Xiecuo"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 13,
                 "StopPosition": {
-                    "PositionLon": 121.189662,
-                    "PositionLat": 24.987632,
-                    "GeoHash": "wsqnjszee"
+                    "PositionLon": 121.232659,
+                    "PositionLat": 24.995706,
+                    "GeoHash": "wsqnnwqft"
                 },
-                "StationID": "4263"
+                "StationID": "275"
             },
             {
-                "StopUID": "TAO39012",
-                "StopID": "39012",
+                "StopUID": "TAO9480",
+                "StopID": "9480",
                 "StopName": {
-                    "Zh_tw": "聖德路口",
-                    "En": "Sheng-te Road Intersection"
+                    "Zh_tw": "大江購物中心",
+                    "En": "Metrowalk Shoping Center"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 14,
                 "StopPosition": {
-                    "PositionLon": 121.194679,
-                    "PositionLat": 24.992535,
-                    "GeoHash": "wsqnjvg20"
+                    "PositionLon": 121.229724,
+                    "PositionLat": 25.000967,
+                    "GeoHash": "wsqnnxkc1"
                 },
-                "StationID": "5652"
+                "StationID": "273"
             },
             {
-                "StopUID": "TAO7764",
-                "StopID": "7764",
+                "StopUID": "TAO64423",
+                "StopID": "64423",
                 "StopName": {
-                    "Zh_tw": "捷運桃園體育園區站(領航北路)",
-                    "En": "MRT Taoyuan Sports Park Station(Linghang N. Rd.)"
+                    "Zh_tw": "鄉界",
+                    "En": "Xiangjie"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 15,
                 "StopPosition": {
-                    "PositionLon": 121.201848,
-                    "PositionLat": 25.002015,
-                    "GeoHash": "wsqnnp2rr"
+                    "PositionLon": 121.229094,
+                    "PositionLat": 25.003959,
+                    "GeoHash": "wsqnnxu6d"
                 },
-                "StationID": "8711"
+                "StationID": "271"
             },
             {
-                "StopUID": "TAO7739",
-                "StopID": "7739",
+                "StopUID": "TAO9482",
+                "StopID": "9482",
                 "StopName": {
-                    "Zh_tw": "永裕路口",
-                    "En": "Yongyu Rd. Intersection"
+                    "Zh_tw": "寶城",
+                    "En": "Baocheng"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 16,
                 "StopPosition": {
-                    "PositionLon": 121.201335,
-                    "PositionLat": 25.005939,
-                    "GeoHash": "wsqnq00n5"
+                    "PositionLon": 121.228399,
+                    "PositionLat": 25.006584,
+                    "GeoHash": "wsqnq87cf"
                 },
-                "StationID": "3135"
+                "StationID": "268"
             },
             {
-                "StopUID": "TAO9194",
-                "StopID": "9194",
+                "StopUID": "TAO64421",
+                "StopID": "64421",
                 "StopName": {
-                    "Zh_tw": "領航北民權路口",
-                    "En": "Linghang N. Minquan intersection"
+                    "Zh_tw": "上岡崎",
+                    "En": "Shanggangqi"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 17,
                 "StopPosition": {
-                    "PositionLon": 121.202352,
-                    "PositionLat": 25.007737,
-                    "GeoHash": "wsqnq08be"
+                    "PositionLon": 121.227808,
+                    "PositionLat": 25.009135,
+                    "GeoHash": "wsqnq8g2u"
                 },
-                "StationID": "5127"
+                "StationID": "267"
             },
             {
-                "StopUID": "TAO9641",
-                "StopID": "9641",
+                "StopUID": "TAO9484",
+                "StopID": "9484",
                 "StopName": {
-                    "Zh_tw": "青埔國中",
-                    "En": "Qingpu Junior High School"
+                    "Zh_tw": "岡崎",
+                    "En": "Gangqi"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 18,
                 "StopPosition": {
-                    "PositionLon": 121.206276,
-                    "PositionLat": 25.010662,
-                    "GeoHash": "wsqnq159w"
+                    "PositionLon": 121.227819,
+                    "PositionLat": 25.010755,
+                    "GeoHash": "wsqnq956h"
                 },
-                "StationID": "262"
+                "StationID": "65959"
             },
             {
-                "StopUID": "TAO9677",
-                "StopID": "9677",
+                "StopUID": "TAO9485",
+                "StopID": "9485",
                 "StopName": {
-                    "Zh_tw": "高鐵桃園站",
-                    "En": "THSR Taoyuan Station"
+                    "Zh_tw": "青昇路一段132巷口",
+                    "En": "Qingsheng Road  Section 1 Lane 132"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 19,
                 "StopPosition": {
-                    "PositionLon": 121.213987,
-                    "PositionLat": 25.012749,
-                    "GeoHash": "wsqnq33mf"
+                    "PositionLon": 121.226207,
+                    "PositionLat": 25.014336,
+                    "GeoHash": "wsqnq9dpp"
                 },
-                "StationID": "1848"
-            }
-        ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
-    },
-    {
-        "RouteUID": "TAO1730",
-        "RouteID": "1730",
-        "RouteName": {
-            "Zh_tw": "173",
-            "En": "173"
-        },
-        "Direction": 1,
-        "Stops": [
+                "StationID": "65960"
+            },
+            {
+                "StopUID": "TAO9486",
+                "StopID": "9486",
+                "StopName": {
+                    "Zh_tw": "青埔致遠一路口",
+                    "En": "Qingpu and Zhiyuan 1st Rd. Intersection"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 20,
+                "StopPosition": {
+                    "PositionLon": 121.215889,
+                    "PositionLat": 25.007735,
+                    "GeoHash": "wsqnq2d8w"
+                },
+                "StationID": "65961"
+            },
+            {
+                "StopUID": "TAO4294",
+                "StopID": "4294",
+                "StopName": {
+                    "Zh_tw": "中厝",
+                    "En": "Zhongcuo"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 21,
+                "StopPosition": {
+                    "PositionLon": 121.214098,
+                    "PositionLat": 25.010076,
+                    "GeoHash": "wsqnq2cqm"
+                },
+                "StationID": "1426"
+            },
             {
                 "StopUID": "TAO9677",
                 "StopID": "9677",
@@ -13817,7 +13836,7 @@
                     "En": "THSR Taoyuan Station"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 1,
+                "StopSequence": 22,
                 "StopPosition": {
                     "PositionLon": 121.213987,
                     "PositionLat": 25.012749,
@@ -13826,68 +13845,84 @@
                 "StationID": "1848"
             },
             {
-                "StopUID": "TAO9676",
-                "StopID": "9676",
+                "StopUID": "TAO4295",
+                "StopID": "4295",
                 "StopName": {
-                    "Zh_tw": "青埔國中",
-                    "En": "Qingpu Junior High School"
+                    "Zh_tw": "中厝",
+                    "En": "Zhongcuo"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 2,
+                "StopSequence": 23,
                 "StopPosition": {
-                    "PositionLon": 121.206919,
-                    "PositionLat": 25.011885,
-                    "GeoHash": "wsqnq1k0v"
+                    "PositionLon": 121.213904,
+                    "PositionLat": 25.009691,
+                    "GeoHash": "wsqnq2ck0"
                 },
-                "StationID": "263"
+                "StationID": "1427"
             },
             {
-                "StopUID": "TAO9210",
-                "StopID": "9210",
+                "StopUID": "TAO7750",
+                "StopID": "7750",
                 "StopName": {
-                    "Zh_tw": "領航北公園路口",
-                    "En": "Linghang N. Gongyuan intersection"
+                    "Zh_tw": "青埔致遠一路口",
+                    "En": "Qingpu and Zhiyuan 1st Rd. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 3,
+                "StopSequence": 24,
                 "StopPosition": {
-                    "PositionLon": 121.203967,
-                    "PositionLat": 25.008961,
-                    "GeoHash": "wsqnq0dpc"
+                    "PositionLon": 121.215699,
+                    "PositionLat": 25.007457,
+                    "GeoHash": "wsqnq26wf"
                 },
-                "StationID": "5131"
+                "StationID": "4298"
             },
             {
-                "StopUID": "TAO7742",
-                "StopID": "7742",
+                "StopUID": "TAO9514",
+                "StopID": "9514",
                 "StopName": {
-                    "Zh_tw": "永裕路口",
-                    "En": "Yongyu Rd. Intersection"
+                    "Zh_tw": "青埔",
+                    "En": "Qingpu"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 4,
+                "StopSequence": 25,
                 "StopPosition": {
-                    "PositionLon": 121.200912,
-                    "PositionLat": 25.006231,
-                    "GeoHash": "wsqnmbpzc"
+                    "PositionLon": 121.215115,
+                    "PositionLat": 25.005806,
+                    "GeoHash": "wsqnq24jk"
                 },
-                "StationID": "3136"
+                "StationID": "1689"
             },
             {
-                "StopUID": "TAO7765",
-                "StopID": "7765",
+                "StopUID": "TAO7752",
+                "StopID": "7752",
                 "StopName": {
-                    "Zh_tw": "捷運桃園體育園區站(領航北路)",
-                    "En": "MRT Taoyuan Sports Park Station(Linghang N. Rd.)"
+                    "Zh_tw": "領航南公園路口",
+                    "En": "Linghang S. and Gongyuan Rd. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 5,
+                "StopSequence": 26,
                 "StopPosition": {
-                    "PositionLon": 121.2015,
-                    "PositionLat": 25.00209,
-                    "GeoHash": "wsqnnp2px"
+                    "PositionLon": 121.212912,
+                    "PositionLat": 25.003597,
+                    "GeoHash": "wsqnnrb89"
                 },
-                "StationID": "8712"
+                "StationID": "8691"
+            },
+            {
+                "StopUID": "TAO7753",
+                "StopID": "7753",
+                "StopName": {
+                    "Zh_tw": "領航南文德路口",
+                    "En": "Linghang S. and Wende Rd. Intersection"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 27,
+                "StopPosition": {
+                    "PositionLon": 121.207969,
+                    "PositionLat": 25.000892,
+                    "GeoHash": "wsqnnpkby"
+                },
+                "StationID": "8692"
             },
             {
                 "StopUID": "TAO8471",
@@ -13897,7 +13932,7 @@
                     "En": "Taoyuan International Baseball Stadium"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 6,
+                "StopSequence": 28,
                 "StopPosition": {
                     "PositionLon": 121.201361,
                     "PositionLat": 24.999981,
@@ -13906,14 +13941,14 @@
                 "StationID": "1368"
             },
             {
-                "StopUID": "TAO3584",
-                "StopID": "3584",
+                "StopUID": "TAO18364",
+                "StopID": "18364",
                 "StopName": {
                     "Zh_tw": "聖德路口",
                     "En": "Sheng-te Road Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 7,
+                "StopSequence": 29,
                 "StopPosition": {
                     "PositionLon": 121.193419,
                     "PositionLat": 24.992056,
@@ -13922,14 +13957,14 @@
                 "StationID": "5653"
             },
             {
-                "StopUID": "TAO7743",
-                "StopID": "7743",
+                "StopUID": "TAO6777",
+                "StopID": "6777",
                 "StopName": {
                     "Zh_tw": "內厝",
                     "En": "Neicuo"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 8,
+                "StopSequence": 30,
                 "StopPosition": {
                     "PositionLon": 121.191284,
                     "PositionLat": 24.989863,
@@ -13945,7 +13980,7 @@
                     "En": "Shuichoutou"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 9,
+                "StopSequence": 31,
                 "StopPosition": {
                     "PositionLon": 121.187509,
                     "PositionLat": 24.984269,
@@ -13961,7 +13996,7 @@
                     "En": "Sanhong"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 10,
+                "StopSequence": 32,
                 "StopPosition": {
                     "PositionLon": 121.189757,
                     "PositionLat": 24.982923,
@@ -13977,7 +14012,7 @@
                     "En": "Qiding"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 11,
+                "StopSequence": 33,
                 "StopPosition": {
                     "PositionLon": 121.193677,
                     "PositionLat": 24.979249,
@@ -13986,14 +14021,14 @@
                 "StationID": "246"
             },
             {
-                "StopUID": "TAO5929",
-                "StopID": "5929",
+                "StopUID": "TAO64139",
+                "StopID": "64139",
                 "StopName": {
                     "Zh_tw": "三民里",
                     "En": "Sanmin Village"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 12,
+                "StopSequence": 34,
                 "StopPosition": {
                     "PositionLon": 121.195979,
                     "PositionLat": 24.976087,
@@ -14002,20 +14037,20 @@
                 "StationID": "244"
             },
             {
-                "StopUID": "TAO5928",
-                "StopID": "5928",
+                "StopUID": "TAO64138",
+                "StopID": "64138",
                 "StopName": {
-                    "Zh_tw": "三座屋",
-                    "En": "SanTzuo"
+                    "Zh_tw": "三座厝",
+                    "En": "Sanzuocuo"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 13,
+                "StopSequence": 35,
                 "StopPosition": {
-                    "PositionLon": 121.19875,
-                    "PositionLat": 24.973354,
-                    "GeoHash": "wsqnjfq0r"
+                    "PositionLon": 121.198653,
+                    "PositionLat": 24.973266,
+                    "GeoHash": "wsqnjfnpv"
                 },
-                "StationID": "5473"
+                "StationID": "335"
             },
             {
                 "StopUID": "TAO64137",
@@ -14025,7 +14060,7 @@
                     "En": "Runtai Company"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 14,
+                "StopSequence": 36,
                 "StopPosition": {
                     "PositionLon": 121.201034,
                     "PositionLat": 24.971132,
@@ -14034,14 +14069,14 @@
                 "StationID": "242"
             },
             {
-                "StopUID": "TAO5934",
-                "StopID": "5934",
+                "StopUID": "TAO269",
+                "StopID": "269",
                 "StopName": {
                     "Zh_tw": "中央大學正門",
                     "En": "The Front Door of Central University"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 15,
+                "StopSequence": 37,
                 "StopPosition": {
                     "PositionLon": 121.200395,
                     "PositionLat": 24.968268,
@@ -14050,87 +14085,676 @@
                 "StationID": "1350"
             },
             {
-                "StopUID": "TAO5935",
-                "StopID": "5935",
+                "StopUID": "TAO5773",
+                "StopID": "5773",
                 "StopName": {
                     "Zh_tw": "中央大學警衛室",
                     "En": "Guardroom of Central University"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 16,
+                "StopSequence": 38,
                 "StopPosition": {
-                    "PositionLon": 121.195586,
-                    "PositionLat": 24.968317,
-                    "GeoHash": "wsqnjc7fv"
+                    "PositionLon": 121.195577,
+                    "PositionLat": 24.968844,
+                    "GeoHash": "wsqnjc7yj"
                 },
                 "StationID": "235"
             },
             {
-                "StopUID": "TAO2620",
-                "StopID": "2620",
+                "StopUID": "TAO2619",
+                "StopID": "2619",
                 "StopName": {
                     "Zh_tw": "中大湖",
                     "En": "Zhongda Lake"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 17,
+                "StopSequence": 39,
                 "StopPosition": {
-                    "PositionLon": 121.191515,
-                    "PositionLat": 24.969879,
-                    "GeoHash": "wsqnjc8un"
+                    "PositionLon": 121.191488,
+                    "PositionLat": 24.969912,
+                    "GeoHash": "wsqnjc8uq"
                 },
                 "StationID": "2393"
             },
             {
-                "StopUID": "TAO5937",
-                "StopID": "5937",
+                "StopUID": "TAO5800",
+                "StopID": "5800",
                 "StopName": {
                     "Zh_tw": "中央大學依仁堂",
                     "En": "Yi-Ren-Tang of Central University"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 18,
+                "StopSequence": 40,
                 "StopPosition": {
-                    "PositionLon": 121.191033,
-                    "PositionLat": 24.968136,
-                    "GeoHash": "wsqnjc29g"
+                    "PositionLon": 121.191092,
+                    "PositionLat": 24.968256,
+                    "GeoHash": "wsqnjc2dt"
                 },
                 "StationID": "205"
             },
             {
-                "StopUID": "TAO5938",
-                "StopID": "5938",
+                "StopUID": "TAO5799",
+                "StopID": "5799",
                 "StopName": {
                     "Zh_tw": "中央大學後門",
                     "En": "The Back Door of Central University"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 19,
+                "StopSequence": 41,
                 "StopPosition": {
-                    "PositionLon": 121.191132,
-                    "PositionLat": 24.966834,
-                    "GeoHash": "wsqnjc0dq"
+                    "PositionLon": 121.191688,
+                    "PositionLat": 24.966726,
+                    "GeoHash": "wsqnjc11e"
                 },
-                "StationID": "237"
+                "StationID": "236"
             },
             {
-                "StopUID": "TAO274",
-                "StopID": "274",
+                "StopUID": "TAO5798",
+                "StopID": "5798",
                 "StopName": {
                     "Zh_tw": "中央大學觀景台",
                     "En": "Observatory of Central University"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 20,
+                "StopSequence": 42,
                 "StopPosition": {
-                    "PositionLon": 121.195482,
-                    "PositionLat": 24.967941,
-                    "GeoHash": "wsqnjc7bg"
+                    "PositionLon": 121.195588,
+                    "PositionLat": 24.967945,
+                    "GeoHash": "wsqnjc7bv"
                 },
                 "StationID": "238"
             }
         ],
-        "UpdateTime": "2025-11-23T04:09:18+08:00",
-        "VersionID": 4134
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
+    },
+    {
+        "RouteUID": "TAO1721",
+        "RouteID": "1721",
+        "RouteName": {
+            "Zh_tw": "172A (12/1上路)",
+            "En": "172A"
+        },
+        "Direction": 1,
+        "Stops": [
+            {
+                "StopUID": "TAO275",
+                "StopID": "275",
+                "StopName": {
+                    "Zh_tw": "中央大學正門",
+                    "En": "The Front Door of Central University"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 1,
+                "StopPosition": {
+                    "PositionLon": 121.200259,
+                    "PositionLat": 24.968145,
+                    "GeoHash": "wsqnjcr3f"
+                },
+                "StationID": "1351"
+            },
+            {
+                "StopUID": "TAO64235",
+                "StopID": "64235",
+                "StopName": {
+                    "Zh_tw": "潤泰公司",
+                    "En": "Runtai Company"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 2,
+                "StopPosition": {
+                    "PositionLon": 121.201287,
+                    "PositionLat": 24.971127,
+                    "GeoHash": "wsqnn1b56"
+                },
+                "StationID": "241"
+            },
+            {
+                "StopUID": "TAO64234",
+                "StopID": "64234",
+                "StopName": {
+                    "Zh_tw": "三座厝",
+                    "En": "Sanzuocuo"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 3,
+                "StopPosition": {
+                    "PositionLon": 121.198771,
+                    "PositionLat": 24.973449,
+                    "GeoHash": "wsqnjfq2b"
+                },
+                "StationID": "336"
+            },
+            {
+                "StopUID": "TAO5782",
+                "StopID": "5782",
+                "StopName": {
+                    "Zh_tw": "三民里",
+                    "En": "Sanmin Village"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 4,
+                "StopPosition": {
+                    "PositionLon": 121.196007,
+                    "PositionLat": 24.976397,
+                    "GeoHash": "wsqnjfu4p"
+                },
+                "StationID": "243"
+            },
+            {
+                "StopUID": "TAO64232",
+                "StopID": "64232",
+                "StopName": {
+                    "Zh_tw": "崎頂",
+                    "En": "Qiding"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 5,
+                "StopPosition": {
+                    "PositionLon": 121.193326,
+                    "PositionLat": 24.979865,
+                    "GeoHash": "wsqnjg6q3"
+                },
+                "StationID": "245"
+            },
+            {
+                "StopUID": "TAO64230",
+                "StopID": "64230",
+                "StopName": {
+                    "Zh_tw": "三宏",
+                    "En": "Sanhong"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 6,
+                "StopPosition": {
+                    "PositionLon": 121.189864,
+                    "PositionLat": 24.983085,
+                    "GeoHash": "wsqnjspc0"
+                },
+                "StationID": "251"
+            },
+            {
+                "StopUID": "TAO64229",
+                "StopID": "64229",
+                "StopName": {
+                    "Zh_tw": "水圳頭",
+                    "En": "Shuichoutou"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 7,
+                "StopPosition": {
+                    "PositionLon": 121.187805,
+                    "PositionLat": 24.984352,
+                    "GeoHash": "wsqnjsq22"
+                },
+                "StationID": "253"
+            },
+            {
+                "StopUID": "TAO6776",
+                "StopID": "6776",
+                "StopName": {
+                    "Zh_tw": "內厝",
+                    "En": "Neicuo"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 8,
+                "StopPosition": {
+                    "PositionLon": 121.189718,
+                    "PositionLat": 24.987645,
+                    "GeoHash": "wsqnjszet"
+                },
+                "StationID": "4263"
+            },
+            {
+                "StopUID": "TAO18363",
+                "StopID": "18363",
+                "StopName": {
+                    "Zh_tw": "聖德路口",
+                    "En": "Sheng-te Road Intersection"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 9,
+                "StopPosition": {
+                    "PositionLon": 121.194679,
+                    "PositionLat": 24.992535,
+                    "GeoHash": "wsqnjvg20"
+                },
+                "StationID": "5652"
+            },
+            {
+                "StopUID": "TAO7744",
+                "StopID": "7744",
+                "StopName": {
+                    "Zh_tw": "領航南文德路口",
+                    "En": "Linghang S. and Wende Rd. Intersection"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 10,
+                "StopPosition": {
+                    "PositionLon": 121.208289,
+                    "PositionLat": 25.000536,
+                    "GeoHash": "wsqnnpjnt"
+                },
+                "StationID": "8689"
+            },
+            {
+                "StopUID": "TAO7745",
+                "StopID": "7745",
+                "StopName": {
+                    "Zh_tw": "領航南公園路口",
+                    "En": "Linghang S. and Gongyuan Rd. Intersection"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 11,
+                "StopPosition": {
+                    "PositionLon": 121.212648,
+                    "PositionLat": 25.002793,
+                    "GeoHash": "wsqnnr87g"
+                },
+                "StationID": "8690"
+            },
+            {
+                "StopUID": "TAO9513",
+                "StopID": "9513",
+                "StopName": {
+                    "Zh_tw": "青埔",
+                    "En": "Qingpu"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 12,
+                "StopPosition": {
+                    "PositionLon": 121.215028,
+                    "PositionLat": 25.005122,
+                    "GeoHash": "wsqnq2416"
+                },
+                "StationID": "1688"
+            },
+            {
+                "StopUID": "TAO9486",
+                "StopID": "9486",
+                "StopName": {
+                    "Zh_tw": "青埔致遠一路口",
+                    "En": "Qingpu and Zhiyuan 1st Rd. Intersection"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 13,
+                "StopPosition": {
+                    "PositionLon": 121.215889,
+                    "PositionLat": 25.007735,
+                    "GeoHash": "wsqnq2d8w"
+                },
+                "StationID": "65961"
+            },
+            {
+                "StopUID": "TAO4294",
+                "StopID": "4294",
+                "StopName": {
+                    "Zh_tw": "中厝",
+                    "En": "Zhongcuo"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 14,
+                "StopPosition": {
+                    "PositionLon": 121.214098,
+                    "PositionLat": 25.010076,
+                    "GeoHash": "wsqnq2cqm"
+                },
+                "StationID": "1426"
+            },
+            {
+                "StopUID": "TAO9677",
+                "StopID": "9677",
+                "StopName": {
+                    "Zh_tw": "高鐵桃園站",
+                    "En": "THSR Taoyuan Station"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 15,
+                "StopPosition": {
+                    "PositionLon": 121.213987,
+                    "PositionLat": 25.012749,
+                    "GeoHash": "wsqnq33mf"
+                },
+                "StationID": "1848"
+            },
+            {
+                "StopUID": "TAO9490",
+                "StopID": "9490",
+                "StopName": {
+                    "Zh_tw": "青昇一街口",
+                    "En": "Qingsheng 1st St. Intersection"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 16,
+                "StopPosition": {
+                    "PositionLon": 121.220459,
+                    "PositionLat": 25.015056,
+                    "GeoHash": "wsqnq3y53"
+                },
+                "StationID": "65965"
+            },
+            {
+                "StopUID": "TAO9491",
+                "StopID": "9491",
+                "StopName": {
+                    "Zh_tw": "青昇宮",
+                    "En": "Qingsheng Temple"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 17,
+                "StopPosition": {
+                    "PositionLon": 121.222197,
+                    "PositionLat": 25.014271,
+                    "GeoHash": "wsqnq3xq9"
+                },
+                "StationID": "65966"
+            },
+            {
+                "StopUID": "TAO9492",
+                "StopID": "9492",
+                "StopName": {
+                    "Zh_tw": "青昇路一段132巷口",
+                    "En": "Qingsheng Road  Section 1 Lane 132"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 18,
+                "StopPosition": {
+                    "PositionLon": 121.226179,
+                    "PositionLat": 25.014075,
+                    "GeoHash": "wsqnq9djw"
+                },
+                "StationID": "7197"
+            },
+            {
+                "StopUID": "TAO9493",
+                "StopID": "9493",
+                "StopName": {
+                    "Zh_tw": "富榮",
+                    "En": "Furong"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 19,
+                "StopPosition": {
+                    "PositionLon": 121.227589,
+                    "PositionLat": 25.013416,
+                    "GeoHash": "wsqnq9e1x"
+                },
+                "StationID": "65968"
+            },
+            {
+                "StopUID": "TAO9494",
+                "StopID": "9494",
+                "StopName": {
+                    "Zh_tw": "岡崎",
+                    "En": "Gangqi"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 20,
+                "StopPosition": {
+                    "PositionLon": 121.227498,
+                    "PositionLat": 25.011226,
+                    "GeoHash": "wsqnq95hv"
+                },
+                "StationID": "65969"
+            },
+            {
+                "StopUID": "TAO2597",
+                "StopID": "2597",
+                "StopName": {
+                    "Zh_tw": "上岡崎",
+                    "En": "Shanggangqi"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 21,
+                "StopPosition": {
+                    "PositionLon": 121.227519,
+                    "PositionLat": 25.008904,
+                    "GeoHash": "wsqnq8epm"
+                },
+                "StationID": "266"
+            },
+            {
+                "StopUID": "TAO9496",
+                "StopID": "9496",
+                "StopName": {
+                    "Zh_tw": "寶城",
+                    "En": "Baocheng"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 22,
+                "StopPosition": {
+                    "PositionLon": 121.228147,
+                    "PositionLat": 25.006565,
+                    "GeoHash": "wsqnq879u"
+                },
+                "StationID": "269"
+            },
+            {
+                "StopUID": "TAO64366",
+                "StopID": "64366",
+                "StopName": {
+                    "Zh_tw": "鄉界",
+                    "En": "Xiangjie"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 23,
+                "StopPosition": {
+                    "PositionLon": 121.228854,
+                    "PositionLat": 25.003912,
+                    "GeoHash": "wsqnnxu4m"
+                },
+                "StationID": "270"
+            },
+            {
+                "StopUID": "TAO9498",
+                "StopID": "9498",
+                "StopName": {
+                    "Zh_tw": "大江購物中心",
+                    "En": "Metrowalk Shoping Center"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 24,
+                "StopPosition": {
+                    "PositionLon": 121.229536,
+                    "PositionLat": 25.000712,
+                    "GeoHash": "wsqnnxhxs"
+                },
+                "StationID": "272"
+            },
+            {
+                "StopUID": "TAO12613",
+                "StopID": "12613",
+                "StopName": {
+                    "Zh_tw": "謝厝",
+                    "En": "Xiecuo "
+                },
+                "StopBoarding": 0,
+                "StopSequence": 25,
+                "StopPosition": {
+                    "PositionLon": 121.232351,
+                    "PositionLat": 24.995665,
+                    "GeoHash": "wsqnnwqdq"
+                },
+                "StationID": "274"
+            },
+            {
+                "StopUID": "TAO64363",
+                "StopID": "64363",
+                "StopName": {
+                    "Zh_tw": "賴厝",
+                    "En": "Laicuo"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 26,
+                "StopPosition": {
+                    "PositionLon": 121.233729,
+                    "PositionLat": 24.992776,
+                    "GeoHash": "wsqnntz9q"
+                },
+                "StationID": "277"
+            },
+            {
+                "StopUID": "TAO2598",
+                "StopID": "2598",
+                "StopName": {
+                    "Zh_tw": "萬能科技大學",
+                    "En": "Vanung University"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 27,
+                "StopPosition": {
+                    "PositionLon": 121.234442,
+                    "PositionLat": 24.991201,
+                    "GeoHash": "wsqnnv80r"
+                },
+                "StationID": "279"
+            },
+            {
+                "StopUID": "TAO5034",
+                "StopID": "5034",
+                "StopName": {
+                    "Zh_tw": "桃園大圳橋",
+                    "En": "Taoyuan Dazhen Bridge"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 28,
+                "StopPosition": {
+                    "PositionLon": 121.238109,
+                    "PositionLat": 24.985712,
+                    "GeoHash": "wsqnnudbk"
+                },
+                "StationID": "281"
+            },
+            {
+                "StopUID": "TAO9606",
+                "StopID": "9606",
+                "StopName": {
+                    "Zh_tw": "玉尊宮",
+                    "En": "Yuzun Temple"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 29,
+                "StopPosition": {
+                    "PositionLon": 121.236079,
+                    "PositionLat": 24.977506,
+                    "GeoHash": "wsqnng12t"
+                },
+                "StationID": "283"
+            },
+            {
+                "StopUID": "TAO9604",
+                "StopID": "9604",
+                "StopName": {
+                    "Zh_tw": "啟英高中",
+                    "En": "Chi-Ying Senior High School"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 30,
+                "StopPosition": {
+                    "PositionLon": 121.236028,
+                    "PositionLat": 24.975853,
+                    "GeoHash": "wsqnnf9qu"
+                },
+                "StationID": "285"
+            },
+            {
+                "StopUID": "TAO5025",
+                "StopID": "5025",
+                "StopName": {
+                    "Zh_tw": "中福派出所",
+                    "En": "Zhongfu Police Station"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 31,
+                "StopPosition": {
+                    "PositionLon": 121.235976,
+                    "PositionLat": 24.971003,
+                    "GeoHash": "wsqnncc6d"
+                },
+                "StationID": "8761"
+            },
+            {
+                "StopUID": "TAO2337",
+                "StopID": "2337",
+                "StopName": {
+                    "Zh_tw": "中園福州二街口",
+                    "En": "Jhongyuan Fujhou 2nd St. Intersection"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 32,
+                "StopPosition": {
+                    "PositionLon": 121.235948,
+                    "PositionLat": 24.969343,
+                    "GeoHash": "wsqnnc92f"
+                },
+                "StationID": "289"
+            },
+            {
+                "StopUID": "TAO2804",
+                "StopID": "2804",
+                "StopName": {
+                    "Zh_tw": "中園育樂街口",
+                    "En": "Jhongyuan Yule St. Intersection"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 33,
+                "StopPosition": {
+                    "PositionLon": 121.236426,
+                    "PositionLat": 24.967374,
+                    "GeoHash": "wsqnnc1tm"
+                },
+                "StationID": "4267"
+            },
+            {
+                "StopUID": "TAO9503",
+                "StopID": "9503",
+                "StopName": {
+                    "Zh_tw": "普忠路",
+                    "En": "Puzhong Road"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 34,
+                "StopPosition": {
+                    "PositionLon": 121.247147,
+                    "PositionLat": 24.959506,
+                    "GeoHash": "wsqjzp9rx"
+                },
+                "StationID": "65978"
+            },
+            {
+                "StopUID": "TAO9504",
+                "StopID": "9504",
+                "StopName": {
+                    "Zh_tw": "中原大學信實宿舍",
+                    "En": "Chung Yuan Christian University Sinshih Hall"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 35,
+                "StopPosition": {
+                    "PositionLon": 121.245429,
+                    "PositionLat": 24.957661,
+                    "GeoHash": "wsqjzp2hz"
+                },
+                "StationID": "4989"
+            },
+            {
+                "StopUID": "TAO9505",
+                "StopID": "9505",
+                "StopName": {
+                    "Zh_tw": "中原大學全人村",
+                    "En": "Chung Yuan Christian University Cyuanrencun"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 36,
+                "StopPosition": {
+                    "PositionLon": 121.241492,
+                    "PositionLat": 24.958382,
+                    "GeoHash": "wsqjyzt35"
+                },
+                "StationID": "65980"
+            }
+        ],
+        "UpdateTime": "2025-11-30T04:46:28+08:00",
+        "VersionID": 4162
     }
 ]
