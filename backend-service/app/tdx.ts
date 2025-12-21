@@ -169,6 +169,7 @@ export async function getStops(city: string, bus: string, direction: number) {
       versionId: res[0].VersionID,
       stops: res[0].Stops.map((stop: any) => ({
         stopUid: stop.StopUID,
+        stopId: stop.StopID,
         stationId: stop.StationID,
         stopBoarding: stop.xStopBoarding,
         stopSequence: stop.StopSequence,
@@ -218,6 +219,30 @@ export async function searchBuses(
       versionId: res[0].VersionID,
       UpdateTime: res[0].UpdateTime,
     };
+    return res;
+  } catch (e) {
+    log("error", `An error has occurred: ${e}`);
+    throw e;
+  }
+}
+
+export async function getCurrentLocation(
+  city: string,
+  bus: string,
+  direction: number,
+  top: number = 9999,
+) {
+  try {
+    const token = await getToken(tdxClientId, tdxClientSecret);
+    const req = await fetch(
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/EstimatedTimeOfArrival/City/${city}?%24select=StopID,EstimateTime,StopStatus,UpdateTime&%24filter=RouteName%2FEn%20eq%20%27${bus}%27%20and%20Direction%20eq%20%27${direction}%27&%24top=${top}&%24format=JSON`,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
+      },
+    );
+    const res = (await req.json()) as any[];
     return res;
   } catch (e) {
     log("error", `An error has occurred: ${e}`);

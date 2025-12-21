@@ -1,0 +1,26 @@
+type: http_request
+model: http_request
+id: rq_XerEnrSX8V
+createdAt: 2025-12-21T15:07:00.898047
+updatedAt: 2025-12-21T15:31:37.580589
+workspaceId: wk_9BUq8oAtj8
+folderId: null
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: Authorization
+  value: Bearer test
+  id: Dbxdf2ZaJ3
+method: GET
+name: Get where the Bus is currently at
+sortPriority: 2999.9999
+url: http://localhost:4403/api/bus/current_location/Taipei/508
+urlParameters:
+- enabled: true
+  name: direction
+  value: '0'
+  id: xm8DRaM4It

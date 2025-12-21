@@ -96,6 +96,19 @@ Bun.serve({
 
         return Response.json(routes);
       }
+      if (url.pathname === "/api/bus/current_location") {
+        return Response.json({
+          error:
+            "Invalid URL format. Use /api/bus/current_location/{city}/{bus}",
+        });
+      }
+      if (url.pathname.startsWith("/api/bus/current_location/")) {
+        const direction = url.searchParams.get("direction");
+        const parts = url.pathname.split("/");
+        const [, , , , city, bus] = parts;
+        const location = await tdx.getCurrentLocation(city, bus, direction);
+        return Response.json(location);
+      }
       if (url.pathname.startsWith("/api/bus/fare/")) {
         const parts = url.pathname.split("/");
         if (parts.length !== 6) {
