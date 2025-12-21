@@ -30,14 +30,6 @@ jobs:
           registry: ${{ env.REGISTRY }}
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-      - name: test
-        run: |
-          echo "Current directory:"
-          pwd
-          echo "\nDirectory contents:"
-          ls -la
-          echo "\nParent directory contents:"
-          ls -la ..
       - name: Extract metadata (tags, labels) for Docker
         id: meta
         uses: docker/metadata-action@v5
