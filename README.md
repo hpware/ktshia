@@ -6,14 +6,13 @@
 SERVICE_PORT=51023
 ```
 ### Service Logging (服務日誌檔)
-預設是沒有開啟服務日誌的，但如果你想，可以有兩個 ENV 可以進行設定
-#### Saving to file
+預設是沒有開啟服務日誌的，但如果你想，可以在 ENV 可以進行設定
 ```
 SERVICE_LOG=FILE
 SERVICE_LOG_FILE=/YOUR_DIR # 請給權限
 ```
 
-#### Include traffic data in the current system session
+### Log traffic into system session
 ```
 LOG_TRAFFIC_IN_SYSTEM_SESSION=true
 ```

@@ -1,4 +1,5 @@
 import { getCachedData, saveCacheData } from "./ram_caching_layer";
+import log from "./logging_service";
 
 const authkey = process.env.AUTH_KEY || "";
 const tdxClientId = process.env.TDX_CLIENT_ID || "";
@@ -36,17 +37,23 @@ export async function getToken(
   clientId: string,
   clientSecret: string,
 ): Promise<string> {
-  const cachedToken = getCachedData("tdx_token");
-  if (!cachedToken.expired) {
-    return cachedToken.data;
-  }
+  try {
+    const cachedToken = getCachedData("tdx_token");
+    if (!cachedToken.expired) {
+      return cachedToken.data;
+    }
 
-  const newToken = await getNewToken(clientId, clientSecret);
-  saveCacheData("tdx_token", newToken, 3600 * 24); // 一天
-  return newToken;
+    const newToken = await getNewToken(clientId, clientSecret);
+    saveCacheData("tdx_token", newToken, 3600 * 24); // 一天
+    return newToken;
+  } catch (e) {
+    log("error", `getToken error: ${e}`);
+    throw e;
+  }
 }
 
 export async function getBusRouteData(city: string, bus: string) {
+  try {
   const cacheBusRouteData = getCachedData(`tdx_bus_route_data_${city}_${bus}`);
   const token = await getToken(tdxClientId, tdxClientSecret);
   const response = await fetch(
@@ -55,25 +62,38 @@ export async function getBusRouteData(city: string, bus: string) {
       headers: {
         Authorization: `Bearer ${token}`,
       },
-    },
-  );
-  const data = await response.json();
-  saveCacheData(`tdx_bus_route_data_${city}_${bus}`, data, 3600 * 24); // 一天
-  return data;
+    );
+    const data = await response.json();
+    saveCacheData(`tdx_bus_route_data_${city}_${bus}`, data, 3600 * 24); // 一天
+    return data;
+  } catch (e) {
+    log("error", `getBusRouteData error: ${e}`);
+    throw e;
+  }
 }
 
 export async function getAlerts() {
-  const cachedAlerts = getCachedData("tdx_bus_alerts");
-  if (!cachedAlerts.expired) {
-    return cachedAlerts.data;
+  try {
+    const cachedAlerts = getCachedData("tdx_bus_alerts");
+    if (!cachedAlerts.expired) {
+      return cachedAlerts.data;
+    }
+    const token = await getToken(tdxClientId, tdxClientSecret);
+    const req = await fetch(
+      "https://tdx.transportdata.tw/webapi/alertInfo/count/bus",
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
+      },
+    );
+    const res = await req.json();
+    saveCacheData("tdx_bus_alerts", res, 3600); // 一小時
+    return res;
+  } catch (e) {
+    log("error", `getAlerts error: ${e}`);
+    throw e;
   }
-  const token = await getToken(tdxClientId, tdxClientSecret);
-  const req = await fetch(
-    "https://tdx.transportdata.tw/webapi/alertInfo/count/bus",
-  );
-  const res = await req.json();
-  saveCacheData("tdx_bus_alerts", res, 3600); // 一小時
-  return res;
 }
 
 export async function getNewsInfo(city: string) {
@@ -96,22 +116,26 @@ export async function getNewsInfo(city: string) {
 }
 
 export async function getFareData(city: string, bus: string) {
-  const cachedFare = getCachedData(`tdx_fare_${city}_${bus}`);
-  if (!cachedFare.expired) {
-    return cachedFare.data;
-  }
-  const token = await getToken(tdxClientId, tdxClientSecret);
-  const req = await fetch(
-    `https://tdx.transportdata.tw/api/basic/v2/Bus/RouteFare/City/${city}?%24filter=RouteID eq '${bus}'&%24format=JSON`,
-    {
-      headers: {
-        Authorization: `Bearer ${token}`,
+  try {
+    const cachedFare = getCachedData(`tdx_fare_${city}_${bus}`);
+    if (!cachedFare.expired) {
+      return cachedFare.data;
+    }
+    const token = await getToken(tdxClientId, tdxClientSecret);
+    const req = await fetch(
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/RouteFare/City/${city}?%24filter=RouteID eq '${bus}'&%24format=JSON`,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
       },
-    },
-  );
-  const res = await req.json();
-  saveCacheData(`tdx_fare_${city}_${bus}`, res, 3600 * 24 * 30); // 一個月
-  return res;
+    );
+    const res = await req.json();
+    saveCacheData(`tdx_fare_${city}_${bus}`, res, 3600 * 24 * 30); // 一個月
+    return res;
+  } catch (e) {
+    log("error", `getFareData error: ${e}`);
+  }
 }
 
 export async function getBlockages(city: string) {}
@@ -141,7 +165,7 @@ export async function getStops(city: string, bus: string, direction: number) {
       stops: res[0].Stops.map((stop: any) => ({
         stopUid: stop.StopUID,
         stationId: stop.StationID,
-        stopBoarding: stop.StopBoarding,
+        stopBoarding: stop.xStopBoarding,
         stopSequence: stop.StopSequence,
         zhName: stop.StopName.Zh_tw,
         enName: stop.StopName.En || "",
@@ -156,8 +180,8 @@ export async function getStops(city: string, bus: string, direction: number) {
     ); // 一周
     return buildData;
   } catch (e) {
-    console.error(`An error has occurred: ${e}`);
-    return getCachedData(`tdx_stops_${city}_${bus}_${direction}`);
+    log("error", `getStops error: ${e}`);
+    throw e;
   }
 }
 
@@ -195,7 +219,7 @@ export async function searchBuses(
     };
     return res;
   } catch (e) {
-    console.error(`An error has occurred: ${e}`);
-    return;
+    log("error", `An error has occurred: ${e}`);
+    throw e;
   }
 }
