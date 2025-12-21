@@ -2,6 +2,9 @@ import { getCachedData, saveCacheData } from "./ram_caching_layer";
 import * as tdx from "./tdx";
 import citiesData from "../data/cities";
 import openai from "openai";
+import { startServiceLogService } from "./logging_service";
+import log from "./logging_service";
+import { dir } from "node:console";
 
 // load envs
 const authkey = process.env.AUTH_KEY;
@@ -28,9 +31,10 @@ if (
   );
   process.exit(1);
 }
+startServiceLogService();
 
 // Main logic
-console.log(`Service started at port :${process.env.SERVICE_PORT || 4402} \n`);
+log("info", `Service started at port :${process.env.SERVICE_PORT || 4402}`);
 const enableLogTraffic = process.env.LOG_TRAFFIC || true;
 Bun.serve({
   port: process.env.SERVICE_PORT || 4402, // default port is 4402
@@ -60,8 +64,7 @@ Bun.serve({
     if (url.pathname === "/api/verify") {
       return new Response(
         JSON.stringify({
-          message: "YAY you are logged in!",
-          success: true,
+          message: "你已登入～",
         }),
         { headers: { "Content-Type": "application/json" } },
       );
@@ -77,8 +80,7 @@ Bun.serve({
         if (parts.length !== 6) {
           return new Response(
             JSON.stringify({
-              error: "Invalid route format. Use /api/bus/routes/{city}/{bus}",
-              status: 400,
+              error: "錯誤！請使用 /api/bus/routes/{city}/{bus}",
             }),
             { status: 400, headers: { "Content-Type": "application/json" } },
           );
@@ -88,17 +90,14 @@ Bun.serve({
         if (!(city && bus)) {
           return new Response(
             JSON.stringify({
-              error: "Invalid route format. Use /api/bus/routes/{city}/{bus}",
-              status: 400,
+              error: "錯誤！請使用 /api/bus/routes/{city}/{bus}",
             }),
             { status: 400, headers: { "Content-Type": "application/json" } },
           );
         }
         const routes = await tdx.getBusRouteData(city, bus);
 
-        return new Response(JSON.stringify(routes), {
-          headers: { "Content-Type": "application/json" },
-        });
+        return Response.json(routes);
       }
       if (url.pathname.startsWith("/api/bus/fare/")) {
         const parts = url.pathname.split("/");
@@ -106,7 +105,6 @@ Bun.serve({
           return new Response(
             JSON.stringify({
               error: "Invalid route format. Use /api/bus/fare/{city}/{bus}",
-              status: 400,
             }),
             { status: 400, headers: { "Content-Type": "application/json" } },
           );
@@ -114,19 +112,16 @@ Bun.serve({
 
         const [, , , , city, bus] = parts;
         if (!(city && bus)) {
-          return new Response(
-            JSON.stringify({
+          return Response.json(
+            {
               error: "Invalid route format. Use /api/bus/fare/{city}/{bus}",
-              status: 400,
-            }),
-            { status: 400, headers: { "Content-Type": "application/json" } },
+            },
+            { status: 400 },
           );
         }
         const routes = await tdx.getFareData(city, bus);
 
-        return new Response(JSON.stringify(routes), {
-          headers: { "Content-Type": "application/json" },
-        });
+        return Response.json(routes);
       }
 
       if (url.pathname.startsWith("/api/bus/stops/")) {
@@ -135,60 +130,74 @@ Bun.serve({
           return new Response(
             JSON.stringify({
               error: "Invalid route format. Use /api/bus/stops/{city}/{bus}",
-              status: 400,
             }),
             { status: 400, headers: { "Content-Type": "application/json" } },
           );
         }
-
+        const direction = url.searchParams.get("direction");
         const [, , , , city, bus] = parts;
         if (!(city && bus)) {
-          return new Response(
-            JSON.stringify({
+          return Response.json(
+            {
               error: "Invalid route format. Use /api/bus/stops/{city}/{bus}",
-              status: 400,
-            }),
-            { status: 400, headers: { "Content-Type": "application/json" } },
+            },
+            { status: 400 },
           );
         }
-        const routes = await tdx.getStops(city, bus);
+        if (!direction) {
+          return Response.json(
+            {
+              error: "Invalid direction. Use 0 or 1",
+            },
+            { status: 400 },
+          );
+        }
+        if (Number(direction) !== 0 && Number(direction) !== 1) {
+          return Response.json(
+            {
+              error: "Invalid direction. Use 0 or 1",
+            },
+            { status: 400 },
+          );
+        }
+        const routes = await tdx.getStops(city, bus, Number(direction));
 
-        return new Response(JSON.stringify(routes), {
-          headers: { "Content-Type": "application/json" },
-        });
+        return Response.json(routes);
       }
 
       if (url.pathname === "/api/bus/alerts") {
         const alerts = await tdx.getAlerts();
-        return new Response(JSON.stringify(alerts), {
+        return Response.json(alerts, {
           headers: { "Content-Type": "application/json" },
         });
       }
-
-      if (url.pathname === "/api/bus/search") {
+      if (url.pathname === "/api/bus/search/") {
+        return Response.json({
+          error: "Invalid route format. Use /api/bus/search/{city}",
+        });
+      }
+      if (url.pathname.startsWith("/api/bus/search/")) {
         const query = url.searchParams.get("q");
+        const parts = url.pathname.split("/");
+        const [, , , , city] = parts;
         if (!query || query.length === 0) {
-          return new Response(
-            JSON.stringify({
+          return Response.json(
+            {
               error: "Search query is required",
-              status: 400,
-            }),
-            { status: 400, headers: { "Content-Type": "application/json" } },
+            },
+            { status: 400 },
           );
         }
 
-        const results = await tdx.searchBuses(query);
-        return new Response(results, {
-          headers: { "Content-Type": "application/json" },
-        });
+        const results = await tdx.searchBuses(query, String(city));
+        return Response.json(results);
       }
     }
-    return new Response(
-      JSON.stringify({
+    return Response.json(
+      {
         error: `The endpoint ${url.pathname} was not found. @ ~ @`,
-        status: 404,
-      }),
-      { status: 404, headers: { "Content-Type": "application/json" } },
+      },
+      { status: 404 },
     );
   },
 });

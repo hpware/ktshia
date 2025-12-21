@@ -1,8 +1,8 @@
 type: http_request
 model: http_request
-id: rq_yzuY2qZYyp
-createdAt: 2025-09-02T12:44:28.027209
-updatedAt: 2025-12-20T10:54:47.255768
+id: rq_3MhxMuBpwV
+createdAt: 2025-12-20T10:54:40.502325
+updatedAt: 2025-12-20T10:57:41.727735
 workspaceId: wk_9BUq8oAtj8
 folderId: null
 authentication: {}
@@ -14,9 +14,9 @@ headers:
 - enabled: true
   name: Authorization
   value: Bearer test
-  id: kbi6MQzTSt
+  id: ehAHYWIE2D
 method: GET
-name: Get Bus Info for 679 in Taipei
-sortPriority: 1000.0
-url: http://localhost:4403/api/bus/routes/Taipei/679
+name: Test Verify Connection
+sortPriority: 5000.0
+url: http://localhost:4403/api/verify
 urlParameters: []

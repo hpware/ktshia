@@ -50,7 +50,7 @@ export async function getBusRouteData(city: string, bus: string) {
   const cacheBusRouteData = getCachedData(`tdx_bus_route_data_${city}_${bus}`);
   const token = await getToken(tdxClientId, tdxClientSecret);
   const response = await fetch(
-    `https://tdx.transportdata.tw/api/basic/v2/Bus/Route/City/${city}?$filter=RouteName/En eq '${bus}'&%24format=JSON`,
+    `https://tdx.transportdata.tw/api/basic/v2/Bus/Route/City/${city}?%24filter=RouteName/En eq '${bus}'&%24format=JSON`,
     {
       headers: {
         Authorization: `Bearer ${token}`,
@@ -102,7 +102,7 @@ export async function getFareData(city: string, bus: string) {
   }
   const token = await getToken(tdxClientId, tdxClientSecret);
   const req = await fetch(
-    `https://tdx.transportdata.tw/api/basic/v2/Bus/RouteFare/City/${city}?$filter=RouteName eq '${bus}'&%24format=JSON`,
+    `https://tdx.transportdata.tw/api/basic/v2/Bus/RouteFare/City/${city}?%24filter=RouteID eq '${bus}'&%24format=JSON`,
     {
       headers: {
         Authorization: `Bearer ${token}`,
@@ -116,23 +116,86 @@ export async function getFareData(city: string, bus: string) {
 
 export async function getBlockages(city: string) {}
 
-export async function getStops(city: string, bus: string) {
-  const cachedStops = getCachedData(`tdx_stops_${city}_${bus}`);
-  if (!cachedStops.expired) {
-    return cachedStops.data;
-  }
-  const token = await getToken(tdxClientId, tdxClientSecret);
-  const req = await fetch(
-    `https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${city}?$filter=RouteName/En eq '${bus}'&%24format=JSON`,
-    {
-      headers: {
-        Authorization: `Bearer ${token}`,
+export async function getStops(city: string, bus: string, direction: number) {
+  try {
+    const cachedStops = getCachedData(`tdx_stops_${city}_${bus}_${direction}`);
+    if (!cachedStops.expired) {
+      return cachedStops.data;
+    }
+    const token = await getToken(tdxClientId, tdxClientSecret);
+    const req = await fetch(
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${city}?%24filter=RouteName/En eq '${bus}' and Direction eq ${direction}&%24top=1&%24format=JSON`,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
       },
-    },
-  );
-  const res = await req.json();
-  saveCacheData(`tdx_stops_${city}_${bus}`, res, 3600 * 24 * 7); // 一周
-  return res;
+    );
+    const res = (await req.json()) as any[];
+    const buildData = {
+      routeID: res[0].RouteID,
+      zhName: res[0].RouteName.Zh_tw,
+      enName: res[0].RouteName.En,
+      timeUpdated: res[0].UpdateTime,
+      versionId: res[0].VersionID,
+      stops: res[0].Stops.map((stop: any) => ({
+        stopUid: stop.StopUID,
+        stationId: stop.StationID,
+        stopBoarding: stop.StopBoarding,
+        stopSequence: stop.StopSequence,
+        zhName: stop.StopName.Zh_tw,
+        enName: stop.StopName.En || "",
+        stopLat: stop.StopPosition.PositionLat,
+        stopLong: stop.StopPosition.PositionLon,
+      })),
+    };
+    saveCacheData(
+      `tdx_stops_${city}_${bus}_${direction}`,
+      buildData,
+      3600 * 24 * 7,
+    ); // 一周
+    return buildData;
+  } catch (e) {
+    console.error(`An error has occurred: ${e}`);
+    return getCachedData(`tdx_stops_${city}_${bus}_${direction}`);
+  }
 }
 
-export async function searchBuses(query: string, nearestLocation?: string) {}
+export async function searchBuses(
+  query: string,
+  city: string,
+  nearestLocation?: string,
+) {
+  try {
+    if (!(query && city)) {
+      throw new Error("Invalid query or city");
+    }
+    const token = await getToken(tdxClientId, tdxClientSecret);
+    const req = await fetch(
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${city}?%24filter=contains(RouteName/En,'${encodeURIComponent(query)}') and Direction eq 0&%24select=RouteName,RouteID&%24format=JSON`,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
+      },
+    );
+    const res = (await req.json()) as any[];
+    return {
+      routes: [
+        ...res.map((item: any) => {
+          return {
+            zh: item.RouteName.Zh_tw,
+            en: item.RouteName.En,
+            id: item.RouteID,
+          };
+        }),
+      ],
+      versionId: res[0].VersionID,
+      UpdateTime: res[0].UpdateTime,
+    };
+    return res;
+  } catch (e) {
+    console.error(`An error has occurred: ${e}`);
+    return;
+  }
+}
