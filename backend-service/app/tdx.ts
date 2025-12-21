@@ -54,13 +54,16 @@ export async function getToken(
 
 export async function getBusRouteData(city: string, bus: string) {
   try {
-  const cacheBusRouteData = getCachedData(`tdx_bus_route_data_${city}_${bus}`);
-  const token = await getToken(tdxClientId, tdxClientSecret);
-  const response = await fetch(
-    `https://tdx.transportdata.tw/api/basic/v2/Bus/Route/City/${city}?%24filter=RouteName/En eq '${bus}'&%24format=JSON`,
-    {
-      headers: {
-        Authorization: `Bearer ${token}`,
+    const cacheBusRouteData = getCachedData(
+      `tdx_bus_route_data_${city}_${bus}`,
+    );
+    const token = await getToken(tdxClientId, tdxClientSecret);
+    const response = await fetch(
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/Route/City/${city}?%24filter=RouteName/En eq '${bus}'&%24format=JSON`,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
       },
     );
     const data = await response.json();
