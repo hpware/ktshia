@@ -66,9 +66,9 @@ export async function getBusRouteData(city: string, bus: string) {
         },
       },
     );
-    const data = await response.json();
-    saveCacheData(`tdx_bus_route_data_${city}_${bus}`, data, 3600 * 24); // 一天
-    return data;
+    const data = (await response.json()) as any[];
+    saveCacheData(`tdx_bus_route_data_${city}_${bus}`, data[0], 3600 * 24); // 一天
+    return data[0];
   } catch (e) {
     log("error", `getBusRouteData error: ${e}`);
     throw e;
@@ -134,6 +134,7 @@ export async function getFareData(city: string, bus: string) {
       },
     );
     const res = await req.json();
+    const buildData = {};
     saveCacheData(`tdx_fare_${city}_${bus}`, res, 3600 * 24 * 30); // 一個月
     return res;
   } catch (e) {
@@ -141,7 +142,8 @@ export async function getFareData(city: string, bus: string) {
   }
 }
 
-export async function getBlockages(city: string) {}
+// TBD!!
+//export async function getBlockages(city: string) {}
 
 export async function getStops(city: string, bus: string, direction: number) {
   try {
@@ -208,15 +210,11 @@ export async function searchBuses(
     );
     const res = (await req.json()) as any[];
     return {
-      routes: [
-        ...res.map((item: any) => {
-          return {
-            zh: item.RouteName.Zh_tw,
-            en: item.RouteName.En,
-            id: item.RouteID,
-          };
-        }),
-      ],
+      routes: res.map((item: any) => ({
+        zh: item.RouteName.Zh_tw,
+        en: item.RouteName.En,
+        id: item.RouteID,
+      })),
       versionId: res[0].VersionID,
       UpdateTime: res[0].UpdateTime,
     };

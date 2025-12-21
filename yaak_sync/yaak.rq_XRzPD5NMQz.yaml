@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_XRzPD5NMQz
 createdAt: 2025-09-03T08:02:22.062593100
-updatedAt: 2025-12-21T03:12:16.027552
+updatedAt: 2025-12-21T08:08:24.036741
 workspaceId: wk_9BUq8oAtj8
 folderId: null
 authentication: {}
@@ -18,5 +18,5 @@ headers:
 method: GET
 name: Get fare data for bus 679 in Taipei
 sortPriority: 2000.0
-url: http://localhost:4403/api/bus/fare/Taipei/508區
+url: http://localhost:4403/api/bus/fare/Taipei/16127
 urlParameters: []

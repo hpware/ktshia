@@ -69,18 +69,15 @@ Bun.serve({
         { headers: { "Content-Type": "application/json" } },
       );
     }
-    // ai proxy
-    if (url.pathname === "/api/ai/voice" && req.method === "POST") {
-    }
 
     // bus paths
     if (url.pathname.startsWith("/api/bus/")) {
-      if (url.pathname.startsWith("/api/bus/routes/")) {
+      if (url.pathname.startsWith("/api/bus/info/")) {
         const parts = url.pathname.split("/");
         if (parts.length !== 6) {
           return new Response(
             JSON.stringify({
-              error: "錯誤！請使用 /api/bus/routes/{city}/{bus}",
+              error: "錯誤！請使用 /api/bus/info/{city}/{bus}",
             }),
             { status: 400, headers: { "Content-Type": "application/json" } },
           );
@@ -90,7 +87,7 @@ Bun.serve({
         if (!(city && bus)) {
           return new Response(
             JSON.stringify({
-              error: "錯誤！請使用 /api/bus/routes/{city}/{bus}",
+              error: "錯誤！請使用 /api/bus/info/{city}/{bus}",
             }),
             { status: 400, headers: { "Content-Type": "application/json" } },
           );

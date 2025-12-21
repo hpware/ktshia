@@ -17,6 +17,9 @@ SERVICE_LOG_FILE=/YOUR_DIR # 請給權限
 LOG_TRAFFIC_IN_SYSTEM_SESSION=true
 ```
 
+## How does the API work?
+Well, this a super basic API with caching. This makes the TDX (The Taiwanese Bus API) so much better in my books.
+
 ## Pull repo:
 ```bash
 git clone https://github.com/hpware/ktshia.git --depth=1
