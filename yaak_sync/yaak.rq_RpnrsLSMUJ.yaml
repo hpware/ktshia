@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_RpnrsLSMUJ
 createdAt: 2025-09-03T09:10:34.846862300
-updatedAt: 2025-12-21T08:13:49.117224
+updatedAt: 2025-12-22T05:16:13.585807
 workspaceId: wk_9BUq8oAtj8
 folderId: null
 authentication: {}
@@ -18,5 +18,5 @@ headers:
 method: GET
 name: Get bus stops data for bus 679 in Taipei
 sortPriority: 3000.0
-url: http://localhost:4403/api/bus/stops/Taipei/679?direction=0
+url: http://localhost:4403/api/bus/stops/Taipei/50?direction=0
 urlParameters: []

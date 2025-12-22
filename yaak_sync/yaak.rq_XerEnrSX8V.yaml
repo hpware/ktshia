@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_XerEnrSX8V
 createdAt: 2025-12-21T15:07:00.898047
-updatedAt: 2025-12-21T15:31:37.580589
+updatedAt: 2025-12-22T07:39:16.620598
 workspaceId: wk_9BUq8oAtj8
 folderId: null
 authentication: {}
@@ -18,7 +18,7 @@ headers:
 method: GET
 name: Get where the Bus is currently at
 sortPriority: 2999.9999
-url: http://localhost:4403/api/bus/current_location/Taipei/508
+url: http://localhost:4403/api/bus/current_status/Taipei/508?direction=1
 urlParameters:
 - enabled: true
   name: direction

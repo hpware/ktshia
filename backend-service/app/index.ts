@@ -96,13 +96,12 @@ Bun.serve({
 
         return Response.json(routes);
       }
-      if (url.pathname === "/api/bus/current_location") {
+      if (url.pathname === "/api/bus/current_status") {
         return Response.json({
-          error:
-            "Invalid URL format. Use /api/bus/current_location/{city}/{bus}",
+          error: "Invalid URL format. Use /api/bus/current_status/{city}/{bus}",
         });
       }
-      if (url.pathname.startsWith("/api/bus/current_location/")) {
+      if (url.pathname.startsWith("/api/bus/current_status/")) {
         const direction = url.searchParams.get("direction");
         const parts = url.pathname.split("/");
         const [, , , , city, bus] = parts;
