@@ -1,7 +1,6 @@
 import { getCachedData, saveCacheData } from "./ram_caching_layer";
 import * as tdx from "./tdx";
 import citiesData from "../data/cities";
-import openai from "openai";
 import { startServiceLogService } from "./logging_service";
 import log from "./logging_service";
 import { dir } from "node:console";

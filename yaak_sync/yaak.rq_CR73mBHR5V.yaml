@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_CR73mBHR5V
 createdAt: 2025-09-04T13:33:22.358279
-updatedAt: 2025-12-21T02:30:08.799803
+updatedAt: 2025-12-22T16:01:07.666594
 workspaceId: wk_9BUq8oAtj8
 folderId: null
 authentication: {}
@@ -18,9 +18,9 @@ headers:
 method: GET
 name: Search
 sortPriority: 4000.0
-url: http://localhost:4403/api/bus/search/taipei
+url: http://localhost:4403/api/bus/search/Tainan
 urlParameters:
 - enabled: true
   name: q
-  value: '67'
-  id: wBp5hvgXxh
+  value: '5'
+  id: ifkcyPSpWM

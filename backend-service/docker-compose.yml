@@ -1,0 +1,13 @@
+services:
+  tdx-api:
+    image: ghcr.io/hpware/ktshia-backend-service
+    ports:
+      - "4402:4402"
+    volumes:
+      - ./logs:/logs
+    environment:
+      - TDX_CLIENT_ID="" # 你的 TDX Client ID
+      - TDX_CLIENT_SECRET="" # 你的 TDX Client Secret
+      - AUTH_KEY="" # 此伺服器登入的 Bearer Token
+      - SERVICE_LOG=FILE
+      - SERVICE_LOG_FILE=/logs/service.log # 請給權限
