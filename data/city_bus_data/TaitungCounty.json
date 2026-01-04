@@ -66,8 +66,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0981.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-12-28T07:52:06+08:00",
-        "VersionID": 6239
+        "UpdateTime": "2026-01-04T08:51:39+08:00",
+        "VersionID": 6277
     },
     {
         "RouteUID": "TTT0982",
@@ -136,8 +136,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0982.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-12-28T07:52:06+08:00",
-        "VersionID": 6239
+        "UpdateTime": "2026-01-04T08:51:39+08:00",
+        "VersionID": 6277
     },
     {
         "RouteUID": "TTT0984",
@@ -206,8 +206,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0984.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-12-28T07:52:06+08:00",
-        "VersionID": 6239
+        "UpdateTime": "2026-01-04T08:51:39+08:00",
+        "VersionID": 6277
     },
     {
         "RouteUID": "TTT0985",
@@ -276,7 +276,7 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0985.jpg",
         "City": "TaitungCounty",
         "CityCode": "TTT",
-        "UpdateTime": "2025-12-28T07:52:06+08:00",
-        "VersionID": 6239
+        "UpdateTime": "2026-01-04T08:51:39+08:00",
+        "VersionID": 6277
     }
 ]

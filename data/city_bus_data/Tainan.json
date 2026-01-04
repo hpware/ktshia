@@ -79,8 +79,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10019.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10021",
@@ -171,8 +171,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10021.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1009",
@@ -310,8 +310,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1009.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1010",
@@ -371,8 +371,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1010.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10161",
@@ -479,8 +479,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10161.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10162",
@@ -623,8 +623,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10162.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10163",
@@ -743,8 +743,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10163.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10164",
@@ -827,8 +827,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10164.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10165",
@@ -934,8 +934,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10165.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10166",
@@ -1018,8 +1018,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10166.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10169",
@@ -1104,8 +1104,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10169.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10170",
@@ -1196,8 +1196,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10170.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1020",
@@ -1255,8 +1255,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1020.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10262",
@@ -1315,8 +1315,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10262.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10265",
@@ -1423,8 +1423,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10265.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1032",
@@ -1482,8 +1482,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1032.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1033",
@@ -1542,8 +1542,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1033.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10450",
@@ -1589,8 +1589,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10450.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10451",
@@ -1636,8 +1636,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10451.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN10452",
@@ -1719,8 +1719,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/10452.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1055",
@@ -1778,92 +1778,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1055.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
-    },
-    {
-        "RouteUID": "TNN1061",
-        "RouteID": "1061",
-        "HasSubRoutes": true,
-        "Operators": [
-            {
-                "OperatorID": "10190",
-                "OperatorName": {
-                    "Zh_tw": "新營客運",
-                    "En": "Sinying Bus Co., Ltd."
-                },
-                "OperatorCode": "SinyingBus",
-                "OperatorNo": "1306"
-            }
-        ],
-        "AuthorityID": "008",
-        "ProviderID": "008",
-        "SubRoutes": [
-            {
-                "SubRouteUID": "TNN106101",
-                "SubRouteID": "106101",
-                "OperatorIDs": [
-                    "10190"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "61路 新營 → 臺灣鹽博物館",
-                    "En": "61 Western Coast Line"
-                },
-                "Direction": 0
-            },
-            {
-                "SubRouteUID": "TNN106102",
-                "SubRouteID": "106102",
-                "OperatorIDs": [
-                    "10190"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "61路 臺灣鹽博物館 → 新營",
-                    "En": "61 Western Coast Line"
-                },
-                "Direction": 1
-            },
-            {
-                "SubRouteUID": "TNN106111",
-                "SubRouteID": "106111",
-                "OperatorIDs": [
-                    "10190"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "61路 南鯤鯓代天府 → 臺灣鹽博物館(區間)",
-                    "En": "61 Western Coast Line"
-                },
-                "Direction": 0
-            },
-            {
-                "SubRouteUID": "TNN106112",
-                "SubRouteID": "106112",
-                "OperatorIDs": [
-                    "10190"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "61路 臺灣鹽博物館 → 南鯤鯓代天府(區間)",
-                    "En": "61 Western Coast Line"
-                },
-                "Direction": 1
-            }
-        ],
-        "BusRouteType": 11,
-        "RouteName": {
-            "Zh_tw": "61 西濱快線",
-            "En": "61 West Coast Shuttle Bus"
-        },
-        "DepartureStopNameZh": "新營",
-        "DepartureStopNameEn": "Sinying",
-        "DestinationStopNameZh": "臺灣鹽博物館",
-        "DestinationStopNameEn": "Taiwan Salt Museum",
-        "TicketPriceDescriptionZh": "依里程計費",
-        "TicketPriceDescriptionEn": "Kilometer Charges",
-        "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1061.jpg",
-        "City": "Tainan",
-        "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1070",
@@ -1922,8 +1838,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1070.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1077",
@@ -1981,8 +1897,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1077.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1098",
@@ -2091,8 +2007,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1098.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1100",
@@ -2199,8 +2115,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1100.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1101",
@@ -2259,8 +2175,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1101.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1102",
@@ -2319,8 +2235,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1102.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1103",
@@ -2379,8 +2295,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1103.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1104",
@@ -2439,8 +2355,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1104.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1105",
@@ -2499,8 +2415,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1105.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1106",
@@ -2559,8 +2475,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1106.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1107",
@@ -2643,8 +2559,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1107.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1110",
@@ -2703,8 +2619,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1110.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1111",
@@ -2763,8 +2679,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1111.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1112",
@@ -2895,8 +2811,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1112.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1113",
@@ -2979,8 +2895,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1113.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1114",
@@ -3095,8 +3011,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1114.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1115",
@@ -3211,8 +3127,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1115.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1116",
@@ -3343,8 +3259,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1116.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1117",
@@ -3403,8 +3319,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1117.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1120",
@@ -3519,8 +3435,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1120.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1121",
@@ -3578,8 +3494,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1121.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1122",
@@ -3638,8 +3554,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1122.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1123",
@@ -3698,8 +3614,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1123.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1124",
@@ -3794,8 +3710,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1124.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1125",
@@ -3854,8 +3770,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1125.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1126",
@@ -3938,8 +3854,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1126.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1127",
@@ -4058,8 +3974,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1127.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1129",
@@ -4141,8 +4057,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1129.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1130",
@@ -4224,8 +4140,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1130.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1131",
@@ -4283,8 +4199,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1131.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1132",
@@ -4366,8 +4282,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1132.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1200",
@@ -4426,8 +4342,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1200.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1201",
@@ -4486,8 +4402,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1201.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1202",
@@ -4594,8 +4510,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1202.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1203",
@@ -4678,8 +4594,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1203.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1204",
@@ -4761,8 +4677,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1204.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1210",
@@ -4869,8 +4785,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1210.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1211",
@@ -4929,8 +4845,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1211.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1213",
@@ -4989,8 +4905,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1213.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1214",
@@ -5072,8 +4988,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1214.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1215",
@@ -5155,8 +5071,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1215.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1220",
@@ -5215,8 +5131,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1220.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1221",
@@ -5275,8 +5191,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1221.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1222",
@@ -5335,8 +5251,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1222.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1223",
@@ -5395,8 +5311,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1223.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1224",
@@ -5479,8 +5395,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1224.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1225",
@@ -5538,8 +5454,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1225.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1226",
@@ -5597,8 +5513,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1226.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1227",
@@ -5656,8 +5572,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1227.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1228",
@@ -5739,8 +5655,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1228.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1229",
@@ -5798,8 +5714,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1229.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1230",
@@ -5881,8 +5797,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1230.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1300",
@@ -6052,8 +5968,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1300.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1301",
@@ -6160,8 +6076,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1301.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1302",
@@ -6260,6 +6176,30 @@
                     "En": "BR2 Shuttle Taxi Siajhong→Sinying Bus Station[Via Sinying Hospital(Shuttle Taxi)、Yanshuei Jade Emper"
                 },
                 "Direction": 1
+            },
+            {
+                "SubRouteUID": "TNN130231",
+                "SubRouteID": "130231",
+                "OperatorIDs": [
+                    "16202"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "棕2 小黃 新營→鹽水→下中(繞新營醫院(小黃公車)、鹽水上帝廟)[僅供預約]",
+                    "En": "BR2 Shuttle Taxi Sinying Bus Station→Siajhong[Via Sinying Hospital(Shuttle Taxi)、Yanshuei Jade Emper"
+                },
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TNN130232",
+                "SubRouteID": "130232",
+                "OperatorIDs": [
+                    "16202"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "棕2 小黃 下中→鹽水→新營(繞新營醫院(小黃公車)、鹽水上帝廟)[僅供預約]",
+                    "En": "BR2 Shuttle Taxi Siajhong→Sinying Bus Station[Via Sinying Hospital(Shuttle Taxi)、Yanshuei Jade Emper"
+                },
+                "Direction": 1
             }
         ],
         "BusRouteType": 11,
@@ -6276,8 +6216,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1302.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1303",
@@ -6336,8 +6276,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1303.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1304",
@@ -6396,8 +6336,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1304.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1305",
@@ -6456,8 +6396,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1305.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1306",
@@ -6540,8 +6480,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1306.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1310",
@@ -6600,8 +6540,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1310.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1311",
@@ -6660,8 +6600,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1311.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1400",
@@ -6744,8 +6684,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1400.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1401",
@@ -6816,8 +6756,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1401.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1402",
@@ -6876,8 +6816,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1402.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1403",
@@ -6984,8 +6924,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1403.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1404",
@@ -7044,8 +6984,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1404.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1405",
@@ -7104,8 +7044,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1405.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1406",
@@ -7187,8 +7127,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1406.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1409",
@@ -7247,8 +7187,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1409.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1410",
@@ -7403,8 +7343,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1410.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1411",
@@ -7523,8 +7463,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1411.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1412",
@@ -7607,8 +7547,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1412.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1413",
@@ -7667,8 +7607,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1413.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1414",
@@ -7727,8 +7667,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1414.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1420",
@@ -7787,8 +7727,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1420.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1421",
@@ -7870,8 +7810,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1421.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1500",
@@ -8074,8 +8014,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1500.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1501",
@@ -8192,6 +8132,78 @@
                 "Direction": 1
             },
             {
+                "SubRouteUID": "TNN150141",
+                "SubRouteID": "150141",
+                "OperatorIDs": [
+                    "10190"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃1 新營→六甲(繞落羽松)",
+                    "En": "Y1 Sinying  Station→Tainan National University of the Arts[Via Luoyusong]"
+                },
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TNN150142",
+                "SubRouteID": "150142",
+                "OperatorIDs": [
+                    "10190"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃1 六甲→新營(繞落羽松)",
+                    "En": "Y1 Lioujia→Sinying Station [Via Luoyusong]"
+                },
+                "Direction": 1
+            },
+            {
+                "SubRouteUID": "TNN150151",
+                "SubRouteID": "150151",
+                "OperatorIDs": [
+                    "10190"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃1 新營→六甲(繞落羽松、延南藝大)",
+                    "En": "Y1 Sinying  Station→Lioujia[Via Luoyusong]"
+                },
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TNN150152",
+                "SubRouteID": "150152",
+                "OperatorIDs": [
+                    "10190"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃1 六甲→新營(繞落羽松、延南藝大)",
+                    "En": "Y1 TNNUA (Han Pao-Teh Memorial Museum)→Sinying Station[Via Luoyusong]"
+                },
+                "Direction": 1
+            },
+            {
+                "SubRouteUID": "TNN150161",
+                "SubRouteID": "150161",
+                "OperatorIDs": [
+                    "10190"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃1 新營轉運站→六甲(繞落羽松、延駛南藝大)",
+                    "En": "Y1 Sinying Bus Station→Lioujia[Via Luoyusong , TNNUA (Han Pao-Teh Memorial Museum) To Sinying Bus St"
+                },
+                "Direction": 0
+            },
+            {
+                "SubRouteUID": "TNN150162",
+                "SubRouteID": "150162",
+                "OperatorIDs": [
+                    "10190"
+                ],
+                "SubRouteName": {
+                    "Zh_tw": "黃1 六甲→新營轉運站(繞落羽松、延南藝大)",
+                    "En": "Y1 Lioujia→Sinying Bus Station [Via Luoyusong , TNNUA (Han Pao-Teh Memorial Museum) To Sinying Bus S"
+                },
+                "Direction": 1
+            },
+            {
                 "SubRouteUID": "TNN150172",
                 "SubRouteID": "150172",
                 "OperatorIDs": [
@@ -8218,8 +8230,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1501.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1502",
@@ -8454,8 +8466,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1502.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1503",
@@ -8610,8 +8622,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1503.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1504",
@@ -8718,8 +8730,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1504.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1505",
@@ -8834,8 +8846,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1505.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1506",
@@ -8942,8 +8954,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1506.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1507",
@@ -9170,8 +9182,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1507.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1509",
@@ -9302,8 +9314,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1509.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1510",
@@ -9434,8 +9446,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1510.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1511",
@@ -9590,8 +9602,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1511.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1512",
@@ -9674,8 +9686,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1512.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1513",
@@ -9782,8 +9794,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1513.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1514",
@@ -9866,8 +9878,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1514.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1515",
@@ -9982,8 +9994,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1515.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1516",
@@ -10042,8 +10054,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1516.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1520",
@@ -10134,8 +10146,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1520.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1521",
@@ -10217,8 +10229,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1521.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1522",
@@ -10300,8 +10312,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1522.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1600",
@@ -10408,8 +10420,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1600.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1601",
@@ -10468,8 +10480,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1601.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1602",
@@ -10552,8 +10564,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1602.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1603",
@@ -10660,8 +10672,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1603.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1604",
@@ -10720,8 +10732,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1604.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1610",
@@ -10852,8 +10864,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1610.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1611",
@@ -10935,8 +10947,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1611.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1613",
@@ -11051,8 +11063,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1613.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1614",
@@ -11135,8 +11147,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1614.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1702",
@@ -11194,8 +11206,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1702.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1704",
@@ -11253,8 +11265,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1704.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1706",
@@ -11336,8 +11348,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1706.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1707",
@@ -11383,8 +11395,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1707.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1708",
@@ -11466,8 +11478,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1708.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1710",
@@ -11525,8 +11537,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1710.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1712",
@@ -11584,8 +11596,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1712.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1713",
@@ -11643,8 +11655,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1713.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1714",
@@ -11726,8 +11738,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1714.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1715",
@@ -11809,8 +11821,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1715.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1716",
@@ -11868,8 +11880,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1716.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1717",
@@ -11927,8 +11939,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1717.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1802",
@@ -11987,8 +11999,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1802.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1805",
@@ -12035,8 +12047,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1805.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1807",
@@ -12142,8 +12154,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1807.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1808",
@@ -12202,8 +12214,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1808.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1809",
@@ -12274,8 +12286,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1809.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1810",
@@ -12357,8 +12369,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1810.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1813",
@@ -12417,8 +12429,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1813.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1814",
@@ -12525,8 +12537,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1814.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1815",
@@ -12585,8 +12597,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1815.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1816",
@@ -12669,8 +12681,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1816.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1821",
@@ -12729,8 +12741,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1821.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1822",
@@ -12789,8 +12801,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1822.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1824",
@@ -12849,8 +12861,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1824.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN1901",
@@ -12897,8 +12909,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/1901.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN2101",
@@ -12925,8 +12937,8 @@
                     "10001"
                 ],
                 "SubRouteName": {
-                    "Zh_tw": "101路 東興里→崎漏電信局",
-                    "En": "101 Dongsing Vil.→Cilou Telephone Exchange"
+                    "Zh_tw": "101路 成大醫院(小東路)→崎漏電信局",
+                    "En": "101 Cheng Kung University Hospital(Siaodong Rd.)→Cilou Telephone Exchange"
                 },
                 "Direction": 0
             },
@@ -12937,8 +12949,8 @@
                     "10001"
                 ],
                 "SubRouteName": {
-                    "Zh_tw": "101路 崎漏電信局→東興里",
-                    "En": "101 Cilou Telephone Exchange→Dongsing Vil."
+                    "Zh_tw": "101路 崎漏電信局→成大醫院(小東路)",
+                    "En": "101 Cilou Telephone Exchange→Cheng Kung University Hospital(Siaodong Rd.)"
                 },
                 "Direction": 1
             },
@@ -12973,8 +12985,8 @@
                     "10001"
                 ],
                 "SubRouteName": {
-                    "Zh_tw": "101路 東興里→崎漏電信局[繞南寧高中]",
-                    "En": "101 Dongsing Vil.→Cilou Telephone Exchange[Via Nan-ning High School]"
+                    "Zh_tw": "101路 成大醫院(小東路)→崎漏電信局[繞南寧高中]",
+                    "En": "101 Cheng Kung University Hospital(Siaodong Rd.)→Cilou Telephone Exchange[Via Nan-ning High School]"
                 },
                 "Direction": 0
             },
@@ -12985,8 +12997,8 @@
                     "10001"
                 ],
                 "SubRouteName": {
-                    "Zh_tw": "101路 崎漏電信局→東興里[繞南寧高中]",
-                    "En": "101 From Cilou Telephone Exchange→Dongsing Vil.[Via Nan-ning High School]"
+                    "Zh_tw": "101路 崎漏電信局→成大醫院(小東路)[繞南寧高中]",
+                    "En": "101 From Cilou Telephone Exchange→Cheng Kung University Hospital(Siaodong Rd.)[Via Nan-ning High Sch"
                 },
                 "Direction": 1
             },
@@ -13031,8 +13043,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/2101.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN2901",
@@ -13123,8 +13135,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/2901.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN2902",
@@ -13183,8 +13195,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/2902.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN2904",
@@ -13266,8 +13278,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/2904.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN2905",
@@ -13357,8 +13369,8 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/2905.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     },
     {
         "RouteUID": "TNN9111",
@@ -13441,7 +13453,7 @@
         "RouteMapImageUrl": "http://busmap.tainan.gov.tw/ebus/resources/PathPic/zh_TW/9111.jpg",
         "City": "Tainan",
         "CityCode": "TNN",
-        "UpdateTime": "2025-12-28T08:10:32+08:00",
-        "VersionID": 9464
+        "UpdateTime": "2026-01-04T08:10:35+08:00",
+        "VersionID": 9504
     }
 ]
