@@ -601,8 +601,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10132",
@@ -1238,8 +1238,8 @@
                 "StationID": "1000431"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10142",
@@ -2099,8 +2099,8 @@
                 "StationID": "3916"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10142",
@@ -2928,8 +2928,8 @@
                 "StationID": "72232"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10181",
@@ -3917,8 +3917,8 @@
                 "StationID": "4623"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10181",
@@ -4810,8 +4810,8 @@
                 "StationID": "1000965"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10221",
@@ -5847,8 +5847,8 @@
                 "StationID": "1165604808"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10221",
@@ -6804,8 +6804,8 @@
                 "StationID": "30017"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10231",
@@ -7377,8 +7377,8 @@
                 "StationID": "1165604811"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10231",
@@ -7998,8 +7998,8 @@
                 "StationID": "1646"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10232",
@@ -8459,8 +8459,8 @@
                 "StationID": "1484"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10232",
@@ -8920,8 +8920,8 @@
                 "StationID": "1606"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10241",
@@ -9429,6 +9429,22 @@
                 "StationID": "985"
             },
             {
+                "StopUID": "TPE223793",
+                "StopID": "223793",
+                "StopName": {
+                    "Zh_tw": "成功路二段(交流道)",
+                    "En": "Chenggong Rd. Sec. 2(Interchange)"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 32,
+                "StopPosition": {
+                    "PositionLon": 121.5907021,
+                    "PositionLat": 25.06290258,
+                    "GeoHash": "wsqqwfe9u"
+                },
+                "StationID": "1165610511"
+            },
+            {
                 "StopUID": "TPE10261",
                 "StopID": "10261",
                 "StopName": {
@@ -9436,7 +9452,7 @@
                     "En": "Shitan Park (Chenggong)"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 32,
+                "StopSequence": 33,
                 "StopPosition": {
                     "PositionLon": 121.591015,
                     "PositionLat": 25.061041,
@@ -9452,7 +9468,7 @@
                     "En": "Nangang Police Dist. (Xiangyang)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 33,
+                "StopSequence": 34,
                 "StopPosition": {
                     "PositionLon": 121.5937887,
                     "PositionLat": 25.05574836,
@@ -9468,7 +9484,7 @@
                     "En": "Nangang High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 34,
+                "StopSequence": 35,
                 "StopPosition": {
                     "PositionLon": 121.5949802,
                     "PositionLat": 25.0530195,
@@ -9484,7 +9500,7 @@
                     "En": "MRT Kunyang"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 35,
+                "StopSequence": 36,
                 "StopPosition": {
                     "PositionLon": 121.593165,
                     "PositionLat": 25.050346,
@@ -9493,8 +9509,8 @@
                 "StationID": "1697"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10241",
@@ -9570,6 +9586,22 @@
                 "StationID": "50434"
             },
             {
+                "StopUID": "TPE223794",
+                "StopID": "223794",
+                "StopName": {
+                    "Zh_tw": "成功路二段(交流道)",
+                    "En": "Chenggong Rd. Sec. 2(Interchange)"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 5,
+                "StopPosition": {
+                    "PositionLon": 121.5910436,
+                    "PositionLat": 25.0646545,
+                    "GeoHash": "wsqqwfguh"
+                },
+                "StationID": "1165610510"
+            },
+            {
                 "StopUID": "TPE10277",
                 "StopID": "10277",
                 "StopName": {
@@ -9577,7 +9609,7 @@
                     "En": "Shangwanzi"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 5,
+                "StopSequence": 6,
                 "StopPosition": {
                     "PositionLon": 121.590714855835,
                     "PositionLat": 25.066818699184,
@@ -9593,7 +9625,7 @@
                     "En": "Huxing"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 6,
+                "StopSequence": 7,
                 "StopPosition": {
                     "PositionLon": 121.59085370773,
                     "PositionLat": 25.067861865327,
@@ -9609,7 +9641,7 @@
                     "En": "Fuhua Market"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 7,
+                "StopSequence": 8,
                 "StopPosition": {
                     "PositionLon": 121.59365,
                     "PositionLat": 25.06874,
@@ -9625,7 +9657,7 @@
                     "En": "Taipei Tennis Center"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 8,
+                "StopSequence": 9,
                 "StopPosition": {
                     "PositionLon": 121.5957666,
                     "PositionLat": 25.06819281,
@@ -9641,7 +9673,7 @@
                     "En": "Minquan E. Rd. Sec. 6 (Minquan Dunpin)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 9,
+                "StopSequence": 10,
                 "StopPosition": {
                     "PositionLon": 121.598356860114,
                     "PositionLat": 25.0670359070235,
@@ -9657,7 +9689,7 @@
                     "En": "Minquan Tunnel 2"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 10,
+                "StopSequence": 11,
                 "StopPosition": {
                     "PositionLon": 121.601285503886,
                     "PositionLat": 25.0672531124649,
@@ -9673,7 +9705,7 @@
                     "En": "Minquan Tunnel"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 11,
+                "StopSequence": 12,
                 "StopPosition": {
                     "PositionLon": 121.6048395,
                     "PositionLat": 25.07190837,
@@ -9689,7 +9721,7 @@
                     "En": "MRT Huzhou Sta. (University of Kang Ning)"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 12,
+                "StopSequence": 13,
                 "StopPosition": {
                     "PositionLon": 121.6075013,
                     "PositionLat": 25.07246542,
@@ -9705,7 +9737,7 @@
                     "En": "Minghu Elementary School (PTS)"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 13,
+                "StopSequence": 14,
                 "StopPosition": {
                     "PositionLon": 121.609320074507,
                     "PositionLat": 25.0716328345384,
@@ -9721,7 +9753,7 @@
                     "En": "Minghu Junior High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 14,
+                "StopSequence": 15,
                 "StopPosition": {
                     "PositionLon": 121.6116528,
                     "PositionLat": 25.06996983,
@@ -9737,7 +9769,7 @@
                     "En": "Wufen Community"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 15,
+                "StopSequence": 16,
                 "StopPosition": {
                     "PositionLon": 121.6144033,
                     "PositionLat": 25.06860831,
@@ -9753,7 +9785,7 @@
                     "En": "Donghu Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 16,
+                "StopSequence": 17,
                 "StopPosition": {
                     "PositionLon": 121.6165906,
                     "PositionLat": 25.06806969,
@@ -9769,7 +9801,7 @@
                     "En": "Beishan Li"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 17,
+                "StopSequence": 18,
                 "StopPosition": {
                     "PositionLon": 121.618528,
                     "PositionLat": 25.066676,
@@ -9785,7 +9817,7 @@
                     "En": "Economic & Trade Park"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 18,
+                "StopSequence": 19,
                 "StopPosition": {
                     "PositionLon": 121.622098011234,
                     "PositionLat": 25.0666077871618,
@@ -9801,7 +9833,7 @@
                     "En": "Munan Coal Mine"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 19,
+                "StopSequence": 20,
                 "StopPosition": {
                     "PositionLon": 121.624809,
                     "PositionLat": 25.066839,
@@ -9817,7 +9849,7 @@
                     "En": "Jinlong Elementary School(Kangning St.)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 20,
+                "StopSequence": 21,
                 "StopPosition": {
                     "PositionLon": 121.627395,
                     "PositionLat": 25.067351,
@@ -9833,7 +9865,7 @@
                     "En": "Beifeng Li(Kangning St.)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 21,
+                "StopSequence": 22,
                 "StopPosition": {
                     "PositionLon": 121.628878,
                     "PositionLat": 25.067676,
@@ -9849,7 +9881,7 @@
                     "En": "Shidian Community"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 22,
+                "StopSequence": 23,
                 "StopPosition": {
                     "PositionLon": 121.631193,
                     "PositionLat": 25.065928,
@@ -9865,7 +9897,7 @@
                     "En": "Daxizhi Department Stores"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 23,
+                "StopSequence": 24,
                 "StopPosition": {
                     "PositionLon": 121.632544,
                     "PositionLat": 25.066005,
@@ -9881,7 +9913,7 @@
                     "En": "FuDe Borough"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 24,
+                "StopSequence": 25,
                 "StopPosition": {
                     "PositionLon": 121.635229,
                     "PositionLat": 25.068116,
@@ -9897,7 +9929,7 @@
                     "En": "Kangfu Li"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 25,
+                "StopSequence": 26,
                 "StopPosition": {
                     "PositionLon": 121.6375836,
                     "PositionLat": 25.068876,
@@ -9913,7 +9945,7 @@
                     "En": "Shenghuo Daguo Community"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 26,
+                "StopSequence": 27,
                 "StopPosition": {
                     "PositionLon": 121.637887,
                     "PositionLat": 25.068376,
@@ -9929,7 +9961,7 @@
                     "En": "Bokeli Day Care Center"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 27,
+                "StopSequence": 28,
                 "StopPosition": {
                     "PositionLon": 121.636377,
                     "PositionLat": 25.066706,
@@ -9945,7 +9977,7 @@
                     "En": "Taipei Miracle"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 28,
+                "StopSequence": 29,
                 "StopPosition": {
                     "PositionLon": 121.63543,
                     "PositionLat": 25.065829,
@@ -9961,7 +9993,7 @@
                     "En": "Liming Community"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 29,
+                "StopSequence": 30,
                 "StopPosition": {
                     "PositionLon": 121.633504,
                     "PositionLat": 25.064715,
@@ -9977,7 +10009,7 @@
                     "En": "Beifeng Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 30,
+                "StopSequence": 31,
                 "StopPosition": {
                     "PositionLon": 121.631498,
                     "PositionLat": 25.06346,
@@ -9993,7 +10025,7 @@
                     "En": "Dashu Wood Co."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 31,
+                "StopSequence": 32,
                 "StopPosition": {
                     "PositionLon": 121.63,
                     "PositionLat": 25.06244,
@@ -10009,7 +10041,7 @@
                     "En": "Pandisk Technology Co."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 32,
+                "StopSequence": 33,
                 "StopPosition": {
                     "PositionLon": 121.62789,
                     "PositionLat": 25.06101,
@@ -10025,7 +10057,7 @@
                     "En": "Huanhe Li"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 33,
+                "StopSequence": 34,
                 "StopPosition": {
                     "PositionLon": 121.62608,
                     "PositionLat": 25.05941,
@@ -10041,7 +10073,7 @@
                     "En": "Huanhe Community Center"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 34,
+                "StopSequence": 35,
                 "StopPosition": {
                     "PositionLon": 121.62434,
                     "PositionLat": 25.060452,
@@ -10050,8 +10082,8 @@
                 "StationID": "70886"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10251",
@@ -10447,6 +10479,22 @@
                 "StationID": "985"
             },
             {
+                "StopUID": "TPE223789",
+                "StopID": "223789",
+                "StopName": {
+                    "Zh_tw": "石潭金豐街口",
+                    "En": "Shitan Jinfeng St."
+                },
+                "StopBoarding": 0,
+                "StopSequence": 25,
+                "StopPosition": {
+                    "PositionLon": 121.5904106,
+                    "PositionLat": 25.0632823,
+                    "GeoHash": "wsqqwfekj"
+                },
+                "StationID": "1165610509"
+            },
+            {
                 "StopUID": "TPE142286",
                 "StopID": "142286",
                 "StopName": {
@@ -10454,7 +10502,7 @@
                     "En": "Nanjing & Jinzhuang  Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 25,
+                "StopSequence": 26,
                 "StopPosition": {
                     "PositionLon": 121.589212889978,
                     "PositionLat": 25.0618022015955,
@@ -10470,7 +10518,7 @@
                     "En": "Tan-mei Park"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 26,
+                "StopSequence": 27,
                 "StopPosition": {
                     "PositionLon": 121.58567426682049,
                     "PositionLat": 25.059637621521563,
@@ -10486,7 +10534,7 @@
                     "En": "Nanjing and Jiuzong Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 27,
+                "StopSequence": 28,
                 "StopPosition": {
                     "PositionLon": 121.57950353609606,
                     "PositionLat": 25.056369580641974,
@@ -10502,7 +10550,7 @@
                     "En": "MacArthur No.1 bridge"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 28,
+                "StopSequence": 29,
                 "StopPosition": {
                     "PositionLon": 121.577715906746,
                     "PositionLat": 25.0554380798046,
@@ -10518,7 +10566,7 @@
                     "En": "Nanjing Apartment (MRT Nanjing Sanmin Sta.)"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 29,
+                "StopSequence": 30,
                 "StopPosition": {
                     "PositionLon": 121.56665364964157,
                     "PositionLat": 25.051513187536237,
@@ -10534,7 +10582,7 @@
                     "En": "NanJing-SanMin Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 30,
+                "StopSequence": 31,
                 "StopPosition": {
                     "PositionLon": 121.56111056329053,
                     "PositionLat": 25.05158012283465,
@@ -10550,7 +10598,7 @@
                     "En": "Nanjing & Ningan Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 31,
+                "StopSequence": 32,
                 "StopPosition": {
                     "PositionLon": 121.555516323112,
                     "PositionLat": 25.0516596699759,
@@ -10566,7 +10614,7 @@
                     "En": "Nanjing & Dunhua Intersection (Taipei Arena)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 32,
+                "StopSequence": 33,
                 "StopPosition": {
                     "PositionLon": 121.549520919642,
                     "PositionLat": 25.0517934820293,
@@ -10582,7 +10630,7 @@
                     "En": "MRT Nanjing Fuxing Station"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 33,
+                "StopSequence": 34,
                 "StopPosition": {
                     "PositionLon": 121.5444563164689,
                     "PositionLat": 25.05191518176843,
@@ -10598,7 +10646,7 @@
                     "En": "Nanjing & Longjiang Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 34,
+                "StopSequence": 35,
                 "StopPosition": {
                     "PositionLon": 121.54085264591662,
                     "PositionLat": 25.051994714534274,
@@ -10614,7 +10662,7 @@
                     "En": "Nanjing & Jianguo Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 35,
+                "StopSequence": 36,
                 "StopPosition": {
                     "PositionLon": 121.537271345417,
                     "PositionLat": 25.0520896887846,
@@ -10630,7 +10678,7 @@
                     "En": "MRT Songjiang Nanjing Sta."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 36,
+                "StopSequence": 37,
                 "StopPosition": {
                     "PositionLon": 121.533302047123,
                     "PositionLat": 25.0521144980622,
@@ -10646,7 +10694,7 @@
                     "En": "Nanjing & Jilin Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 37,
+                "StopSequence": 38,
                 "StopPosition": {
                     "PositionLon": 121.530332504829,
                     "PositionLat": 25.0521129968997,
@@ -10662,7 +10710,7 @@
                     "En": "Nanjing & Linsen Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 38,
+                "StopSequence": 39,
                 "StopPosition": {
                     "PositionLon": 121.525717467074,
                     "PositionLat": 25.0521676118001,
@@ -10678,7 +10726,7 @@
                     "En": "MRT Zhongshan Sta. (Zhiren High School)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 39,
+                "StopSequence": 40,
                 "StopPosition": {
                     "PositionLon": 121.519866,
                     "PositionLat": 25.052867,
@@ -10694,7 +10742,7 @@
                     "En": "Old Taipei Railway Sta."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 40,
+                "StopSequence": 41,
                 "StopPosition": {
                     "PositionLon": 121.5151374,
                     "PositionLat": 25.05143327,
@@ -10703,8 +10751,8 @@
                 "StationID": "1449"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10251",
@@ -10972,6 +11020,22 @@
                 "StationID": "5048"
             },
             {
+                "StopUID": "TPE223790",
+                "StopID": "223790",
+                "StopName": {
+                    "Zh_tw": "成功路二段(交流道)",
+                    "En": "Chenggong Rd. Sec. 2(Interchange)"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 17,
+                "StopPosition": {
+                    "PositionLon": 121.5910436,
+                    "PositionLat": 25.0646545,
+                    "GeoHash": "wsqqwfguh"
+                },
+                "StationID": "1165610510"
+            },
+            {
                 "StopUID": "TPE10467",
                 "StopID": "10467",
                 "StopName": {
@@ -10979,7 +11043,7 @@
                     "En": "Shangwanzi"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 17,
+                "StopSequence": 18,
                 "StopPosition": {
                     "PositionLon": 121.590714855835,
                     "PositionLat": 25.066818699184,
@@ -10995,7 +11059,7 @@
                     "En": "Huxing"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 18,
+                "StopSequence": 19,
                 "StopPosition": {
                     "PositionLon": 121.59085370773,
                     "PositionLat": 25.067861865327,
@@ -11011,7 +11075,7 @@
                     "En": "National Defense Medical Center"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 19,
+                "StopSequence": 20,
                 "StopPosition": {
                     "PositionLon": 121.590031196316,
                     "PositionLat": 25.0712104683315,
@@ -11027,7 +11091,7 @@
                     "En": "Jiangjun Ling"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 20,
+                "StopSequence": 21,
                 "StopPosition": {
                     "PositionLon": 121.590016770287,
                     "PositionLat": 25.0738091792986,
@@ -11043,7 +11107,7 @@
                     "En": "St. Francis High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 21,
+                "StopSequence": 22,
                 "StopPosition": {
                     "PositionLon": 121.590231346227,
                     "PositionLat": 25.0768845629687,
@@ -11059,7 +11123,7 @@
                     "En": "Chenggong Rd. Sec. 3"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 22,
+                "StopSequence": 23,
                 "StopPosition": {
                     "PositionLon": 121.589939880159,
                     "PositionLat": 25.0796177267452,
@@ -11075,7 +11139,7 @@
                     "En": "Huguang Market"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 23,
+                "StopSequence": 24,
                 "StopPosition": {
                     "PositionLon": 121.59200882874,
                     "PositionLat": 25.0816997666211,
@@ -11091,7 +11155,7 @@
                     "En": "MRT Neihu Sta."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 24,
+                "StopSequence": 25,
                 "StopPosition": {
                     "PositionLon": 121.594132,
                     "PositionLat": 25.08334,
@@ -11107,7 +11171,7 @@
                     "En": "Qingbai Village"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 25,
+                "StopSequence": 26,
                 "StopPosition": {
                     "PositionLon": 121.5956787,
                     "PositionLat": 25.08329381,
@@ -11123,7 +11187,7 @@
                     "En": "Kangning Police Substation"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 26,
+                "StopSequence": 27,
                 "StopPosition": {
                     "PositionLon": 121.5977367,
                     "PositionLat": 25.08099496,
@@ -11139,7 +11203,7 @@
                     "En": "American Institute in Taiwan"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 27,
+                "StopSequence": 28,
                 "StopPosition": {
                     "PositionLon": 121.599056,
                     "PositionLat": 25.079466,
@@ -11155,7 +11219,7 @@
                     "En": "Ziyun Village"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 28,
+                "StopSequence": 29,
                 "StopPosition": {
                     "PositionLon": 121.600001703154,
                     "PositionLat": 25.0780426740961,
@@ -11171,7 +11235,7 @@
                     "En": "Health Service Training Center"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 29,
+                "StopSequence": 30,
                 "StopPosition": {
                     "PositionLon": 121.602349,
                     "PositionLat": 25.073588,
@@ -11187,7 +11251,7 @@
                     "En": "Jinhu Rd. Entrance"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 30,
+                "StopSequence": 31,
                 "StopPosition": {
                     "PositionLon": 121.604275942446,
                     "PositionLat": 25.0734224462912,
@@ -11203,7 +11267,7 @@
                     "En": "MRT Huzhou Sta. (University of Kang Ning)"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 31,
+                "StopSequence": 32,
                 "StopPosition": {
                     "PositionLon": 121.6075013,
                     "PositionLat": 25.07246542,
@@ -11219,7 +11283,7 @@
                     "En": "Minghu Elementary School (PTS)"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 32,
+                "StopSequence": 33,
                 "StopPosition": {
                     "PositionLon": 121.609320074507,
                     "PositionLat": 25.0716328345384,
@@ -11235,7 +11299,7 @@
                     "En": "Minghu Junior High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 33,
+                "StopSequence": 34,
                 "StopPosition": {
                     "PositionLon": 121.6116528,
                     "PositionLat": 25.06996983,
@@ -11251,7 +11315,7 @@
                     "En": "MRT Donghu Sta. (Nanhu High School)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 34,
+                "StopSequence": 35,
                 "StopPosition": {
                     "PositionLon": 121.61150222666,
                     "PositionLat": 25.0674930032886,
@@ -11267,7 +11331,7 @@
                     "En": "Park St."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 35,
+                "StopSequence": 36,
                 "StopPosition": {
                     "PositionLon": 121.61282,
                     "PositionLat": 25.05914,
@@ -11283,7 +11347,7 @@
                     "En": "Sanchong Village"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 36,
+                "StopSequence": 37,
                 "StopPosition": {
                     "PositionLon": 121.61005754124962,
                     "PositionLat": 25.05937408357435,
@@ -11299,7 +11363,7 @@
                     "En": "Yucheng High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 37,
+                "StopSequence": 38,
                 "StopPosition": {
                     "PositionLon": 121.60895745708942,
                     "PositionLat": 25.05887707963565,
@@ -11315,7 +11379,7 @@
                     "En": "Nangang Vocational High School (Chongyang)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 38,
+                "StopSequence": 39,
                 "StopPosition": {
                     "PositionLon": 121.605866,
                     "PositionLat": 25.058039,
@@ -11331,7 +11395,7 @@
                     "En": "Dongxin Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 39,
+                "StopSequence": 40,
                 "StopPosition": {
                     "PositionLon": 121.6021258,
                     "PositionLat": 25.05766955,
@@ -11340,8 +11404,8 @@
                 "StationID": "1000899"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10253",
@@ -11609,8 +11673,8 @@
                 "StationID": "993"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10253",
@@ -11942,8 +12006,8 @@
                 "StationID": "1001373"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10261",
@@ -12323,8 +12387,8 @@
                 "StationID": "219"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10261",
@@ -12752,8 +12816,8 @@
                 "StationID": "5988"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10262",
@@ -13405,8 +13469,8 @@
                 "StationID": "50687"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10262",
@@ -14154,8 +14218,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10263",
@@ -14967,8 +15031,8 @@
                 "StationID": "1001316"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10263",
@@ -15796,8 +15860,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10272",
@@ -16913,8 +16977,8 @@
                 "StationID": "9473"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10272",
@@ -17774,8 +17838,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10273",
@@ -18811,8 +18875,8 @@
                 "StationID": "673"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10273",
@@ -19624,8 +19688,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10277",
@@ -19829,8 +19893,8 @@
                 "StationID": "1574"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     },
     {
         "RouteUID": "TPE10277",
@@ -20050,7 +20114,7 @@
                 "StationID": "1001262"
             }
         ],
-        "UpdateTime": "2026-01-04T07:30:39+08:00",
-        "VersionID": 6628
+        "UpdateTime": "2026-01-11T11:10:44+08:00",
+        "VersionID": 6669
     }
 ]

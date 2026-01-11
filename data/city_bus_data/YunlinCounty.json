@@ -48,8 +48,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0030.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     },
     {
         "RouteUID": "YUN0031",
@@ -118,8 +118,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0031.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     },
     {
         "RouteUID": "YUN0140",
@@ -174,24 +174,6 @@
                 "DepartureStopNameEn": "Shoutiangong Temple",
                 "DestinationStopNameZh": "斗六棒球場",
                 "DestinationStopNameEn": "Douliu baseball stadium"
-            },
-            {
-                "SubRouteUID": "YUN0140B1",
-                "SubRouteID": "0140B1",
-                "OperatorIDs": [
-                    "34"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "101B",
-                    "En": "101B"
-                },
-                "Headsign": "斗六棒球場→受天宮",
-                "HeadsignEn": "Douliu baseball stadium→Shoutiangong Temple",
-                "Direction": 0,
-                "DepartureStopNameZh": "斗六棒球場",
-                "DepartureStopNameEn": "Douliu baseball stadium",
-                "DestinationStopNameZh": "受天宮",
-                "DestinationStopNameEn": "Shoutiangong Temple"
             }
         ],
         "BusRouteType": 11,
@@ -206,8 +188,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0140.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     },
     {
         "RouteUID": "YUN0141",
@@ -276,8 +258,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0141.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     },
     {
         "RouteUID": "YUN0149",
@@ -469,8 +451,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0149.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     },
     {
         "RouteUID": "YUN0169",
@@ -520,8 +502,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0169.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     },
     {
         "RouteUID": "YUN0201",
@@ -608,8 +590,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0201.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     },
     {
         "RouteUID": "YUN0203",
@@ -714,8 +696,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0203.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     },
     {
         "RouteUID": "YUN0220",
@@ -784,8 +766,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0220.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     },
     {
         "RouteUID": "YUN0311",
@@ -854,8 +836,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0311.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     },
     {
         "RouteUID": "YUN0586",
@@ -924,8 +906,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0586.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     },
     {
         "RouteUID": "YUN0796",
@@ -994,7 +976,7 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0796.jpg",
         "City": "YunlinCounty",
         "CityCode": "YUN",
-        "UpdateTime": "2026-01-04T08:51:39+08:00",
-        "VersionID": 6277
+        "UpdateTime": "2026-01-11T10:11:45+08:00",
+        "VersionID": 6317
     }
 ]
