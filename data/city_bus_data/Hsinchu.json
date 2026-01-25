@@ -66,8 +66,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0007.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0008",
@@ -208,8 +208,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0008.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0010",
@@ -296,8 +296,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0010.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0020",
@@ -402,8 +402,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0020.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0100",
@@ -472,8 +472,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0100.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0110",
@@ -542,8 +542,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0110.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0113",
@@ -648,8 +648,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0113.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0120",
@@ -718,8 +718,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0120.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0150",
@@ -824,8 +824,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0150.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0160",
@@ -894,8 +894,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0160.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0182",
@@ -964,8 +964,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0182.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0185",
@@ -1070,8 +1070,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0185.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0200",
@@ -1158,8 +1158,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0200.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0230",
@@ -1264,8 +1264,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0230.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0270",
@@ -1316,8 +1316,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0270.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0310",
@@ -1368,8 +1368,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0310.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0500",
@@ -1420,8 +1420,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0500.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0510",
@@ -1472,8 +1472,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0510.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0520",
@@ -1542,8 +1542,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0520.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0530",
@@ -1594,8 +1594,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0530.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0573",
@@ -1646,8 +1646,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0573.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0575",
@@ -1714,8 +1714,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0575.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0710",
@@ -1766,8 +1766,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0710.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0720",
@@ -1836,8 +1836,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0720.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0730",
@@ -1906,8 +1906,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0730.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0739",
@@ -1976,8 +1976,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0739.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     },
     {
         "RouteUID": "HSZ0743",
@@ -2046,7 +2046,7 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0743.jpg",
         "City": "Hsinchu",
         "CityCode": "HSZ",
-        "UpdateTime": "2026-01-18T10:32:22+08:00",
-        "VersionID": 6356
+        "UpdateTime": "2026-01-25T10:51:47+08:00",
+        "VersionID": 6393
     }
 ]

@@ -313,8 +313,8 @@
                 "StationID": "5047"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO1021",
@@ -742,8 +742,8 @@
                 "StationID": "4028"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO1022",
@@ -1187,8 +1187,8 @@
                 "StationID": "5047"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO1022",
@@ -1440,8 +1440,8 @@
                 "StationID": "1347"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO1060",
@@ -2205,8 +2205,8 @@
                 "StationID": "5261"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO1060",
@@ -2730,14 +2730,14 @@
                 "StationID": "975"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO11",
         "RouteID": "11",
         "RouteName": {
-            "Zh_tw": "11 (1/19 上路)",
+            "Zh_tw": "11",
             "En": "11"
         },
         "Direction": 0,
@@ -3463,14 +3463,14 @@
                 "StationID": "1391"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO11",
         "RouteID": "11",
         "RouteName": {
-            "Zh_tw": "11 (1/19 上路)",
+            "Zh_tw": "11",
             "En": "11"
         },
         "Direction": 1,
@@ -4228,8 +4228,8 @@
                 "StationID": "1354"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO112",
@@ -4897,8 +4897,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO1172",
@@ -5310,8 +5310,8 @@
                 "StationID": "1684"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO1172",
@@ -5595,8 +5595,8 @@
                 "StationID": "1347"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO11892",
@@ -5864,8 +5864,8 @@
                 "StationID": "18612"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO11892",
@@ -6133,8 +6133,8 @@
                 "StationID": "18619"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO11894",
@@ -6306,8 +6306,8 @@
                 "StationID": "18612"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO11920",
@@ -6543,8 +6543,8 @@
                 "StationID": "4722"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO11920",
@@ -6780,8 +6780,8 @@
                 "StationID": "4830"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO122",
@@ -7065,8 +7065,8 @@
                 "StationID": "271"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO122",
@@ -7366,8 +7366,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO12900",
@@ -7859,8 +7859,8 @@
                 "StationID": "1489"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO12900",
@@ -8352,8 +8352,8 @@
                 "StationID": "66719"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO130",
@@ -8973,8 +8973,8 @@
                 "StationID": "1335"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO130",
@@ -9386,8 +9386,8 @@
                 "StationID": "1490"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO133",
@@ -9687,8 +9687,8 @@
                 "StationID": "205"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO133",
@@ -9988,8 +9988,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO1332",
@@ -10145,8 +10145,8 @@
                 "StationID": "8503"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO1332",
@@ -10318,8 +10318,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO1371",
@@ -10827,11 +10827,11 @@
                 "StationID": "1837"
             },
             {
-                "StopUID": "TAO8128",
-                "StopID": "8128",
+                "StopUID": "TAO9694",
+                "StopID": "9694",
                 "StopName": {
                     "Zh_tw": "春日路口",
-                    "En": "Chunri Road Intersection"
+                    "En": "Chunri Sanmin Road Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 32,
@@ -10843,6 +10843,22 @@
                 "StationID": "5842"
             },
             {
+                "StopUID": "TAO10080",
+                "StopID": "10080",
+                "StopName": {
+                    "Zh_tw": "青溪三春日路口",
+                    "En": "Qingxi 3rd and Chunri Rd, Intersection"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 33,
+                "StopPosition": {
+                    "PositionLon": 121.312875,
+                    "PositionLat": 25.004609,
+                    "GeoHash": "wsqq0xcq6"
+                },
+                "StationID": "19"
+            },
+            {
                 "StopUID": "TAO2156",
                 "StopID": "2156",
                 "StopName": {
@@ -10850,7 +10866,7 @@
                     "En": "New KuaiShi Bridge"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 33,
+                "StopSequence": 34,
                 "StopPosition": {
                     "PositionLon": 121.31199,
                     "PositionLat": 25.007003,
@@ -10866,7 +10882,7 @@
                     "En": "Ciwen Road Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 34,
+                "StopSequence": 35,
                 "StopPosition": {
                     "PositionLon": 121.3098,
                     "PositionLat": 25.01045,
@@ -10882,7 +10898,7 @@
                     "En": "Jingguolipin"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 35,
+                "StopSequence": 36,
                 "StopPosition": {
                     "PositionLon": 121.307539,
                     "PositionLat": 25.013185,
@@ -10898,7 +10914,7 @@
                     "En": "Jingguo Daxing West Road Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 36,
+                "StopSequence": 37,
                 "StopPosition": {
                     "PositionLon": 121.306818,
                     "PositionLat": 25.014427,
@@ -10914,7 +10930,7 @@
                     "En": "Min-Sheng General Hospital"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 37,
+                "StopSequence": 38,
                 "StopPosition": {
                     "PositionLon": 121.30554,
                     "PositionLat": 25.01686,
@@ -10930,7 +10946,7 @@
                     "En": "BaLiFuYi Building"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 38,
+                "StopSequence": 39,
                 "StopPosition": {
                     "PositionLon": 121.304625,
                     "PositionLat": 25.018841,
@@ -10946,7 +10962,7 @@
                     "En": "Jingguo and Nanping Rd. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 39,
+                "StopSequence": 40,
                 "StopPosition": {
                     "PositionLon": 121.303769,
                     "PositionLat": 25.020887,
@@ -10962,7 +10978,7 @@
                     "En": "Jungyuechuentian"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 40,
+                "StopSequence": 41,
                 "StopPosition": {
                     "PositionLon": 121.302756,
                     "PositionLat": 25.023117,
@@ -10978,7 +10994,7 @@
                     "En": "Jingguo Zhuangjing Road Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 41,
+                "StopSequence": 42,
                 "StopPosition": {
                     "PositionLon": 121.301835,
                     "PositionLat": 25.025152,
@@ -10994,7 +11010,7 @@
                     "En": "JingGuo Bus Station (Xingfu Rd. Intersection)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 42,
+                "StopSequence": 43,
                 "StopPosition": {
                     "PositionLon": 121.300886,
                     "PositionLat": 25.027884,
@@ -11010,7 +11026,7 @@
                     "En": "Zhangrong Gas Station"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 43,
+                "StopSequence": 44,
                 "StopPosition": {
                     "PositionLon": 121.300598,
                     "PositionLat": 25.032186,
@@ -11026,7 +11042,7 @@
                     "En": "YaJian Company"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 44,
+                "StopSequence": 45,
                 "StopPosition": {
                     "PositionLon": 121.30081,
                     "PositionLat": 25.03466,
@@ -11042,7 +11058,7 @@
                     "En": "Evergreen"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 45,
+                "StopSequence": 46,
                 "StopPosition": {
                     "PositionLon": 121.29514,
                     "PositionLat": 25.042206,
@@ -11058,7 +11074,7 @@
                     "En": "NanKan"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 46,
+                "StopSequence": 47,
                 "StopPosition": {
                     "PositionLon": 121.292138,
                     "PositionLat": 25.047657,
@@ -11074,7 +11090,7 @@
                     "En": "Taimall"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 47,
+                "StopSequence": 48,
                 "StopPosition": {
                     "PositionLon": 121.286915,
                     "PositionLat": 25.052447,
@@ -11090,7 +11106,7 @@
                     "En": "Xianankan"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 48,
+                "StopSequence": 49,
                 "StopPosition": {
                     "PositionLon": 121.285459,
                     "PositionLat": 25.053294,
@@ -11106,7 +11122,7 @@
                     "En": "Nanya (Costco)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 49,
+                "StopSequence": 50,
                 "StopPosition": {
                     "PositionLon": 121.282279,
                     "PositionLat": 25.055207,
@@ -11122,7 +11138,7 @@
                     "En": "Xizhou"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 50,
+                "StopSequence": 51,
                 "StopPosition": {
                     "PositionLon": 121.278999,
                     "PositionLat": 25.05713,
@@ -11138,7 +11154,7 @@
                     "En": "Panasonic Taiwan Co., Ltd."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 51,
+                "StopSequence": 52,
                 "StopPosition": {
                     "PositionLon": 121.275075,
                     "PositionLat": 25.058906,
@@ -11154,7 +11170,7 @@
                     "En": "Sanshang"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 52,
+                "StopSequence": 53,
                 "StopPosition": {
                     "PositionLon": 121.270502,
                     "PositionLat": 25.060989,
@@ -11170,7 +11186,7 @@
                     "En": "Shuiwei"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 53,
+                "StopSequence": 54,
                 "StopPosition": {
                     "PositionLon": 121.267394,
                     "PositionLat": 25.062501,
@@ -11179,8 +11195,8 @@
                 "StationID": "1398"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO1371",
@@ -11544,6 +11560,22 @@
                 "StationID": "1830"
             },
             {
+                "StopUID": "TAO10081",
+                "StopID": "10081",
+                "StopName": {
+                    "Zh_tw": "青溪三春日路口",
+                    "En": "Qingxi 3rd and Chunri Rd, Intersection"
+                },
+                "StopBoarding": 0,
+                "StopSequence": 23,
+                "StopPosition": {
+                    "PositionLon": 121.312638,
+                    "PositionLat": 25.004575,
+                    "GeoHash": "wsqq0xcnj"
+                },
+                "StationID": "20"
+            },
+            {
                 "StopUID": "TAO8129",
                 "StopID": "8129",
                 "StopName": {
@@ -11551,7 +11583,7 @@
                     "En": "Chunri Road Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 23,
+                "StopSequence": 24,
                 "StopPosition": {
                     "PositionLon": 121.313376,
                     "PositionLat": 25.002234,
@@ -11567,7 +11599,7 @@
                     "En": "SanMin and MinSheng Rd. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 24,
+                "StopSequence": 25,
                 "StopPosition": {
                     "PositionLon": 121.311294,
                     "PositionLat": 25.000234,
@@ -11583,7 +11615,7 @@
                     "En": "ChengGung Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 25,
+                "StopSequence": 26,
                 "StopPosition": {
                     "PositionLon": 121.307561,
                     "PositionLat": 24.998451,
@@ -11599,7 +11631,7 @@
                     "En": "Taoyuan High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 26,
+                "StopSequence": 27,
                 "StopPosition": {
                     "PositionLon": 121.305724,
                     "PositionLat": 24.995181,
@@ -11615,7 +11647,7 @@
                     "En": "SanMin and JungShan Rd. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 27,
+                "StopSequence": 28,
                 "StopPosition": {
                     "PositionLon": 121.305989,
                     "PositionLat": 24.991994,
@@ -11631,7 +11663,7 @@
                     "En": "Nanmen Market"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 28,
+                "StopSequence": 29,
                 "StopPosition": {
                     "PositionLon": 121.306312,
                     "PositionLat": 24.991128,
@@ -11647,7 +11679,7 @@
                     "En": "Nanhua Street Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 29,
+                "StopSequence": 30,
                 "StopPosition": {
                     "PositionLon": 121.307991,
                     "PositionLat": 24.989899,
@@ -11663,7 +11695,7 @@
                     "En": "Zhonghua and Minzu Road Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 30,
+                "StopSequence": 31,
                 "StopPosition": {
                     "PositionLon": 121.309339,
                     "PositionLat": 24.990336,
@@ -11679,7 +11711,7 @@
                     "En": "JieShou and JianGuo Rd. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 31,
+                "StopSequence": 32,
                 "StopPosition": {
                     "PositionLon": 121.310243,
                     "PositionLat": 24.984633,
@@ -11695,7 +11727,7 @@
                     "En": "JieShou and Baoluo St. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 32,
+                "StopSequence": 33,
                 "StopPosition": {
                     "PositionLon": 121.309369,
                     "PositionLat": 24.983523,
@@ -11711,7 +11743,7 @@
                     "En": "Taoyuan Motor Vehicles Office"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 33,
+                "StopSequence": 34,
                 "StopPosition": {
                     "PositionLon": 121.303948,
                     "PositionLat": 24.978797,
@@ -11727,7 +11759,7 @@
                     "En": "Litai"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 34,
+                "StopSequence": 35,
                 "StopPosition": {
                     "PositionLon": 121.302958,
                     "PositionLat": 24.976941,
@@ -11743,7 +11775,7 @@
                     "En": "Lixing Street Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 35,
+                "StopSequence": 36,
                 "StopPosition": {
                     "PositionLon": 121.302405,
                     "PositionLat": 24.975797,
@@ -11759,7 +11791,7 @@
                     "En": "Radio Station"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 36,
+                "StopSequence": 37,
                 "StopPosition": {
                     "PositionLon": 121.301808,
                     "PositionLat": 24.972067,
@@ -11775,7 +11807,7 @@
                     "En": "Xiaodanan"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 37,
+                "StopSequence": 38,
                 "StopPosition": {
                     "PositionLon": 121.301479,
                     "PositionLat": 24.970451,
@@ -11791,7 +11823,7 @@
                     "En": "Zhongyong West Street station(G05)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 38,
+                "StopSequence": 39,
                 "StopPosition": {
                     "PositionLon": 121.300739,
                     "PositionLat": 24.966545,
@@ -11807,7 +11839,7 @@
                     "En": "Kwong Fong Plaza"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 39,
+                "StopSequence": 40,
                 "StopPosition": {
                     "PositionLon": 121.300302,
                     "PositionLat": 24.964523,
@@ -11823,7 +11855,7 @@
                     "En": "The 4th village of Lu guang"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 40,
+                "StopSequence": 41,
                 "StopPosition": {
                     "PositionLon": 121.299929,
                     "PositionLat": 24.962435,
@@ -11839,7 +11871,7 @@
                     "En": "Danan Station(G04)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 41,
+                "StopSequence": 42,
                 "StopPosition": {
                     "PositionLon": 121.299299,
                     "PositionLat": 24.958995,
@@ -11855,7 +11887,7 @@
                     "En": "Rueixiang Community"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 42,
+                "StopSequence": 43,
                 "StopPosition": {
                     "PositionLon": 121.298264,
                     "PositionLat": 24.952395,
@@ -11871,7 +11903,7 @@
                     "En": "Hungchang Community"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 43,
+                "StopSequence": 44,
                 "StopPosition": {
                     "PositionLon": 121.297828,
                     "PositionLat": 24.949977,
@@ -11887,7 +11919,7 @@
                     "En": "Mayuan station(G03)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 44,
+                "StopSequence": 45,
                 "StopPosition": {
                     "PositionLon": 121.297535,
                     "PositionLat": 24.947764,
@@ -11903,7 +11935,7 @@
                     "En": "Meihua Community"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 45,
+                "StopSequence": 46,
                 "StopPosition": {
                     "PositionLon": 121.297347,
                     "PositionLat": 24.944223,
@@ -11919,7 +11951,7 @@
                     "En": "Xintao Community"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 46,
+                "StopSequence": 47,
                 "StopPosition": {
                     "PositionLon": 121.297407,
                     "PositionLat": 24.941346,
@@ -11935,7 +11967,7 @@
                     "En": "SungBoYuan"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 47,
+                "StopSequence": 48,
                 "StopPosition": {
                     "PositionLon": 121.297361,
                     "PositionLat": 24.93857,
@@ -11951,7 +11983,7 @@
                     "En": "Ruifeng Elementary School(Taoyuan Disaster Education Center)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 48,
+                "StopSequence": 49,
                 "StopPosition": {
                     "PositionLon": 121.297291,
                     "PositionLat": 24.936651,
@@ -11967,7 +11999,7 @@
                     "En": "Rueifajiayuan"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 49,
+                "StopSequence": 50,
                 "StopPosition": {
                     "PositionLon": 121.297452,
                     "PositionLat": 24.933835,
@@ -11983,7 +12015,7 @@
                     "En": "Gengliaojiao(Xingfeng Road)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 50,
+                "StopSequence": 51,
                 "StopPosition": {
                     "PositionLon": 121.296347,
                     "PositionLat": 24.931229,
@@ -11999,7 +12031,7 @@
                     "En": "Lianfu Ln."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 51,
+                "StopSequence": 52,
                 "StopPosition": {
                     "PositionLon": 121.293538,
                     "PositionLat": 24.930671,
@@ -12015,7 +12047,7 @@
                     "En": "Singfong and Youlian St. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 52,
+                "StopSequence": 53,
                 "StopPosition": {
                     "PositionLon": 121.290014,
                     "PositionLat": 24.929989,
@@ -12031,7 +12063,7 @@
                     "En": "BaDe Junior High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 53,
+                "StopSequence": 54,
                 "StopPosition": {
                     "PositionLon": 121.287042,
                     "PositionLat": 24.929358,
@@ -12047,7 +12079,7 @@
                     "En": "Bade District Office (Farmers Assoc.)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 54,
+                "StopSequence": 55,
                 "StopPosition": {
                     "PositionLon": 121.284944,
                     "PositionLat": 24.929236,
@@ -12056,8 +12088,8 @@
                 "StationID": "4019"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO168",
@@ -12965,8 +12997,8 @@
                 "StationID": "5684"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     },
     {
         "RouteUID": "TAO168",
@@ -13858,7 +13890,7 @@
                 "StationID": "2147"
             }
         ],
-        "UpdateTime": "2026-01-18T03:11:48+08:00",
-        "VersionID": 4300
+        "UpdateTime": "2026-01-25T03:31:49+08:00",
+        "VersionID": 4310
     }
 ]
