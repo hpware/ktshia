@@ -601,8 +601,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10132",
@@ -1238,8 +1238,8 @@
                 "StationID": "1000431"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10142",
@@ -1943,7 +1943,7 @@
                 "StopID": "16897",
                 "StopName": {
                     "Zh_tw": "萬壽橋頭(秀明)",
-                    "En": "Wanshou Qiaotou (Xiuming)"
+                    "En": "Wanshou Bridge (Xiuming)"
                 },
                 "StopBoarding": -1,
                 "StopSequence": 44,
@@ -2039,7 +2039,7 @@
                 "StopID": "16907",
                 "StopName": {
                     "Zh_tw": "信義松仁路口(信義)",
-                    "En": "Xinyi and Songren Rd. Intersection (Xinyi)"
+                    "En": "Xinyi and Songren Intersection (Xinyi)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 50,
@@ -2099,8 +2099,8 @@
                 "StationID": "3916"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10142",
@@ -2148,7 +2148,7 @@
                 "StopID": "16919",
                 "StopName": {
                     "Zh_tw": "信義松仁路口(松仁)",
-                    "En": "Xinyi and Songren Rd. Intersection (Songren)"
+                    "En": "Xinyi and Songren Intersection (Songren)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 3,
@@ -2244,7 +2244,7 @@
                 "StopID": "148693",
                 "StopName": {
                     "Zh_tw": "萬壽橋頭(秀明)",
-                    "En": "Wanshou Qiaotou (Xiuming)"
+                    "En": "Wanshou Bridge (Xiuming)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 9,
@@ -2928,8 +2928,8 @@
                 "StationID": "72232"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10181",
@@ -3917,8 +3917,8 @@
                 "StationID": "4623"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10181",
@@ -4810,8 +4810,8 @@
                 "StationID": "1000965"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10221",
@@ -5847,8 +5847,8 @@
                 "StationID": "1165604808"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10221",
@@ -6804,8 +6804,8 @@
                 "StationID": "30017"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10231",
@@ -7377,8 +7377,8 @@
                 "StationID": "1165604811"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10231",
@@ -7943,9 +7943,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 35,
                 "StopPosition": {
-                    "PositionLon": 121.6021258,
-                    "PositionLat": 25.05766955,
-                    "GeoHash": "wsqqx1egw"
+                    "PositionLon": 121.602725808672,
+                    "PositionLat": 25.05778835407,
+                    "GeoHash": "wsqqx1skh"
                 },
                 "StationID": "1000899"
             },
@@ -7998,8 +7998,8 @@
                 "StationID": "1646"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10232",
@@ -8068,9 +8068,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 4,
                 "StopPosition": {
-                    "PositionLon": 121.6021258,
-                    "PositionLat": 25.05766955,
-                    "GeoHash": "wsqqx1egw"
+                    "PositionLon": 121.602725808672,
+                    "PositionLat": 25.05778835407,
+                    "GeoHash": "wsqqx1skh"
                 },
                 "StationID": "1000899"
             },
@@ -8459,8 +8459,8 @@
                 "StationID": "1484"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10232",
@@ -8920,8 +8920,8 @@
                 "StationID": "1606"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10241",
@@ -9509,8 +9509,8 @@
                 "StationID": "1697"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10241",
@@ -10082,8 +10082,8 @@
                 "StationID": "70886"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10251",
@@ -10751,8 +10751,8 @@
                 "StationID": "1449"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10251",
@@ -11397,15 +11397,15 @@
                 "StopBoarding": 0,
                 "StopSequence": 40,
                 "StopPosition": {
-                    "PositionLon": 121.6021258,
-                    "PositionLat": 25.05766955,
-                    "GeoHash": "wsqqx1egw"
+                    "PositionLon": 121.602725808672,
+                    "PositionLat": 25.05778835407,
+                    "GeoHash": "wsqqx1skh"
                 },
                 "StationID": "1000899"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10253",
@@ -11673,8 +11673,8 @@
                 "StationID": "993"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10253",
@@ -12006,8 +12006,8 @@
                 "StationID": "1001373"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10261",
@@ -12387,8 +12387,8 @@
                 "StationID": "219"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10261",
@@ -12816,8 +12816,8 @@
                 "StationID": "5988"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10262",
@@ -13469,8 +13469,8 @@
                 "StationID": "50687"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10262",
@@ -14218,8 +14218,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10263",
@@ -15031,8 +15031,8 @@
                 "StationID": "1001316"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10263",
@@ -15860,8 +15860,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10272",
@@ -16977,8 +16977,8 @@
                 "StationID": "9473"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10272",
@@ -17838,8 +17838,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10273",
@@ -18875,8 +18875,8 @@
                 "StationID": "673"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10273",
@@ -19688,8 +19688,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10277",
@@ -19893,8 +19893,8 @@
                 "StationID": "1574"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     },
     {
         "RouteUID": "TPE10277",
@@ -20114,7 +20114,7 @@
                 "StationID": "1001262"
             }
         ],
-        "UpdateTime": "2026-01-25T09:30:42+08:00",
-        "VersionID": 6748
+        "UpdateTime": "2026-02-01T05:32:57+08:00",
+        "VersionID": 6788
     }
 ]
