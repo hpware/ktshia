@@ -188,8 +188,8 @@
                 "StopUID": "TAO1237",
                 "StopID": "1237",
                 "StopName": {
-                    "Zh_tw": "廣豐新天地",
-                    "En": "Kwong Fong Plaza"
+                    "Zh_tw": "介壽大智路口",
+                    "En": "Jieshou & Dazhi Rd. Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 12,
@@ -313,8 +313,8 @@
                 "StationID": "5047"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO1021",
@@ -374,11 +374,11 @@
                 "StationID": "1391"
             },
             {
-                "StopUID": "TAO1245",
-                "StopID": "1245",
+                "StopUID": "TAO1236",
+                "StopID": "1236",
                 "StopName": {
-                    "Zh_tw": "廣豐新天地",
-                    "En": "Kwong Fong Plaza"
+                    "Zh_tw": "介壽大智路口",
+                    "En": "Jieshou & Dazhi Rd. Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 4,
@@ -742,8 +742,8 @@
                 "StationID": "4028"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO1022",
@@ -1062,8 +1062,8 @@
                 "StopUID": "TAO1237",
                 "StopID": "1237",
                 "StopName": {
-                    "Zh_tw": "廣豐新天地",
-                    "En": "Kwong Fong Plaza"
+                    "Zh_tw": "介壽大智路口",
+                    "En": "Jieshou & Dazhi Rd. Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 20,
@@ -1187,8 +1187,8 @@
                 "StationID": "5047"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO1022",
@@ -1248,11 +1248,11 @@
                 "StationID": "1391"
             },
             {
-                "StopUID": "TAO1245",
-                "StopID": "1245",
+                "StopUID": "TAO1236",
+                "StopID": "1236",
                 "StopName": {
-                    "Zh_tw": "廣豐新天地",
-                    "En": "Kwong Fong Plaza"
+                    "Zh_tw": "介壽大智路口",
+                    "En": "Jieshou & Dazhi Rd. Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 4,
@@ -1440,8 +1440,8 @@
                 "StationID": "1347"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO1060",
@@ -2205,8 +2205,8 @@
                 "StationID": "5261"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO1060",
@@ -2730,8 +2730,8 @@
                 "StationID": "975"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO11",
@@ -3463,8 +3463,8 @@
                 "StationID": "1391"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO11",
@@ -4228,8 +4228,8 @@
                 "StationID": "1354"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO112",
@@ -4554,9 +4554,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 20,
                 "StopPosition": {
-                    "PositionLon": 121.257008,
-                    "PositionLat": 24.935264,
-                    "GeoHash": "wsqjz72dm"
+                    "PositionLon": 121.256986,
+                    "PositionLat": 24.935279,
+                    "GeoHash": "wsqjz72ds"
                 },
                 "StationID": "640"
             },
@@ -4586,9 +4586,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 22,
                 "StopPosition": {
-                    "PositionLon": 121.255034,
-                    "PositionLat": 24.931963,
-                    "GeoHash": "wsqjz4xpp"
+                    "PositionLon": 121.255027,
+                    "PositionLat": 24.932033,
+                    "GeoHash": "wsqjz4xpw"
                 },
                 "StationID": "689"
             },
@@ -4650,9 +4650,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 26,
                 "StopPosition": {
-                    "PositionLon": 121.245451,
-                    "PositionLat": 24.926275,
-                    "GeoHash": "wsqjz18np"
+                    "PositionLon": 121.245313,
+                    "PositionLat": 24.926272,
+                    "GeoHash": "wsqjz18nh"
                 },
                 "StationID": "5076"
             },
@@ -4897,8 +4897,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO1172",
@@ -5310,8 +5310,8 @@
                 "StationID": "1684"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO1172",
@@ -5595,8 +5595,8 @@
                 "StationID": "1347"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO11892",
@@ -5864,8 +5864,8 @@
                 "StationID": "18612"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO11892",
@@ -6133,8 +6133,8 @@
                 "StationID": "18619"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO11894",
@@ -6306,8 +6306,8 @@
                 "StationID": "18612"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO11920",
@@ -6543,8 +6543,8 @@
                 "StationID": "4722"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO11920",
@@ -6780,8 +6780,8 @@
                 "StationID": "4830"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO122",
@@ -7065,8 +7065,8 @@
                 "StationID": "271"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO122",
@@ -7366,8 +7366,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO12900",
@@ -7859,8 +7859,8 @@
                 "StationID": "1489"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO12900",
@@ -8352,8 +8352,8 @@
                 "StationID": "66719"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO130",
@@ -8541,11 +8541,11 @@
                 "StationID": "3487"
             },
             {
-                "StopUID": "TAO6387",
-                "StopID": "6387",
+                "StopUID": "TAO1237",
+                "StopID": "1237",
                 "StopName": {
-                    "Zh_tw": "廣豐新天地",
-                    "En": "Kwong Fong Plaza"
+                    "Zh_tw": "介壽大智路口",
+                    "En": "Jieshou & Dazhi Rd. Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 12,
@@ -8973,8 +8973,8 @@
                 "StationID": "1335"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO130",
@@ -9386,8 +9386,8 @@
                 "StationID": "1490"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO133",
@@ -9687,8 +9687,8 @@
                 "StationID": "205"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO133",
@@ -9988,8 +9988,8 @@
                 "StationID": "130"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO1371",
@@ -10241,11 +10241,11 @@
                 "StationID": "1391"
             },
             {
-                "StopUID": "TAO4430",
-                "StopID": "4430",
+                "StopUID": "TAO1236",
+                "StopID": "1236",
                 "StopName": {
-                    "Zh_tw": "廣豐新天地",
-                    "En": "Kwong Fong Plaza"
+                    "Zh_tw": "介壽大智路口",
+                    "En": "Jieshou & Dazhi Rd. Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 16,
@@ -10865,8 +10865,8 @@
                 "StationID": "1398"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO1371",
@@ -11502,11 +11502,11 @@
                 "StationID": "3487"
             },
             {
-                "StopUID": "TAO4433",
-                "StopID": "4433",
+                "StopUID": "TAO1237",
+                "StopID": "1237",
                 "StopName": {
-                    "Zh_tw": "廣豐新天地",
-                    "En": "Kwong Fong Plaza"
+                    "Zh_tw": "介壽大智路口",
+                    "En": "Jieshou & Dazhi Rd. Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 40,
@@ -11623,9 +11623,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 47,
                 "StopPosition": {
-                    "PositionLon": 121.297407,
-                    "PositionLat": 24.941346,
-                    "GeoHash": "wsqmbhqjf"
+                    "PositionLon": 121.297392,
+                    "PositionLat": 24.940873,
+                    "GeoHash": "wsqmbhq54"
                 },
                 "StationID": "1379"
             },
@@ -11758,8 +11758,8 @@
                 "StationID": "4019"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO168",
@@ -12667,8 +12667,8 @@
                 "StationID": "5684"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO168",
@@ -12689,9 +12689,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 1,
                 "StopPosition": {
-                    "PositionLon": 121.250911,
-                    "PositionLat": 24.976202,
-                    "GeoHash": "wsqnp4u0z"
+                    "PositionLon": 121.250888,
+                    "PositionLat": 24.975734,
+                    "GeoHash": "wsqnp4snn"
                 },
                 "StationID": "5685"
             },
@@ -13560,8 +13560,8 @@
                 "StationID": "2147"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO1681",
@@ -14517,8 +14517,8 @@
                 "StationID": "5684"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     },
     {
         "RouteUID": "TAO1681",
@@ -14539,9 +14539,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 1,
                 "StopPosition": {
-                    "PositionLon": 121.250911,
-                    "PositionLat": 24.976202,
-                    "GeoHash": "wsqnp4u0z"
+                    "PositionLon": 121.250888,
+                    "PositionLat": 24.975734,
+                    "GeoHash": "wsqnp4snn"
                 },
                 "StationID": "5685"
             },
@@ -15458,7 +15458,7 @@
                 "StationID": "2147"
             }
         ],
-        "UpdateTime": "2026-02-08T09:54:59+08:00",
-        "VersionID": 4374
+        "UpdateTime": "2026-02-15T09:54:09+08:00",
+        "VersionID": 4416
     }
 ]
