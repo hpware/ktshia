@@ -290,9 +290,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 18,
                 "StopPosition": {
-                    "PositionLon": 120.17783,
-                    "PositionLat": 22.99014,
-                    "GeoHash": "wsj6y9nz6"
+                    "PositionLon": 120.17865,
+                    "PositionLat": 22.99004,
+                    "GeoHash": "wsj6y9pqt"
                 },
                 "StationID": "8764"
             },
@@ -889,8 +889,8 @@
                 "StationID": "8657"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10019",
@@ -1782,8 +1782,8 @@
                 "StationID": "8685"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10021",
@@ -2435,8 +2435,8 @@
                 "StationID": "8784"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10021",
@@ -3072,8 +3072,8 @@
                 "StationID": "9211"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN1009",
@@ -3725,8 +3725,8 @@
                 "StationID": "2849"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN1009",
@@ -4378,8 +4378,8 @@
                 "StationID": "9213"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN1010",
@@ -5431,8 +5431,8 @@
                 "StationID": "1000"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN1010",
@@ -6500,8 +6500,8 @@
                 "StationID": "9213"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10161",
@@ -7697,8 +7697,8 @@
                 "StationID": "2865"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10161",
@@ -8878,8 +8878,8 @@
                 "StationID": "8594"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10162",
@@ -10299,8 +10299,8 @@
                 "StationID": "250"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10162",
@@ -11137,9 +11137,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 52,
                 "StopPosition": {
-                    "PositionLon": 120.20374,
-                    "PositionLat": 22.98149,
-                    "GeoHash": "wsj6xr9sy"
+                    "PositionLon": 120.20381,
+                    "PositionLat": 22.98201,
+                    "GeoHash": "wsj6xr9xz"
                 },
                 "StationID": "281"
             },
@@ -11720,8 +11720,8 @@
                 "StationID": "299"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10163",
@@ -12805,8 +12805,8 @@
                 "StationID": "435"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10163",
@@ -13842,8 +13842,8 @@
                 "StationID": "343"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10164",
@@ -14943,8 +14943,8 @@
                 "StationID": "8699"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10164",
@@ -16076,8 +16076,8 @@
                 "StationID": "2865"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10165",
@@ -16681,22 +16681,6 @@
                 "StationID": "698"
             },
             {
-                "StopUID": "TNN10472",
-                "StopID": "10472",
-                "StopName": {
-                    "Zh_tw": "康樂街口",
-                    "En": "Kang-Le St. Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 38,
-                "StopPosition": {
-                    "PositionLon": 120.19387,
-                    "PositionLat": 22.99134,
-                    "GeoHash": "wsj6z16w2"
-                },
-                "StationID": "662"
-            },
-            {
                 "StopUID": "TNN10473",
                 "StopID": "10473",
                 "StopName": {
@@ -16704,7 +16688,7 @@
                     "En": "Nan-Hua St. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 39,
+                "StopSequence": 38,
                 "StopPosition": {
                     "PositionLon": 120.19222,
                     "PositionLat": 22.99169,
@@ -16720,7 +16704,7 @@
                     "En": "National Tainan Living Art Center"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 40,
+                "StopSequence": 39,
                 "StopPosition": {
                     "PositionLon": 120.18771,
                     "PositionLat": 22.99257,
@@ -16736,7 +16720,7 @@
                     "En": "Tainan City Hall(Fu-Cian Rd.)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 41,
+                "StopSequence": 40,
                 "StopPosition": {
                     "PositionLon": 120.18449,
                     "PositionLat": 22.99322,
@@ -16752,7 +16736,7 @@
                     "En": "228 Park"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 42,
+                "StopSequence": 41,
                 "StopPosition": {
                     "PositionLon": 120.18259,
                     "PositionLat": 22.99073,
@@ -16768,7 +16752,7 @@
                     "En": "Nan Tai Temple"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 43,
+                "StopSequence": 42,
                 "StopPosition": {
                     "PositionLon": 120.18294,
                     "PositionLat": 22.98949,
@@ -16784,7 +16768,7 @@
                     "En": "Carrefour"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 44,
+                "StopSequence": 43,
                 "StopPosition": {
                     "PositionLon": 120.18761,
                     "PositionLat": 22.98886,
@@ -16800,7 +16784,7 @@
                     "En": "Wunnan Rd. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 45,
+                "StopSequence": 44,
                 "StopPosition": {
                     "PositionLon": 120.18962,
                     "PositionLat": 22.98862,
@@ -16816,7 +16800,7 @@
                     "En": "Shueipingwun Park(Jinhua Rd.)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 46,
+                "StopSequence": 45,
                 "StopPosition": {
                     "PositionLon": 120.19187,
                     "PositionLat": 22.98694,
@@ -16832,7 +16816,7 @@
                     "En": "Wunnan-Guangjhou Vil."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 47,
+                "StopSequence": 46,
                 "StopPosition": {
                     "PositionLon": 120.19166,
                     "PositionLat": 22.98407,
@@ -16848,7 +16832,7 @@
                     "En": "Jinhua Police Station"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 48,
+                "StopSequence": 47,
                 "StopPosition": {
                     "PositionLon": 120.19143,
                     "PositionLat": 22.98098,
@@ -16864,7 +16848,7 @@
                     "En": "North of Public Housing"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 49,
+                "StopSequence": 48,
                 "StopPosition": {
                     "PositionLon": 120.19119,
                     "PositionLat": 22.97823,
@@ -16880,7 +16864,7 @@
                     "En": "Sin-Sing Rd. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 50,
+                "StopSequence": 49,
                 "StopPosition": {
                     "PositionLon": 120.19099,
                     "PositionLat": 22.97553,
@@ -16896,7 +16880,7 @@
                     "En": "Yan-Cheng Public Housing"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 51,
+                "StopSequence": 50,
                 "StopPosition": {
                     "PositionLon": 120.18999,
                     "PositionLat": 22.97521,
@@ -16912,7 +16896,7 @@
                     "En": "Ming-He Park"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 52,
+                "StopSequence": 51,
                 "StopPosition": {
                     "PositionLon": 120.18624,
                     "PositionLat": 22.97453,
@@ -16928,7 +16912,7 @@
                     "En": "TAN ZUO MA LI XIN XING ESLITE"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 53,
+                "StopSequence": 52,
                 "StopPosition": {
                     "PositionLon": 120.18527,
                     "PositionLat": 22.97333,
@@ -16944,7 +16928,7 @@
                     "En": "Sin-Jian Road"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 54,
+                "StopSequence": 53,
                 "StopPosition": {
                     "PositionLon": 120.18527,
                     "PositionLat": 22.97093,
@@ -16960,7 +16944,7 @@
                     "En": "South of Sin-Jian Station"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 55,
+                "StopSequence": 54,
                 "StopPosition": {
                     "PositionLon": 120.18526,
                     "PositionLat": 22.96795,
@@ -16976,7 +16960,7 @@
                     "En": "Kainan Vil."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 56,
+                "StopSequence": 55,
                 "StopPosition": {
                     "PositionLon": 120.18529,
                     "PositionLat": 22.96632,
@@ -16992,7 +16976,7 @@
                     "En": "Yonghua Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 57,
+                "StopSequence": 56,
                 "StopPosition": {
                     "PositionLon": 120.18531,
                     "PositionLat": 22.96424,
@@ -17008,7 +16992,7 @@
                     "En": "RihSin Bridge"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 58,
+                "StopSequence": 57,
                 "StopPosition": {
                     "PositionLon": 120.18938,
                     "PositionLat": 22.96273,
@@ -17024,7 +17008,7 @@
                     "En": "Sinsing Public Housing"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 59,
+                "StopSequence": 58,
                 "StopPosition": {
                     "PositionLon": 120.18736,
                     "PositionLat": 22.96174,
@@ -17040,7 +17024,7 @@
                     "En": "Sec. 2 Jhonghua S. Rd."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 60,
+                "StopSequence": 59,
                 "StopPosition": {
                     "PositionLon": 120.18562,
                     "PositionLat": 22.96181,
@@ -17056,7 +17040,7 @@
                     "En": "Cing-Shui Road"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 61,
+                "StopSequence": 60,
                 "StopPosition": {
                     "PositionLon": 120.17767,
                     "PositionLat": 22.95975,
@@ -17072,7 +17056,7 @@
                     "En": "SiaKunShen"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 62,
+                "StopSequence": 61,
                 "StopPosition": {
                     "PositionLon": 120.17471,
                     "PositionLat": 22.95913,
@@ -17088,7 +17072,7 @@
                     "En": "SihKunShen"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 63,
+                "StopSequence": 62,
                 "StopPosition": {
                     "PositionLon": 120.17176,
                     "PositionLat": 22.95918,
@@ -17104,7 +17088,7 @@
                     "En": "KunShen Community"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 64,
+                "StopSequence": 63,
                 "StopPosition": {
                     "PositionLon": 120.17025,
                     "PositionLat": 22.96017,
@@ -17120,7 +17104,7 @@
                     "En": "LongGang Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 65,
+                "StopSequence": 64,
                 "StopPosition": {
                     "PositionLon": 120.16962,
                     "PositionLat": 22.96158,
@@ -17129,8 +17113,8 @@
                 "StationID": "600"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10165",
@@ -18182,8 +18166,8 @@
                 "StationID": "2911"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10166",
@@ -18995,8 +18979,8 @@
                 "StationID": "700"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10166",
@@ -19808,8 +19792,8 @@
                 "StationID": "419"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10169",
@@ -20813,8 +20797,8 @@
                 "StationID": "1138"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10169",
@@ -21802,8 +21786,8 @@
                 "StationID": "2666"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10170",
@@ -21943,22 +21927,6 @@
                 "StationID": "1402"
             },
             {
-                "StopUID": "TNN9146",
-                "StopID": "9146",
-                "StopName": {
-                    "Zh_tw": "康樂街口",
-                    "En": "Kang-Le St. Intersection"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 9,
-                "StopPosition": {
-                    "PositionLon": 120.19387,
-                    "PositionLat": 22.99134,
-                    "GeoHash": "wsj6z16w2"
-                },
-                "StationID": "662"
-            },
-            {
                 "StopUID": "TNN9147",
                 "StopID": "9147",
                 "StopName": {
@@ -21966,7 +21934,7 @@
                     "En": "Nan-Hua St. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 10,
+                "StopSequence": 9,
                 "StopPosition": {
                     "PositionLon": 120.19222,
                     "PositionLat": 22.99169,
@@ -21982,7 +21950,7 @@
                     "En": "National Tainan Living Art Center"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 11,
+                "StopSequence": 10,
                 "StopPosition": {
                     "PositionLon": 120.18771,
                     "PositionLat": 22.99257,
@@ -21998,7 +21966,7 @@
                     "En": "Tainan City Hall(Fu-Cian Rd.)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 12,
+                "StopSequence": 11,
                 "StopPosition": {
                     "PositionLon": 120.18449,
                     "PositionLat": 22.99322,
@@ -22014,7 +21982,7 @@
                     "En": "Sin-Nan Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 13,
+                "StopSequence": 12,
                 "StopPosition": {
                     "PositionLon": 120.18361,
                     "PositionLat": 22.99371,
@@ -22030,7 +21998,7 @@
                     "En": "Jianping 14th St. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 14,
+                "StopSequence": 13,
                 "StopPosition": {
                     "PositionLon": 120.18405,
                     "PositionLat": 22.99568,
@@ -22046,7 +22014,7 @@
                     "En": "Cingping Rd."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 15,
+                "StopSequence": 14,
                 "StopPosition": {
                     "PositionLon": 120.18161,
                     "PositionLat": 22.99708,
@@ -22062,7 +22030,7 @@
                     "En": "Wunping Rd."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 16,
+                "StopSequence": 15,
                 "StopPosition": {
                     "PositionLon": 120.17899,
                     "PositionLat": 22.99574,
@@ -22078,7 +22046,7 @@
                     "En": "Yiping Rd. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 17,
+                "StopSequence": 16,
                 "StopPosition": {
                     "PositionLon": 120.17866,
                     "PositionLat": 22.99306,
@@ -22094,7 +22062,7 @@
                     "En": "Yiping Park"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 18,
+                "StopSequence": 17,
                 "StopPosition": {
                     "PositionLon": 120.17601,
                     "PositionLat": 22.99299,
@@ -22110,7 +22078,7 @@
                     "En": "An-Ping District Office"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 19,
+                "StopSequence": 18,
                 "StopPosition": {
                     "PositionLon": 120.16816,
                     "PositionLat": 22.99404,
@@ -22126,7 +22094,7 @@
                     "En": "Yuping Police Station"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 20,
+                "StopSequence": 19,
                 "StopPosition": {
                     "PositionLon": 120.16744,
                     "PositionLat": 22.99268,
@@ -22142,7 +22110,7 @@
                     "En": "Pingfeng Rd. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 21,
+                "StopSequence": 20,
                 "StopPosition": {
                     "PositionLon": 120.16441,
                     "PositionLat": 22.99195,
@@ -22158,7 +22126,7 @@
                     "En": "Gongge Temple"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 22,
+                "StopSequence": 21,
                 "StopPosition": {
                     "PositionLon": 120.16058,
                     "PositionLat": 22.99175,
@@ -22174,7 +22142,7 @@
                     "En": "Aloft Tainan Anping"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 23,
+                "StopSequence": 22,
                 "StopPosition": {
                     "PositionLon": 120.15981,
                     "PositionLat": 22.99094,
@@ -22190,7 +22158,7 @@
                     "En": "Yi-Zai Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 24,
+                "StopSequence": 23,
                 "StopPosition": {
                     "PositionLon": 120.16199,
                     "PositionLat": 22.98949,
@@ -22206,7 +22174,7 @@
                     "En": "Jyun-Ping Road"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 25,
+                "StopSequence": 24,
                 "StopPosition": {
                     "PositionLon": 120.16659,
                     "PositionLat": 22.98932,
@@ -22222,7 +22190,7 @@
                     "En": "Yuping Rd. ＆ Fuping Rd."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 26,
+                "StopSequence": 25,
                 "StopPosition": {
                     "PositionLon": 120.16634,
                     "PositionLat": 22.98686,
@@ -22238,7 +22206,7 @@
                     "En": "Jiankangsin Rd. Intersection"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 27,
+                "StopSequence": 26,
                 "StopPosition": {
                     "PositionLon": 120.16849,
                     "PositionLat": 22.98454,
@@ -22254,7 +22222,7 @@
                     "En": "Tainan District Court"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 28,
+                "StopSequence": 27,
                 "StopPosition": {
                     "PositionLon": 120.17208,
                     "PositionLat": 22.98395,
@@ -22270,7 +22238,7 @@
                     "En": "An-Ping Reclaimed Water Plant EEC."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 29,
+                "StopSequence": 28,
                 "StopPosition": {
                     "PositionLon": 120.17634,
                     "PositionLat": 22.98318,
@@ -22286,7 +22254,7 @@
                     "En": "Buddhist Tainan Tzu Chi Senior High School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 30,
+                "StopSequence": 29,
                 "StopPosition": {
                     "PositionLon": 120.17791,
                     "PositionLat": 22.98588,
@@ -22295,8 +22263,8 @@
                 "StationID": "2722"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10170",
@@ -22740,8 +22708,8 @@
                 "StationID": "9274"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN1020",
@@ -23489,8 +23457,8 @@
                 "StationID": "9301"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN1020",
@@ -24254,8 +24222,8 @@
                 "StationID": "665"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10262",
@@ -24443,8 +24411,8 @@
                 "StationID": "3106"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10262",
@@ -24648,8 +24616,8 @@
                 "StationID": "1431"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10265",
@@ -24942,9 +24910,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 18,
                 "StopPosition": {
-                    "PositionLon": 120.23828,
-                    "PositionLat": 22.97522,
-                    "GeoHash": "wsjd8ndb6"
+                    "PositionLon": 120.23865,
+                    "PositionLat": 22.97504,
+                    "GeoHash": "wsjd8n7p7"
                 },
                 "StationID": "8777"
             },
@@ -25077,8 +25045,8 @@
                 "StationID": "3106"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     },
     {
         "RouteUID": "TNN10265",
@@ -25206,14 +25174,14 @@
                 "StopID": "27375",
                 "StopName": {
                     "Zh_tw": "嘉南療養院／胸腔病院",
-                    "En": "Jianan Mental Hospital／Chest Hospital"
+                    "En": "Jianan Mental Hospital/Chest Hospital"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 8,
                 "StopPosition": {
-                    "PositionLon": 120.24229,
-                    "PositionLat": 22.97443,
-                    "GeoHash": "wsjd8nmgb"
+                    "PositionLon": 120.24206,
+                    "PositionLat": 22.97448,
+                    "GeoHash": "wsjd8nms5"
                 },
                 "StationID": "1554"
             },
@@ -25506,7 +25474,7 @@
                 "StationID": "9040"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:25+08:00",
-        "VersionID": 9715
+        "UpdateTime": "2026-03-01T09:54:28+08:00",
+        "VersionID": 9758
     }
 ]

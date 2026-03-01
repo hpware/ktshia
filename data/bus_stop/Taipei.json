@@ -601,8 +601,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10132",
@@ -1238,8 +1238,8 @@
                 "StationID": "1000431"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10142",
@@ -2099,8 +2099,8 @@
                 "StationID": "3916"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10142",
@@ -2928,8 +2928,8 @@
                 "StationID": "72232"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10181",
@@ -3917,8 +3917,8 @@
                 "StationID": "4623"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10181",
@@ -4810,8 +4810,8 @@
                 "StationID": "1000965"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10221",
@@ -5847,8 +5847,8 @@
                 "StationID": "1165604808"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10221",
@@ -6804,8 +6804,8 @@
                 "StationID": "30017"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10231",
@@ -7377,8 +7377,8 @@
                 "StationID": "1165604811"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10231",
@@ -7998,8 +7998,8 @@
                 "StationID": "1646"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10232",
@@ -8459,8 +8459,8 @@
                 "StationID": "1484"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10232",
@@ -8920,8 +8920,8 @@
                 "StationID": "1606"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10241",
@@ -9509,8 +9509,8 @@
                 "StationID": "1697"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10241",
@@ -9746,22 +9746,6 @@
                 "StationID": "1049"
             },
             {
-                "StopUID": "TPE10295",
-                "StopID": "10295",
-                "StopName": {
-                    "Zh_tw": "明湖國中",
-                    "En": "Minghu Junior High School"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 15,
-                "StopPosition": {
-                    "PositionLon": 121.6116528,
-                    "PositionLat": 25.06996983,
-                    "GeoHash": "wsqqx7fgh"
-                },
-                "StationID": "1093"
-            },
-            {
                 "StopUID": "TPE10297",
                 "StopID": "10297",
                 "StopName": {
@@ -9769,7 +9753,7 @@
                     "En": "Wufen Community"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 16,
+                "StopSequence": 15,
                 "StopPosition": {
                     "PositionLon": 121.6144033,
                     "PositionLat": 25.06860831,
@@ -9785,7 +9769,7 @@
                     "En": "Donghu Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 17,
+                "StopSequence": 16,
                 "StopPosition": {
                     "PositionLon": 121.6165906,
                     "PositionLat": 25.06806969,
@@ -9801,7 +9785,7 @@
                     "En": "Beishan Li"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 18,
+                "StopSequence": 17,
                 "StopPosition": {
                     "PositionLon": 121.618528,
                     "PositionLat": 25.066676,
@@ -9817,7 +9801,7 @@
                     "En": "Economic & Trade Park"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 19,
+                "StopSequence": 18,
                 "StopPosition": {
                     "PositionLon": 121.622098011234,
                     "PositionLat": 25.0666077871618,
@@ -9833,7 +9817,7 @@
                     "En": "Munan Coal Mine"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 20,
+                "StopSequence": 19,
                 "StopPosition": {
                     "PositionLon": 121.624809,
                     "PositionLat": 25.066839,
@@ -9849,7 +9833,7 @@
                     "En": "Jinlong Elementary School(Kangning St.)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 21,
+                "StopSequence": 20,
                 "StopPosition": {
                     "PositionLon": 121.627395,
                     "PositionLat": 25.067351,
@@ -9865,7 +9849,7 @@
                     "En": "Beifeng Li(Kangning St.)"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 22,
+                "StopSequence": 21,
                 "StopPosition": {
                     "PositionLon": 121.628878,
                     "PositionLat": 25.067676,
@@ -9881,7 +9865,7 @@
                     "En": "Shidian Community"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 23,
+                "StopSequence": 22,
                 "StopPosition": {
                     "PositionLon": 121.631193,
                     "PositionLat": 25.065928,
@@ -9897,7 +9881,7 @@
                     "En": "Daxizhi Department Stores"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 24,
+                "StopSequence": 23,
                 "StopPosition": {
                     "PositionLon": 121.632544,
                     "PositionLat": 25.066005,
@@ -9913,7 +9897,7 @@
                     "En": "FuDe Borough"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 25,
+                "StopSequence": 24,
                 "StopPosition": {
                     "PositionLon": 121.635229,
                     "PositionLat": 25.068116,
@@ -9929,7 +9913,7 @@
                     "En": "Kangfu Li"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 26,
+                "StopSequence": 25,
                 "StopPosition": {
                     "PositionLon": 121.6375836,
                     "PositionLat": 25.068876,
@@ -9945,7 +9929,7 @@
                     "En": "Shenghuo Daguo Community"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 27,
+                "StopSequence": 26,
                 "StopPosition": {
                     "PositionLon": 121.637887,
                     "PositionLat": 25.068376,
@@ -9961,7 +9945,7 @@
                     "En": "Bokeli Day Care Center"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 28,
+                "StopSequence": 27,
                 "StopPosition": {
                     "PositionLon": 121.636377,
                     "PositionLat": 25.066706,
@@ -9977,7 +9961,7 @@
                     "En": "Taipei Miracle"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 29,
+                "StopSequence": 28,
                 "StopPosition": {
                     "PositionLon": 121.63543,
                     "PositionLat": 25.065829,
@@ -9993,7 +9977,7 @@
                     "En": "Liming Community"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 30,
+                "StopSequence": 29,
                 "StopPosition": {
                     "PositionLon": 121.633504,
                     "PositionLat": 25.064715,
@@ -10009,7 +9993,7 @@
                     "En": "Beifeng Elementary School"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 31,
+                "StopSequence": 30,
                 "StopPosition": {
                     "PositionLon": 121.631498,
                     "PositionLat": 25.06346,
@@ -10025,7 +10009,7 @@
                     "En": "Dashu Wood Co."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 32,
+                "StopSequence": 31,
                 "StopPosition": {
                     "PositionLon": 121.63,
                     "PositionLat": 25.06244,
@@ -10041,7 +10025,7 @@
                     "En": "Pandisk Technology Co."
                 },
                 "StopBoarding": 0,
-                "StopSequence": 33,
+                "StopSequence": 32,
                 "StopPosition": {
                     "PositionLon": 121.62789,
                     "PositionLat": 25.06101,
@@ -10057,7 +10041,7 @@
                     "En": "Huanhe Li"
                 },
                 "StopBoarding": -1,
-                "StopSequence": 34,
+                "StopSequence": 33,
                 "StopPosition": {
                     "PositionLon": 121.62608,
                     "PositionLat": 25.05941,
@@ -10073,7 +10057,7 @@
                     "En": "Huanhe Community Center"
                 },
                 "StopBoarding": 0,
-                "StopSequence": 35,
+                "StopSequence": 34,
                 "StopPosition": {
                     "PositionLon": 121.62434,
                     "PositionLat": 25.060452,
@@ -10082,8 +10066,8 @@
                 "StationID": "70886"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10251",
@@ -10751,8 +10735,8 @@
                 "StationID": "1449"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10251",
@@ -11404,8 +11388,8 @@
                 "StationID": "1000899"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10253",
@@ -11577,20 +11561,20 @@
                 "StationID": "1007"
             },
             {
-                "StopUID": "TPE203511",
-                "StopID": "203511",
+                "StopUID": "TPE223842",
+                "StopID": "223842",
                 "StopName": {
-                    "Zh_tw": "瑞光路393巷",
-                    "En": "Ruiguang Rd. 393th. Lane"
+                    "Zh_tw": "瑞光港墘路口",
+                    "En": "Ruiguang & Gangqian Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 11,
                 "StopPosition": {
-                    "PositionLon": 121.57298,
-                    "PositionLat": 25.07768,
-                    "GeoHash": "wsqqwmq8p"
+                    "PositionLon": 121.570459,
+                    "PositionLat": 25.078319,
+                    "GeoHash": "wsqqwmkgv"
                 },
-                "StationID": "1001795"
+                "StationID": "1165608385"
             },
             {
                 "StopUID": "TPE203512",
@@ -11673,8 +11657,8 @@
                 "StationID": "993"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10253",
@@ -12006,8 +11990,8 @@
                 "StationID": "1001373"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10261",
@@ -12326,8 +12310,8 @@
                 "StopUID": "TPE15879",
                 "StopID": "15879",
                 "StopName": {
-                    "Zh_tw": "靜修女中",
-                    "En": "Blessed Imelda Girls High School"
+                    "Zh_tw": "靜修高中",
+                    "En": "Blessed Imelda's school"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 20,
@@ -12387,8 +12371,8 @@
                 "StationID": "219"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10261",
@@ -12425,9 +12409,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 2,
                 "StopPosition": {
-                    "PositionLon": 121.508817,
-                    "PositionLat": 25.054005,
-                    "GeoHash": "wsqqt0bn0"
+                    "PositionLon": 121.5087627,
+                    "PositionLat": 25.05361732,
+                    "GeoHash": "wsqqsbzgz"
                 },
                 "StationID": "4802"
             },
@@ -12467,8 +12451,8 @@
                 "StopUID": "TPE15895",
                 "StopID": "15895",
                 "StopName": {
-                    "Zh_tw": "靜修女中",
-                    "En": "Blessed Imelda Girls High School"
+                    "Zh_tw": "靜修高中",
+                    "En": "Blessed Imelda's school"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 5,
@@ -12816,8 +12800,8 @@
                 "StationID": "5988"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10262",
@@ -13469,8 +13453,8 @@
                 "StationID": "50687"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10262",
@@ -14218,8 +14202,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10263",
@@ -15031,8 +15015,8 @@
                 "StationID": "1001316"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10263",
@@ -15860,8 +15844,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10272",
@@ -16977,8 +16961,8 @@
                 "StationID": "9473"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10272",
@@ -17838,8 +17822,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10273",
@@ -18875,8 +18859,8 @@
                 "StationID": "673"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10273",
@@ -19688,8 +19672,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10277",
@@ -19893,8 +19877,8 @@
                 "StationID": "1574"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     },
     {
         "RouteUID": "TPE10277",
@@ -20114,7 +20098,7 @@
                 "StationID": "1001262"
             }
         ],
-        "UpdateTime": "2026-02-22T09:32:53+08:00",
-        "VersionID": 6901
+        "UpdateTime": "2026-03-01T09:54:41+08:00",
+        "VersionID": 6944
     }
 ]
