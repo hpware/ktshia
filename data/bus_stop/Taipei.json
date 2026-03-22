@@ -601,8 +601,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10132",
@@ -1238,8 +1238,8 @@
                 "StationID": "1000431"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10142",
@@ -2099,8 +2099,8 @@
                 "StationID": "3916"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10142",
@@ -2928,8 +2928,8 @@
                 "StationID": "72232"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10181",
@@ -3917,8 +3917,8 @@
                 "StationID": "4623"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10181",
@@ -4810,8 +4810,8 @@
                 "StationID": "1000965"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10221",
@@ -5847,8 +5847,8 @@
                 "StationID": "1165604808"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10221",
@@ -5976,7 +5976,7 @@
                 "StopID": "20077",
                 "StopName": {
                     "Zh_tw": "民權大龍街口",
-                    "En": "Minquan & Dalong Roads"
+                    "En": "Minquan & Dalong Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 8,
@@ -6804,8 +6804,8 @@
                 "StationID": "30017"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10231",
@@ -7377,8 +7377,8 @@
                 "StationID": "1165604811"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10231",
@@ -7998,8 +7998,8 @@
                 "StationID": "1646"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10232",
@@ -8415,7 +8415,7 @@
                 "StopID": "35233",
                 "StopName": {
                     "Zh_tw": "迪化街口(永樂市場)",
-                    "En": "Dihua St. Intersection"
+                    "En": "Dihua St. Entrance(Yongle market)"
                 },
                 "StopBoarding": -1,
                 "StopSequence": 26,
@@ -8459,8 +8459,8 @@
                 "StationID": "1484"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10232",
@@ -8636,7 +8636,7 @@
                 "StopID": "35251",
                 "StopName": {
                     "Zh_tw": "南京龍江路口",
-                    "En": "Nanjing & Longjiang Roads"
+                    "En": "Nanjing & Longjiang Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 11,
@@ -8920,8 +8920,8 @@
                 "StationID": "1606"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10241",
@@ -9509,8 +9509,8 @@
                 "StationID": "1697"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10241",
@@ -10066,8 +10066,8 @@
                 "StationID": "70886"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10251",
@@ -10467,7 +10467,7 @@
                 "StopID": "223789",
                 "StopName": {
                     "Zh_tw": "石潭金豐街口",
-                    "En": "Shitan Jinfeng St."
+                    "En": "Shitan and Jinfeng St. Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 25,
@@ -10735,8 +10735,8 @@
                 "StationID": "1449"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10251",
@@ -10864,7 +10864,7 @@
                 "StopID": "10453",
                 "StopName": {
                     "Zh_tw": "南京龍江路口",
-                    "En": "Nanjing & Longjiang Roads"
+                    "En": "Nanjing & Longjiang Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 8,
@@ -11388,8 +11388,8 @@
                 "StationID": "1000899"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10253",
@@ -11657,8 +11657,8 @@
                 "StationID": "993"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10253",
@@ -11990,8 +11990,8 @@
                 "StationID": "1001373"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10261",
@@ -12371,8 +12371,8 @@
                 "StationID": "219"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10261",
@@ -12800,8 +12800,8 @@
                 "StationID": "5988"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10262",
@@ -13297,7 +13297,7 @@
                 "StopID": "20569",
                 "StopName": {
                     "Zh_tw": "昌吉重慶路口",
-                    "En": "Changji & Chongqing Roads"
+                    "En": "Changji & Chongqing Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 31,
@@ -13453,8 +13453,8 @@
                 "StationID": "50687"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10262",
@@ -13614,7 +13614,7 @@
                 "StopID": "20587",
                 "StopName": {
                     "Zh_tw": "昌吉重慶路口",
-                    "En": "Changji & Chongqing Roads"
+                    "En": "Changji & Chongqing Intersection"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 10,
@@ -14202,8 +14202,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10263",
@@ -14715,7 +14715,7 @@
                 "StopID": "35303",
                 "StopName": {
                     "Zh_tw": "自強街口(東華)",
-                    "En": "Ziqiang St. (Donghua)"
+                    "En": "Ziqiang St. Entrance (Donghua)"
                 },
                 "StopBoarding": -1,
                 "StopSequence": 32,
@@ -15015,8 +15015,8 @@
                 "StationID": "1001316"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10263",
@@ -15320,7 +15320,7 @@
                 "StopID": "35338",
                 "StopName": {
                     "Zh_tw": "自強街口(西安)",
-                    "En": "Ziqiang St. (Xi’an)"
+                    "En": "Ziqiang St. Entrance (Xi'an)"
                 },
                 "StopBoarding": -1,
                 "StopSequence": 19,
@@ -15844,8 +15844,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10272",
@@ -16961,8 +16961,8 @@
                 "StationID": "9473"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10272",
@@ -17822,8 +17822,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10273",
@@ -18859,8 +18859,8 @@
                 "StationID": "673"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10273",
@@ -19672,8 +19672,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10277",
@@ -19877,8 +19877,8 @@
                 "StationID": "1574"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     },
     {
         "RouteUID": "TPE10277",
@@ -20098,7 +20098,7 @@
                 "StationID": "1001262"
             }
         ],
-        "UpdateTime": "2026-03-15T09:52:52+08:00",
-        "VersionID": 7028
+        "UpdateTime": "2026-03-22T09:32:52+08:00",
+        "VersionID": 7070
     }
 ]

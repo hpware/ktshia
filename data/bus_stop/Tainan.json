@@ -690,9 +690,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 43,
                 "StopPosition": {
-                    "PositionLon": 120.24592,
-                    "PositionLat": 22.99855,
-                    "GeoHash": "wsjdb6b2m"
+                    "PositionLon": 120.24555,
+                    "PositionLat": 22.99858,
+                    "GeoHash": "wsjdb6b0k"
                 },
                 "StationID": "297"
             },
@@ -716,8 +716,8 @@
                 "StopUID": "TNN16100",
                 "StopID": "16100",
                 "StopName": {
-                    "Zh_tw": "崑山科大",
-                    "En": "Kun Shan University of Technology"
+                    "Zh_tw": "崑山科大(大灣路)",
+                    "En": "Kun Shan University of Technology (Dawan Rd.)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 45,
@@ -889,8 +889,8 @@
                 "StationID": "8657"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10019",
@@ -1065,8 +1065,8 @@
                 "StopUID": "TNN16115",
                 "StopID": "16115",
                 "StopName": {
-                    "Zh_tw": "崑山科大",
-                    "En": "Kun Shan University"
+                    "Zh_tw": "崑山科大(大灣路)",
+                    "En": "Kun Shan University of Technology (Dawan Rd.)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 11,
@@ -1782,8 +1782,8 @@
                 "StationID": "8685"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10021",
@@ -2403,8 +2403,8 @@
                 "StationID": "8784"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10021",
@@ -3040,8 +3040,8 @@
                 "StationID": "1092"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN1009",
@@ -3725,8 +3725,8 @@
                 "StationID": "2849"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN1009",
@@ -4410,8 +4410,8 @@
                 "StationID": "9213"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN1010",
@@ -5463,8 +5463,8 @@
                 "StationID": "1000"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN1010",
@@ -6532,8 +6532,8 @@
                 "StationID": "9213"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10161",
@@ -6762,9 +6762,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 14,
                 "StopPosition": {
-                    "PositionLon": 120.20101,
-                    "PositionLat": 22.99912,
-                    "GeoHash": "wsj6z4zew"
+                    "PositionLon": 120.20086,
+                    "PositionLat": 22.99885,
+                    "GeoHash": "wsj6z4zd5"
                 },
                 "StationID": "9207"
             },
@@ -7777,8 +7777,8 @@
                 "StationID": "2865"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10161",
@@ -9006,8 +9006,8 @@
                 "StationID": "8594"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10162",
@@ -9018,22 +9018,6 @@
         },
         "Direction": 0,
         "Stops": [
-            {
-                "StopUID": "TNN9001",
-                "StopID": "9001",
-                "StopName": {
-                    "Zh_tw": "崑山科大",
-                    "En": "Kun Shan University"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 1,
-                "StopPosition": {
-                    "PositionLon": 120.25331,
-                    "PositionLat": 22.99852,
-                    "GeoHash": "wsjdb6vb1"
-                },
-                "StationID": "201"
-            },
             {
                 "StopUID": "TNN9002",
                 "StopID": "9002",
@@ -10427,8 +10411,8 @@
                 "StationID": "250"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10162",
@@ -11569,9 +11553,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 71,
                 "StopPosition": {
-                    "PositionLon": 120.24592,
-                    "PositionLat": 22.99855,
-                    "GeoHash": "wsjdb6b2m"
+                    "PositionLon": 120.24555,
+                    "PositionLat": 22.99858,
+                    "GeoHash": "wsjdb6b0k"
                 },
                 "StationID": "297"
             },
@@ -11830,26 +11814,10 @@
                     "GeoHash": "wsjdb6fbh"
                 },
                 "StationID": "298"
-            },
-            {
-                "StopUID": "TNN9057",
-                "StopID": "9057",
-                "StopName": {
-                    "Zh_tw": "崑山科大",
-                    "En": "Kun Shan University of Technology"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 88,
-                "StopPosition": {
-                    "PositionLon": 120.25349,
-                    "PositionLat": 22.99832,
-                    "GeoHash": "wsjdb6tyv"
-                },
-                "StationID": "299"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10163",
@@ -12933,8 +12901,8 @@
                 "StationID": "435"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10163",
@@ -13611,9 +13579,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 42,
                 "StopPosition": {
-                    "PositionLon": 120.20101,
-                    "PositionLat": 22.99912,
-                    "GeoHash": "wsj6z4zew"
+                    "PositionLon": 120.20086,
+                    "PositionLat": 22.99885,
+                    "GeoHash": "wsj6z4zd5"
                 },
                 "StationID": "9207"
             },
@@ -13970,8 +13938,8 @@
                 "StationID": "343"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10164",
@@ -15071,8 +15039,8 @@
                 "StationID": "8699"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10164",
@@ -16204,8 +16172,8 @@
                 "StationID": "2865"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10165",
@@ -16764,8 +16732,8 @@
                 "StopUID": "TNN10470",
                 "StopID": "10470",
                 "StopName": {
-                    "Zh_tw": "臺南市美術館2館",
-                    "En": "Tainan Art Museum 2 Bldg."
+                    "Zh_tw": "臺南國家美術館",
+                    "En": "National Museum of Modern Art Tainan"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 35,
@@ -17241,8 +17209,8 @@
                 "StationID": "600"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10165",
@@ -17737,8 +17705,8 @@
                 "StopUID": "TNN10518",
                 "StopID": "10518",
                 "StopName": {
-                    "Zh_tw": "臺南市美術館2館",
-                    "En": "Tainan Art Museum 2 Bldg."
+                    "Zh_tw": "臺南國家美術館",
+                    "En": "National Museum of Modern Art Tainan"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 31,
@@ -18294,8 +18262,8 @@
                 "StationID": "2911"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10166",
@@ -18476,9 +18444,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 11,
                 "StopPosition": {
-                    "PositionLon": 120.20101,
-                    "PositionLat": 22.99912,
-                    "GeoHash": "wsj6z4zew"
+                    "PositionLon": 120.20086,
+                    "PositionLat": 22.99885,
+                    "GeoHash": "wsj6z4zd5"
                 },
                 "StationID": "9207"
             },
@@ -19107,8 +19075,8 @@
                 "StationID": "700"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10166",
@@ -19920,8 +19888,8 @@
                 "StationID": "419"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10169",
@@ -20925,8 +20893,8 @@
                 "StationID": "1138"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10169",
@@ -21914,8 +21882,8 @@
                 "StationID": "2666"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10170",
@@ -22423,8 +22391,8 @@
                 "StationID": "2722"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10170",
@@ -22900,8 +22868,8 @@
                 "StationID": "5104"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN1020",
@@ -23082,9 +23050,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 11,
                 "StopPosition": {
-                    "PositionLon": 120.24592,
-                    "PositionLat": 22.99855,
-                    "GeoHash": "wsjdb6b2m"
+                    "PositionLon": 120.24555,
+                    "PositionLat": 22.99858,
+                    "GeoHash": "wsjdb6b0k"
                 },
                 "StationID": "297"
             },
@@ -23108,8 +23076,8 @@
                 "StopUID": "TNN32543",
                 "StopID": "32543",
                 "StopName": {
-                    "Zh_tw": "崑山科大",
-                    "En": "Kun Shan University of Technology"
+                    "Zh_tw": "崑山科大(大灣路)",
+                    "En": "Kun Shan University of Technology (Dawan Rd.)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 13,
@@ -23649,8 +23617,8 @@
                 "StationID": "9301"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN1020",
@@ -24209,8 +24177,8 @@
                 "StopUID": "TNN32663",
                 "StopID": "32663",
                 "StopName": {
-                    "Zh_tw": "崑山科大",
-                    "En": "Kun Shan University"
+                    "Zh_tw": "崑山科大(大灣路)",
+                    "En": "Kun Shan University of Technology (Dawan Rd.)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 35,
@@ -24414,8 +24382,8 @@
                 "StationID": "665"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10262",
@@ -24603,8 +24571,8 @@
                 "StationID": "3106"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10262",
@@ -24808,8 +24776,8 @@
                 "StationID": "1431"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10265",
@@ -25237,8 +25205,8 @@
                 "StationID": "3106"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     },
     {
         "RouteUID": "TNN10265",
@@ -25666,7 +25634,7 @@
                 "StationID": "9040"
             }
         ],
-        "UpdateTime": "2026-03-15T09:32:35+08:00",
-        "VersionID": 9842
+        "UpdateTime": "2026-03-22T09:52:37+08:00",
+        "VersionID": 9884
     }
 ]
