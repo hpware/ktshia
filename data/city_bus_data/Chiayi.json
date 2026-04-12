@@ -65,8 +65,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0119.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2026-04-04T05:35:42+08:00",
-        "VersionID": 6772
+        "UpdateTime": "2026-04-12T10:10:15+08:00",
+        "VersionID": 6812
     },
     {
         "RouteUID": "CYI0123",
@@ -134,8 +134,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0123.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2026-04-04T05:35:42+08:00",
-        "VersionID": 6772
+        "UpdateTime": "2026-04-12T10:10:15+08:00",
+        "VersionID": 6812
     },
     {
         "RouteUID": "CYI0124",
@@ -203,8 +203,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0124.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2026-04-04T05:35:42+08:00",
-        "VersionID": 6772
+        "UpdateTime": "2026-04-12T10:10:15+08:00",
+        "VersionID": 6812
     },
     {
         "RouteUID": "CYI0128",
@@ -272,8 +272,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0128.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2026-04-04T05:35:42+08:00",
-        "VersionID": 6772
+        "UpdateTime": "2026-04-12T10:10:15+08:00",
+        "VersionID": 6812
     },
     {
         "RouteUID": "CYI0129",
@@ -341,8 +341,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0129.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2026-04-04T05:35:42+08:00",
-        "VersionID": 6772
+        "UpdateTime": "2026-04-12T10:10:15+08:00",
+        "VersionID": 6812
     },
     {
         "RouteUID": "CYI0130",
@@ -410,8 +410,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0130.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2026-04-04T05:35:42+08:00",
-        "VersionID": 6772
+        "UpdateTime": "2026-04-12T10:10:15+08:00",
+        "VersionID": 6812
     },
     {
         "RouteUID": "CYI0138",
@@ -479,8 +479,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0138.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2026-04-04T05:35:42+08:00",
-        "VersionID": 6772
+        "UpdateTime": "2026-04-12T10:10:15+08:00",
+        "VersionID": 6812
     },
     {
         "RouteUID": "CYI0139",
@@ -534,42 +534,6 @@
                 "DepartureStopNameEn": "chiayi branch taichung Veterans general hospital l",
                 "DestinationStopNameZh": "泰勒瓦莊園(預約站位)",
                 "DestinationStopNameEn": "Terroir Villa"
-            },
-            {
-                "SubRouteUID": "CYI0139A1",
-                "SubRouteID": "0139A1",
-                "OperatorIDs": [
-                    "108"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "樂活9路A",
-                    "En": "樂活9路A"
-                },
-                "Headsign": "榮民醫院長照點→仁義潭水庫管理中心(預約站)",
-                "HeadsignEn": "chiayi branch taichung Veterans general hospital long term care→Renyitan Reservoir",
-                "Direction": 0,
-                "DepartureStopNameZh": "榮民醫院長照點",
-                "DepartureStopNameEn": "chiayi branch taichung Veterans general hospital l",
-                "DestinationStopNameZh": "仁義潭水庫管理中心(預約站)",
-                "DestinationStopNameEn": "Renyitan Reservoir"
-            },
-            {
-                "SubRouteUID": "CYI0139A2",
-                "SubRouteID": "0139A2",
-                "OperatorIDs": [
-                    "108"
-                ],
-                "SubRouteName": {
-                    "Zh_tw": "樂活9路A",
-                    "En": "樂活9路A"
-                },
-                "Headsign": "仁義潭水庫管理中心(預約站)→榮民醫院長照點",
-                "HeadsignEn": "Renyitan Reservoir→chiayi branch taichung Veterans general hospital long term care",
-                "Direction": 1,
-                "DepartureStopNameZh": "仁義潭水庫管理中心(預約站)",
-                "DepartureStopNameEn": "Renyitan Reservoir",
-                "DestinationStopNameZh": "榮民醫院長照點",
-                "DestinationStopNameEn": "chiayi branch taichung Veterans general hospital l"
             }
         ],
         "BusRouteType": 11,
@@ -584,8 +548,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0139.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2026-04-04T05:35:42+08:00",
-        "VersionID": 6772
+        "UpdateTime": "2026-04-12T10:10:15+08:00",
+        "VersionID": 6812
     },
     {
         "RouteUID": "CYI0714",
@@ -708,8 +672,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0714.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2026-04-04T05:35:42+08:00",
-        "VersionID": 6772
+        "UpdateTime": "2026-04-12T10:10:15+08:00",
+        "VersionID": 6812
     },
     {
         "RouteUID": "CYI0715",
@@ -814,8 +778,8 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0715.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2026-04-04T05:35:42+08:00",
-        "VersionID": 6772
+        "UpdateTime": "2026-04-12T10:10:15+08:00",
+        "VersionID": 6812
     },
     {
         "RouteUID": "CYI0716",
@@ -920,7 +884,7 @@
         "RouteMapImageUrl": "https://web.taiwanbus.tw/MISUploadData/Schematic/file/0716.jpg",
         "City": "Chiayi",
         "CityCode": "CYI",
-        "UpdateTime": "2026-04-04T05:35:42+08:00",
-        "VersionID": 6772
+        "UpdateTime": "2026-04-12T10:10:15+08:00",
+        "VersionID": 6812
     }
 ]
