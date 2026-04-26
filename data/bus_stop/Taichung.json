@@ -473,8 +473,8 @@
                 "StationID": "783"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG1",
@@ -886,8 +886,8 @@
                 "StationID": "6456"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG1000",
@@ -1331,8 +1331,8 @@
                 "StationID": "720"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG1000",
@@ -1760,8 +1760,8 @@
                 "StationID": "6983"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG101",
@@ -2957,8 +2957,8 @@
                 "StationID": "6338"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG101",
@@ -4090,8 +4090,8 @@
                 "StationID": "3336"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG1010",
@@ -4151,8 +4151,8 @@
                 "StationID": "79"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG1010",
@@ -4244,8 +4244,8 @@
                 "StationID": "2530"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG105",
@@ -5825,8 +5825,8 @@
                 "StationID": "109"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG105",
@@ -7454,8 +7454,8 @@
                 "StationID": "3667"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG1051",
@@ -7466,22 +7466,6 @@
         },
         "Direction": 0,
         "Stops": [
-            {
-                "StopUID": "TXG15248",
-                "StopID": "15248",
-                "StopName": {
-                    "Zh_tw": "大道國中校門口",
-                    "En": "Da Dau Junior High School(School gate)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 1,
-                "StopPosition": {
-                    "PositionLon": 120.549762,
-                    "PositionLat": 24.14729,
-                    "GeoHash": "wsm9r5vsj"
-                },
-                "StationID": "10164"
-            },
             {
                 "StopUID": "TXG7855",
                 "StopID": "7855",
@@ -7673,38 +7657,6 @@
                     "GeoHash": "wsm9py8zd"
                 },
                 "StationID": "1816"
-            },
-            {
-                "StopUID": "TXG7703",
-                "StopID": "7703",
-                "StopName": {
-                    "Zh_tw": "成功車站(中山路)",
-                    "En": "Chenggong Station(Zhongshan Road)"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 14,
-                "StopPosition": {
-                    "PositionLon": 120.59083,
-                    "PositionLat": 24.113537,
-                    "GeoHash": "wsmc0jexd"
-                },
-                "StationID": "1815"
-            },
-            {
-                "StopUID": "TXG7841",
-                "StopID": "7841",
-                "StopName": {
-                    "Zh_tw": "善光寺",
-                    "En": "Shanguang Temple"
-                },
-                "StopBoarding": 0,
-                "StopSequence": 15,
-                "StopPosition": {
-                    "PositionLon": 120.59322117124,
-                    "PositionLat": 24.112880581796,
-                    "GeoHash": "wsmc0jt79"
-                },
-                "StationID": "1812"
             },
             {
                 "StopUID": "TXG493",
@@ -8731,8 +8683,8 @@
                 "StationID": "3667"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG1052",
@@ -10328,8 +10280,8 @@
                 "StationID": "4915"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG1052",
@@ -11973,8 +11925,8 @@
                 "StationID": "3667"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG107",
@@ -13058,8 +13010,8 @@
                 "StationID": "3332"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG107",
@@ -14063,8 +14015,8 @@
                 "StationID": "1704"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG1071",
@@ -15212,8 +15164,8 @@
                 "StationID": "7031"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG1071",
@@ -16281,8 +16233,8 @@
                 "StationID": "1704"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG108",
@@ -17862,8 +17814,8 @@
                 "StationID": "6341"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG108",
@@ -19411,8 +19363,8 @@
                 "StationID": "4819"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG11",
@@ -20032,8 +19984,8 @@
                 "StationID": "551"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG11",
@@ -20653,8 +20605,8 @@
                 "StationID": "6226"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG12",
@@ -21690,8 +21642,8 @@
                 "StationID": "2329"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG12",
@@ -22743,8 +22695,8 @@
                 "StationID": "1269"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG121",
@@ -23812,8 +23764,8 @@
                 "StationID": "10078"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG121",
@@ -24897,8 +24849,8 @@
                 "StationID": "1269"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG123",
@@ -26126,8 +26078,8 @@
                 "StationID": "5109"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG123",
@@ -27355,8 +27307,8 @@
                 "StationID": "1720"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG127",
@@ -28072,8 +28024,8 @@
                 "StationID": "4801"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG127",
@@ -28821,8 +28773,8 @@
                 "StationID": "2902"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     },
     {
         "RouteUID": "TXG1271",
@@ -29570,7 +29522,7 @@
                 "StationID": "4801"
             }
         ],
-        "UpdateTime": "2026-04-19T10:14:51+08:00",
-        "VersionID": 10598
+        "UpdateTime": "2026-04-26T10:14:34+08:00",
+        "VersionID": 10638
     }
 ]
