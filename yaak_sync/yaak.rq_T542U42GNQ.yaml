@@ -1,0 +1,30 @@
+type: http_request
+model: http_request
+id: rq_T542U42GNQ
+createdAt: 2026-05-11T01:43:44.861362
+updatedAt: 2026-05-11T01:45:12.353658
+workspaceId: wk_9BUq8oAtj8
+folderId: null
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: Authorization
+  value: Bearer test
+  id: ksrbSfgmEt
+method: GET
+name: Get fare data for bus 679 in Taipei Copy 2
+sortPriority: 2000.002
+url: http://localhost:4403/api/bus/stops/Taipei/669
+urlParameters:
+- enabled: true
+  name: direction
+  value: '0'
+  id: wqqfwqWzNt
+- enabled: true
+  name: ''
+  value: ''
+  id: gFVn70kfPg

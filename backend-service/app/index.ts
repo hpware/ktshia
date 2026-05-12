@@ -4,6 +4,7 @@ import citiesData from "../data/cities";
 import { startServiceLogService } from "./logging_service";
 import log from "./logging_service";
 import { dir } from "node:console";
+import type { BatchRequest } from "./types/batch";
 
 // load envs
 const authkey = process.env.AUTH_KEY;
@@ -48,29 +49,45 @@ Bun.serve({
     if (url.pathname === "/") {
       return new Response("This ktshia backend service works ^^");
     }
-
-    if (req.headers.get("Authorization") !== `Bearer ${authkey}`) {
-      return new Response(
-        JSON.stringify({
-          error: `The endpoint you are trying to access ${url.pathname} requires a bearer token. :(`,
-          status: 401,
-        }),
-        { status: 401, headers: { "Content-Type": "application/json" } },
-      );
+    if (url.searchParams.get("auth") === authkey) {
+    } else if (req.headers.get("Authorization") === `Bearer ${authkey}`) {
+    } else {
+      return new Response("Unauthorized", {
+        status: 401,
+        headers: { "Content-Type": "text/plain" },
+      });
     }
-
     // app verify path
     if (url.pathname === "/api/verify") {
       return new Response(
         JSON.stringify({
-          message: "你已登入～",
+          message: "你已登入",
         }),
         { headers: { "Content-Type": "application/json" } },
       );
     }
 
+    // batch api
+    else if (url.pathname === "/api/batch" && req.method === "POST") {
+      try {
+        const body: BatchRequest = await req.json;
+        const results = await Promise.all(
+          body.batch.map(async (r) => {
+            const routes = await tdx.getBusRouteData(r.city, r.id);
+            return;
+          }),
+        );
+      } catch (e) {
+        return new Response(
+          JSON.stringify({
+            error: "An error occurred while processing the batch request",
+          }),
+          { status: 400, headers: { "Content-Type": "application/json" } },
+        );
+      }
+    }
     // bus paths
-    if (url.pathname.startsWith("/api/bus/")) {
+    else if (url.pathname.startsWith("/api/bus/")) {
       if (url.pathname.startsWith("/api/bus/info/")) {
         const parts = url.pathname.split("/");
         if (parts.length !== 6) {
@@ -94,13 +111,11 @@ Bun.serve({
         const routes = await tdx.getBusRouteData(city, bus);
 
         return Response.json(routes);
-      }
-      if (url.pathname === "/api/bus/current_status") {
+      } else if (url.pathname === "/api/bus/current_status") {
         return Response.json({
           error: "Invalid URL format. Use /api/bus/current_status/{city}/{bus}",
         });
-      }
-      if (url.pathname.startsWith("/api/bus/current_status/")) {
+      } else if (url.pathname.startsWith("/api/bus/current_status/")) {
         const direction = url.searchParams.get("direction");
         const parts = url.pathname.split("/");
         const [, , , , city, bus] = parts;
@@ -130,9 +145,28 @@ Bun.serve({
         const routes = await tdx.getFareData(city, bus);
 
         return Response.json(routes);
-      }
-
-      if (url.pathname.startsWith("/api/bus/stops/")) {
+      } else if (url.pathname.startsWith("/api/bus/stations/")) {
+        const parts = url.pathname.split("/");
+        if (parts.length !== 6) {
+          return new Response(
+            JSON.stringify({
+              error: "Invalid route format. Use /api/bus/stations/{city}/{bus}",
+            }),
+            { status: 400, headers: { "Content-Type": "application/json" } },
+          );
+        }
+        const direction = url.searchParams.get("direction");
+        const [, , , , city, bus] = parts;
+        if (!(city && bus)) {
+          return Response.json(
+            {
+              error:
+                "Invalid route format. Use /api/bus/stations/{city}/{stationId}",
+            },
+            { status: 400 },
+          );
+        }
+      } else if (url.pathname.startsWith("/api/bus/stops/")) {
         const parts = url.pathname.split("/");
         if (parts.length !== 6) {
           return new Response(
@@ -171,20 +205,16 @@ Bun.serve({
         const routes = await tdx.getStops(city, bus, Number(direction));
 
         return Response.json(routes);
-      }
-
-      if (url.pathname === "/api/bus/alerts") {
+      } else if (url.pathname === "/api/bus/alerts") {
         const alerts = await tdx.getAlerts();
         return Response.json(alerts, {
           headers: { "Content-Type": "application/json" },
         });
-      }
-      if (url.pathname === "/api/bus/search/") {
+      } else if (url.pathname === "/api/bus/search/") {
         return Response.json({
           error: "Invalid route format. Use /api/bus/search/{city}",
         });
-      }
-      if (url.pathname.startsWith("/api/bus/search/")) {
+      } else if (url.pathname.startsWith("/api/bus/search/")) {
         const query = url.searchParams.get("q");
         const parts = url.pathname.split("/");
         const [, , , , city] = parts;

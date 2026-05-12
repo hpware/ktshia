@@ -249,3 +249,37 @@ export async function getCurrentLocation(
     throw e;
   }
 }
+
+export async function getStationArrivingDetails(
+  busStopZhName: string,
+  city: string,
+) {
+  try {
+    if (!(busStopZhName && city)) {
+      throw new Error("Invalid busStopZhName or city");
+    }
+    const token = await getToken(tdxClientId, tdxClientSecret);
+    const req = await fetch(
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${city}?%24filter=contains(StopName/Zh_tw,'${encodeURIComponent(busStopZhName)}') and Direction eq 0&%24select=RouteName,RouteID&%24format=JSON`,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
+      },
+    );
+    const res = (await req.json()) as any[];
+    return {
+      routes: res.map((item: any) => ({
+        zh: item.RouteName.Zh_tw,
+        en: item.RouteName.En,
+        id: item.RouteID,
+      })),
+      versionId: res[0].VersionID,
+      UpdateTime: res[0].UpdateTime,
+    };
+    return res;
+  } catch (e) {
+    log("error", `An error has occurred: ${e}`);
+    throw e;
+  }
+}

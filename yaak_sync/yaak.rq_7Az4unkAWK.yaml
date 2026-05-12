@@ -1,8 +1,8 @@
 type: http_request
 model: http_request
-id: rq_3MhxMuBpwV
-createdAt: 2025-12-20T10:54:40.502325
-updatedAt: 2026-05-11T01:29:29.254569
+id: rq_7Az4unkAWK
+createdAt: 2026-05-11T01:29:52.834188
+updatedAt: 2026-05-11T01:46:57.119521
 workspaceId: wk_9BUq8oAtj8
 folderId: null
 authentication: {}
@@ -14,9 +14,9 @@ headers:
 - enabled: true
   name: Authorization
   value: Bearer test
-  id: ehAHYWIE2D
+  id: ksrbSfgmEt
 method: GET
-name: Test Verify Connection
-sortPriority: 5000.0
-url: http://localhost:4403/api/verify
+name: Get fare data for bus 679 in Taipei Copy
+sortPriority: 2000.001
+url: http://localhost:4403/api/bus/stops/Taipei/508Shuttle?direction=1
 urlParameters: []
