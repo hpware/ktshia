@@ -18,9 +18,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 1,
                 "StopPosition": {
-                    "PositionLon": 120.15231,
-                    "PositionLat": 22.99334,
-                    "GeoHash": "wsj6y1u1z"
+                    "PositionLon": 120.15253,
+                    "PositionLat": 22.99415,
+                    "GeoHash": "wsj6y1uqs"
                 },
                 "StationID": "8686"
             },
@@ -889,8 +889,8 @@
                 "StationID": "8657"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10019",
@@ -1775,15 +1775,15 @@
                 "StopBoarding": 0,
                 "StopSequence": 55,
                 "StopPosition": {
-                    "PositionLon": 120.15237,
-                    "PositionLat": 22.99343,
-                    "GeoHash": "wsj6y1u63"
+                    "PositionLon": 120.15228,
+                    "PositionLat": 22.99391,
+                    "GeoHash": "wsj6y1ujp"
                 },
                 "StationID": "8685"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10021",
@@ -1980,9 +1980,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 12,
                 "StopPosition": {
-                    "PositionLon": 120.22181,
-                    "PositionLat": 23.02121,
-                    "GeoHash": "wsj6zwyu7"
+                    "PositionLon": 120.22147,
+                    "PositionLat": 23.02167,
+                    "GeoHash": "wsj6zwywg"
                 },
                 "StationID": "6200"
             },
@@ -2403,8 +2403,8 @@
                 "StationID": "8784"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10021",
@@ -2825,9 +2825,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 26,
                 "StopPosition": {
-                    "PositionLon": 120.22181,
-                    "PositionLat": 23.02121,
-                    "GeoHash": "wsj6zwyu7"
+                    "PositionLon": 120.22147,
+                    "PositionLat": 23.02167,
+                    "GeoHash": "wsj6zwywg"
                 },
                 "StationID": "6200"
             },
@@ -3040,8 +3040,8 @@
                 "StationID": "1092"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN1009",
@@ -3174,9 +3174,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 8,
                 "StopPosition": {
-                    "PositionLon": 120.21341,
-                    "PositionLat": 23.00303,
-                    "GeoHash": "wsj6ze8dr"
+                    "PositionLon": 120.21325,
+                    "PositionLat": 23.00214,
+                    "GeoHash": "wsj6ze2t5"
                 },
                 "StationID": "5104"
             },
@@ -3725,8 +3725,8 @@
                 "StationID": "2849"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN1009",
@@ -4410,8 +4410,8 @@
                 "StationID": "9213"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN1010",
@@ -5463,8 +5463,8 @@
                 "StationID": "1000"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN1010",
@@ -6532,8 +6532,8 @@
                 "StationID": "9213"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10161",
@@ -7418,9 +7418,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 55,
                 "StopPosition": {
-                    "PositionLon": 120.20439,
-                    "PositionLat": 23.04349,
-                    "GeoHash": "wsj7p6fnj"
+                    "PositionLon": 120.20472,
+                    "PositionLat": 23.04371,
+                    "GeoHash": "wsj7p6frk"
                 },
                 "StationID": "9353"
             },
@@ -7777,8 +7777,8 @@
                 "StationID": "2865"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10161",
@@ -9006,8 +9006,8 @@
                 "StationID": "8594"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10164",
@@ -10107,8 +10107,8 @@
                 "StationID": "8699"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10164",
@@ -11240,8 +11240,8 @@
                 "StationID": "2865"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10165",
@@ -12277,8 +12277,8 @@
                 "StationID": "600"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10165",
@@ -13330,8 +13330,8 @@
                 "StationID": "2911"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10166",
@@ -14143,8 +14143,8 @@
                 "StationID": "700"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10166",
@@ -14933,9 +14933,9 @@
                 "StopBoarding": 0,
                 "StopSequence": 49,
                 "StopPosition": {
-                    "PositionLon": 120.21341,
-                    "PositionLat": 23.00303,
-                    "GeoHash": "wsj6ze8dr"
+                    "PositionLon": 120.21325,
+                    "PositionLat": 23.00214,
+                    "GeoHash": "wsj6ze2t5"
                 },
                 "StationID": "5104"
             },
@@ -14956,8 +14956,8 @@
                 "StationID": "419"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10169",
@@ -15961,8 +15961,8 @@
                 "StationID": "1138"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10169",
@@ -16950,8 +16950,8 @@
                 "StationID": "2666"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10170",
@@ -17459,8 +17459,8 @@
                 "StationID": "2722"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10170",
@@ -17929,15 +17929,15 @@
                 "StopBoarding": 0,
                 "StopSequence": 29,
                 "StopPosition": {
-                    "PositionLon": 120.21341,
-                    "PositionLat": 23.00303,
-                    "GeoHash": "wsj6ze8dr"
+                    "PositionLon": 120.21325,
+                    "PositionLat": 23.00214,
+                    "GeoHash": "wsj6ze2t5"
                 },
                 "StationID": "5104"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN1020",
@@ -18685,8 +18685,8 @@
                 "StationID": "9301"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN1020",
@@ -19450,8 +19450,8 @@
                 "StationID": "665"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10262",
@@ -19639,8 +19639,8 @@
                 "StationID": "3106"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10262",
@@ -19844,8 +19844,8 @@
                 "StationID": "1431"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10265",
@@ -20273,8 +20273,8 @@
                 "StationID": "3106"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN10265",
@@ -20702,8 +20702,8 @@
                 "StationID": "9040"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN1032",
@@ -21019,8 +21019,8 @@
                 "StationID": "3106"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN1032",
@@ -21336,8 +21336,8 @@
                 "StationID": "8819"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN1033",
@@ -21461,8 +21461,8 @@
                 "StationID": "1591"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     },
     {
         "RouteUID": "TNN1033",
@@ -21586,7 +21586,7 @@
                 "StationID": "4168"
             }
         ],
-        "UpdateTime": "2026-05-10T08:28:51+08:00",
-        "VersionID": 10135
+        "UpdateTime": "2026-05-17T09:32:47+08:00",
+        "VersionID": 10177
     }
 ]
