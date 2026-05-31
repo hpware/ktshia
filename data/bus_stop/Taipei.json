@@ -77,7 +77,7 @@
                 "StopID": "33214",
                 "StopName": {
                     "Zh_tw": "國立臺灣藝術大學",
-                    "En": "National Taiwan U. of Arts"
+                    "En": "National Taiwan University of Arts"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 5,
@@ -601,8 +601,8 @@
                 "StationID": "4616"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10132",
@@ -1222,8 +1222,8 @@
                 "StationID": "2684"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10142",
@@ -2083,8 +2083,8 @@
                 "StationID": "3916"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10142",
@@ -2912,8 +2912,8 @@
                 "StationID": "72232"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10181",
@@ -3184,8 +3184,8 @@
                 "StopUID": "TPE34697",
                 "StopID": "34697",
                 "StopName": {
-                    "Zh_tw": "南港行政中心",
-                    "En": "Nangang Dist. Admin. Center"
+                    "Zh_tw": "南港行政中心(南港車站)",
+                    "En": "Nangang Dist. Admin. Center(Nangang Rail Sta.)"
                 },
                 "StopBoarding": -1,
                 "StopSequence": 17,
@@ -3901,8 +3901,8 @@
                 "StationID": "4623"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10181",
@@ -4525,8 +4525,8 @@
                 "StopUID": "TPE34779",
                 "StopID": "34779",
                 "StopName": {
-                    "Zh_tw": "南港行政中心",
-                    "En": "Nangang Dist. Admin. Center"
+                    "Zh_tw": "南港行政中心(南港車站)",
+                    "En": "Nangang Dist. Admin. Center(Nangang Rail Sta.)"
                 },
                 "StopBoarding": -1,
                 "StopSequence": 39,
@@ -4794,8 +4794,8 @@
                 "StationID": "1000965"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10221",
@@ -5831,8 +5831,8 @@
                 "StationID": "1165604808"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10221",
@@ -6788,8 +6788,8 @@
                 "StationID": "30017"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10231",
@@ -6884,8 +6884,8 @@
                 "StopUID": "TPE10009",
                 "StopID": "10009",
                 "StopName": {
-                    "Zh_tw": "南港行政中心",
-                    "En": "Nangang Dist. Admin. Center"
+                    "Zh_tw": "南港行政中心(南港車站)",
+                    "En": "Nangang Dist. Admin. Center(Nangang Rail Sta.)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 6,
@@ -7361,8 +7361,8 @@
                 "StationID": "1165604811"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10231",
@@ -7889,8 +7889,8 @@
                 "StopUID": "TPE10133",
                 "StopID": "10133",
                 "StopName": {
-                    "Zh_tw": "南港行政中心",
-                    "En": "Nangang Dist. Admin. Center"
+                    "Zh_tw": "南港行政中心(南港車站)",
+                    "En": "Nangang Dist. Admin. Center(Nangang Rail Sta.)"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 33,
@@ -7982,8 +7982,8 @@
                 "StationID": "1646"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10232",
@@ -8443,8 +8443,8 @@
                 "StationID": "1484"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10232",
@@ -8904,8 +8904,8 @@
                 "StationID": "1606"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10241",
@@ -9493,8 +9493,8 @@
                 "StationID": "1697"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10241",
@@ -10050,8 +10050,8 @@
                 "StationID": "70886"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10251",
@@ -10719,8 +10719,8 @@
                 "StationID": "1449"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10251",
@@ -11372,8 +11372,8 @@
                 "StationID": "1000899"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10253",
@@ -11641,8 +11641,8 @@
                 "StationID": "993"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10253",
@@ -11974,8 +11974,8 @@
                 "StationID": "1001373"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10261",
@@ -12355,8 +12355,8 @@
                 "StationID": "219"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10261",
@@ -12784,8 +12784,8 @@
                 "StationID": "5988"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10262",
@@ -13437,8 +13437,8 @@
                 "StationID": "50687"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10262",
@@ -14186,8 +14186,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10263",
@@ -14874,8 +14874,8 @@
                 "StopUID": "TPE35313",
                 "StopID": "35313",
                 "StopName": {
-                    "Zh_tw": "明山宮一",
-                    "En": "Mingshan Temple"
+                    "Zh_tw": "永和里",
+                    "En": "YongheVillage"
                 },
                 "StopBoarding": -1,
                 "StopSequence": 43,
@@ -14999,8 +14999,8 @@
                 "StationID": "1001316"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10263",
@@ -15111,8 +15111,8 @@
                 "StopUID": "TPE202928",
                 "StopID": "202928",
                 "StopName": {
-                    "Zh_tw": "明山宮一",
-                    "En": "Mingshan Temple"
+                    "Zh_tw": "永和里",
+                    "En": "YongheVillage"
                 },
                 "StopBoarding": 0,
                 "StopSequence": 7,
@@ -15828,8 +15828,8 @@
                 "StationID": "4897"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10272",
@@ -16945,8 +16945,8 @@
                 "StationID": "9473"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10272",
@@ -17806,8 +17806,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10273",
@@ -18843,8 +18843,8 @@
                 "StationID": "673"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10273",
@@ -19656,8 +19656,8 @@
                 "StationID": "1000170"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10277",
@@ -19861,8 +19861,8 @@
                 "StationID": "1574"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     },
     {
         "RouteUID": "TPE10277",
@@ -20082,7 +20082,7 @@
                 "StationID": "1001262"
             }
         ],
-        "UpdateTime": "2026-05-24T09:32:58+08:00",
-        "VersionID": 7394
+        "UpdateTime": "2026-05-31T09:33:13+08:00",
+        "VersionID": 7435
     }
 ]
