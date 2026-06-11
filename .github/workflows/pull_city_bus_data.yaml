@@ -1,8 +1,8 @@
 name: Pull City Bus Data
 
 on:
-  schedule:
-    - cron: "0 3 * * 0" # weekly
+  #schedule:
+  #  - cron: "0 3 * * 0" # weekly
   workflow_dispatch:
 
 jobs:
