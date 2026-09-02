@@ -3,12 +3,29 @@ import * as tdx from "./tdx";
 import citiesData from "../data/cities";
 import { startServiceLogService } from "./logging_service";
 import log from "./logging_service";
+import { timingSafeEqual } from "node:crypto";
 import { dir } from "node:console";
+import cities from "../data/cities";
 
 // load envs
 const authkey = process.env.AUTH_KEY;
 const tdxClientId = process.env.TDX_CLIENT_ID;
 const tdxClientSecret = process.env.TDX_CLIENT_SECRET;
+
+// Bearer token 是秘密，用常數時間比較避免 timing attack。
+function bearerTokenMatches(headerValue: string | null): boolean {
+  if (!headerValue) {
+    return false;
+  }
+  const expected = `Bearer ${authkey}`;
+  const actual = Buffer.from(headerValue);
+  const expectedBuf = Buffer.from(expected);
+  if (actual.length !== expectedBuf.length) {
+    timingSafeEqual(actual, actual);
+    return false;
+  }
+  return timingSafeEqual(actual, expectedBuf);
+}
 
 // checks envs
 if (!authkey) {
@@ -34,7 +51,7 @@ startServiceLogService();
 
 // Main logic
 log("info", `Service started at port :${process.env.SERVICE_PORT || 4402}`);
-const enableLogTraffic = process.env.LOG_TRAFFIC || true;
+const enableLogTraffic = process.env.LOG_TRAFFIC !== "false";
 Bun.serve({
   port: process.env.SERVICE_PORT || 4402, // default port is 4402
   async fetch(req, server) {
@@ -49,7 +66,7 @@ Bun.serve({
       return new Response("This ktshia backend service works ^^");
     }
 
-    if (req.headers.get("Authorization") !== `Bearer ${authkey}`) {
+    if (!bearerTokenMatches(req.headers.get("Authorization"))) {
       return new Response(
         JSON.stringify({
           error: `The endpoint you are trying to access ${url.pathname} requires a bearer token. :(`,
@@ -71,6 +88,16 @@ Bun.serve({
 
     // bus paths
     if (url.pathname.startsWith("/api/bus/")) {
+      // city 一律是 path 的第四段，先對白名單驗證，避免塞進 TDX API URL
+      const citySegment = url.pathname.split("/")[4];
+      if (citySegment && !cities.includes(citySegment)) {
+        return Response.json(
+          {
+            error: `Invalid city. Valid cities: ${cities.join(", ")}`,
+          },
+          { status: 400 },
+        );
+      }
       if (url.pathname.startsWith("/api/bus/info/")) {
         const parts = url.pathname.split("/");
         if (parts.length !== 6) {
@@ -102,9 +129,31 @@ Bun.serve({
       }
       if (url.pathname.startsWith("/api/bus/current_status/")) {
         const direction = url.searchParams.get("direction");
+        // direction 會被放進 TDX API 的 $filter，必須是數字，否則拒絕
+        if (direction !== null && !/^[0-2]$/.test(direction)) {
+          return Response.json(
+            {
+              error: "Invalid direction. Use 0, 1 or 2",
+            },
+            { status: 400 },
+          );
+        }
         const parts = url.pathname.split("/");
         const [, , , , city, bus] = parts;
-        const location = await tdx.getCurrentLocation(city, bus, direction);
+        if (!(city && bus)) {
+          return Response.json(
+            {
+              error:
+                "Invalid URL format. Use /api/bus/current_status/{city}/{bus}",
+            },
+            { status: 400 },
+          );
+        }
+        const location = await tdx.getCurrentLocation(
+          city,
+          bus,
+          direction === null ? 0 : Number(direction),
+        );
         return Response.json(location);
       }
       if (url.pathname.startsWith("/api/bus/fare/")) {

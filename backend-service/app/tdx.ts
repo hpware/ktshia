@@ -1,5 +1,21 @@
 import { getCachedData, saveCacheData } from "./ram_caching_layer";
 import log from "./logging_service";
+import cities from "../data/cities";
+
+// city 來自使用者請求，直接塞進 URL path 會造成路徑注入，
+// 且白名單以外的值本來就查不到東西，直接擋掉。
+function encodeCity(city: string): string {
+  if (!cities.includes(city)) {
+    throw new Error(`Invalid city: ${city}`);
+  }
+  return encodeURIComponent(city);
+}
+
+// bus 會被放進 OData $filter 的單引號字串常數裡，必須編碼，
+// 否則攻擊者可以用單引號注入自己的 filter 條件。
+function encodeBus(bus: string): string {
+  return encodeURIComponent(bus);
+}
 
 const authkey = process.env.AUTH_KEY || "";
 const tdxClientId = process.env.TDX_CLIENT_ID || "";
@@ -57,9 +73,12 @@ export async function getBusRouteData(city: string, bus: string) {
     const cacheBusRouteData = getCachedData(
       `tdx_bus_route_data_${city}_${bus}`,
     );
+    if (!cacheBusRouteData.expired) {
+      return cacheBusRouteData.data;
+    }
     const token = await getToken(tdxClientId, tdxClientSecret);
     const response = await fetch(
-      `https://tdx.transportdata.tw/api/basic/v2/Bus/Route/City/${city}?%24filter=RouteName/En eq '${bus}'&%24format=JSON`,
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/Route/City/${encodeCity(city)}?%24filter=RouteName/En eq '${encodeBus(bus)}'&%24format=JSON`,
       {
         headers: {
           Authorization: `Bearer ${token}`,
@@ -67,7 +86,9 @@ export async function getBusRouteData(city: string, bus: string) {
       },
     );
     const data = (await response.json()) as any[];
-    saveCacheData(`tdx_bus_route_data_${city}_${bus}`, data[0], 3600 * 24); // 一天
+    if (data[0] !== undefined) {
+      saveCacheData(`tdx_bus_route_data_${city}_${bus}`, data[0], 3600 * 24); // 一天
+    }
     return data[0];
   } catch (e) {
     log("error", `getBusRouteData error: ${e}`);
@@ -106,7 +127,7 @@ export async function getNewsInfo(city: string) {
   }
   const token = await getToken(tdxClientId, tdxClientSecret);
   const req = await fetch(
-    `https://tdx.transportdata.tw/api/basic/v2/Bus/News/City/${city}?%24format=JSON`,
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/News/City/${encodeCity(city)}?%24format=JSON`,
     {
       headers: {
         Authorization: `Bearer ${token}`,
@@ -126,7 +147,7 @@ export async function getFareData(city: string, bus: string) {
     }
     const token = await getToken(tdxClientId, tdxClientSecret);
     const req = await fetch(
-      `https://tdx.transportdata.tw/api/basic/v2/Bus/RouteFare/City/${city}?%24filter=RouteID eq '${bus}'&%24format=JSON`,
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/RouteFare/City/${encodeCity(city)}?%24filter=RouteID eq '${encodeBus(bus)}'&%24format=JSON`,
       {
         headers: {
           Authorization: `Bearer ${token}`,
@@ -153,7 +174,7 @@ export async function getStops(city: string, bus: string, direction: number) {
     }
     const token = await getToken(tdxClientId, tdxClientSecret);
     const req = await fetch(
-      `https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${city}?%24filter=RouteName/En eq '${bus}' and Direction eq ${direction}&%24top=1&%24format=JSON`,
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${encodeCity(city)}?%24filter=RouteName/En eq '${encodeBus(bus)}' and Direction eq ${Number(direction)}&%24top=1&%24format=JSON`,
       {
         headers: {
           Authorization: `Bearer ${token}`,
@@ -202,7 +223,7 @@ export async function searchBuses(
     }
     const token = await getToken(tdxClientId, tdxClientSecret);
     const req = await fetch(
-      `https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${city}?%24filter=contains(RouteName/En,'${encodeURIComponent(query)}') and Direction eq 0&%24select=RouteName,RouteID&%24format=JSON`,
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/DisplayStopOfRoute/City/${encodeCity(city)}?%24filter=contains(RouteName/En,'${encodeURIComponent(query)}') and Direction eq 0&%24select=RouteName,RouteID&%24format=JSON`,
       {
         headers: {
           Authorization: `Bearer ${token}`,
@@ -235,7 +256,7 @@ export async function getCurrentLocation(
   try {
     const token = await getToken(tdxClientId, tdxClientSecret);
     const req = await fetch(
-      `https://tdx.transportdata.tw/api/basic/v2/Bus/EstimatedTimeOfArrival/City/${city}?%24select=StopID,EstimateTime,StopStatus,UpdateTime&%24filter=RouteName%2FEn%20eq%20%27${bus}%27%20and%20Direction%20eq%20%27${direction}%27&%24top=${top}&%24format=JSON`,
+      `https://tdx.transportdata.tw/api/basic/v2/Bus/EstimatedTimeOfArrival/City/${encodeCity(city)}?%24select=StopID,EstimateTime,StopStatus,UpdateTime&%24filter=RouteName%2FEn%20eq%20%27${encodeURIComponent(bus)}%27%20and%20Direction%20eq%20%27${Number(direction)}%27&%24top=${top}&%24format=JSON`,
       {
         headers: {
           Authorization: `Bearer ${token}`,
